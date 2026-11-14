@@ -14,16 +14,24 @@ bash scripts/instalar-pack.sh
 
 No Windows, rode o script pelo Git Bash.
 
-Depois, em dois terminais:
+## Usar
 
-```bash
-npm run dev   # prévia do vídeo no navegador
-claude        # peça o vídeo; os prompts estão em PROMPTS.md
-```
+Abra o Claude Code na pasta (ou uma sessão na nuvem neste repositório) e escreva o tema num parágrafo. O Claude segue sozinho: plano, pesquisa, roteiro, narração no ElevenLabs, cenas em código e render do MP4. As regras desse fluxo estão em `CLAUDE.md`.
+
+A narração precisa da variável de ambiente `ELEVENLABS_API_KEY`. A voz e o modelo ficam em `narracao.config.json`.
+
+| Comando | O que faz |
+| --- | --- |
+| `npm run dev` | Prévia no navegador |
+| `npm run narrar -- 1 --custo` | Mostra quantos caracteres o capítulo 1 vai gastar |
+| `npm run narrar -- 1` | Grava a narração do capítulo 1 (só as cenas que mudaram) |
+| `npm run roteiro -- 1` | Gera `roteiro/capitulo-1.md` com narração, fontes e pontos a conferir |
+| `npx remotion render capitulo-1 out/capitulo-1.mp4` | Gera o vídeo do capítulo |
+| `npm run juntar` | Junta os capítulos em `out/documentario.mp4` |
+
+Cada capítulo é um arquivo de dados em `src/capitulos/capitulo-N.json`: mudar o texto ou a ordem das cenas não exige mexer em código. Cores e fontes do documentário inteiro ficam em `src/estilo.ts`.
 
 Na primeira vez, o Claude Code pede para confiar na pasta e instala sozinho os plugins `lemo-opuscar` e `hyperframes`.
-
-Para conferir a instalação: `npm run teste` gera `out/teste.mp4`.
 
 ## O que vem no pack
 
@@ -47,4 +55,4 @@ A pasta `pack/` não entra no git: o script baixa e atualiza. Para instalar os 1
 - **Fatos**: revise cada `[CONFERIR]` do roteiro e as fronteiras do mapa.
 - **Licenças**: o Remotion é grátis para pessoa física e empresa de até 3 funcionários. O historical-basemaps é GPL-3.0. Cada repositório do pack tem a sua licença; o PDoomVideo e o opus-video-prompts não trazem arquivo de licença, então use como estudo.
 - **Material de terceiros**: mapa, música e imagem têm que ser seus, livres ou licenciados.
-- **Narração**: o Claude não gera voz. Grave a sua ou use um serviço de voz com IA.
+- **Narração**: é gerada no ElevenLabs. Leia os termos do seu plano sobre uso comercial e monetização.

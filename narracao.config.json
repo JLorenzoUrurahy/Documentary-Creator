@@ -1,0 +1,6 @@
+{
+  "voz": "dX7gRq1dIvLTgUaWpEFn",
+  "nomeDaVoz": "Rafael Valente - Brazilian Professional Narrator",
+  "modelo": "eleven_multilingual_v2",
+  "ajustes": { "stability": 0.5, "similarity_boost": 0.75, "style": 0.2, "use_speaker_boost": true }
+}

@@ -2,7 +2,17 @@
 
 Cole no Claude Code, um por vez, trocando o que está entre colchetes.
 
-## Documentário (do tema ao MP4)
+## Modo direto (recomendado)
+
+Escreva o tema num parágrafo, do seu jeito. O Claude faz o plano, pesquisa, escreve, narra com o ElevenLabs e entrega o MP4, capítulo por capítulo. Exemplo:
+
+```
+Quero um documentário grande sobre [TEMA], do início até hoje. Conte [O QUE NÃO PODE FALTAR]. Mostre os prós e contras de [ASSUNTO]. Uns [60] minutos.
+```
+
+Para continuar um documentário já começado: `Faça o próximo capítulo do plano.`
+
+## Passo a passo do guia original (se preferir aprovar cada etapa)
 
 ### 1. O tema e o plano
 

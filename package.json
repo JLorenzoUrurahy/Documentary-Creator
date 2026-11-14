@@ -9,10 +9,19 @@
   },
   "private": true,
   "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/oswald": "^5.3.0",
     "@remotion/cli": "4.0.543",
+    "@remotion/fonts": "^4.0.543",
+    "@remotion/media": "^4.0.543",
+    "@types/d3-geo": "^3.1.1",
+    "@types/topojson-client": "^3.1.5",
+    "d3-geo": "^3.1.2",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "remotion": "4.0.543"
+    "remotion": "4.0.543",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.543",
@@ -25,10 +34,12 @@
   "scripts": {
     "dev": "remotion studio",
     "build": "remotion bundle",
-    "teste": "remotion render teste out/teste.mp4",
     "pack": "bash scripts/instalar-pack.sh",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "narrar": "node scripts/narrar.mjs",
+    "roteiro": "node scripts/roteiro.mjs",
+    "juntar": "bash scripts/juntar.sh"
   },
   "allowScripts": {
     "esbuild": false

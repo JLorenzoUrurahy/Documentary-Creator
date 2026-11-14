@@ -1,37 +1,46 @@
 # Documentary Creator
 
-Projeto Remotion para gerar documentários de história com mapa animado, do tema ao MP4. Fale com o usuário em português do Brasil.
+Projeto Remotion que transforma um parágrafo do usuário em documentário narrado: pesquisa, roteiro, narração no ElevenLabs e vídeo em código. Fale com o usuário em português do Brasil.
 
 ## Antes de qualquer coisa
 
 Se `node_modules/` ou `pack/` não existirem (clone novo ou sessão nova na nuvem), rode `bash scripts/instalar-pack.sh`.
 
-## Fluxo (seguir nesta ordem, um capítulo por vez)
+## Modo de trabalho: do parágrafo ao MP4, sem parar para pedir aprovação
 
-1. **Plano**: capítulos, cenas e estilo visual. Esperar a aprovação do usuário antes de escrever código.
-2. **Roteiro**: pesquisar, listar fontes com link e salvar em `roteiro/capitulo-N.md`. Marcar com `[CONFERIR]` toda data ou número incerto. Não inventar fatos.
-3. **Cenas**: cada capítulo é uma `<Composition>` com id `capitulo-N`, registrada em `src/Composition.tsx`, com o código em `src/capitulos/`.
-4. **Narração**: áudio em `public/narracao-N.mp3`; a duração de cada cena acompanha a fala.
-5. **Render**: `npx remotion render capitulo-N out/capitulo-N.mp4`, um por vez; depois juntar em `out/documentario.mp4` com ffmpeg sem recodificar.
+O usuário dá o tema num parágrafo e espera o vídeo. Siga sozinho por todas as etapas e entregue o MP4. Pare só se faltar algo que apenas ele pode dar (chave, arquivo, decisão de gasto fora do normal).
 
-Os prompts prontos de cada etapa estão em `PROMPTS.md`.
+1. **Plano.** Se o tema for novo, escreva `roteiro/PLANO.md`: capítulos (6 a 10), o que cada um conta e o estilo visual. Se o plano já existe, siga a tabela dele e atualize a coluna "Situação".
+2. **Pesquisa.** Pesquise na internet cada capítulo antes de escrever. Não invente fatos. Onde as fontes divergem, a narração diz que divergem ou afirma só o que é seguro.
+3. **Capítulo em dados.** Escreva `src/capitulos/capitulo-N.json` no formato de `src/tipos.ts`: cenas com narração em português falado, frases curtas, e o visual de cada cena. Preencha `fontes` (com link) e `conferir` (toda data, número ou versão incerta). Registre o capítulo em `src/capitulos/index.ts` (crie antes um `capitulo-N.audio.json` com `{}`).
+4. **Rascunho.** `npm run lint`, depois quadros de teste com `npx remotion still capitulo-N <arquivo> --frame=<n> --scale=0.5` e confira o visual antes de gastar narração.
+5. **Narração.** `npm run narrar -- N`. Confira o gasto antes com `npm run narrar -- N --custo`. O script só grava de novo as cenas cujo texto mudou.
+6. **Roteiro.** `npm run roteiro -- N` gera `roteiro/capitulo-N.md`.
+7. **Render.** `npx remotion render capitulo-N out/capitulo-N.mp4`. Confira uma folha de quadros do resultado antes de entregar.
+8. **Juntar.** Com todos os capítulos prontos, `npm run juntar` cria `out/documentario.mp4` sem recodificar.
+9. **Entrega.** Envie o MP4 ao usuário, diga a duração, liste os pontos de `conferir` e faça commit e push (os MP3 da narração entram no git; `out/` não).
+
+## Como escrever um capítulo
+
+- Tipos de cena: `titulo`, `mapa`, `cartao`, `comparacao`, `perfil`, `linha`, `linhagem`, `citacao`. Varie: nunca mais de duas cenas seguidas do mesmo tipo.
+- Cada cena narrada tem de 60 a 110 palavras. Um capítulo tem de 9 a 14 cenas (5 a 7 minutos).
+- A segunda cena é sempre o `titulo` do capítulo, sem narração, com `duracao: 5`. A primeira é um gancho. A última puxa o capítulo seguinte.
+- `"quando": "trecho da narração"` faz o elemento entrar na hora em que o trecho é falado. Use em todo item, lugar, evento e nó. O trecho precisa existir na narração da cena, com as mesmas palavras.
+- Anos e palavras estrangeiras: `[1882|mil oitocentos e oitenta e dois]` e `[newaza|ne-uaza]` mostram a primeira forma na legenda e falam a segunda. Sempre escreva anos assim.
+- `comparacao` com `tom` `bom` e `ruim` serve para prós e contras.
+- `linhagem` com `incerto: true` desenha a ligação tracejada: use quando os historiadores contestam.
+- Para um visual que os tipos não cobrem, crie um tipo novo em `src/tipos.ts` e um componente em `src/motor/cenas/`, no mesmo estilo.
 
 ## Padrões
 
-- 1920x1080, 30 quadros por segundo (`FPS`, `LARGURA`, `ALTURA` em `src/Composition.tsx`).
-- Mapa desenhado em código, sem imagem de terceiros. Fronteiras: `pack/historical-basemaps/geojson/world_<ano>.geojson`, no ano mais próximo da cena. Copiar para `public/` ou `src/` só os arquivos usados. O autor avisa que é trabalho em andamento: conferir as fronteiras.
-- Contador de ano no canto, frase da narração como legenda embaixo, setas para exércitos, X para batalhas.
-- Quando o usuário aprovar o estilo, salvar em `ESTILO.md` e seguir nos capítulos seguintes.
-- Música e imagem só se o usuário fornecer o arquivo.
-- Rascunho em resolução baixa (`--scale 0.5`); 1080p só no render final.
+- 1920x1080, 30 quadros por segundo. Cores e fontes em `src/estilo.ts`: mudar ali muda o documentário inteiro.
+- Tudo desenhado em código, sem imagem de terceiros. Música e imagem só se o usuário fornecer o arquivo.
+- O contorno dos continentes vem do Natural Earth (domínio público). Para fronteiras históricas, use `pack/historical-basemaps/geojson/world_<ano>.geojson` (GPL-3.0, trabalho em andamento: conferir).
+- Voz e modelo do ElevenLabs em `narracao.config.json`. A chave vem da variável `ELEVENLABS_API_KEY`; nunca a escreva em arquivo.
+- As fontes ficam dentro do projeto (`@fontsource`); o render não depende de internet.
 
 ## O pack
 
 - **Skills** (`.claude/skills/`): Remotion oficial e, do motion-skills, mapa, explicativo, gráficos de dados e YouTube.
-- **Plugins** (`.claude/settings.json`): `lemo-opuscar` (66 estilos de cinema, `/lemo-opuscar:lemo-opuscar`) e `hyperframes` (HTML que vira MP4).
-- **Referências** em `pack/` (fora do git, só leitura):
-  - `ClaudeAnimationBase`: kit p5.js com o personagem Clawd; ler `ANIMATION_GUIDE.md`.
-  - `PDoomVideo` e `functional-emotions-video`: `STORYBOARD.md` e `ANIMATION_GUIDE.md` mostram como dividir um clipe em capítulos para subagentes em paralelo.
-  - `opus-video-prompts` e `awesome-opus5-5-videos`: prompts prontos para adaptar.
-  - `motion-skills`: índice dos 19 pacotes de skills.
-  - `historical-basemaps`: fronteiras históricas (GPL-3.0).
+- **Plugins** (`.claude/settings.json`): `lemo-opuscar` (66 estilos de cinema) e `hyperframes` (HTML que vira MP4).
+- **Referências** em `pack/` (fora do git, só leitura): `ClaudeAnimationBase`, `PDoomVideo`, `functional-emotions-video` (método de capítulos com subagentes em paralelo), `opus-video-prompts`, `awesome-opus5-5-videos`, `motion-skills`, `historical-basemaps`.
