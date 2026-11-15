@@ -16,6 +16,8 @@ import capitulo7 from "./capitulo-7.json";
 import audio7 from "./capitulo-7.audio.json";
 import capitulo8 from "./capitulo-8.json";
 import audio8 from "./capitulo-8.audio.json";
+import capitulo9 from "./capitulo-9.json";
+import audio9 from "./capitulo-9.audio.json";
 
 // Para cada capítulo novo: importar o .json e o .audio.json e somar à lista.
 // O .audio.json é criado por "npm run narrar -- N"; antes disso o vídeo usa
@@ -29,4 +31,5 @@ export const capitulos: PropsCapitulo[] = [
   { capitulo: capitulo6 as Capitulo, audio: audio6 as AudioCapitulo },
   { capitulo: capitulo7 as Capitulo, audio: audio7 as AudioCapitulo },
   { capitulo: capitulo8 as Capitulo, audio: audio8 as AudioCapitulo },
+  { capitulo: capitulo9 as Capitulo, audio: audio9 as AudioCapitulo },
 ];
