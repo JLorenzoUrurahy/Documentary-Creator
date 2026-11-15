@@ -73,3 +73,8 @@ Duração aproximada: 4 min 33 s.
 - [The Seeds of Mitsuyo Maeda (BJJ Heroes)](https://bjjheroes.com/?p=4290)
 - [As origens do judô brasileiro (Revista Brasileira de Educação Física e Esporte, SciELO)](https://www.scielo.br/j/rbefe/a/rsrMqNqf8TRqKZdHtRsbB4f/)
 - [Sobre a pesquisa de Robert Drysdale: Carlos Gracie e Maeda (BJJ Doc)](https://bjjdoc.com/?p=18025)
+
+## Créditos das fotos
+
+- Jigoro Kano: autor desconhecido, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_late_Mr._Kano.jpg)
+- Mitsuyo Maeda: published by 島津書房, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maeda_Mituyo.jpg)

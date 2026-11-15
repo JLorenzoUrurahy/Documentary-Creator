@@ -3,16 +3,46 @@
   "titulo": "Antes do Brasil",
   "subtitulo": "Do jujutsu dos samurais ao homem que cruzou o mundo lutando",
   "fontes": [
-    { "titulo": "Mitsuyo Maeda (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mitsuyo_Maeda" },
-    { "titulo": "Soshihiro Satake (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Soshihiro_Satake" },
-    { "titulo": "Brazilian jiu-jitsu (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu" },
-    { "titulo": "The Beginnings of Kodokan Judo, 1882-1938 (FightingArts)", "url": "https://fightingarts.com/the-beginnings-of-kodokan-judo-1882-1938/" },
-    { "titulo": "From martial art to Olympic sport (Federação Internacional de Judô)", "url": "https://www.ijf.org/history/from-martial-art-to-olympic-sport" },
-    { "titulo": "Founder of Kodokan Judo (Judo BC)", "url": "https://www.judobc.ca/history/founder-of-kodokan-judo/" },
-    { "titulo": "A brief history of Brazilian jiu-jitsu (Graciemag)", "url": "https://www.graciemag.com/?p=406" },
-    { "titulo": "The Seeds of Mitsuyo Maeda (BJJ Heroes)", "url": "https://bjjheroes.com/?p=4290" },
-    { "titulo": "As origens do judô brasileiro (Revista Brasileira de Educação Física e Esporte, SciELO)", "url": "https://www.scielo.br/j/rbefe/a/rsrMqNqf8TRqKZdHtRsbB4f/" },
-    { "titulo": "Sobre a pesquisa de Robert Drysdale: Carlos Gracie e Maeda (BJJ Doc)", "url": "https://bjjdoc.com/?p=18025" }
+    {
+      "titulo": "Mitsuyo Maeda (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mitsuyo_Maeda"
+    },
+    {
+      "titulo": "Soshihiro Satake (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Soshihiro_Satake"
+    },
+    {
+      "titulo": "Brazilian jiu-jitsu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu"
+    },
+    {
+      "titulo": "The Beginnings of Kodokan Judo, 1882-1938 (FightingArts)",
+      "url": "https://fightingarts.com/the-beginnings-of-kodokan-judo-1882-1938/"
+    },
+    {
+      "titulo": "From martial art to Olympic sport (Federação Internacional de Judô)",
+      "url": "https://www.ijf.org/history/from-martial-art-to-olympic-sport"
+    },
+    {
+      "titulo": "Founder of Kodokan Judo (Judo BC)",
+      "url": "https://www.judobc.ca/history/founder-of-kodokan-judo/"
+    },
+    {
+      "titulo": "A brief history of Brazilian jiu-jitsu (Graciemag)",
+      "url": "https://www.graciemag.com/?p=406"
+    },
+    {
+      "titulo": "The Seeds of Mitsuyo Maeda (BJJ Heroes)",
+      "url": "https://bjjheroes.com/?p=4290"
+    },
+    {
+      "titulo": "As origens do judô brasileiro (Revista Brasileira de Educação Física e Esporte, SciELO)",
+      "url": "https://www.scielo.br/j/rbefe/a/rsrMqNqf8TRqKZdHtRsbB4f/"
+    },
+    {
+      "titulo": "Sobre a pesquisa de Robert Drysdale: Carlos Gracie e Maeda (BJJ Doc)",
+      "url": "https://bjjdoc.com/?p=18025"
+    }
   ],
   "conferir": [
     "Ano em que Maeda entrou no Kodokan: usei 'por volta de 1897'.",
@@ -28,16 +58,74 @@
       "tipo": "mapa",
       "ano": 2026,
       "narracao": "Hoje, o jiu-jitsu brasileiro está em academias do mundo inteiro. Tem campeonato de kimono, campeonato sem kimono, e torneio pagando um milhão de dólares ao campeão. Mas essa história não começa no Brasil. Ela começa do outro lado do planeta. No Japão, no fim do século dezenove.",
-      "vista": { "lon": -20, "lat": 15, "escala": 1.05 },
-      "ate": { "lon": 138, "lat": 36, "escala": 2.6 },
+      "vista": {
+        "lon": -20,
+        "lat": 15,
+        "escala": 1.05
+      },
+      "ate": {
+        "lon": 138,
+        "lat": 36,
+        "escala": 2.6
+      },
       "lugares": [
-        { "nome": "Rio de Janeiro", "coord": [-43.2, -22.9], "quando": "jiu-jitsu brasileiro" },
-        { "nome": "Los Angeles", "coord": [-118.2, 34.05], "quando": "academias do mundo" },
-        { "nome": "Londres", "coord": [-0.1, 51.5], "quando": "mundo inteiro" },
-        { "nome": "Abu Dhabi", "coord": [54.4, 24.45], "quando": "Tem campeonato" },
-        { "nome": "Sydney", "coord": [151.2, -33.9], "quando": "sem kimono" },
-        { "nome": "Las Vegas", "coord": [-115.1, 36.2], "quando": "um milhão" },
-        { "nome": "Japão", "coord": [139.7, 35.7], "quando": "No Japão", "destaque": true }
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "jiu-jitsu brasileiro"
+        },
+        {
+          "nome": "Los Angeles",
+          "coord": [
+            -118.2,
+            34.05
+          ],
+          "quando": "academias do mundo"
+        },
+        {
+          "nome": "Londres",
+          "coord": [
+            -0.1,
+            51.5
+          ],
+          "quando": "mundo inteiro"
+        },
+        {
+          "nome": "Abu Dhabi",
+          "coord": [
+            54.4,
+            24.45
+          ],
+          "quando": "Tem campeonato"
+        },
+        {
+          "nome": "Sydney",
+          "coord": [
+            151.2,
+            -33.9
+          ],
+          "quando": "sem kimono"
+        },
+        {
+          "nome": "Las Vegas",
+          "coord": [
+            -115.1,
+            36.2
+          ],
+          "quando": "um milhão"
+        },
+        {
+          "nome": "Japão",
+          "coord": [
+            139.7,
+            35.7
+          ],
+          "quando": "No Japão",
+          "destaque": true
+        }
       ]
     },
     {
@@ -57,10 +145,22 @@
       "destaque": "柔術",
       "narracao": "Durante séculos, os samurais treinaram formas de luta corpo a corpo para o campo de batalha. Projeções, chaves, estrangulamentos. Cada escola tinha o seu nome e os seus segredos. O conjunto ficou conhecido como jujutsu: a arte suave. Em [1868|mil oitocentos e sessenta e oito], o Japão se abre e começa a se modernizar. Os samurais perdem o seu lugar. E as velhas escolas de jujutsu começam a desaparecer.",
       "itens": [
-        { "texto": "Luta corpo a corpo dos samurais", "quando": "os samurais treinaram" },
-        { "texto": "Projeções, chaves e estrangulamentos", "quando": "Projeções, chaves" },
-        { "texto": "Centenas de escolas, cada uma com seus segredos", "quando": "Cada escola" },
-        { "texto": "1868: o Japão se moderniza e as escolas entram em declínio", "quando": "o Japão se abre" }
+        {
+          "texto": "Luta corpo a corpo dos samurais",
+          "quando": "os samurais treinaram"
+        },
+        {
+          "texto": "Projeções, chaves e estrangulamentos",
+          "quando": "Projeções, chaves"
+        },
+        {
+          "texto": "Centenas de escolas, cada uma com seus segredos",
+          "quando": "Cada escola"
+        },
+        {
+          "texto": "1868: o Japão se moderniza e as escolas entram em declínio",
+          "quando": "o Japão se abre"
+        }
       ]
     },
     {
@@ -72,11 +172,24 @@
       "anos": "1860 – 1938",
       "narracao": "É aí que aparece um jovem professor chamado Jigoro Kano. Ele era franzino, e estudou jujutsu para aprender a se defender. Em [1882|mil oitocentos e oitenta e dois], com vinte e um anos, Kano abre a sua própria escola em Tóquio, dentro de um templo budista. Eram só doze tatames, e nove alunos no primeiro ano. Ele chama a escola de Kodokan. E chama o seu método de judô: o caminho suave.",
       "fatos": [
-        { "texto": "Estudou jujutsu para aprender a se defender", "quando": "estudou jujutsu" },
-        { "texto": "1882: abre a escola num templo budista de Tóquio", "quando": "Kano abre" },
-        { "texto": "12 tatames e 9 alunos no primeiro ano", "quando": "doze tatames" },
-        { "texto": "A escola é o Kodokan. O método, o judô", "quando": "Ele chama a escola" }
-      ]
+        {
+          "texto": "Estudou jujutsu para aprender a se defender",
+          "quando": "estudou jujutsu"
+        },
+        {
+          "texto": "1882: abre a escola num templo budista de Tóquio",
+          "quando": "Kano abre"
+        },
+        {
+          "texto": "12 tatames e 9 alunos no primeiro ano",
+          "quando": "doze tatames"
+        },
+        {
+          "texto": "A escola é o Kodokan. O método, o judô",
+          "quando": "Ele chama a escola"
+        }
+      ],
+      "wiki": "Jigoro_Kano"
     },
     {
       "id": "c05-randori",
@@ -88,18 +201,36 @@
         "titulo": "Escolas antigas",
         "tom": "ruim",
         "itens": [
-          { "texto": "Sequências combinadas, repetidas com um parceiro", "quando": "só repetir" },
-          { "texto": "Golpes perigosos demais para treinar a sério", "quando": "sem machucar" },
-          { "texto": "Pouco teste contra resistência", "quando": "Quem testa" }
+          {
+            "texto": "Sequências combinadas, repetidas com um parceiro",
+            "quando": "só repetir"
+          },
+          {
+            "texto": "Golpes perigosos demais para treinar a sério",
+            "quando": "sem machucar"
+          },
+          {
+            "texto": "Pouco teste contra resistência",
+            "quando": "Quem testa"
+          }
         ]
       },
       "direita": {
         "titulo": "Judô Kodokan",
         "tom": "bom",
         "itens": [
-          { "texto": "Luta de verdade todos os dias", "quando": "lutavam de verdade" },
-          { "texto": "Só técnicas que dá para aplicar com força total", "quando": "força total" },
-          { "texto": "Randori: o treino livre", "quando": "Esse treino livre" }
+          {
+            "texto": "Luta de verdade todos os dias",
+            "quando": "lutavam de verdade"
+          },
+          {
+            "texto": "Só técnicas que dá para aplicar com força total",
+            "quando": "força total"
+          },
+          {
+            "texto": "Randori: o treino livre",
+            "quando": "Esse treino livre"
+          }
         ]
       }
     },
@@ -112,10 +243,22 @@
       "destaque": "寝技",
       "narracao": "Mas o judô do começo era forte em pé e mais fraco no chão. Segundo os relatos da época, por volta de [1900|mil e novecentos], lutadores de uma escola pequena, a [Fusen-ryu|Fussen riú], do mestre Mataemon Tanabe, levaram os judocas para o solo e venceram ali. Kano não ignorou a derrota. Ele trouxe a luta de chão para dentro do Kodokan. Em japonês, [newaza|ne-uaza]: a técnica deitada.",
       "itens": [
-        { "texto": "Judô do início: forte em pé, fraco no chão", "quando": "forte em pé" },
-        { "texto": "A escola Fusen-ryu, de Mataemon Tanabe, vence no solo", "quando": "lutadores de uma escola" },
-        { "texto": "Kano leva a luta de chão para o Kodokan", "quando": "Ele trouxe" },
-        { "texto": "Newaza: a técnica deitada", "quando": "Em japonês" }
+        {
+          "texto": "Judô do início: forte em pé, fraco no chão",
+          "quando": "forte em pé"
+        },
+        {
+          "texto": "A escola Fusen-ryu, de Mataemon Tanabe, vence no solo",
+          "quando": "lutadores de uma escola"
+        },
+        {
+          "texto": "Kano leva a luta de chão para o Kodokan",
+          "quando": "Ele trouxe"
+        },
+        {
+          "texto": "Newaza: a técnica deitada",
+          "quando": "Em japonês"
+        }
       ]
     },
     {
@@ -127,11 +270,24 @@
       "anos": "1878 – 1941",
       "narracao": "Entre os alunos do Kodokan estava um rapaz forte do norte do Japão: Mitsuyo Maeda. Ele nasceu em [1878|mil oitocentos e setenta e oito], lutou sumô na adolescência e entrou no Kodokan por volta de [1897|mil oitocentos e noventa e sete]. Em poucos anos, virou um dos melhores da escola.",
       "fatos": [
-        { "texto": "Nasce em 1878, no norte do Japão", "quando": "Ele nasceu" },
-        { "texto": "Luta sumô na adolescência", "quando": "lutou sumô" },
-        { "texto": "Entra no Kodokan por volta de 1897", "quando": "entrou no Kodokan" },
-        { "texto": "Vira um dos melhores da escola", "quando": "Em poucos anos" }
-      ]
+        {
+          "texto": "Nasce em 1878, no norte do Japão",
+          "quando": "Ele nasceu"
+        },
+        {
+          "texto": "Luta sumô na adolescência",
+          "quando": "lutou sumô"
+        },
+        {
+          "texto": "Entra no Kodokan por volta de 1897",
+          "quando": "entrou no Kodokan"
+        },
+        {
+          "texto": "Vira um dos melhores da escola",
+          "quando": "Em poucos anos"
+        }
+      ],
+      "wiki": "Mitsuyo_Maeda"
     },
     {
       "id": "c08-viagem",
@@ -139,23 +295,114 @@
       "ano": 1904,
       "titulo": "A viagem de Maeda",
       "narracao": "Em [1904|mil novecentos e quatro], Maeda embarca para os Estados Unidos com o professor Tsunejiro Tomita, para demonstrar o judô. Ele nunca mais voltaria a morar no Japão. Para se sustentar, Maeda aceita desafios pagos contra boxeadores, lutadores de wrestling e qualquer um que subisse no ringue. Ele luta nos Estados Unidos, na Inglaterra, na Bélgica e na Espanha. Depois em Cuba, no México e na América Central. Na Espanha, ganha o apelido que o acompanharia para sempre: Conde Koma.",
-      "vista": { "lon": -55, "lat": 28, "escala": 1.12 },
-      "ate": { "lon": -45, "lat": 30, "escala": 1.45 },
+      "vista": {
+        "lon": -55,
+        "lat": 28,
+        "escala": 1.12
+      },
+      "ate": {
+        "lon": -45,
+        "lat": 30,
+        "escala": 1.45
+      },
       "rotas": [
         {
-          "pontos": [[139.7, 35.7], [-74, 40.7], [-0.1, 51.5], [4.4, 50.85], [-3.7, 40.4], [-82.4, 23.1], [-99.1, 19.4], [-79.5, 9]],
+          "pontos": [
+            [
+              139.7,
+              35.7
+            ],
+            [
+              -74,
+              40.7
+            ],
+            [
+              -0.1,
+              51.5
+            ],
+            [
+              4.4,
+              50.85
+            ],
+            [
+              -3.7,
+              40.4
+            ],
+            [
+              -82.4,
+              23.1
+            ],
+            [
+              -99.1,
+              19.4
+            ],
+            [
+              -79.5,
+              9
+            ]
+          ],
           "quando": "Maeda embarca",
           "ate": "na América Central"
         }
       ],
       "lugares": [
-        { "nome": "Tóquio", "coord": [139.7, 35.7], "quando": "Em 1904" },
-        { "nome": "Estados Unidos", "coord": [-74, 40.7], "quando": "para os Estados Unidos" },
-        { "nome": "Inglaterra", "coord": [-0.1, 51.5], "quando": "na Inglaterra" },
-        { "nome": "Espanha", "coord": [-3.7, 40.4], "quando": "na Espanha" },
-        { "nome": "Cuba", "coord": [-82.4, 23.1], "quando": "Depois em Cuba" },
-        { "nome": "México", "coord": [-99.1, 19.4], "quando": "no México" },
-        { "nome": "Conde Koma", "coord": [-3.7, 40.4], "quando": "Conde Koma", "destaque": true }
+        {
+          "nome": "Tóquio",
+          "coord": [
+            139.7,
+            35.7
+          ],
+          "quando": "Em 1904"
+        },
+        {
+          "nome": "Estados Unidos",
+          "coord": [
+            -74,
+            40.7
+          ],
+          "quando": "para os Estados Unidos"
+        },
+        {
+          "nome": "Inglaterra",
+          "coord": [
+            -0.1,
+            51.5
+          ],
+          "quando": "na Inglaterra"
+        },
+        {
+          "nome": "Espanha",
+          "coord": [
+            -3.7,
+            40.4
+          ],
+          "quando": "na Espanha"
+        },
+        {
+          "nome": "Cuba",
+          "coord": [
+            -82.4,
+            23.1
+          ],
+          "quando": "Depois em Cuba"
+        },
+        {
+          "nome": "México",
+          "coord": [
+            -99.1,
+            19.4
+          ],
+          "quando": "no México"
+        },
+        {
+          "nome": "Conde Koma",
+          "coord": [
+            -3.7,
+            40.4
+          ],
+          "quando": "Conde Koma",
+          "destaque": true
+        }
       ]
     },
     {
@@ -166,10 +413,22 @@
       "titulo": "Judô adaptado para a luta real",
       "narracao": "Essas lutas ensinam uma coisa a Maeda. Contra um homem maior, que soca e que não veste kimono, o caminho mais seguro é encurtar a distância, derrubar e resolver no chão. É judô, mas adaptado para a luta real. Décadas antes de a palavra existir, aquilo já tinha cara de vale-tudo.",
       "itens": [
-        { "texto": "Adversários maiores, que socam e não vestem kimono", "quando": "Contra um homem" },
-        { "texto": "Encurtar a distância", "quando": "encurtar a distância" },
-        { "texto": "Derrubar", "quando": "derrubar" },
-        { "texto": "Resolver no chão", "quando": "resolver no chão" }
+        {
+          "texto": "Adversários maiores, que socam e não vestem kimono",
+          "quando": "Contra um homem"
+        },
+        {
+          "texto": "Encurtar a distância",
+          "quando": "encurtar a distância"
+        },
+        {
+          "texto": "Derrubar",
+          "quando": "derrubar"
+        },
+        {
+          "texto": "Resolver no chão",
+          "quando": "resolver no chão"
+        }
       ]
     },
     {
@@ -178,20 +437,94 @@
       "ano": 1914,
       "titulo": "A chegada ao Brasil",
       "narracao": "Em [1914|mil novecentos e catorze], depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em dezembro de [1915|mil novecentos e quinze], eles se apresentam em Belém do Pará, no Teatro Politeama. Satake fica em Manaus. Maeda ainda viaja, e volta para Belém por volta de [1917|mil novecentos e dezessete]. Dessa vez, para ficar.",
-      "vista": { "lon": -62, "lat": -14, "escala": 2.3 },
-      "ate": { "lon": -54, "lat": -8, "escala": 3.4 },
+      "vista": {
+        "lon": -62,
+        "lat": -14,
+        "escala": 2.3
+      },
+      "ate": {
+        "lon": -54,
+        "lat": -8,
+        "escala": 3.4
+      },
       "rotas": [
         {
-          "pontos": [[-79.5, 9], [-77, -12], [-70.7, -33.4], [-58.4, -34.6], [-51.2, -30], [-46.6, -23.5], [-43.2, -22.9], [-38.5, -12.9], [-48.5, -1.45]],
+          "pontos": [
+            [
+              -79.5,
+              9
+            ],
+            [
+              -77,
+              -12
+            ],
+            [
+              -70.7,
+              -33.4
+            ],
+            [
+              -58.4,
+              -34.6
+            ],
+            [
+              -51.2,
+              -30
+            ],
+            [
+              -46.6,
+              -23.5
+            ],
+            [
+              -43.2,
+              -22.9
+            ],
+            [
+              -38.5,
+              -12.9
+            ],
+            [
+              -48.5,
+              -1.45
+            ]
+          ],
           "quando": "depois de descer",
           "ate": "eles se apresentam"
         }
       ],
       "lugares": [
-        { "nome": "Porto Alegre", "coord": [-51.2, -30], "quando": "Maeda chega ao Brasil" },
-        { "nome": "São Paulo", "coord": [-46.6, -23.5], "quando": "primeiro o sul" },
-        { "nome": "Manaus", "coord": [-60, -3.1], "quando": "Satake fica" },
-        { "nome": "Belém", "coord": [-48.5, -1.45], "quando": "em Belém do Pará", "destaque": true }
+        {
+          "nome": "Porto Alegre",
+          "coord": [
+            -51.2,
+            -30
+          ],
+          "quando": "Maeda chega ao Brasil"
+        },
+        {
+          "nome": "São Paulo",
+          "coord": [
+            -46.6,
+            -23.5
+          ],
+          "quando": "primeiro o sul"
+        },
+        {
+          "nome": "Manaus",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "Satake fica"
+        },
+        {
+          "nome": "Belém",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "em Belém do Pará",
+          "destaque": true
+        }
       ]
     },
     {
@@ -201,10 +534,34 @@
       "titulo": "Belém do Pará, 1917",
       "narracao": "Belém vivia o fim do ciclo da borracha. Ainda era uma cidade rica, cheia de estrangeiros, circos e teatros. Maeda ensina, luta e, mais tarde, ajuda imigrantes japoneses a se instalarem na Amazônia. Entre as pessoas do seu círculo está um empresário chamado Gastão Gracie. E Gastão tem um filho adolescente, inquieto e brigão, chamado Carlos. A história oficial diz que Carlos foi aluno direto de Maeda. Historiadores mais recentes discordam. Quem tem razão? É o que a gente vai ver no próximo capítulo.",
       "nos": [
-        { "id": "kano", "nome": "Jigoro Kano", "sub": "Kodokan, Tóquio", "quando": "Belém vivia" },
-        { "id": "maeda", "nome": "Mitsuyo Maeda", "sub": "Conde Koma, Belém", "pai": "kano", "quando": "Maeda ensina" },
-        { "id": "alunos", "nome": "Alunos de Belém", "sub": "os primeiros brasileiros", "pai": "maeda", "quando": "Entre as pessoas" },
-        { "id": "carlos", "nome": "Carlos Gracie", "sub": "aluno direto de Maeda?", "pai": "maeda", "quando": "chamado Carlos", "incerto": true }
+        {
+          "id": "kano",
+          "nome": "Jigoro Kano",
+          "sub": "Kodokan, Tóquio",
+          "quando": "Belém vivia"
+        },
+        {
+          "id": "maeda",
+          "nome": "Mitsuyo Maeda",
+          "sub": "Conde Koma, Belém",
+          "pai": "kano",
+          "quando": "Maeda ensina"
+        },
+        {
+          "id": "alunos",
+          "nome": "Alunos de Belém",
+          "sub": "os primeiros brasileiros",
+          "pai": "maeda",
+          "quando": "Entre as pessoas"
+        },
+        {
+          "id": "carlos",
+          "nome": "Carlos Gracie",
+          "sub": "aluno direto de Maeda?",
+          "pai": "maeda",
+          "quando": "chamado Carlos",
+          "incerto": true
+        }
       ]
     }
   ]

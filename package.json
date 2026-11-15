@@ -39,7 +39,8 @@
     "lint": "eslint src && tsc",
     "narrar": "node scripts/narrar.mjs",
     "roteiro": "node scripts/roteiro.mjs",
-    "juntar": "bash scripts/juntar.sh"
+    "juntar": "bash scripts/juntar.sh",
+    "fotos": "node scripts/fotos.mjs"
   },
   "allowScripts": {
     "esbuild": false

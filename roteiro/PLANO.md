@@ -1,6 +1,6 @@
 # Jiu-jitsu brasileiro: a história completa
 
-Documentário em 10 capítulos, cerca de 60 minutos. Narração em português do Brasil, voz do ElevenLabs.
+Documentário em 10 partes, cerca de 4 horas e meia: uma abertura curta e 9 capítulos de 30 minutos. Narração em português do Brasil, voz do ElevenLabs.
 
 Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os encontros com a luta livre, o vale-tudo, o wrestling e o no-gi; as evoluções técnicas com prós e contras; as confederações; os campeonatos que importavam antes e os que importam hoje.
 
@@ -8,16 +8,18 @@ Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os en
 
 | Nº | Título | Período | Minutos | Situação |
 | --- | --- | --- | --- | --- |
-| 1 | Antes do Brasil | 1868 – 1917 | 4,5 | pronto |
-| 2 | Belém e os Gracie | 1917 – 1930 | 6 | a fazer |
-| 3 | A era dos desafios | 1930 – 1955 | 7 | a fazer |
-| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 6 | a fazer |
-| 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 6 | a fazer |
-| 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 7 | a fazer |
-| 7 | Nasce o esporte organizado | 1967 – 2007 | 6 | a fazer |
-| 8 | ADCC e o encontro com o wrestling | 1998 – 2011 | 6 | a fazer |
-| 9 | A evolução da técnica | 1990 – hoje | 7 | a fazer |
-| 10 | A era profissional e o no-gi | 2012 – hoje | 6 | a fazer |
+| 1 | Antes do Brasil (abertura) | 1868 – 1917 | 4,5 | pronto |
+| 2 | Belém e os Gracie | 1915 – 1937 | 30 | em produção |
+| 3 | A era dos desafios | 1930 – 1955 | 30 | a fazer |
+| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 30 | a fazer |
+| 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 30 | a fazer |
+| 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 30 | a fazer |
+| 7 | Nasce o esporte organizado | 1967 – 2007 | 30 | a fazer |
+| 8 | ADCC e o encontro com o wrestling | 1998 – 2011 | 30 | a fazer |
+| 9 | A evolução da técnica | 1990 – hoje | 30 | a fazer |
+| 10 | A era profissional e o no-gi | 2012 – hoje | 30 | a fazer |
+
+Cada capítulo de 30 minutos tem 4 blocos de 7 a 8 minutos (12 a 13 cenas cada), cerca de 4.200 palavras de narração.
 
 ## O que cada capítulo conta
 
@@ -36,7 +38,8 @@ Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os en
 
 - Fundo "tatame à noite": quase preto, com grade discreta. Texto bege, destaques em vermelho de faixa e dourado.
 - Títulos em Oswald, texto em Inter.
-- Tudo desenhado em código: mapas, linhas do tempo, árvores de linhagem, perfis, comparações de prós e contras, citações. Nenhuma foto ou imagem de terceiros.
+- Tudo desenhado em código: mapas, linhas do tempo, árvores de linhagem, perfis, comparações de prós e contras, citações.
+- Fotos das pessoas só de uso livre (domínio público ou Creative Commons), buscadas na Wikimedia Commons, em preto e branco e com crédito na tela. Sem foto livre, o perfil mostra as iniciais.
 - Ano no canto superior direito, legenda sincronizada com a fala embaixo, barra de progresso do capítulo.
 - Ligações históricas contestadas aparecem tracejadas e com ponto de interrogação.
 

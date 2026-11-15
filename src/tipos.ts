@@ -56,6 +56,10 @@ export type CenaPerfil = Base & {
   anos?: string;
   papel?: string;
   fatos?: Item[];
+  // Título do artigo da pessoa na Wikipedia (ex.: "Hélio_Gracie"), usado por
+  // scripts/fotos.mjs para buscar uma foto de uso livre. Sem foto livre, a
+  // cena mostra as iniciais.
+  wiki?: string;
 };
 
 export type CenaLinha = Base & {

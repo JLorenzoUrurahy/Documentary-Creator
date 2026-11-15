@@ -1,5 +1,6 @@
 import React from "react";
-import { AbsoluteFill, interpolate } from "remotion";
+import { AbsoluteFill, Img, interpolate, staticFile } from "remotion";
+import indiceDeFotos from "../../fotos.json";
 import {
   ALTURA,
   BASE_CONTEUDO,
@@ -312,6 +313,9 @@ export const Comparacao: React.FC<{ cena: CenaComparacao; ritmo: Ritmo }> = ({
   </AbsoluteFill>
 );
 
+type Foto = { arquivo: string; autor: string; licenca: string };
+const fotos = indiceDeFotos as Record<string, Foto>;
+
 export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
   cena,
   ritmo,
@@ -325,6 +329,7 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
   const raio = 190;
   const volta = 2 * Math.PI * raio;
   const p = surgir(ritmo, 8);
+  const foto = cena.wiki ? fotos[cena.wiki] : undefined;
   return (
     <AbsoluteFill>
       <div
@@ -336,32 +341,73 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
           gap: 100,
         }}
       >
-        <svg width={440} height={440} style={{ flexShrink: 0 }}>
-          <circle cx={220} cy={220} r={raio} fill={COR.painel} />
-          <circle
-            cx={220}
-            cy={220}
-            r={raio}
-            fill="none"
-            stroke={COR.dourado}
-            strokeWidth={8}
-            strokeDasharray={volta}
-            strokeDashoffset={volta * (1 - anel)}
-            transform="rotate(-90 220 220)"
-          />
-          <text
-            x={220}
-            y={270}
-            textAnchor="middle"
-            fontFamily={FONTE_TITULO}
-            fontWeight={700}
-            fontSize={150}
-            fill={COR.texto}
-            opacity={p}
-          >
-            {iniciais}
-          </text>
-        </svg>
+        <div style={{ width: 440, flexShrink: 0 }}>
+          <div style={{ position: "relative", width: 440, height: 440 }}>
+            {foto ? (
+              <Img
+                src={staticFile(foto.arquivo)}
+                style={{
+                  position: "absolute",
+                  left: 30,
+                  top: 30,
+                  width: 380,
+                  height: 380,
+                  borderRadius: 190,
+                  objectFit: "cover",
+                  objectPosition: "50% 20%",
+                  // Preto e branco para todas as fotos terem a mesma cara.
+                  filter: "grayscale(1) contrast(1.08)",
+                  opacity: p,
+                }}
+              />
+            ) : null}
+            <svg width={440} height={440} style={{ position: "absolute" }}>
+              {foto ? null : (
+                <circle cx={220} cy={220} r={raio} fill={COR.painel} />
+              )}
+              <circle
+                cx={220}
+                cy={220}
+                r={raio}
+                fill="none"
+                stroke={COR.dourado}
+                strokeWidth={8}
+                strokeDasharray={volta}
+                strokeDashoffset={volta * (1 - anel)}
+                transform="rotate(-90 220 220)"
+              />
+              {foto ? null : (
+                <text
+                  x={220}
+                  y={270}
+                  textAnchor="middle"
+                  fontFamily={FONTE_TITULO}
+                  fontWeight={700}
+                  fontSize={150}
+                  fill={COR.texto}
+                  opacity={p}
+                >
+                  {iniciais}
+                </text>
+              )}
+            </svg>
+          </div>
+          {foto ? (
+            <div
+              style={{
+                fontFamily: FONTE_TEXTO,
+                fontSize: 18,
+                lineHeight: 1.3,
+                color: COR.suave,
+                textAlign: "center",
+                marginTop: 10,
+                opacity: p * 0.8,
+              }}
+            >
+              Foto: {foto.autor.slice(0, 60)} · {foto.licenca} · Wikimedia Commons
+            </div>
+          ) : null}
+        </div>
         <div style={{ flex: 1 }}>
           {cena.papel ? (
             <div style={{ opacity: surgir(ritmo, 0), marginBottom: 16 }}>

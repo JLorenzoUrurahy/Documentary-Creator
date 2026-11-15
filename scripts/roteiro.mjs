@@ -55,6 +55,18 @@ for (const fonte of capitulo.fontes ?? []) {
   linhas.push(`- [${fonte.titulo}](${fonte.url})`);
 }
 
+const arquivoFotos = join(raiz, "src/fotos.json");
+const fotos = existsSync(arquivoFotos) ? JSON.parse(readFileSync(arquivoFotos, "utf8")) : {};
+const comFoto = capitulo.cenas.filter((cena) => cena.wiki && fotos[cena.wiki]);
+if (comFoto.length > 0) {
+  // As licenças Creative Commons exigem o crédito: copie esta lista na descrição do vídeo.
+  linhas.push("", "## Créditos das fotos", "");
+  for (const cena of comFoto) {
+    const foto = fotos[cena.wiki];
+    linhas.push(`- ${cena.nome}: ${foto.autor}, ${foto.licenca}, [Wikimedia Commons](${foto.pagina})`);
+  }
+}
+
 mkdirSync(join(raiz, "roteiro"), { recursive: true });
 const destino = join(raiz, "roteiro", `capitulo-${numero}.md`);
 writeFileSync(destino, linhas.join("\n") + "\n");
