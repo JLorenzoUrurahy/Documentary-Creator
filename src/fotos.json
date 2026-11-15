@@ -10,5 +10,23 @@
   "autor": "published by 島津書房",
   "licenca": "domínio público",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maeda_Mituyo.jpg"
+ },
+ "Carlos_Gracie": {
+  "arquivo": "fotos/carlos-gracie.jpg",
+  "autor": "autor desconhecido",
+  "licenca": "domínio público",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Carlos_Gracie_(1951)_(cropped).tif"
+ },
+ "Hélio_Gracie": {
+  "arquivo": "fotos/helio-gracie.jpg",
+  "autor": "Helio Gracie",
+  "licenca": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Helio_Gracie.jpg"
+ },
+ "Oswaldo_Fadda": {
+  "arquivo": "fotos/oswaldo-fadda.jpg",
+  "autor": "Granduque1953",
+  "licenca": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Osvaldo_Fadda.jpg"
  }
 }

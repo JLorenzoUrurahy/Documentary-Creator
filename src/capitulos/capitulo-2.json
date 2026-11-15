@@ -1,0 +1,2412 @@
+{
+  "numero": 2,
+  "titulo": "Belém e os Gracie",
+  "subtitulo": "Como o judô de um japonês virou o jiu-jitsu de uma família brasileira",
+  "fontes": [
+    {
+      "titulo": "José Cairus, Modernization, nationalism and the elite: the genesis of Brazilian jiu-jitsu, 1905-1920 (Tempo e Argumento, UDESC)",
+      "url": "https://revistas.udesc.br/index.php/tempo/article/download/2315/1910"
+    },
+    {
+      "titulo": "Mitsuyo Maeda (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Mitsuyo_Maeda"
+    },
+    {
+      "titulo": "Mitsuyo Maeda (Wikipédia, português)",
+      "url": "https://pt.wikipedia.org/wiki/Mitsuyo_Maeda"
+    },
+    {
+      "titulo": "Soshihiro Satake (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Soshihiro_Satake"
+    },
+    {
+      "titulo": "Jacyntho Ferro (Simon BJJ, com base no jornal Estado do Pará)",
+      "url": "https://simonbjj.com/ferro"
+    },
+    {
+      "titulo": "The Sumo wrestler who taught BJJ, Soshihiro Satake (Simon BJJ)",
+      "url": "https://simonbjj.com/satake"
+    },
+    {
+      "titulo": "Desenvolvimento da Amazônia: 100 anos de imigração japonesa no Brasil (Biblioteca Nacional da Dieta do Japão)",
+      "url": "https://www.ndl.go.jp/brasil/pt/s4/s4_2.html"
+    },
+    {
+      "titulo": "The Seeds of Mitsuyo Maeda (BJJ Heroes)",
+      "url": "https://www.bjjheroes.com/?p=4290"
+    },
+    {
+      "titulo": "Belém 408 anos: o apogeu da borracha e a belle époque paraense (O Liberal)",
+      "url": "https://www.oliberal.com/belempraveresentir/belem-408-anos-apogeu-da-borracha-deu-origem-ao-periodo-conhecido-como-belle-epoque-paraense-1.765322"
+    },
+    {
+      "titulo": "José Cairus, Modernization, nationalism and the elite: the genesis of Brazilian jiu-jitsu, 1905-1920 (Revista Tempo e Argumento, 2011)",
+      "url": "https://www.redalyc.org/pdf/3381/338130377006.pdf"
+    },
+    {
+      "titulo": "José Cairus, The Gracie Clan and the Making of Brazilian Jiu-Jitsu (tese, York University, 2012)",
+      "url": "http://www.dirtywhitebelt.com/wp-content/uploads/2018/05/The_Gracie_Clan_and_the_Making_of_Brazi.pdf"
+    },
+    {
+      "titulo": "One Hundred Years of Arm Bars (Grantland, com dados da biografia escrita por Reila Gracie)",
+      "url": "https://grantland.com/one-hundred-years-arm-bars-gracie-jiu-jitsu-mma/"
+    },
+    {
+      "titulo": "Carlos Gracie (Wikipedia, com referências a Reila Gracie, Roberto Pedreira e Marcial Serrano)",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Gracie"
+    },
+    {
+      "titulo": "Gracie family (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Gracie_family"
+    },
+    {
+      "titulo": "Carlos Gracie (Wikipédia em português)",
+      "url": "https://pt.wikipedia.org/wiki/Carlos_Gracie"
+    },
+    {
+      "titulo": "Robert Drysdale: Good, Bad & Beautiful Truth of BJJ History (entrevista a Sonny Brown)",
+      "url": "https://www.sonnybrown.net/robert-drysdale-interview-bjj-history/"
+    },
+    {
+      "titulo": "Sobre a pesquisa de Robert Drysdale: Carlos Gracie e Maeda (BJJ Doc)",
+      "url": "https://bjjdoc.com/?p=18025"
+    },
+    {
+      "titulo": "Resenha de Choque: The Untold Story of Jiu-Jitsu in Brazil, de Roberto Pedreira (Meerkatsu)",
+      "url": "http://meerkat69.blogspot.com/2014/09/review-choque-untold-story-of-jiu-jitsu.html"
+    },
+    {
+      "titulo": "Geo Omori (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Geo_Omori"
+    },
+    {
+      "titulo": "Geo Omori (Wikipédia em português)",
+      "url": "https://pt.wikipedia.org/wiki/Geo_Omori"
+    },
+    {
+      "titulo": "Donato Pires dos Reis (Simon BJJ, com citações de jornais da época)",
+      "url": "https://simonbjj.com/donato-pires"
+    },
+    {
+      "titulo": "Geo Omori (Simon BJJ)",
+      "url": "https://simonbjj.com/geo-omori"
+    },
+    {
+      "titulo": "Linha do tempo do jiu-jitsu no Brasil (Simon BJJ)",
+      "url": "https://simonbjj.com/timeline"
+    },
+    {
+      "titulo": "Mário Aleixo (Simon BJJ)",
+      "url": "https://simonbjj.com/mario-aleixo"
+    },
+    {
+      "titulo": "Capoeira, a arte nacional nos ringues paulistas (Capoeira History)",
+      "url": "https://capoeirahistory.com/pt-br/capoeira-a-arte-nacional-nos-ringues-paulistas"
+    },
+    {
+      "titulo": "Mestre Sinhozinho (Capoeira History)",
+      "url": "https://capoeirahistory.com/mestre/master-sinhozinho/"
+    },
+    {
+      "titulo": "Ringue ou academia? A emergência dos estilos modernos da capoeira e seu contexto global (História, Ciências, Saúde – Manguinhos, SciELO)",
+      "url": "https://www.scielo.br/j/hcsm/a/JrXbCfwLyRr4BbTYzkG6QHD"
+    },
+    {
+      "titulo": "Hélio Gracie (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/H%C3%A9lio_Gracie"
+    },
+    {
+      "titulo": "Luiz França (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Luiz_Fran%C3%A7a"
+    },
+    {
+      "titulo": "Oswaldo Fadda (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Oswaldo_Fadda"
+    },
+    {
+      "titulo": "Oswaldo Fadda (Wikipédia em português)",
+      "url": "https://pt.wikipedia.org/wiki/Oswaldo_Fadda"
+    },
+    {
+      "titulo": "George Gracie (BJJ Heroes)",
+      "url": "https://bjjheroes.com/?p=528"
+    },
+    {
+      "titulo": "Oswaldo Gracie (BJJ Heroes)",
+      "url": "https://bjjheroes.com/?p=1405"
+    },
+    {
+      "titulo": "Gastão Gracie (BJJ Heroes)",
+      "url": "https://bjjheroes.com/?p=1408"
+    },
+    {
+      "titulo": "Oswaldo Fadda (BJJ Heroes)",
+      "url": "https://www.bjjheroes.com/?p=527"
+    },
+    {
+      "titulo": "George Gracie: registro de lutas (Simon BJJ)",
+      "url": "https://simonbjj.com/george-gracie"
+    },
+    {
+      "titulo": "José Cairus: Nationalism, Immigration and Identity: The Gracies and the Making of Brazilian Jiu-Jitsu, 1934-1943 (Kung Fu Tea)",
+      "url": "https://chinesemartialstudies.com/2020/04/05/nationalism-immigration-and-identity-the-gracies-and-the-making-of-brazilian-jiu-jitsu-1934-1943/"
+    },
+    {
+      "titulo": "A verdade sobre os Gracie: a narrativa da introdução do jiu-jitsu no Brasil (João Júlio Gomes dos Santos Júnior, revista Anos 90, UFRGS)",
+      "url": "https://www.redalyc.org/journal/5740/574081716026/574081716026.pdf"
+    },
+    {
+      "titulo": "Primórdios do jiu-jitsu e dos confrontos intermodalidades no Brasil: contestando uma memória consolidada (RBCE, SciELO)",
+      "url": "https://www.scielo.br/j/rbce/a/hsWF8YZRffJBdgPhf8DtQ8B/"
+    }
+  ],
+  "conferir": [
+    "Theatro Politheama: este bloco o coloca em MANAUS (jornal O Tempo, de Manaus; Wikipédia em português; chegada da trupe a Manaus em 18/12/1915). A Wikipedia em inglês e o capítulo 1 (cena c10) dizem Belém. Em Belém, o palco documentado por Cairus (Folha do Norte, out.-nov. de 1915) é o Bar Paraense. Vale corrigir o capítulo 1 ou alinhar os dois.",
+    "Pé de Bola: Cairus (Folha do Norte, 10/11/1915) diz que quem o venceu foi SATAKE, em 1915, no Bar Paraense. As Wikipedias dizem que foi Maeda, em 1918-1919, com o capoeirista autorizado a usar faca. A narração segue Cairus e avisa da divergência.",
+    "Naturalização e nome Otávio: Wikipédia em português diz maio de 1927; Cairus diz que o nome 'Otavio' foi adotado em 1937. A narração não dá o ano.",
+    "Lutas de Manaus (Maeda x Satake em 22/12/1915, Corbiniano em 24/12, Nagib Assef em 3/1/1916, 'jogado para fora do palco' e chave de braço): só na Wikipedia, que cita o jornal O Tempo; a própria Wikipedia tem data conflitante (15/12) para Corbiniano.",
+    "Onde Maeda ensinou em Belém: Cairus dá o Teatro Moderno (anúncio na Folha do Norte de 18/1/1916); Simon BJJ fala em Paysandu Sport Club a partir de março de 1916; as Wikipedias falam em Clube do Remo, galpão de 4 x 4 m, em 1921. A narração cita só o Teatro Moderno e diz 'clubes da cidade'.",
+    "Movimentos de Maeda no começo de 1916: a Wikipedia diz que ele embarcou para Liverpool em 8/1/1916 e voltou ao Brasil em 1917; Cairus diz que voltou de Manaus a Belém em fevereiro de 1916 e que a escola foi anunciada em janeiro de 1916. A narração evita a viagem à Inglaterra.",
+    "Jacyntho Ferro: morte em 1929 e perfil esportivo vêm só do site Simon BJJ. 'Entra para a escola logo no começo' é aproximação (Simon BJJ diz que conheceu Maeda em 1915). A ida de barco para receber Maeda aparece como junho ou julho de 1922.",
+    "Promoção de cinco alunos ao 'primeiro grau' (Estado do Pará, 19/6/1920) e a menção a Pereira e Ferro como professores (26/6/1921): fonte secundária (Simon BJJ); conferir no jornal. A frase 'nenhum Gracie' na lista depende disso.",
+    "Satake: 'primeira academia registrada no Brasil' é afirmação de fontes secundárias; permanência em Manaus até setembro de 1921 é 'ao que parece'; uma fonte fala em morte em 1942, sem confirmação. O campo 'anos' do perfil está como 'destino incerto'.",
+    "Maeda disse em 1928 a Hajime Otake que nunca deu faixa preta no Brasil: Cairus. O item na tela está entre aspas mas é paráfrase; se preferir, tirar as aspas.",
+    "Última luta de Maeda no Brasil (Victorio Segato, Palace Theatre, julho de 1920) e 'perspicácia felina': Cairus, traduzido do inglês. Viagem de 1921 (Nova York em 18/9/1921 com Satake e Okura, depois Cuba): Wikipedia.",
+    "Queda da renda por habitante 'quase cinco vezes' entre 1910 e 1920: Cairus. Início do declínio da borracha: fontes dão 1910 a 1913.",
+    "Imigração: oferta de terras por Dionísio Bentes em 1925, companhia criada em dezembro de 1928/janeiro de 1929, 43 famílias (189 pessoas) em setembro de 1929: Biblioteca da Dieta do Japão. Maeda no conselho fiscal: Wikipédia em português e artigo acadêmico. A Wikipedia em inglês fala em 1925 para o trabalho de Maeda em Tomé-Açu.",
+    "Nomes da trupe (Okura, Shimizu/Shimizi, Satake, Laku) e o roteiro Argentina-Uruguai-capitais: Cairus; a grafia varia. A rota desenhada no mapa é ilustrativa.",
+    "Morte de Maeda: 28/11/1941, doença renal, 63 anos (Wikipedia). 'Dias depois' de Pearl Harbor = 9 dias. Sétimo dan datado de 27/11/1941.",
+    "Gastão Gracie sócio do American Circus (com Henrique Melo Medeiros) e empresário do lutador Alfredo Leconte em 1916: Cairus. O circo Queirolo só aparece na Wikipedia e ficou de fora.",
+    "Coordenadas de Tomé-Açu e do rio Acará no mapa são aproximadas.",
+    "George Gracie: nascimento em 1801 em Dumfries, chegada ao Rio em 1826 aos 25 anos vêm da biografia de Reila Gracie, citada pela Grantland. A Wikipedia fala em ancestrais de Paisley, Escócia. Não li a biografia diretamente.",
+    "Pedro Gracie 'banqueiro' e George 'comerciante de sucesso' (Grantland). Cairus chama o pai de Gastão de Pedro (Peter) McNichols Gracie e diz que foi dono de escravos; a narração não entra nisso.",
+    "Gastão Gracie: anos de vida 1872–1955, dez anos na Alemanha, várias línguas, sonho de diplomacia e fábrica de dinamite têm uma só origem (Grantland/Reila Gracie). Sem confirmação independente.",
+    "Nome da mãe de Carlos: as fontes escrevem Cesalina, Cezalina ou Cesarina Pessoa Vasconcellos. Casamento em 1901 segundo a Wikipedia (citando Cairus, com aviso de fonte a verificar).",
+    "Nascimento de Carlos: 14 de setembro de 1902 (Wikipedia) ou 15 de setembro (Cairus). A narração diz só 'setembro'.",
+    "Lutas de Leconte contra os japoneses (Uenishi em Manaus, Shimizu em Belém): Cairus escreve 'dezembro de 1916', mas as notas dele citam jornais de janeiro e dezembro de 1916. A narração diz 'no fim de 1916'. A Grantland conta diferente: o circo de Gastão chega a Manaus em 5 de novembro de 1916 e Maeda fica amigo dele ali.",
+    "Onde Carlos viu Maeda: a família fala no Teatro da Paz em 1917 (com 14 ou 15 anos). Cairus, com base no jornal Folha do Norte, põe o início das aulas em 1916, no Teatro Moderno. Outra versão fala no circo do pai.",
+    "Duração do treino: algumas versões da família falam em vários anos (até dos 15 aos 21). Cairus: 'não mais de três anos', com Maeda e Ferro. Drysdale: o treino direto com Maeda é 'muito exagerado' e talvez nem tenha existido.",
+    "Textos do jornal Estado do Pará de 19 de junho de 1920 (cinco promovidos: Guilherme de La-Rocque, Matheus Pereira, Waldemar Lopes, Raphael Gomes e Jacyntho Ferro) e de 26 de junho de 1921 ('Donato Pires dos Reis e Oscar Gracie, alunos do professor Jacyntho Ferro'): conheço só por fontes secundárias (Simon BJJ e Drysdale). Drysdale, numa entrevista, fala em 1922 para o segundo texto. Ler 'Oscar' como Carlos é interpretação dele.",
+    "Jacyntho Ferro: morte em 1929 e a descrição como ciclista, boxeador e levantador de peso vêm de uma só fonte (Simon BJJ). Ele não tem artigo na Wikipedia; por isso a cena de perfil não tem 'wiki'.",
+    "Posição de Roberto Pedreira: resumida por fontes secundárias (Wikipedia e um artigo acadêmico que o cita), não pela leitura de 'Choque'. Confirmar que ele aponta Jacyntho Ferro e Donato Pires como professores de Carlos.",
+    "Declaração de Donato Pires dos Reis em 1931: a Wikipedia (citando Marcial Serrano) diz que ele negou na imprensa que Carlos fosse aluno direto de Maeda; Drysdale diz que ele afirmou que os dois nem se conheceram. Não achei o texto original. O bloco C conta a briga entre os dois.",
+    "Maeda nunca teria dado faixa preta no Brasil: relato de Hajime Otake, registrado por Cairus (nota 88). É testemunho oral, de segunda mão.",
+    "Data da mudança para o Rio: Cairus diz 'entre 1919 e 1920' (Carlos dizia ter 17 anos), mas ele mesmo data a morte de Pedro Gracie em 13 de fevereiro de 1921; a Wikipedia diz 1921; outras fontes, dezembro de 1921 ou 1922. Se o texto de junho de 1921 se refere mesmo a Carlos, ele ainda estava em Belém nessa data. A cena final usa ano 1922 no canto da tela: ajustar se o bloco C adotar outra data.",
+    "Cena b03 não tem 'wiki' para Gastão Gracie: não confirmei a existência de artigo próprio dele na Wikipedia.",
+    "Saída de Donato da academia: Simon BJJ diz dezembro de 1930 (três meses depois da abertura, motivo desconhecido); a Wikipedia (Pedreira/Serrano) diz junho de 1931, por transferência para Santa Catarina. A narração apresenta as duas datas.",
+    "Carlos x Omori: Simon BJJ registra um primeiro encontro em 1929 (abril na linha do tempo, fevereiro na página de Omori) e o segundo em 5 de janeiro de 1930, no Madison Square Paulistano; a Wikipedia fala em duas exibições em janeiro de 1930, para a Guarda Municipal. A narração só afirma 'duas vezes', o segundo em janeiro de 1930, ambos empate.",
+    "Versão de Omori (demonstração paga por Gastão): vem de Simon BJJ, sem o jornal original identificado. A recusa inicial de Omori vem da Wikipedia, que cita Pedreira e Serrano; a narração atribui a Pedreira.",
+    "Minas Gerais: as fontes dizem 'polícia do estado de Minas Gerais', contrato de dois anos a partir de 1928. O mapa marca Belo Horizonte (capital), mas nenhuma fonte consultada nomeia a cidade. 'Primeiro trabalho de Carlos como professor que as fontes registram' é conclusão minha a partir das fontes lidas.",
+    "Endereço Rua Marquês de Abrantes, 106: confirmado só por Simon BJJ (anúncio em O Globo de 8 de setembro de 1930) e por sites da tradição Gracie; a Wikipedia dá a rua e o mês, sem o número. O nome no anúncio seria algo como 'Academia Carioca para o Cultivo do Esporte Científico' (tradução do inglês; conferir o original).",
+    "'Academia Gracie' nos anúncios a partir de outubro de 1932: fonte única (Simon BJJ).",
+    "Rompimento de agosto de 1931: segundo a Wikipedia (Serrano), Carlos e os irmãos agrediram Donato em frente ao Hotel América, no Catete; a narração diz apenas que 'termina em briga'.",
+    "Escola em Perdizes com Omori e prisão de Carlos por briga com três homens: fonte é a Wikipedia citando Pedreira ('Choque'); a ordem exata (antes ou depois de janeiro de 1930) não está clara.",
+    "Carlos como segurança no cassino do pai e a falta de registro do boxe amador: Wikipedia, citando Reila Gracie e resenha do Global Training Report. Sem datas.",
+    "Ambiente do Rio nos anos 1920: 'mais de um milhão de habitantes' vem do censo de 1920 (cerca de 1,15 milhão), citado de memória; a presença de luta romana em circos e teatros do Rio é contexto geral, sem fonte específica nesta pesquisa.",
+    "Geo Omori: nascimento em 1898 (algumas fontes dizem 1892); chegada ao Brasil em 1925; escola em São Paulo em 1928 (Simon BJJ) ou 1931 no Edifício Martinelli (Wikipedia). O adversário capoeirista no Circo Queirolo em 1928 aparece como 'Baiaco' no Capoeira History.",
+    "Donato Pires dos Reis não tem artigo na Wikipedia (por isso sem 'wiki'); datas de nascimento e morte não encontradas. 'Funcionário público' resume 'coletor de impostos' (Simon BJJ) e 'Ministério da Fazenda' (Wikipedia).",
+    "São Paulo como destino da maioria dos imigrantes japoneses e Kasato Maru em 1908: fato geral, sem fonte listada.",
+    "Irmãos citados na última cena (Oswaldo, Gastão Jr. e Hélio): conferir com o bloco D para não haver contradição. Livros de Robert Drysdale e o 'Choque' de Pedreira não foram lidos diretamente, só via fontes secundárias.",
+    "Luiz França: os três mestres (Satake em Manaus, Maeda em Belém, Geo Omori em São Paulo), o nascimento em Manaus em 1910 e a ida para o Rio vêm da tradição oral; a Wikipedia cita Robert Drysdale dizendo que não há prova documental. A narração diz 'segundo a tradição' e avisa da dúvida. Não confirmei no texto do próprio Drysdale.",
+    "Estreia de Hélio: 16 de janeiro de 1932, contra Antonio Portugal, chave de braço em cerca de 40 segundos, segue a Wikipedia em inglês ('probably an armlock in 40 seconds'). A idade (18 anos) é conta minha a partir do nascimento em 1º/10/1913. Não consegui abrir Pedreira ('Choque') para confirmar.",
+    "Elite e Polícia Especial: Cairus diz que os Gracie eram 'aristocratas em decadência', tinham a academia a poucos quarteirões do palácio presidencial e foram inseridos na Polícia Especial de Vargas. Que os alunos eram 'de posses' (cenas d08 e d11) é afirmação corrente, mas não achei fonte primária; o ano exato da entrada na Polícia Especial também não (o texto de Cairus cobre 1934-1943). Bairro 'Flamengo' vem de fonte secundária; o bloco C deve ter o endereço da academia: alinhar.",
+    "George Gracie: nascimento em 1911 é consistente; a morte aparece como 1982, 1991 ou outra data conforme a fonte, por isso o perfil mostra '1911 – ?'. 'Mais de setenta lutas' e 'o Gracie que mais lutou' vêm do levantamento do site Simon BJJ, não de fonte acadêmica. Não achei artigo dele na Wikipedia (sem campo 'wiki'). O apelido 'Gato Ruivo' é atribuído ao cabelo e à agilidade.",
+    "Oswaldo e Gastão Jr.: papéis ('ajudam nas aulas', Oswaldo luta no começo dos anos 1930) vêm de trechos do BJJ Heroes vistos só em resultado de busca (o site bloqueou a leitura). Anos de nascimento (Oswaldo 1904, Gastão Jr. por volta de 1906) não foram para a tela por falta de confirmação. 'Cinco filhos homens' de Gastão: Carlos era o primeiro de oito filhos; conferir se eram cinco homens.",
+    "História tradicional de Hélio (tonturas, desmaios, proibição médica, a aula assumida aos 16 anos quando Carlos se atrasou): é a versão da família, contada como tal. A Wikipedia diz que ele praticava remo e natação desde criança e começou nas lutas aos 16.",
+    "Dieta Gracie: a Wikipedia descreve Juan Esteve Dulin como naturista 'argentino-francês'; a narração diz só 'um naturista'. A data em que Carlos montou a dieta não está nas fontes consultadas ('mais tarde isso ganha nome').",
+    "Oswaldo Fadda: nascimento em 1º/8/1920 (um espelho antigo da Wikipedia dá 15/1/1921); início com França em 1937; faixa preta 'por volta de 1942'; academia em 27/1/1950 em Bento Ribeiro (Wikipédia em português; a inglesa diz só 'na periferia do Rio'). Aulas de graça: Wikipedia em inglês.",
+    "Desafio Fadda x Gracie (citado de passagem em d11): as fontes divergem no ano (1954 ou 1955) e no placar (um jornal deu 7 vitórias para a academia Gracie, 4 empates e 3 para Fadda; outras fontes dão vitória de Fadda). A narração só diz que os alunos de Fadda 'não vão fazer feio'.",
+    "Nova União e GFTeam com 'raízes' na linhagem França-Fadda: aparece em resumos de fontes secundárias; conferir antes de publicar.",
+    "Na árvore de d12, Luiz França aparece ligado a Maeda com linha tracejada; a tradição também o liga a Satake e a Geo Omori (o formato da árvore só aceita um 'pai' por nó). George e Hélio aparecem como alunos de Carlos.",
+    "Frase atribuída a Hélio Gracie sobre Fadda ('É preciso existir um Fadda...') não foi usada: a seção da Wikipédia que a traz está marcada como sem fontes.",
+    "Capítulo montado a partir de quatro blocos; os livros de Roberto Pedreira ('Choque') e de Robert Drysdale não foram lidos diretamente, só por fontes que os citam (Wikipedia, Simon BJJ, entrevistas)."
+  ],
+  "cenas": [
+    {
+      "id": "a01-gancho",
+      "tipo": "mapa",
+      "ano": 1915,
+      "narracao": "Belém do Pará, outubro de [1915|mil novecentos e quinze]. Um jornal anuncia a atração da temporada: uma trupe de lutadores japoneses. E um desafio. Cinco mil francos para quem vencer qualquer um deles. Ninguém leva o prêmio. Um desses japoneses vai ficar na cidade até morrer. E, por causa dele, a história da luta no Brasil muda de rumo.",
+      "vista": {
+        "lon": -55,
+        "lat": -10,
+        "escala": 2.6
+      },
+      "ate": {
+        "lon": -49.5,
+        "lat": -2,
+        "escala": 5.5
+      },
+      "lugares": [
+        {
+          "nome": "Belém do Pará",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "Belém do Pará",
+          "destaque": true
+        },
+        {
+          "nome": "5.000 francos a quem vencer",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "Cinco mil francos"
+        }
+      ]
+    },
+    {
+      "id": "t00-titulo",
+      "tipo": "titulo",
+      "numero": 2,
+      "titulo": "Belém e os Gracie",
+      "subtitulo": "Como o judô de um japonês virou o jiu-jitsu de uma família brasileira",
+      "duracao": 5
+    },
+    {
+      "id": "a02-borracha",
+      "tipo": "cartao",
+      "ano": 1910,
+      "rotulo": "A cidade",
+      "titulo": "Belém depois da borracha",
+      "narracao": "A Belém que recebe esses japoneses tinha sido uma das cidades mais ricas do Brasil. Durante décadas, a borracha da Amazônia abasteceu o mundo. O dinheiro ergueu avenidas largas, palacetes e o Theatro da Paz, inaugurado em [1878|mil oitocentos e setenta e oito]. Mas, a partir de [1910|mil novecentos e dez], a borracha plantada na Ásia toma o mercado. Segundo o historiador José Cairus, a renda por habitante cai quase cinco vezes em dez anos. A cidade empobrece. Só que os teatros continuam lá. E precisam de atrações que encham a casa.",
+      "itens": [
+        {
+          "texto": "Décadas de riqueza com a borracha da Amazônia",
+          "quando": "a borracha da Amazônia"
+        },
+        {
+          "texto": "Avenidas, palacetes e o Theatro da Paz (1878)",
+          "quando": "avenidas largas"
+        },
+        {
+          "texto": "A partir de 1910: a borracha da Ásia toma o mercado",
+          "quando": "a partir de 1910"
+        },
+        {
+          "texto": "Renda por habitante cai quase cinco vezes",
+          "quando": "a renda por habitante"
+        },
+        {
+          "texto": "Teatros de pé, à procura de atrações",
+          "quando": "os teatros continuam"
+        }
+      ]
+    },
+    {
+      "id": "a03-trupe",
+      "tipo": "mapa",
+      "ano": 1915,
+      "titulo": "A trupe chega a Belém",
+      "narracao": "A trupe vinha de longe. Tinha passado pela Argentina, pelo Uruguai e pelas principais capitais brasileiras. Em outubro de [1915|mil novecentos e quinze], o jornal Folha do Norte anuncia a chegada a Belém. São cinco japoneses: Okura, Shimizu, Satake, Laku e o chefe, apresentado como campeão mundial invicto, o Conde Koma. O programa promete jiu-jitsu, luta, boxe e esgrima japonesa. E garante que o espetáculo é rigorosamente familiar. O palco é o Bar Paraense, um teatro com cervejaria inspirado no Moulin Rouge de Paris.",
+      "vista": {
+        "lon": -55,
+        "lat": -20,
+        "escala": 2.2
+      },
+      "ate": {
+        "lon": -50,
+        "lat": -6,
+        "escala": 3.6
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -58.4,
+              -34.6
+            ],
+            [
+              -56.2,
+              -34.9
+            ],
+            [
+              -43.2,
+              -22.9
+            ],
+            [
+              -38.5,
+              -12.9
+            ],
+            [
+              -34.9,
+              -8.05
+            ],
+            [
+              -44.3,
+              -2.5
+            ],
+            [
+              -48.5,
+              -1.45
+            ]
+          ],
+          "quando": "Tinha passado",
+          "ate": "a chegada a Belém"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Argentina",
+          "coord": [
+            -58.4,
+            -34.6
+          ],
+          "quando": "pela Argentina"
+        },
+        {
+          "nome": "Uruguai",
+          "coord": [
+            -56.2,
+            -34.9
+          ],
+          "quando": "pelo Uruguai"
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "principais capitais brasileiras"
+        },
+        {
+          "nome": "Belém",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "a chegada a Belém",
+          "destaque": true
+        },
+        {
+          "nome": "Conde Koma e mais quatro",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "o Conde Koma"
+        },
+        {
+          "nome": "Palco: Bar Paraense",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "o Bar Paraense"
+        }
+      ]
+    },
+    {
+      "id": "a04-pe-de-bola",
+      "tipo": "comparacao",
+      "ano": 1915,
+      "titulo": "Capoeira contra jiu-jitsu",
+      "narracao": "A primeira luta famosa em Belém não é de Maeda. É de Satake. O adversário é Pé de Bola, um capoeirista temido, antigo capanga de um chefe político da cidade. O jornal chama o público: hoje, capoeira contra jiu-jitsu. Satake vence. E a Folha do Norte estranha: o capoeirista não tentou nem uma rasteira, coisa que qualquer menino de rua sabia fazer. Outras fontes contam essa história de outro jeito, com Maeda no lugar de Satake, anos depois. Aqui, ficamos com o jornal da época.",
+      "esquerda": {
+        "titulo": "Pé de Bola",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Capoeirista temido em Belém",
+            "quando": "um capoeirista temido"
+          },
+          {
+            "texto": "Antigo capanga de um chefe político",
+            "quando": "antigo capanga"
+          },
+          {
+            "texto": "Não tentou nem uma rasteira, diz o jornal",
+            "quando": "nem uma rasteira"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Satake",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Judoca do Kodokan, parceiro de Maeda",
+            "quando": "É de Satake"
+          },
+          {
+            "texto": "Vence a luta, em novembro de 1915",
+            "quando": "Satake vence"
+          },
+          {
+            "texto": "Outras fontes: teria sido Maeda, anos depois",
+            "quando": "Outras fontes contam"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a05-manaus",
+      "tipo": "mapa",
+      "ano": 1915,
+      "titulo": "Rio acima, até Manaus",
+      "narracao": "Em dezembro, a trupe sobe o rio Amazonas até Manaus, a outra capital da borracha. Segundo o jornal O Tempo, as apresentações são no Theatro Politheama. No dia vinte e dois, Maeda e Satake lutam entre si, numa exibição que o jornal chama de sensacional. Dois dias depois, Maeda vence o boxeador Adolpho Corbiniano, de Barbados, que mais tarde vira seu discípulo. Em janeiro de [1916|mil novecentos e dezesseis], é a vez do lutador Nagib Assef. Maeda o joga para fora do palco e finaliza com uma chave de braço.",
+      "vista": {
+        "lon": -50,
+        "lat": -2.5,
+        "escala": 5
+      },
+      "ate": {
+        "lon": -56,
+        "lat": -2.8,
+        "escala": 5.5
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -48.5,
+              -1.45
+            ],
+            [
+              -50.6,
+              -1.0
+            ],
+            [
+              -52.6,
+              -1.6
+            ],
+            [
+              -54.7,
+              -2.4
+            ],
+            [
+              -56.7,
+              -2.6
+            ],
+            [
+              -58.4,
+              -3.1
+            ],
+            [
+              -60,
+              -3.1
+            ]
+          ],
+          "quando": "a trupe sobe",
+          "ate": "até Manaus"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Belém",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "Em dezembro"
+        },
+        {
+          "nome": "Manaus",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "até Manaus",
+          "destaque": true
+        },
+        {
+          "nome": "Theatro Politheama",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "no Theatro Politheama"
+        },
+        {
+          "nome": "Maeda vence Corbiniano",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "Maeda vence"
+        },
+        {
+          "nome": "Janeiro de 1916: Maeda vence Assef",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "Nagib Assef"
+        }
+      ]
+    },
+    {
+      "id": "a06-satake",
+      "tipo": "perfil",
+      "ano": 1916,
+      "papel": "O que ficou em Manaus",
+      "nome": "Soshihiro Satake",
+      "anos": "Japão, século 19 – destino incerto",
+      "wiki": "Soshihiro_Satake",
+      "narracao": "É em Manaus que a dupla se separa, depois de mais de dez anos viajando junta. Soshihiro Satake fica. No começo de [1916|mil novecentos e dezesseis], ele abre uma escola dentro do Atlético Rio Negro Clube. Vários pesquisadores a apontam como a primeira academia de judô ou jiu-jitsu registrada no Brasil. Satake se naturaliza e passa a se chamar Antônio. Ao que tudo indica, ensina em Manaus até [1921|mil novecentos e vinte e um]. No ano seguinte, viaja para a Europa. E aí o rastro dele some.",
+      "fatos": [
+        {
+          "texto": "Separa-se de Maeda em Manaus",
+          "quando": "a dupla se separa"
+        },
+        {
+          "texto": "1916: escola no Atlético Rio Negro Clube",
+          "quando": "ele abre uma escola"
+        },
+        {
+          "texto": "Naturalizado: Antônio Satake",
+          "quando": "Satake se naturaliza"
+        },
+        {
+          "texto": "Ensina em Manaus até 1921, ao que tudo indica",
+          "quando": "ensina em Manaus"
+        },
+        {
+          "texto": "1922: viaja para a Europa e o rastro some",
+          "quando": "viaja para a Europa"
+        }
+      ]
+    },
+    {
+      "id": "a07-ensino",
+      "tipo": "cartao",
+      "ano": 1916,
+      "rotulo": "A escola de Belém",
+      "titulo": "Como Maeda ensinava",
+      "narracao": "Maeda, por sua vez, faz de Belém a sua base. Em janeiro de [1916|mil novecentos e dezesseis], a Folha do Norte anuncia a escola dele, no Teatro Moderno. As aulas são para crianças e adultos, e o kimono é por conta da casa. Depois, o ensino passa por clubes da cidade. O que Maeda ensina é uma mistura de judô com luta agarrada, com pouca filosofia e quase nada de faixas. Em [1928|mil novecentos e vinte e oito], ele mesmo diria a um visitante japonês que nunca tinha dado uma faixa preta no Brasil.",
+      "itens": [
+        {
+          "texto": "Janeiro de 1916: escola no Teatro Moderno",
+          "quando": "anuncia a escola"
+        },
+        {
+          "texto": "Aulas para crianças e adultos, kimono incluído",
+          "quando": "crianças e adultos"
+        },
+        {
+          "texto": "Depois, clubes da cidade (as fontes divergem)",
+          "quando": "clubes da cidade"
+        },
+        {
+          "texto": "Judô misturado com luta agarrada",
+          "quando": "uma mistura"
+        },
+        {
+          "texto": "1928: \"nunca dei uma faixa preta no Brasil\"",
+          "quando": "nunca tinha dado"
+        }
+      ]
+    },
+    {
+      "id": "a08-ferro",
+      "tipo": "perfil",
+      "ano": 1916,
+      "papel": "O braço direito de Maeda",
+      "nome": "Jacyntho Ferro",
+      "anos": "morto em 1929",
+      "narracao": "O aluno mais importante dessa escola não é um Gracie. É Jacyntho Ferro. Ele já era um esportista conhecido em Belém: ciclista, boxeador, lutador e levantador de peso. Entra para a escola logo no começo e vira o braço direito de Maeda. Quando o mestre viaja, é Ferro quem dá as aulas. Em [1922|mil novecentos e vinte e dois], quando Maeda volta de uma temporada em Cuba, Ferro vai de barco receber o professor. Ele morre em [1929|mil novecentos e vinte e nove]. E quase desaparece da história. Guarde esse nome.",
+      "fatos": [
+        {
+          "texto": "Ciclista, boxeador, lutador e levantador de peso",
+          "quando": "ciclista, boxeador"
+        },
+        {
+          "texto": "Entra para a escola logo no começo",
+          "quando": "Entra para a escola"
+        },
+        {
+          "texto": "Dá as aulas quando Maeda viaja",
+          "quando": "é Ferro quem"
+        },
+        {
+          "texto": "1922: vai de barco receber o mestre",
+          "quando": "Ferro vai de barco"
+        },
+        {
+          "texto": "Morre em 1929 e quase some da história",
+          "quando": "Ele morre"
+        }
+      ]
+    },
+    {
+      "id": "a09-graduados",
+      "tipo": "linhagem",
+      "ano": 1920,
+      "titulo": "Os graduados de 1920",
+      "narracao": "Em junho de [1920|mil novecentos e vinte], o jornal Estado do Pará registra um momento raro. Maeda promove cinco alunos ao que o jornal chama de primeiro grau. São eles: Guilherme de La-Rocque, Matheus Pereira, Waldemar Lopes, Raphael Gomes e Jacyntho Ferro. Ninguém sabe ao certo o que esse grau queria dizer. Mas é uma das poucas listas documentadas de brasileiros graduados por Maeda. No ano seguinte, o mesmo jornal já chama Matheus Pereira e Jacyntho Ferro de professores. E repare em quem não está na lista: nenhum Gracie.",
+      "nos": [
+        {
+          "id": "maeda",
+          "nome": "Mitsuyo Maeda",
+          "sub": "Conde Koma, Belém",
+          "quando": "Maeda promove"
+        },
+        {
+          "id": "larocque",
+          "nome": "Guilherme de La-Rocque",
+          "sub": "primeiro grau, 1920",
+          "pai": "maeda",
+          "quando": "Guilherme de La-Rocque"
+        },
+        {
+          "id": "pereira",
+          "nome": "Matheus Pereira",
+          "sub": "professor em 1921",
+          "pai": "maeda",
+          "quando": "Matheus Pereira"
+        },
+        {
+          "id": "lopes",
+          "nome": "Waldemar Lopes",
+          "sub": "primeiro grau, 1920",
+          "pai": "maeda",
+          "quando": "Waldemar Lopes"
+        },
+        {
+          "id": "gomes",
+          "nome": "Raphael Gomes",
+          "sub": "primeiro grau, 1920",
+          "pai": "maeda",
+          "quando": "Raphael Gomes"
+        },
+        {
+          "id": "ferro",
+          "nome": "Jacyntho Ferro",
+          "sub": "professor em 1921",
+          "pai": "maeda",
+          "quando": "e Jacyntho Ferro"
+        }
+      ]
+    },
+    {
+      "id": "a10-ultimas-lutas",
+      "tipo": "linha",
+      "ano": 1920,
+      "titulo": "As últimas lutas do Conde Koma",
+      "narracao": "Maeda já passou dos quarenta anos, mas ainda luta. Em julho de [1920|mil novecentos e vinte], no Palace Theatre de Belém, ele vence Victorio Segato com uma chave de braço. O jornal elogia a sua perspicácia felina. Segundo José Cairus, é a última luta dele no Brasil. Em [1921|mil novecentos e vinte e um], ele reencontra Satake, passa por Nova York e segue para Cuba, onde volta a competir. Em [1922|mil novecentos e vinte e dois], desembarca de novo em Belém. A partir daí, o lutador vai dando lugar a outro personagem.",
+      "eventos": [
+        {
+          "ano": "1920",
+          "texto": "Vence Victorio Segato no Palace Theatre",
+          "quando": "ele vence"
+        },
+        {
+          "ano": "1920",
+          "texto": "Última luta no Brasil, segundo Cairus",
+          "quando": "a última luta"
+        },
+        {
+          "ano": "1921",
+          "texto": "Nova York e Cuba, de novo com Satake",
+          "quando": "ele reencontra Satake"
+        },
+        {
+          "ano": "1922",
+          "texto": "Volta a Belém",
+          "quando": "desembarca de novo"
+        }
+      ]
+    },
+    {
+      "id": "a11-imigracao",
+      "tipo": "mapa",
+      "ano": 1929,
+      "titulo": "A ponte com o Japão",
+      "narracao": "Esse outro personagem é um homem de contatos. Maeda conhece políticos, comerciantes e autoridades do Pará. Quando o Japão procura terras na Amazônia para os seus emigrantes, ele serve de ponte. Em [1925|mil novecentos e vinte e cinco], o governador Dionísio Bentes oferece uma grande área ao projeto. Nasce a Companhia Nipônica de Plantação do Brasil, e Maeda entra no conselho fiscal. Em setembro de [1929|mil novecentos e vinte e nove], as primeiras quarenta e três famílias chegam à colônia do rio Acará, com sede em Tomé-Açu. Mais tarde, a região ficaria conhecida pela pimenta-do-reino.",
+      "vista": {
+        "lon": -50,
+        "lat": -3,
+        "escala": 4.5
+      },
+      "ate": {
+        "lon": -48.4,
+        "lat": -2,
+        "escala": 8
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -48.5,
+              -1.45
+            ],
+            [
+              -48.4,
+              -1.96
+            ],
+            [
+              -48.15,
+              -2.42
+            ]
+          ],
+          "quando": "as primeiras",
+          "ate": "em Tomé-Açu"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Belém",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "autoridades do Pará"
+        },
+        {
+          "nome": "1925: o governo oferece terras",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "o governador"
+        },
+        {
+          "nome": "Rio Acará",
+          "coord": [
+            -48.4,
+            -1.96
+          ],
+          "quando": "do rio Acará"
+        },
+        {
+          "nome": "Tomé-Açu",
+          "coord": [
+            -48.15,
+            -2.42
+          ],
+          "quando": "em Tomé-Açu",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "a12-otavio",
+      "tipo": "perfil",
+      "ano": 1941,
+      "papel": "O japonês que virou paraense",
+      "nome": "Otávio Maeda",
+      "anos": "1878 – 1941",
+      "wiki": "Mitsuyo_Maeda",
+      "narracao": "Maeda nunca mais volta a morar no Japão. Forma família em Belém e se naturaliza brasileiro. Passa a assinar Otávio Maeda. Sobre o ano, as fontes divergem. Em [1929|mil novecentos e vinte e nove], o Kodokan o promove a sexto dan. Em [1935|mil novecentos e trinta e cinco], ele publica em Belém um livro sobre judô. O sétimo dan sai em novembro de [1941|mil novecentos e quarenta e um]. Maeda não chega a saber. Ele morre em Belém, no dia vinte e oito, de uma doença nos rins, aos sessenta e três anos. Dias depois, o Japão ataca Pearl Harbor.",
+      "fatos": [
+        {
+          "texto": "Naturalizado brasileiro: Otávio Maeda",
+          "quando": "se naturaliza brasileiro"
+        },
+        {
+          "texto": "1929: sexto dan do Kodokan",
+          "quando": "o Kodokan o promove"
+        },
+        {
+          "texto": "1935: publica um livro sobre judô",
+          "quando": "ele publica"
+        },
+        {
+          "texto": "Sétimo dan em novembro de 1941: não chegou a saber",
+          "quando": "O sétimo dan"
+        },
+        {
+          "texto": "Morre em Belém, em 28 de novembro de 1941",
+          "quando": "Ele morre em Belém"
+        }
+      ]
+    },
+    {
+      "id": "a13-passagem",
+      "tipo": "cartao",
+      "ano": 1916,
+      "rotulo": "De volta a 1916",
+      "titulo": "Quem estava em volta do ringue",
+      "narracao": "Mas vamos voltar um pouco. Porque, naquela Belém de circos e teatros, havia muita gente em volta dos lutadores japoneses. Empresários, apostadores, donos de casas de espetáculo. Um deles era sócio de um circo, o American Circus, e agenciava lutadores. Chamava-se Gastão Gracie. Tinha uma família grande e um filho mais velho franzino e inquieto. O que essa família aprendeu, com quem, e por quanto tempo, é uma das perguntas mais discutidas da história do jiu-jitsu. É para ela que a gente vai agora.",
+      "itens": [
+        {
+          "texto": "Belém de circos e teatros",
+          "quando": "circos e teatros"
+        },
+        {
+          "texto": "Empresários, apostadores, donos de teatro",
+          "quando": "Empresários, apostadores"
+        },
+        {
+          "texto": "Um sócio do American Circus",
+          "quando": "o American Circus"
+        },
+        {
+          "texto": "Gastão Gracie",
+          "quando": "Gastão Gracie"
+        },
+        {
+          "texto": "O que a família aprendeu, e com quem?",
+          "quando": "com quem"
+        }
+      ]
+    },
+    {
+      "id": "b01-escocia",
+      "tipo": "mapa",
+      "ano": 1826,
+      "titulo": "De onde vem o sobrenome",
+      "narracao": "Para entender os Gracie, é preciso voltar quase cem anos e atravessar o oceano. O sobrenome não é brasileiro. É escocês. Segundo a biografia escrita por Reila Gracie, filha de Carlos, tudo começa com um rapaz chamado George Gracie, nascido em [1801|mil oitocentos e um] na região de Dumfries, no sul da Escócia. Em [1826|mil oitocentos e vinte e seis], com vinte e cinco anos, ele embarca para o Rio de Janeiro. O Brasil era um país independente havia só quatro anos.",
+      "vista": {
+        "lon": -4,
+        "lat": 54,
+        "escala": 3.2
+      },
+      "ate": {
+        "lon": -25,
+        "lat": 15,
+        "escala": 1.3
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -3.6,
+              55.07
+            ],
+            [
+              -12,
+              40
+            ],
+            [
+              -25,
+              10
+            ],
+            [
+              -34,
+              -10
+            ],
+            [
+              -43.2,
+              -22.9
+            ]
+          ],
+          "quando": "ele embarca",
+          "ate": "país independente"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Escócia",
+          "coord": [
+            -4.2,
+            56.8
+          ],
+          "quando": "É escocês"
+        },
+        {
+          "nome": "Dumfries",
+          "coord": [
+            -3.6,
+            55.07
+          ],
+          "quando": "região de Dumfries",
+          "destaque": true
+        },
+        {
+          "nome": "Rio de Janeiro, 1826",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "Rio de Janeiro"
+        }
+      ]
+    },
+    {
+      "id": "b02-familia",
+      "tipo": "linhagem",
+      "ano": 1872,
+      "titulo": "Três gerações no Rio",
+      "narracao": "No Rio, a família sobe depressa. George prospera no comércio e entra para a elite da capital do Império. O filho dele, Pedro Gracie, vira banqueiro. E em [1872|mil oitocentos e setenta e dois] nasce o neto, Gastão Gracie. É uma família de sobrenome estrangeiro, dinheiro e boas relações. Os Gracie não vieram do circo nem do ringue. Vieram dos salões. E é Gastão, o neto do escocês, quem vai levar o sobrenome para a Amazônia, e para perto das lutas.",
+      "nos": [
+        {
+          "id": "george",
+          "nome": "George Gracie",
+          "sub": "escocês, comerciante no Rio",
+          "quando": "George prospera"
+        },
+        {
+          "id": "pedro",
+          "nome": "Pedro Gracie",
+          "sub": "banqueiro",
+          "pai": "george",
+          "quando": "Pedro Gracie"
+        },
+        {
+          "id": "gastao",
+          "nome": "Gastão Gracie",
+          "sub": "nasce em 1872",
+          "pai": "pedro",
+          "quando": "nasce o neto"
+        }
+      ]
+    },
+    {
+      "id": "b03-gastao",
+      "tipo": "perfil",
+      "ano": 1901,
+      "papel": "O pai",
+      "nome": "Gastão Gracie",
+      "anos": "1872 – 1955",
+      "narracao": "Gastão Gracie era um homem culto. Segundo a biografia da família, ele passou cerca de dez anos na Alemanha, falava várias línguas e sonhava com a carreira de diplomata. O posto que ele queria nunca veio. De volta ao Brasil, em [1901|mil novecentos e um], Gastão se casa com Cesalina Vasconcellos, filha de uma família rica do Ceará. E o casal vai morar em Belém do Pará. O motivo era o de tanta gente: a borracha. Gastão queria enriquecer na Amazônia. Não conseguiu.",
+      "fatos": [
+        {
+          "texto": "Cerca de dez anos na Alemanha",
+          "quando": "na Alemanha"
+        },
+        {
+          "texto": "Queria ser diplomata. O posto não veio",
+          "quando": "carreira de diplomata"
+        },
+        {
+          "texto": "1901: casa com Cesalina Vasconcellos",
+          "quando": "Gastão se casa"
+        },
+        {
+          "texto": "Muda para Belém atrás da borracha",
+          "quando": "vai morar em Belém"
+        }
+      ]
+    },
+    {
+      "id": "b04-negocios",
+      "tipo": "cartao",
+      "ano": 1916,
+      "rotulo": "Os negócios de Gastão",
+      "titulo": "Da dinamite ao circo",
+      "destaque": "American Circus",
+      "narracao": "Gastão tentou de tudo. Segundo os relatos da família, chegou a fabricar dinamite, e guardava o material na casa onde os filhos dormiam. O negócio que interessa a esta história é outro. Em [1916|mil novecentos e dezesseis], Gastão aparece como sócio do American Circus, ao lado de Henrique Melo Medeiros. E vira empresário de um lutador ítalo-argentino chamado Alfredo Leconte. Naquele tempo, circo não era só palhaço e trapézio. Circo era também luta valendo dinheiro, com aposta e regra combinada na hora.",
+      "itens": [
+        {
+          "texto": "Fábrica de dinamite, guardada em casa",
+          "quando": "fabricar dinamite"
+        },
+        {
+          "texto": "1916: sócio do American Circus",
+          "quando": "sócio do American"
+        },
+        {
+          "texto": "Empresário do lutador Alfredo Leconte",
+          "quando": "vira empresário"
+        },
+        {
+          "texto": "No circo, luta valendo dinheiro",
+          "quando": "luta valendo dinheiro"
+        }
+      ]
+    },
+    {
+      "id": "b05-leconte",
+      "tipo": "mapa",
+      "ano": 1916,
+      "titulo": "O circo contra os japoneses",
+      "narracao": "É pelo circo que os caminhos se cruzam. Segundo o historiador José Cairus, no fim de [1916|mil novecentos e dezesseis], Leconte enfrenta lutadores japoneses da trupe de Maeda. Primeiro em Manaus, depois em Belém. E vence as duas vezes. Pelos relatos dos jornais, Leconte lutava sem kimono, com o corpo coberto de graxa, e o juiz encerrava a luta depressa demais. As duas noites terminam em confusão, e a polícia suspende as lutas. Mas é depois dessas brigas que Gastão Gracie e o Conde Koma se aproximam.",
+      "vista": {
+        "lon": -54,
+        "lat": -3,
+        "escala": 5.5
+      },
+      "lugares": [
+        {
+          "nome": "Manaus",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "Primeiro em Manaus"
+        },
+        {
+          "nome": "Belém",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "depois em Belém",
+          "destaque": true
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -60,
+              -3.1
+            ],
+            [
+              -55,
+              -2.2
+            ],
+            [
+              -51.5,
+              -1.2
+            ],
+            [
+              -48.5,
+              -1.45
+            ]
+          ],
+          "quando": "Primeiro em Manaus",
+          "ate": "as duas vezes"
+        }
+      ]
+    },
+    {
+      "id": "b06-carlos",
+      "tipo": "perfil",
+      "ano": 1916,
+      "papel": "O filho mais velho",
+      "nome": "Carlos Gracie",
+      "anos": "1902 – 1994",
+      "wiki": "Carlos_Gracie",
+      "narracao": "E Gastão tinha um filho mais velho. Carlos Gracie nasce em Belém, em setembro de [1902|mil novecentos e dois]. É o primeiro de uma família grande, que troca de casa o tempo todo, conforme os negócios do pai sobem e descem. Os relatos da família descrevem um menino agitado. Já o próprio Carlos, numa entrevista de [1981|mil novecentos e oitenta e um], se lembrava de outro jeito: um garoto franzino, com complexo de inferioridade. Em [1916|mil novecentos e dezesseis], esse garoto tem treze, catorze anos. E a cidade só fala dos japoneses.",
+      "fatos": [
+        {
+          "texto": "Nasce em Belém, em setembro de 1902",
+          "quando": "nasce em Belém"
+        },
+        {
+          "texto": "Família grande, sempre mudando de casa",
+          "quando": "troca de casa"
+        },
+        {
+          "texto": "Para a família: agitado, difícil de segurar",
+          "quando": "um menino agitado"
+        },
+        {
+          "texto": "Para ele mesmo: franzino e inseguro",
+          "quando": "um garoto franzino"
+        }
+      ]
+    },
+    {
+      "id": "b07-versao-oficial",
+      "tipo": "cartao",
+      "ano": 1917,
+      "rotulo": "A versão da família",
+      "titulo": "De Maeda direto para Carlos",
+      "narracao": "Agora, a versão oficial. É a que a família Gracie conta há décadas. Por volta de [1917|mil novecentos e dezessete], o adolescente Carlos assiste a uma apresentação do Conde Koma no Teatro da Paz, em Belém. Vê o japonês dominar homens muito maiores e fica fascinado. O pai, amigo de Maeda, leva o filho até ele. Carlos vira aluno direto do mestre e treina com ele durante alguns anos. Depois, ensina tudo aos irmãos. Nessa versão, a linha é reta: de Maeda para Carlos.",
+      "itens": [
+        {
+          "texto": "1917: Carlos vê Maeda no Teatro da Paz",
+          "quando": "Teatro da Paz"
+        },
+        {
+          "texto": "O pai, amigo de Maeda, leva o filho",
+          "quando": "leva o filho"
+        },
+        {
+          "texto": "Aluno direto, por alguns anos",
+          "quando": "vira aluno direto"
+        },
+        {
+          "texto": "Depois, Carlos ensina os irmãos",
+          "quando": "ensina tudo"
+        }
+      ]
+    },
+    {
+      "id": "b08-jornais",
+      "tipo": "linha",
+      "ano": 1921,
+      "titulo": "O que os jornais registram",
+      "narracao": "Nos últimos anos, três pesquisadores foram conferir essa história nos jornais antigos: Roberto Pedreira, José Cairus e Robert Drysdale. Em [1916|mil novecentos e dezesseis], Maeda de fato abre aulas em Belém. Em junho de [1920|mil novecentos e vinte], o jornal Estado do Pará publica aquela lista de cinco alunos promovidos por ele. Carlos não está na lista. Em junho de [1921|mil novecentos e vinte e um], o mesmo jornal cita um Gracie numa apresentação de jiu-jitsu, mas como aluno do professor Jacyntho Ferro. E o primeiro nome impresso é Oscar, não Carlos. Para Drysdale, foi provavelmente erro do jornal.",
+      "eventos": [
+        {
+          "ano": "1916",
+          "texto": "Maeda abre aulas de jiu-jitsu em Belém",
+          "quando": "abre aulas"
+        },
+        {
+          "ano": "1920",
+          "texto": "Cinco alunos promovidos. Carlos não está na lista",
+          "quando": "cinco alunos promovidos"
+        },
+        {
+          "ano": "1921",
+          "texto": "Um Gracie aparece como aluno de Jacyntho Ferro",
+          "quando": "cita um Gracie"
+        },
+        {
+          "ano": "1921",
+          "texto": "O jornal imprime \"Oscar Gracie\"",
+          "quando": "é Oscar"
+        }
+      ]
+    },
+    {
+      "id": "b09-ferro",
+      "tipo": "perfil",
+      "ano": 1920,
+      "papel": "O instrutor-chefe de Maeda",
+      "nome": "Jacyntho Ferro",
+      "anos": "morto em 1929",
+      "narracao": "Lembra de Jacyntho Ferro, o braço direito de Maeda? É aqui que ele volta à história. Ferro está entre os cinco promovidos de [1920|mil novecentos e vinte]. O historiador José Cairus o descreve como o instrutor-chefe da escola. E Maeda viajava muito. Nessa época, ele já lutava pouco e se ocupava cada vez mais de outros assuntos. Por isso, dizem os historiadores, é bem provável que o professor do dia a dia de Carlos tenha sido um brasileiro. Ferro morre em [1929|mil novecentos e vinte e nove], antes de o sobrenome Gracie ficar famoso.",
+      "fatos": [
+        {
+          "texto": "O braço direito de Maeda em Belém",
+          "quando": "o braço direito"
+        },
+        {
+          "texto": "Um dos cinco promovidos de 1920",
+          "quando": "os cinco promovidos"
+        },
+        {
+          "texto": "Instrutor-chefe da escola de Maeda",
+          "quando": "o instrutor-chefe"
+        },
+        {
+          "texto": "Provável professor do dia a dia de Carlos",
+          "quando": "professor do dia"
+        }
+      ]
+    },
+    {
+      "id": "b10-duas-versoes",
+      "tipo": "comparacao",
+      "ano": 1931,
+      "titulo": "Carlos foi aluno direto de Maeda?",
+      "narracao": "De um lado, a família. Carlos sempre disse que aprendeu com o próprio Conde Koma, e a biografia de Reila Gracie mantém essa versão. Do outro lado, os historiadores. Cairus calcula que o aprendizado, com Maeda e com Ferro, não passou de três anos. Pedreira e Drysdale vão mais longe: para eles, Carlos aprendeu principalmente com alunos brasileiros de Maeda, e nenhum jornal da época o aponta como aluno do japonês. Em [1931|mil novecentos e trinta e um], o paraense Donato Pires dos Reis afirma na imprensa que Carlos não foi aluno direto de Maeda. Só que Donato, nessa altura, estava brigado com ele.",
+      "esquerda": {
+        "titulo": "Versão da família",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Carlos aprendeu com o próprio Conde Koma",
+            "quando": "Carlos sempre disse"
+          },
+          {
+            "texto": "Defendida na biografia de Reila Gracie",
+            "quando": "Reila Gracie"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Versão dos historiadores",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Cairus: no máximo três anos, com Maeda e Ferro",
+            "quando": "Cairus calcula"
+          },
+          {
+            "texto": "Pedreira e Drysdale: os professores eram brasileiros",
+            "quando": "Pedreira e Drysdale"
+          },
+          {
+            "texto": "Donato Pires, 1931: não foi aluno direto",
+            "quando": "Donato Pires"
+          },
+          {
+            "texto": "Mas Donato estava brigado com Carlos",
+            "quando": "estava brigado"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b11-linhagem",
+      "tipo": "linhagem",
+      "ano": 1921,
+      "titulo": "A linha contestada",
+      "narracao": "No alto, Mitsuyo Maeda. Logo abaixo, Jacyntho Ferro, o aluno mais graduado de Belém. Abaixo de Ferro, segundo o jornal de [1921|mil novecentos e vinte e um], Donato Pires dos Reis. E Carlos Gracie? A linha dele até Maeda fica tracejada. Pode ter sido direta, como diz a família. Pode ter passado por Ferro, como dizem os historiadores. Mas repare: nos dois desenhos, a origem é a mesma. O que Carlos aprendeu em Belém era o judô de Maeda, com o nome de jiu-jitsu. A dúvida é só quem estava na frente dele no tatame.",
+      "nos": [
+        {
+          "id": "maeda",
+          "nome": "Mitsuyo Maeda",
+          "sub": "Conde Koma, do Kodokan",
+          "quando": "Mitsuyo Maeda"
+        },
+        {
+          "id": "ferro",
+          "nome": "Jacyntho Ferro",
+          "sub": "o mais graduado de Belém",
+          "pai": "maeda",
+          "quando": "Jacyntho Ferro"
+        },
+        {
+          "id": "donato",
+          "nome": "Donato Pires dos Reis",
+          "sub": "aluno de Ferro",
+          "pai": "ferro",
+          "quando": "Donato Pires"
+        },
+        {
+          "id": "carlos",
+          "nome": "Carlos Gracie",
+          "sub": "direto, ou por Ferro?",
+          "pai": "maeda",
+          "quando": "E Carlos Gracie",
+          "incerto": true
+        }
+      ]
+    },
+    {
+      "id": "b12-seguro",
+      "tipo": "cartao",
+      "ano": 1921,
+      "rotulo": "Sem lenda",
+      "titulo": "O que é seguro afirmar",
+      "narracao": "O que dá para afirmar com segurança? Primeira: Gastão Gracie e Maeda se conheciam, e trabalhavam no mesmo meio. Segunda: Carlos teve contato com o jiu-jitsu em Belém ainda adolescente. Terceira: esse aprendizado foi curto, de poucos anos, e não há registro de diploma nem de graduação. O próprio Maeda, aliás, teria dito anos depois que jamais deu uma faixa preta no Brasil. Quarta: não apareceu até hoje nenhum documento da época que mostre Carlos como aluno direto. Isso não prova que ele não foi. Mas pede cuidado.",
+      "itens": [
+        {
+          "texto": "Gastão e Maeda se conheciam",
+          "quando": "se conheciam"
+        },
+        {
+          "texto": "Carlos conheceu o jiu-jitsu em Belém, adolescente",
+          "quando": "Carlos teve contato"
+        },
+        {
+          "texto": "Aprendizado curto, sem diploma registrado",
+          "quando": "aprendizado foi curto"
+        },
+        {
+          "texto": "Nenhum documento da época o mostra como aluno direto",
+          "quando": "nenhum documento"
+        }
+      ]
+    },
+    {
+      "id": "b13-rumo-ao-rio",
+      "tipo": "mapa",
+      "ano": 1922,
+      "titulo": "De Belém para o Rio",
+      "narracao": "Enquanto isso, o dinheiro acaba. A borracha da Amazônia perde para a da Ásia, e os negócios de Gastão vão mal. Em fevereiro de [1921|mil novecentos e vinte e um], morre no Rio o pai dele, Pedro Gracie. A família decide voltar. A data da mudança varia conforme a fonte: Carlos dizia que tinha dezessete anos, outros relatos falam no fim de [1921|mil novecentos e vinte e um] ou em [1922|mil novecentos e vinte e dois]. O certo é que, por volta dos vinte anos, Carlos Gracie desembarca no Rio de Janeiro. Leva o sobrenome e alguns anos de tatame. E é na capital da República que essa história continua.",
+      "vista": {
+        "lon": -48.5,
+        "lat": -3,
+        "escala": 5
+      },
+      "ate": {
+        "lon": -45,
+        "lat": -14,
+        "escala": 3
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -48.5,
+              -1.45
+            ],
+            [
+              -44,
+              -1.5
+            ],
+            [
+              -37,
+              -4.5
+            ],
+            [
+              -34.5,
+              -8
+            ],
+            [
+              -38,
+              -13.5
+            ],
+            [
+              -39.5,
+              -19
+            ],
+            [
+              -43.2,
+              -22.9
+            ]
+          ],
+          "quando": "A família decide",
+          "ate": "Carlos Gracie desembarca"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Belém",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "o dinheiro acaba"
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "Rio de Janeiro",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "c01-rio-capital",
+      "tipo": "mapa",
+      "ano": 1922,
+      "titulo": "Rio de Janeiro, capital da República",
+      "narracao": "Nos anos vinte, o Rio de Janeiro é a capital da República. Tem mais de um milhão de habitantes, bondes, cassinos, teatros e jornais para todos os gostos. É para lá que a família Gracie se muda, no começo da década, quando o dinheiro aperta em Belém. Carlos tem uns vinte anos. Não tem academia, não tem fama e não tem profissão certa. O jiu-jitsu que ele conheceu em Belém ainda não paga as contas. E a cidade já tem os seus donos do ringue.",
+      "vista": {
+        "lon": -50,
+        "lat": -12,
+        "escala": 3
+      },
+      "ate": {
+        "lon": -43.5,
+        "lat": -21.5,
+        "escala": 6
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -48.5,
+              -1.45
+            ],
+            [
+              -38.5,
+              -3.7
+            ],
+            [
+              -34.9,
+              -8.05
+            ],
+            [
+              -38.5,
+              -12.9
+            ],
+            [
+              -43.2,
+              -22.9
+            ]
+          ],
+          "quando": "a família Gracie",
+          "ate": "Carlos tem"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "o Rio de Janeiro",
+          "destaque": true
+        },
+        {
+          "nome": "Belém",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "em Belém"
+        }
+      ]
+    },
+    {
+      "id": "c02-ringues-do-rio",
+      "tipo": "cartao",
+      "ano": 1925,
+      "rotulo": "Rio, anos 1920",
+      "titulo": "Uma cidade que gosta de luta",
+      "narracao": "O Rio dessa época gosta de luta. Nos circos e nos teatros, homens da luta romana e do boxe aceitam desafios diante da plateia. Nas ruas e nos clubes, a capoeira tenta deixar de ser caso de polícia e virar ginástica nacional. E o jiu-jitsu não é novidade: Mário Aleixo, um professor carioca, ensina a luta japonesa na cidade desde [1913|mil novecentos e treze]. Os jornais esportivos cobrem tudo, e vivem de rivalidade. Quem quiser um lugar nesse mundo vai ter que aparecer no jornal.",
+      "itens": [
+        {
+          "texto": "Circos e teatros: luta romana e boxe com desafio",
+          "quando": "Nos circos"
+        },
+        {
+          "texto": "Capoeira: de caso de polícia a ginástica nacional",
+          "quando": "a capoeira tenta"
+        },
+        {
+          "texto": "Mário Aleixo ensina jiu-jitsu no Rio desde 1913",
+          "quando": "Mário Aleixo"
+        },
+        {
+          "texto": "Jornais esportivos vivem de rivalidade",
+          "quando": "Os jornais esportivos"
+        }
+      ]
+    },
+    {
+      "id": "c03-anos-dificeis",
+      "tipo": "cartao",
+      "ano": 1926,
+      "rotulo": "Carlos Gracie no Rio",
+      "titulo": "Os anos sem rumo",
+      "narracao": "Sobre Carlos nesses anos, os documentos são poucos. Ele trabalha como segurança no cassino do pai, até os dois brigarem. Depois passa por outros empregos, sem se firmar em nenhum. Mais tarde, a família falaria em vitórias e num título de boxe amador nessa época. Os historiadores procuraram e não acharam registro. É um rapaz inquieto, à procura de um caminho. E o caminho aparece na figura de um conhecido dos tempos de Belém.",
+      "itens": [
+        {
+          "texto": "Poucos documentos sobre esses anos",
+          "quando": "os documentos são"
+        },
+        {
+          "texto": "Segurança no cassino do pai, até a briga",
+          "quando": "segurança no cassino"
+        },
+        {
+          "texto": "Outros empregos, nenhum firme",
+          "quando": "outros empregos"
+        },
+        {
+          "texto": "Título de boxe amador: sem registro",
+          "quando": "não acharam registro"
+        }
+      ]
+    },
+    {
+      "id": "c04-donato",
+      "tipo": "perfil",
+      "ano": 1928,
+      "papel": "O fundador esquecido",
+      "nome": "Donato Pires dos Reis",
+      "narracao": "Donato Pires dos Reis também é de Belém. Em [1921|mil novecentos e vinte e um], um jornal da cidade já o citava como aluno de Jacyntho Ferro, o assistente de Maeda. Ele passa boa parte da década treinando jiu-jitsu na academia do Conde Koma, e boxe numa escola de pugilismo. É funcionário público, e viaja muito a trabalho. Entre os brasileiros que aprenderam em Belém, Donato é visto como mais antigo que Carlos. Em [1928|mil novecentos e vinte e oito], ele recebe uma proposta que muda a vida dos dois.",
+      "fatos": [
+        {
+          "texto": "Paraense, de Belém",
+          "quando": "é de Belém"
+        },
+        {
+          "texto": "1921: citado como aluno de Jacyntho Ferro",
+          "quando": "aluno de Jacyntho"
+        },
+        {
+          "texto": "Treina jiu-jitsu com Maeda e também boxe",
+          "quando": "treinando jiu-jitsu"
+        },
+        {
+          "texto": "Funcionário público, sempre em viagem",
+          "quando": "É funcionário público"
+        },
+        {
+          "texto": "Mais antigo que Carlos Gracie",
+          "quando": "mais antigo"
+        }
+      ]
+    },
+    {
+      "id": "c05-minas",
+      "tipo": "mapa",
+      "ano": 1928,
+      "titulo": "Minas Gerais, 1928",
+      "narracao": "A proposta vem de Minas Gerais. A polícia do estado contrata Donato por dois anos, para ensinar defesa pessoal aos seus homens. Segundo os pesquisadores, ele cruza com Carlos no Rio de Janeiro e o chama para ser instrutor auxiliar. Os dois trabalham juntos em Minas de [1928|mil novecentos e vinte e oito] a [1930|mil novecentos e trinta]. É o primeiro trabalho de Carlos Gracie como professor de jiu-jitsu que as fontes registram. Mas Carlos quer mais do que dar aula. Ele quer lutar.",
+      "vista": {
+        "lon": -44,
+        "lat": -21.5,
+        "escala": 6
+      },
+      "ate": {
+        "lon": -44.5,
+        "lat": -21.5,
+        "escala": 7
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -43.2,
+              -22.9
+            ],
+            [
+              -43.35,
+              -21.76
+            ],
+            [
+              -43.94,
+              -19.92
+            ]
+          ],
+          "quando": "o chama para",
+          "ate": "trabalham juntos"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Belo Horizonte",
+          "coord": [
+            -43.94,
+            -19.92
+          ],
+          "quando": "de Minas Gerais",
+          "destaque": true
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "no Rio de Janeiro"
+        },
+        {
+          "nome": "São Paulo",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "Ele quer lutar"
+        }
+      ]
+    },
+    {
+      "id": "c06-sao-paulo-japonesa",
+      "tipo": "cartao",
+      "ano": 1928,
+      "rotulo": "São Paulo, 1928",
+      "titulo": "A cena japonesa",
+      "narracao": "E o lugar para lutar é São Paulo. Desde [1908|mil novecentos e oito], quando o navio [Kasato Maru|Cassato Maru] chegou a Santos, o estado recebe a maior parte dos imigrantes japoneses que vêm para o Brasil. Com eles vêm o judô e o jiu-jitsu, nomes que os jornais da época usam para a mesma coisa. Nos circos da capital paulista, lutadores japoneses desafiam quem aparecer: boxeadores, capoeiristas, homens fortes. Em [1928|mil novecentos e vinte e oito], uma multidão lota o Circo Queirolo, no centro, para ver um japonês enfrentar um capoeirista. O japonês se chama Geo Omori.",
+      "itens": [
+        {
+          "texto": "1908: o Kasato Maru chega a Santos",
+          "quando": "Kasato Maru"
+        },
+        {
+          "texto": "Judô e jiu-jitsu: dois nomes, a mesma luta",
+          "quando": "o judô e"
+        },
+        {
+          "texto": "Nos circos, japoneses desafiam quem aparecer",
+          "quando": "Nos circos"
+        },
+        {
+          "texto": "1928: Circo Queirolo lotado, japonês contra capoeirista",
+          "quando": "o Circo Queirolo"
+        }
+      ]
+    },
+    {
+      "id": "c07-omori",
+      "tipo": "perfil",
+      "ano": 1928,
+      "papel": "O japonês dos desafios",
+      "nome": "Geo Omori",
+      "anos": "1898 – 1938",
+      "wiki": "Geo_Omori",
+      "narracao": "Geo Omori nasceu em Tóquio, em [1898|mil oitocentos e noventa e oito]. Entrou no Kodokan ainda menino, aos nove anos, e recebeu a faixa preta aos dezessete. Depois de uma temporada na América do Norte, chega ao Brasil em [1925|mil novecentos e vinte e cinco]. Em [1928|mil novecentos e vinte e oito], abre uma escola de jiu-jitsu em São Paulo e luta no circo: quem o vencesse levava uma medalha de ouro. Quase ninguém leva. Omori é técnico, experiente e sabe fazer espetáculo. Para um novato que quer fazer nome, é o adversário perfeito. E Carlos Gracie resolve desafiá-lo.",
+      "fatos": [
+        {
+          "texto": "Nasce em Tóquio, em 1898",
+          "quando": "nasceu em Tóquio"
+        },
+        {
+          "texto": "Kodokan aos 9 anos, faixa preta aos 17",
+          "quando": "Entrou no Kodokan"
+        },
+        {
+          "texto": "Chega ao Brasil em 1925",
+          "quando": "chega ao Brasil"
+        },
+        {
+          "texto": "1928: abre escola de jiu-jitsu em São Paulo",
+          "quando": "abre uma escola"
+        },
+        {
+          "texto": "No circo: medalha de ouro a quem o vencer",
+          "quando": "medalha de ouro"
+        }
+      ]
+    },
+    {
+      "id": "c08-carlos-omori",
+      "tipo": "comparacao",
+      "ano": 1930,
+      "titulo": "Carlos Gracie x Geo Omori: dois empates, duas versões",
+      "narracao": "Em [1929|mil novecentos e vinte e nove], Carlos desafia Omori. A primeira resposta, segundo o historiador Roberto Pedreira, é não: falta experiência ao brasileiro. Mesmo assim, os dois acabam se enfrentando duas vezes. A segunda é em janeiro de [1930|mil novecentos e trinta], em São Paulo. O resultado, nas duas, é empate. E aqui as versões se separam. Carlos diz que foram lutas de verdade. Omori diz que foram demonstrações, e que Gastão, o pai de Carlos, pagou para o filho fazer bonito. Os jornais da época notam uma coisa: Carlos tinha melhorado.",
+      "esquerda": {
+        "titulo": "Versão de Carlos",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "1929: Carlos desafia Omori",
+            "quando": "Carlos desafia Omori"
+          },
+          {
+            "texto": "Dois encontros, dois empates",
+            "quando": "é empate"
+          },
+          {
+            "texto": "Foram lutas de verdade",
+            "quando": "lutas de verdade"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Versão de Omori",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Primeiro recusou: faltava experiência a Carlos",
+            "quando": "falta experiência"
+          },
+          {
+            "texto": "Foram só demonstrações",
+            "quando": "foram demonstrações"
+          },
+          {
+            "texto": "Gastão pagou para o filho fazer bonito",
+            "quando": "pagou para"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09-volta-ao-rio",
+      "tipo": "mapa",
+      "ano": 1930,
+      "titulo": "De São Paulo de volta ao Rio",
+      "narracao": "Depois de Omori, Carlos e o irmão George ficam um tempo em São Paulo. Segundo Pedreira, abrem uma escola pequena no bairro de Perdizes e chamam o próprio Omori para ensinar ali. A aventura dura pouco. Carlos se mete numa briga com três homens, é preso, e os irmãos voltam para o Rio de Janeiro. Voltam com algo que não tinham antes: o nome no jornal, ao lado do nome de um japonês respeitado. No Rio, Donato Pires dos Reis está prestes a abrir uma academia.",
+      "vista": {
+        "lon": -46.2,
+        "lat": -23.3,
+        "escala": 7
+      },
+      "ate": {
+        "lon": -44,
+        "lat": -23,
+        "escala": 7
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -46.63,
+              -23.55
+            ],
+            [
+              -45.4,
+              -23.0
+            ],
+            [
+              -44.3,
+              -22.6
+            ],
+            [
+              -43.2,
+              -22.9
+            ]
+          ],
+          "quando": "os irmãos voltam",
+          "ate": "o nome no jornal"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "São Paulo",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "em São Paulo"
+        },
+        {
+          "nome": "Perdizes: escola dos irmãos",
+          "coord": [
+            -46.68,
+            -23.53
+          ],
+          "quando": "bairro de Perdizes"
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "o Rio de Janeiro",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "c10-academia-1930",
+      "tipo": "cartao",
+      "ano": 1930,
+      "rotulo": "Flamengo, setembro de 1930",
+      "titulo": "A Academia de Jiu-Jitsu",
+      "destaque": "Rua Marquês de Abrantes, 106",
+      "narracao": "Em setembro de [1930|mil novecentos e trinta], o jornal O Globo anuncia a novidade: uma academia de jiu-jitsu na Rua Marquês de Abrantes, número [106|cento e seis], no Flamengo. O diretor é Donato Pires dos Reis. Os instrutores auxiliares são dois irmãos: Carlos e George Gracie. O anúncio apresenta o jiu-jitsu como um sistema de defesa pessoal. Não é a primeira escola de jiu-jitsu do Rio. Mas, segundo os pesquisadores, é a primeira dirigida por um brasileiro que aprendeu na academia de um mestre japonês. E o nome dela ainda não é Gracie.",
+      "itens": [
+        {
+          "texto": "Setembro de 1930: anúncio no jornal O Globo",
+          "quando": "o jornal O Globo"
+        },
+        {
+          "texto": "Diretor: Donato Pires dos Reis",
+          "quando": "O diretor é"
+        },
+        {
+          "texto": "Auxiliares: Carlos e George Gracie",
+          "quando": "Os instrutores auxiliares"
+        },
+        {
+          "texto": "Jiu-jitsu como sistema de defesa pessoal",
+          "quando": "sistema de defesa"
+        },
+        {
+          "texto": "O nome ainda não é Gracie",
+          "quando": "ainda não é Gracie"
+        }
+      ]
+    },
+    {
+      "id": "c11-saida-donato",
+      "tipo": "linha",
+      "ano": 1931,
+      "titulo": "De Academia de Jiu-Jitsu a Academia Gracie",
+      "narracao": "Donato fica pouco tempo. As fontes divergem: uma diz que ele sai em dezembro de [1930|mil novecentos e trinta], três meses depois de abrir; outra, que se muda para Santa Catarina em junho de [1931|mil novecentos e trinta e um], transferido pelo emprego público. O certo é que a academia fica nas mãos de Carlos e George. Em agosto de [1931|mil novecentos e trinta e um], vem o rompimento: Donato declara à imprensa que Carlos nunca foi aluno direto de Maeda, e a relação entre os dois termina em briga. Em outubro de [1932|mil novecentos e trinta e dois], os anúncios de jornal já trazem outro nome: Academia Gracie.",
+      "eventos": [
+        {
+          "ano": "set. 1930",
+          "texto": "Donato abre a academia no Flamengo",
+          "quando": "Donato fica pouco"
+        },
+        {
+          "ano": "dez. 1930 ou jun. 1931",
+          "texto": "Donato sai; as fontes divergem na data",
+          "quando": "As fontes divergem"
+        },
+        {
+          "ano": "1931",
+          "texto": "Carlos e George assumem a academia",
+          "quando": "nas mãos de"
+        },
+        {
+          "ano": "ago. 1931",
+          "texto": "Rompimento público entre Donato e Carlos",
+          "quando": "vem o rompimento"
+        },
+        {
+          "ano": "out. 1932",
+          "texto": "Os jornais anunciam a Academia Gracie",
+          "quando": "Academia Gracie"
+        }
+      ]
+    },
+    {
+      "id": "c12-1925-ou-1930",
+      "tipo": "comparacao",
+      "ano": 1930,
+      "titulo": "Quando nasceu a primeira academia?",
+      "narracao": "E isso nos leva a uma data. A tradição da família Gracie diz que Carlos abriu a primeira academia em [1925|mil novecentos e vinte e cinco], naquele mesmo endereço do Flamengo. É a data que aparece em livros e em academias do mundo inteiro. Mas os jornais da época contam outra coisa. A academia da Marquês de Abrantes abre em [1930|mil novecentos e trinta], e o diretor é Donato. É o que mostram pesquisadores como Roberto Pedreira. São cinco anos de diferença. E um fundador que quase sumiu da história contada.",
+      "esquerda": {
+        "titulo": "1925: a tradição da família",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Carlos abre a primeira academia em 1925",
+            "quando": "Carlos abriu"
+          },
+          {
+            "texto": "No mesmo endereço do Flamengo",
+            "quando": "naquele mesmo endereço"
+          },
+          {
+            "texto": "A data repetida em livros e academias",
+            "quando": "É a data"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "1930: os jornais da época",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "A academia abre em setembro de 1930",
+            "quando": "abre em 1930"
+          },
+          {
+            "texto": "O diretor é Donato Pires dos Reis",
+            "quando": "o diretor é Donato"
+          },
+          {
+            "texto": "Defendida por pesquisadores como Roberto Pedreira",
+            "quando": "pesquisadores como"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c13-academia-funcionando",
+      "tipo": "linhagem",
+      "ano": 1931,
+      "titulo": "Flamengo, começo dos anos 1930",
+      "narracao": "No começo dos anos trinta, então, o quadro é este. Maeda continua em Belém. Donato, que aprendeu na academia dele, segue a carreira de funcionário público. E no Flamengo, na Rua Marquês de Abrantes, a academia continua aberta, agora com Carlos e George Gracie no comando. Carlos tem quase trinta anos e, enfim, um lugar seu. Mas ele não vai segurar esse lugar sozinho. Há irmãos mais novos chegando ao tatame: Oswaldo, Gastão e o caçula, Hélio.",
+      "nos": [
+        {
+          "id": "maeda",
+          "nome": "Mitsuyo Maeda",
+          "sub": "Conde Koma, Belém",
+          "quando": "Maeda continua"
+        },
+        {
+          "id": "donato",
+          "nome": "Donato Pires dos Reis",
+          "sub": "fundador da academia de 1930",
+          "pai": "maeda",
+          "quando": "Donato, que aprendeu"
+        },
+        {
+          "id": "carlos",
+          "nome": "Carlos Gracie",
+          "sub": "assume a academia",
+          "pai": "donato",
+          "quando": "com Carlos e"
+        },
+        {
+          "id": "george",
+          "nome": "George Gracie",
+          "sub": "assume com o irmão",
+          "pai": "donato",
+          "quando": "George Gracie"
+        },
+        {
+          "id": "irmaos",
+          "nome": "Oswaldo, Gastão e Hélio",
+          "sub": "os irmãos mais novos",
+          "pai": "carlos",
+          "quando": "irmãos mais novos"
+        }
+      ]
+    },
+    {
+      "id": "d01-irmaos",
+      "tipo": "linhagem",
+      "ano": 1925,
+      "titulo": "Os cinco irmãos Gracie",
+      "narracao": "Gastão Gracie teve cinco filhos homens. Carlos, o mais velho, nasceu em [1902|mil novecentos e dois]. Depois vieram Oswaldo, Gastão Júnior, George e, por último, Hélio, o caçula, em [1913|mil novecentos e treze]. No Rio de Janeiro, os cinco acabam em volta do mesmo tatame. Carlos aprende primeiro e passa adiante. Um irmão ensina o outro. É assim que uma luta japonesa vira negócio de família. E cada irmão vai ter um papel diferente nessa história.",
+      "nos": [
+        {
+          "id": "gastao",
+          "nome": "Gastão Gracie",
+          "sub": "o pai",
+          "quando": "Gastão Gracie teve"
+        },
+        {
+          "id": "carlos",
+          "nome": "Carlos",
+          "sub": "1902, o mais velho",
+          "pai": "gastao",
+          "quando": "Carlos, o mais velho"
+        },
+        {
+          "id": "oswaldo",
+          "nome": "Oswaldo",
+          "pai": "gastao",
+          "quando": "Depois vieram Oswaldo"
+        },
+        {
+          "id": "gastaojr",
+          "nome": "Gastão Jr.",
+          "pai": "gastao",
+          "quando": "Gastão Júnior"
+        },
+        {
+          "id": "george",
+          "nome": "George",
+          "sub": "1911",
+          "pai": "gastao",
+          "quando": "George e"
+        },
+        {
+          "id": "helio",
+          "nome": "Hélio",
+          "sub": "1913, o caçula",
+          "pai": "gastao",
+          "quando": "Hélio, o caçula"
+        }
+      ]
+    },
+    {
+      "id": "d02-papeis",
+      "tipo": "cartao",
+      "ano": 1930,
+      "rotulo": "Negócio de família",
+      "titulo": "O papel de cada irmão",
+      "narracao": "Carlos é o chefe. Ele cuida da academia e, mais tarde, da carreira dos irmãos. Oswaldo e Gastão Júnior ajudam nas aulas. Oswaldo também sobe no ringue no começo dos anos trinta. Gastão Júnior é o mais discreto dos cinco, e é dele que as fontes menos falam. George e Hélio, os dois mais novos, são os que mais vão lutar. Um deles vai virar o rosto da família. O outro, por muito tempo, ficou quase esquecido.",
+      "itens": [
+        {
+          "texto": "Carlos: o chefe e o mentor",
+          "quando": "Carlos é o chefe"
+        },
+        {
+          "texto": "Oswaldo: ajuda nas aulas e também luta",
+          "quando": "Oswaldo e Gastão"
+        },
+        {
+          "texto": "Gastão Jr.: o mais discreto dos cinco",
+          "quando": "o mais discreto"
+        },
+        {
+          "texto": "George e Hélio: os lutadores",
+          "quando": "George e Hélio"
+        }
+      ]
+    },
+    {
+      "id": "d03-george",
+      "tipo": "perfil",
+      "ano": 1933,
+      "papel": "O Gato Ruivo",
+      "nome": "George Gracie",
+      "anos": "1911 – ?",
+      "narracao": "O esquecido é George Gracie. Ele nasceu em [1911|mil novecentos e onze] e era ruivo. Daí o apelido: Gato Ruivo. George estreia como profissional por volta de [1930|mil novecentos e trinta]. Nos anos seguintes, é o Gracie que mais luta. Com kimono, sem kimono, contra lutadores de luta livre, em várias cidades do país. Pesquisadores contam mais de setenta lutas dele. George era independente. Saiu da academia dos irmãos e voltou mais de uma vez. Talvez por isso a história oficial fale tão pouco dele.",
+      "fatos": [
+        {
+          "texto": "Nasce em 1911. Ruivo: o Gato Ruivo",
+          "quando": "Ele nasceu"
+        },
+        {
+          "texto": "Estreia como profissional por volta de 1930",
+          "quando": "George estreia"
+        },
+        {
+          "texto": "O Gracie mais ativo dos anos 1930",
+          "quando": "que mais luta"
+        },
+        {
+          "texto": "Mais de 70 lutas documentadas",
+          "quando": "mais de setenta"
+        },
+        {
+          "texto": "Independente: sai e volta da academia dos irmãos",
+          "quando": "George era independente"
+        }
+      ]
+    },
+    {
+      "id": "d04-helio",
+      "tipo": "perfil",
+      "ano": 1929,
+      "papel": "O caçula",
+      "nome": "Hélio Gracie",
+      "anos": "1913 – 2009",
+      "wiki": "Hélio_Gracie",
+      "narracao": "E o caçula? Hélio Gracie nasce em Belém, em primeiro de outubro de [1913|mil novecentos e treze]. A história que a família conta é famosa. Hélio era um menino franzino, que tinha tonturas e desmaiava. Os médicos proibiram o esforço. Então ele ficava sentado, olhando Carlos dar aula. Um dia, Carlos se atrasa. Hélio, com dezesseis anos, se oferece para ensinar o aluno. E ensina bem. Sem força, diz a história, ele adapta cada golpe. Troca o músculo pela alavanca e pelo tempo certo.",
+      "fatos": [
+        {
+          "texto": "Nasce em Belém, em 1º de outubro de 1913",
+          "quando": "nasce em Belém"
+        },
+        {
+          "texto": "Versão da família: menino franzino, proibido de treinar",
+          "quando": "um menino franzino"
+        },
+        {
+          "texto": "Aprende olhando Carlos dar aula",
+          "quando": "olhando Carlos"
+        },
+        {
+          "texto": "Aos 16 anos, assume uma aula no lugar do irmão",
+          "quando": "com dezesseis anos"
+        },
+        {
+          "texto": "Alavanca e tempo certo no lugar da força",
+          "quando": "Troca o músculo"
+        }
+      ]
+    },
+    {
+      "id": "d05-versoes",
+      "tipo": "comparacao",
+      "ano": 1930,
+      "titulo": "Hélio: duas versões",
+      "narracao": "Essa é a versão tradicional. Os historiadores olham para ela com cuidado. Primeiro: há registros de que Hélio praticava remo e natação desde menino. Não era um inválido. Segundo: alavanca, estrangulamento e chave de braço já existiam no judô do Kodokan, que Maeda e outros japoneses trouxeram. Pesquisadores como Roberto Pedreira e Robert Drysdale dizem que Hélio não inventou essas técnicas. O que parece seguro é outra coisa. Ele era leve, treinou muito, e deu ênfase à luta de chão e à defesa.",
+      "esquerda": {
+        "titulo": "A versão tradicional",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Menino fraco, proibido de fazer esforço",
+            "quando": "a versão tradicional"
+          },
+          {
+            "texto": "Aprendeu só olhando",
+            "quando": "com cuidado"
+          },
+          {
+            "texto": "Criou a técnica da alavanca",
+            "quando": "Segundo: alavanca"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que dizem os historiadores",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Praticava remo e natação desde menino",
+            "quando": "remo e natação"
+          },
+          {
+            "texto": "As técnicas já existiam no judô do Kodokan",
+            "quando": "já existiam"
+          },
+          {
+            "texto": "Seguro: leve, muito treino, ênfase no chão e na defesa",
+            "quando": "Ele era leve"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d06-estreia",
+      "tipo": "linha",
+      "ano": 1932,
+      "titulo": "A estreia de Hélio",
+      "narracao": "Hélio começa a treinar com os irmãos por volta dos dezesseis anos. O teste vem cedo. Em dezesseis de janeiro de [1932|mil novecentos e trinta e dois], segundo as fontes, ele sobe no ringue pela primeira vez. Tem dezoito anos. O adversário é um boxeador, Antonio Portugal. É jiu-jitsu contra boxe, como nas lutas de Maeda. Dura muito pouco. Hélio vence por finalização, provavelmente uma chave de braço, em cerca de quarenta segundos. Portugal era anunciado como campeão de boxe. Os historiadores dizem que isso era exagero. Mas a família ganhava um novo lutador.",
+      "eventos": [
+        {
+          "ano": "c. 1929",
+          "texto": "Começa a treinar com os irmãos",
+          "quando": "começa a treinar"
+        },
+        {
+          "ano": "16 jan. 1932",
+          "texto": "Primeira luta: contra o boxeador Antonio Portugal",
+          "quando": "sobe no ringue"
+        },
+        {
+          "ano": "1932",
+          "texto": "Vitória por finalização em cerca de 40 segundos",
+          "quando": "vence por finalização"
+        },
+        {
+          "ano": "1932",
+          "texto": "\"Campeão de boxe\"? Exagero, dizem os historiadores",
+          "quando": "isso era exagero"
+        }
+      ]
+    },
+    {
+      "id": "d07-carlos",
+      "tipo": "cartao",
+      "ano": 1932,
+      "rotulo": "O mentor",
+      "titulo": "Carlos, a dieta e a filosofia",
+      "narracao": "Por trás de Hélio está Carlos. Ele para de lutar cedo e vira treinador, empresário e guia dos irmãos. Carlos também se interessa por alimentação. Partindo das ideias de um naturista chamado Juan Esteve Dulin, ele monta um regime próprio: combinar certos alimentos em cada refeição, e evitar álcool, fumo e açúcar. Mais tarde isso ganha nome: a dieta Gracie. Carlos lia sobre teosofia e medicina alternativa. Para ele, o jiu-jitsu não era só luta. Era um jeito de viver.",
+      "itens": [
+        {
+          "texto": "Para de lutar e passa a dirigir a carreira dos irmãos",
+          "quando": "para de lutar"
+        },
+        {
+          "texto": "Regime inspirado no naturista Juan Esteve Dulin",
+          "quando": "um naturista"
+        },
+        {
+          "texto": "Combinar alimentos; evitar álcool, fumo e açúcar",
+          "quando": "combinar certos alimentos"
+        },
+        {
+          "texto": "A dieta Gracie",
+          "quando": "a dieta Gracie"
+        },
+        {
+          "texto": "Jiu-jitsu como um jeito de viver",
+          "quando": "um jeito de viver"
+        }
+      ]
+    },
+    {
+      "id": "d08-marca",
+      "tipo": "comparacao",
+      "ano": 1934,
+      "titulo": "O sobrenome vira marca",
+      "narracao": "Os Gracie entendem cedo que técnica boa não basta. É preciso vender. E o que eles vendem é uma promessa simples: eficiência. Com o jiu-jitsu, o fraco vence o forte. A academia fica no Flamengo, na zona sul do Rio, a poucos quarteirões do palácio do presidente Getúlio Vargas. O historiador José Cairus descreve os Gracie como uma família da velha elite, em decadência, que usa a luta para recuperar prestígio. Nos anos trinta, eles se aproximam do poder e entram para a Polícia Especial de Vargas. O sobrenome vira marca.",
+      "esquerda": {
+        "titulo": "O que vendiam",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Eficiência",
+            "quando": "uma promessa simples"
+          },
+          {
+            "texto": "Defesa pessoal: o fraco vence o forte",
+            "quando": "o fraco vence"
+          },
+          {
+            "texto": "Um sobrenome como garantia",
+            "quando": "O sobrenome vira"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Onde e para quem",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Flamengo, zona sul do Rio",
+            "quando": "no Flamengo"
+          },
+          {
+            "texto": "A poucos quarteirões do palácio presidencial",
+            "quando": "a poucos quarteirões"
+          },
+          {
+            "texto": "Família da velha elite em busca de prestígio (Cairus)",
+            "quando": "da velha elite"
+          },
+          {
+            "texto": "Ligação com a Polícia Especial de Vargas",
+            "quando": "a Polícia Especial"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d09-franca",
+      "tipo": "mapa",
+      "ano": 1937,
+      "titulo": "A outra linhagem: Luiz França",
+      "narracao": "Mas os Gracie não eram os únicos. Existe outra linhagem, e ela começa com Luiz França. Segundo a tradição, França nasce em Manaus, em [1910|mil novecentos e dez], e treina primeiro ali, com Soshihiro Satake, o parceiro de Maeda. Depois vai para Belém e aprende com o próprio Maeda. Mais tarde, em São Paulo, treina com Geo Omori. Por fim, se instala no Rio de Janeiro. É bom avisar: o pesquisador Robert Drysdale diz que não há provas desses três mestres. O que ninguém discute vem depois: o aluno que França formou.",
+      "vista": {
+        "lon": -55,
+        "lat": -10,
+        "escala": 2.6
+      },
+      "ate": {
+        "lon": -49,
+        "lat": -14,
+        "escala": 3
+      },
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -60,
+              -3.1
+            ],
+            [
+              -48.5,
+              -1.45
+            ],
+            [
+              -46.6,
+              -23.5
+            ],
+            [
+              -43.2,
+              -22.9
+            ]
+          ],
+          "quando": "nasce em Manaus",
+          "ate": "no Rio de Janeiro"
+        }
+      ],
+      "lugares": [
+        {
+          "nome": "Manaus: Satake",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "nasce em Manaus"
+        },
+        {
+          "nome": "Belém: Maeda",
+          "coord": [
+            -48.5,
+            -1.45
+          ],
+          "quando": "vai para Belém"
+        },
+        {
+          "nome": "São Paulo: Geo Omori",
+          "coord": [
+            -46.6,
+            -23.5
+          ],
+          "quando": "em São Paulo"
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "no Rio de Janeiro",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "d10-fadda",
+      "tipo": "perfil",
+      "ano": 1942,
+      "papel": "O mestre do subúrbio",
+      "nome": "Oswaldo Fadda",
+      "anos": "1920 – 2005",
+      "wiki": "Oswaldo_Fadda",
+      "narracao": "Esse aluno é Oswaldo Fadda. Filho de imigrantes italianos, ele nasce em [1920|mil novecentos e vinte] em Bento Ribeiro, subúrbio do Rio. Aos dezessete anos, fuzileiro naval, começa a treinar com Luiz França. Por volta de [1942|mil novecentos e quarenta e dois], recebe a faixa preta e passa a ensinar no próprio bairro. Fadda dá aula em praças, em clubes, em pátios de igreja, muitas vezes sem tatame. Ensina gente pobre e pessoas com deficiência física. Em [1950|mil novecentos e cinquenta], abre a sua academia em Bento Ribeiro.",
+      "fatos": [
+        {
+          "texto": "Nasce em 1920, em Bento Ribeiro, subúrbio do Rio",
+          "quando": "ele nasce"
+        },
+        {
+          "texto": "Aos 17, fuzileiro naval, treina com Luiz França",
+          "quando": "Aos dezessete anos"
+        },
+        {
+          "texto": "Faixa preta por volta de 1942",
+          "quando": "recebe a faixa preta"
+        },
+        {
+          "texto": "Aulas em praças, muitas vezes sem tatame",
+          "quando": "em praças"
+        },
+        {
+          "texto": "Ensina gente pobre e pessoas com deficiência",
+          "quando": "Ensina gente pobre"
+        },
+        {
+          "texto": "1950: abre a academia em Bento Ribeiro",
+          "quando": "abre a sua academia"
+        }
+      ]
+    },
+    {
+      "id": "d11-dois-rios",
+      "tipo": "comparacao",
+      "ano": 1950,
+      "titulo": "Dois lados da mesma cidade",
+      "narracao": "Olhe os dois lados da mesma cidade. Na zona sul, perto do palácio, o jiu-jitsu dos Gracie tem sobrenome conhecido, espaço nos jornais e alunos de posses. No subúrbio, na linha do trem, o jiu-jitsu de Fadda é ensinado na praça, para a gente pobre do bairro, muitas vezes de graça. A técnica tem a mesma raiz japonesa. O público é outro. Anos depois, os alunos de Fadda vão enfrentar os alunos dos Gracie, e não vão fazer feio. Mas essa história fica para mais adiante.",
+      "esquerda": {
+        "titulo": "Zona sul: os Gracie",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Flamengo, perto do palácio",
+            "quando": "Na zona sul"
+          },
+          {
+            "texto": "Sobrenome conhecido e espaço nos jornais",
+            "quando": "sobrenome conhecido"
+          },
+          {
+            "texto": "Alunos de posses",
+            "quando": "alunos de posses"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Subúrbio: Fadda",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Bento Ribeiro, na linha do trem",
+            "quando": "No subúrbio"
+          },
+          {
+            "texto": "Aula na praça",
+            "quando": "ensinado na praça"
+          },
+          {
+            "texto": "Gente pobre do bairro, muitas vezes de graça",
+            "quando": "a gente pobre"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d12-duas-arvores",
+      "tipo": "linhagem",
+      "ano": 1937,
+      "titulo": "Uma arte, mais de uma origem",
+      "narracao": "Por que isso importa? Porque o jiu-jitsu brasileiro não tem uma origem só. De Kano saem Maeda e Satake. De Maeda sai o ramo dos Gracie: Carlos, e dele George e Hélio. Essa primeira ligação, você já viu, é discutida. Do outro lado está Luiz França, com ligações que também são discutidas, e dele sai Oswaldo Fadda. Equipes grandes de hoje, como a Nova União e a GFTeam, têm raízes nesse segundo ramo. E havia outros japoneses ensinando no país. A árvore tem mais de um tronco.",
+      "nos": [
+        {
+          "id": "kano",
+          "nome": "Jigoro Kano",
+          "sub": "Kodokan",
+          "quando": "De Kano saem"
+        },
+        {
+          "id": "maeda",
+          "nome": "Mitsuyo Maeda",
+          "sub": "Belém",
+          "pai": "kano",
+          "quando": "Maeda e Satake"
+        },
+        {
+          "id": "satake",
+          "nome": "Soshihiro Satake",
+          "sub": "Manaus",
+          "pai": "kano",
+          "quando": "Maeda e Satake"
+        },
+        {
+          "id": "carlos",
+          "nome": "Carlos Gracie",
+          "sub": "aluno direto de Maeda?",
+          "pai": "maeda",
+          "quando": "o ramo dos Gracie",
+          "incerto": true
+        },
+        {
+          "id": "george",
+          "nome": "George Gracie",
+          "pai": "carlos",
+          "quando": "dele George"
+        },
+        {
+          "id": "helio",
+          "nome": "Hélio Gracie",
+          "pai": "carlos",
+          "quando": "e Hélio"
+        },
+        {
+          "id": "franca",
+          "nome": "Luiz França",
+          "sub": "Satake, Maeda e Omori?",
+          "pai": "maeda",
+          "quando": "está Luiz França",
+          "incerto": true
+        },
+        {
+          "id": "fadda",
+          "nome": "Oswaldo Fadda",
+          "sub": "Bento Ribeiro",
+          "pai": "franca",
+          "quando": "sai Oswaldo Fadda"
+        }
+      ]
+    },
+    {
+      "id": "d13-desafio",
+      "tipo": "cartao",
+      "ano": 1932,
+      "rotulo": "A seguir",
+      "titulo": "Falta a prova",
+      "destaque": "Contra qualquer um",
+      "narracao": "No começo dos anos trinta, as peças estão no lugar. Uma academia no Rio. Um mentor, Carlos. Dois lutadores jovens, George e Hélio. Uma dieta, uma filosofia e um sobrenome que já é marca. Falta uma coisa: prova. Dizer que o fraco vence o forte é fácil. Mostrar é outra conversa. Então os Gracie fazem o que Maeda fazia. Desafiam. Boxeadores, capoeiristas, lutadores de luta livre, judocas japoneses. Em público, contra qualquer um. É a era dos desafios. E ela começa no próximo capítulo.",
+      "itens": [
+        {
+          "texto": "Uma academia, um mentor, dois lutadores",
+          "quando": "Uma academia"
+        },
+        {
+          "texto": "Uma dieta, uma filosofia, uma marca",
+          "quando": "Uma dieta"
+        },
+        {
+          "texto": "Falta provar em público",
+          "quando": "Falta uma coisa"
+        },
+        {
+          "texto": "Boxeadores, capoeiristas, luta livre, judocas",
+          "quando": "Boxeadores, capoeiristas"
+        },
+        {
+          "texto": "Capítulo 3: A era dos desafios",
+          "quando": "a era dos desafios"
+        }
+      ]
+    }
+  ]
+}

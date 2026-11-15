@@ -121,6 +121,12 @@ export const Mapa: React.FC<{ cena: CenaMapa; ritmo: Ritmo }> = ({
             return null;
           }
           const p = surgir(ritmo, ritmo.entra(lugar.quando, k, lugares.length));
+          // Lugares no mesmo ponto (ou quase): empilha os rótulos em vez de sobrepor.
+          const vizinhos = lugares.slice(0, k).filter((outro) => {
+            const o = projecao(outro.coord);
+            return o && Math.abs(o[0] - xy[0]) < 260 && Math.abs(o[1] - xy[1]) < 34;
+          }).length;
+          const descer = vizinhos * 46;
           const cor = lugar.destaque ? COR.dourado : COR.texto;
           // Rótulo para a esquerda quando o ponto está perto da borda direita.
           const esquerda = xy[0] > LARGURA - 420;
@@ -138,7 +144,7 @@ export const Mapa: React.FC<{ cena: CenaMapa; ritmo: Ritmo }> = ({
               />
               <text
                 x={xy[0] + (esquerda ? -30 : 30)}
-                y={xy[1] + 12}
+                y={xy[1] + 12 + descer}
                 textAnchor={esquerda ? "end" : "start"}
                 fontFamily={lugar.destaque ? FONTE_TITULO : FONTE_TEXTO}
                 fontWeight={lugar.destaque ? 700 : 600}

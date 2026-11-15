@@ -436,7 +436,7 @@
       "tipo": "mapa",
       "ano": 1914,
       "titulo": "A chegada ao Brasil",
-      "narracao": "Em [1914|mil novecentos e catorze], depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em dezembro de [1915|mil novecentos e quinze], eles se apresentam em Belém do Pará, no Teatro Politeama. Satake fica em Manaus. Maeda ainda viaja, e volta para Belém por volta de [1917|mil novecentos e dezessete]. Dessa vez, para ficar.",
+      "narracao": "Em [1914|mil novecentos e catorze], depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em outubro de [1915|mil novecentos e quinze], eles se apresentam em Belém do Pará. Em dezembro, sobem o rio Amazonas até Manaus. Satake fica por lá. Maeda ainda viaja, e volta para Belém por volta de [1917|mil novecentos e dezessete]. Dessa vez, para ficar.",
       "vista": {
         "lon": -62,
         "lat": -14,
@@ -509,14 +509,6 @@
           "quando": "primeiro o sul"
         },
         {
-          "nome": "Manaus",
-          "coord": [
-            -60,
-            -3.1
-          ],
-          "quando": "Satake fica"
-        },
-        {
           "nome": "Belém",
           "coord": [
             -48.5,
@@ -524,6 +516,14 @@
           ],
           "quando": "em Belém do Pará",
           "destaque": true
+        },
+        {
+          "nome": "Manaus",
+          "coord": [
+            -60,
+            -3.1
+          ],
+          "quando": "até Manaus"
         }
       ]
     },

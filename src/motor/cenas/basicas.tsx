@@ -231,7 +231,12 @@ export const Cartao: React.FC<{ cena: CenaCartao; ritmo: Ritmo }> = ({
               textAlign: "center",
               fontFamily: FONTE_TITULO,
               fontWeight: 700,
-              fontSize: cena.destaque.length > 5 ? 150 : 260,
+              fontSize:
+                cena.destaque.length <= 5
+                  ? 260
+                  : cena.destaque.length <= 14
+                    ? 150
+                    : 96,
               lineHeight: 1,
               color: COR.dourado,
               opacity: destaque,
@@ -263,7 +268,7 @@ const Painel: React.FC<{ coluna: Coluna; ritmo: Ritmo; atraso: number }> = ({
         backgroundColor: COR.painel,
         border: `2px solid ${COR.borda}`,
         borderTop: `10px solid ${cor}`,
-        padding: "44px 50px 54px",
+        padding: "34px 44px 40px",
         opacity: p,
         transform: `translateY(${(1 - p) * 40}px)`,
       }}
@@ -272,15 +277,15 @@ const Painel: React.FC<{ coluna: Coluna; ritmo: Ritmo; atraso: number }> = ({
         style={{
           fontFamily: FONTE_TITULO,
           fontWeight: 700,
-          fontSize: 58,
+          fontSize: 52,
           textTransform: "uppercase",
           color: cor,
-          marginBottom: 40,
+          marginBottom: 30,
         }}
       >
         {coluna.titulo}
       </div>
-      <Lista itens={coluna.itens} ritmo={ritmo} cor={cor} tamanho={38} />
+      <Lista itens={coluna.itens} ritmo={ritmo} cor={cor} tamanho={35} />
     </div>
   );
 };
@@ -297,11 +302,11 @@ export const Comparacao: React.FC<{ cena: CenaComparacao; ritmo: Ritmo }> = ({
         display: "flex",
         flexDirection: "column",
         justifyContent: "center",
-        gap: 50,
+        gap: 36,
       }}
     >
       {cena.titulo ? (
-        <TituloCena ritmo={ritmo} tamanho={72}>
+        <TituloCena ritmo={ritmo} tamanho={60}>
           {cena.titulo}
         </TituloCena>
       ) : null}
@@ -503,7 +508,14 @@ export const Linha: React.FC<{ cena: CenaLinha; ritmo: Ritmo }> = ({
                 style={{
                   fontFamily: FONTE_TITULO,
                   fontWeight: 700,
-                  fontSize: 76,
+                  fontSize:
+                    evento.ano.length > 12 ? 34 : evento.ano.length > 5 ? 46 : 76,
+                  lineHeight: 1.1,
+                  display: "flex",
+                  alignItems: "flex-end",
+                  justifyContent: "center",
+                  paddingBottom: 12,
+                  boxSizing: "border-box",
                   color: COR.dourado,
                   height: 110,
                   transform: `translateY(${(1 - p) * 20}px)`,
@@ -597,30 +609,47 @@ export const Linhagem: React.FC<{ cena: CenaLinhagem; ritmo: Ritmo }> = ({
   ritmo,
 }) => {
   const porId = new Map(cena.nos.map((no) => [no.id, no]));
-  const nivelDe = (id: string): number => {
-    const pai = porId.get(id)?.pai;
-    return pai && porId.has(pai) ? nivelDe(pai) + 1 : 0;
-  };
-  const niveis: string[][] = [];
-  cena.nos.forEach((no) => {
-    const nivel = nivelDe(no.id);
-    (niveis[nivel] ??= []).push(no.id);
-  });
+  const filhosDe = (id: string) => cena.nos.filter((no) => no.pai === id);
+  const raizes = cena.nos.filter((no) => !no.pai || !porId.has(no.pai));
 
-  const caixa = { l: 470, a: 146 };
-  const topoArvore = TOPO + (cena.titulo ? 130 : 20);
-  const alturaLivre = BASE_CONTEUDO - topoArvore - caixa.a;
-  const passoY = niveis.length > 1 ? alturaLivre / (niveis.length - 1) : 0;
-  const posicao = new Map<string, { x: number; y: number }>();
-  niveis.forEach((ids, nivel) => {
-    const passoX = (LARGURA - MARGEM * 2) / ids.length;
-    ids.forEach((id, k) => {
-      posicao.set(id, {
-        x: MARGEM + passoX * (k + 0.5),
-        y: topoArvore + passoY * nivel,
-      });
-    });
-  });
+  // Cada folha ocupa uma coluna; cada pai fica centrado sobre os filhos.
+  const coluna = new Map<string, number>();
+  const nivel = new Map<string, number>();
+  let folhas = 0;
+  const posicionar = (id: string, profundidade: number): number => {
+    nivel.set(id, profundidade);
+    const filhos = filhosDe(id);
+    const x =
+      filhos.length === 0
+        ? folhas++
+        : filhos
+            .map((filho) => posicionar(filho.id, profundidade + 1))
+            .reduce((soma, v) => soma + v, 0) / filhos.length;
+    coluna.set(id, x);
+    return x;
+  };
+  raizes.forEach((raiz) => posicionar(raiz.id, 0));
+  const niveis = Math.max(...Array.from(nivel.values())) + 1;
+
+  const topoArvore = TOPO + (cena.titulo ? 120 : 10);
+  const larguraLivre = LARGURA - MARGEM * 2;
+  const passoX = larguraLivre / Math.max(1, folhas);
+  const passoY = (BASE_CONTEUDO - topoArvore) / niveis;
+  // As caixas encolhem quando a árvore é larga ou alta.
+  const caixa = {
+    l: Math.min(470, passoX - 28),
+    a: Math.min(146, passoY - 46),
+  };
+  const escala = Math.min(1, caixa.l / 400, caixa.a / 146);
+  const posicao = new Map(
+    cena.nos.map((no) => [
+      no.id,
+      {
+        x: MARGEM + passoX * ((coluna.get(no.id) ?? 0) + 0.5),
+        y: topoArvore + passoY * (nivel.get(no.id) ?? 0),
+      },
+    ]),
+  );
   const entrada = new Map(
     cena.nos.map((no, k) => [
       no.id,
@@ -632,7 +661,7 @@ export const Linhagem: React.FC<{ cena: CenaLinhagem; ritmo: Ritmo }> = ({
     <AbsoluteFill>
       {cena.titulo ? (
         <div style={{ position: "absolute", left: MARGEM, top: TOPO }}>
-          <TituloCena ritmo={ritmo} tamanho={72}>
+          <TituloCena ritmo={ritmo} tamanho={68}>
             {cena.titulo}
           </TituloCena>
         </div>
@@ -679,13 +708,15 @@ export const Linhagem: React.FC<{ cena: CenaLinhagem; ritmo: Ritmo }> = ({
               top: lugar.y,
               width: caixa.l,
               height: caixa.a,
+              boxSizing: "border-box",
+              overflow: "hidden",
               backgroundColor: COR.painel,
               border: `2px solid ${no.incerto ? COR.suave : COR.borda}`,
               borderLeft: `10px solid ${no.incerto ? COR.suave : COR.dourado}`,
               display: "flex",
               flexDirection: "column",
               justifyContent: "center",
-              padding: "0 30px",
+              padding: `0 ${Math.round(22 * escala)}px`,
               opacity: p,
               transform: `scale(${interpolate(p, [0, 1], [0.9, 1])})`,
             }}
@@ -694,10 +725,10 @@ export const Linhagem: React.FC<{ cena: CenaLinhagem; ritmo: Ritmo }> = ({
               style={{
                 fontFamily: FONTE_TITULO,
                 fontWeight: 700,
-                fontSize: 48,
+                fontSize: Math.max(26, Math.round(44 * escala)),
                 color: COR.texto,
                 textTransform: "uppercase",
-                lineHeight: 1.1,
+                lineHeight: 1.08,
               }}
             >
               {no.nome}
@@ -706,9 +737,10 @@ export const Linhagem: React.FC<{ cena: CenaLinhagem; ritmo: Ritmo }> = ({
               <div
                 style={{
                   fontFamily: FONTE_TEXTO,
-                  fontSize: 30,
+                  fontSize: Math.max(19, Math.round(28 * escala)),
+                  lineHeight: 1.2,
                   color: COR.suave,
-                  marginTop: 6,
+                  marginTop: 5,
                 }}
               >
                 {no.sub}
