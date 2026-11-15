@@ -12,12 +12,12 @@ O usuário dá o tema num parágrafo e espera o vídeo. Siga sozinho por todas a
 
 1. **Plano.** Se o tema for novo, escreva `roteiro/PLANO.md`: capítulos (6 a 10), o que cada um conta e o estilo visual. Se o plano já existe, siga a tabela dele e atualize a coluna "Situação".
 2. **Pesquisa.** Pesquise na internet cada capítulo antes de escrever. Não invente fatos. Onde as fontes divergem, a narração diz que divergem ou afirma só o que é seguro.
-3. **Capítulo em dados.** Escreva `src/capitulos/capitulo-N.json` no formato de `src/tipos.ts`: cenas com narração em português falado, frases curtas, e o visual de cada cena. Preencha `fontes` (com link) e `conferir` (toda data, número ou versão incerta). Registre o capítulo em `src/capitulos/index.ts` (crie antes um `capitulo-N.audio.json` com `{}`).
+3. **Capítulo em dados.** Cada capítulo é `src/capitulos/capitulo-N.json`, no formato de `src/tipos.ts`. Para capítulos longos, dispare um subagente por bloco (o plano diz quantos), todos em paralelo, cada um com um pedido curto que manda ler `roteiro/BRIEFING-BLOCO.md` e diz o recorte do bloco, a letra dos ids, o número de cenas e o arquivo de entrega. Depois junte com `node scripts/montar.mjs N <pasta> "<título>" "<subtítulo>"`, que também registra o capítulo. Leia o texto inteiro uma vez para tirar repetições e contradições entre blocos.
 4. **Fotos e validação.** `npm run fotos -- N` busca na Wikimedia Commons as fotos de uso livre dos perfis com `wiki` (não gasta nada). `node scripts/validar.mjs N` aponta `quando` que não existe na fala, ids repetidos e cenas longas: corrija todos os erros.
-5. **Rascunho.** `npm run lint`, depois quadros de teste com `npx remotion still capitulo-N <arquivo> --frame=<n> --scale=0.5` e confira o visual antes de gastar narração.
+5. **Rascunho.** `npm run lint`, depois `bash scripts/rascunho.sh N <pasta>` gera folhas com um quadro por cena: olhe todas e corrija o visual antes de gastar narração.
 6. **Narração.** `npm run narrar -- N`. Confira o gasto antes com `npm run narrar -- N --custo`. O script só grava de novo as cenas cujo texto mudou.
 7. **Roteiro.** `npm run roteiro -- N` gera `roteiro/capitulo-N.md`.
-8. **Render.** `npx remotion render capitulo-N out/capitulo-N.mp4`. Confira uma folha de quadros do resultado antes de entregar.
+8. **Render.** `npx remotion render capitulo-N out/capitulo-N.mp4` (meia hora de vídeo leva perto de 50 minutos: rode em segundo plano e adiante a pesquisa do capítulo seguinte). Confira uma folha de quadros do resultado antes de entregar.
 9. **Juntar.** Com todos os capítulos prontos, `npm run juntar` cria `out/documentario.mp4` sem recodificar.
 10. **Entrega.** Envie o MP4 ao usuário, diga a duração, liste os pontos de `conferir` e faça commit e push (os MP3 da narração entram no git; `out/` não).
 

@@ -1,25 +1,25 @@
-# Jiu-jitsu brasileiro: a história completa
+# Brazilian Jiu-Jitsu: The Full Story, from Maeda to the Present Day
 
-Documentário em 10 partes, cerca de 4 horas e meia: uma abertura curta e 9 capítulos de 30 minutos. Narração em português do Brasil, voz do ElevenLabs.
+Série documental em 10 partes, cerca de 4 horas. Narração em português do Brasil, voz do ElevenLabs.
 
-Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os encontros com a luta livre, o vale-tudo, o wrestling e o no-gi; as evoluções técnicas com prós e contras; as confederações; os campeonatos que importavam antes e os que importam hoje.
+Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os encontros com a luta livre, o vale-tudo, o wrestling e o no-gi; as evoluções técnicas com prós e contras; as confederações; os campeonatos que importavam antes e os que importam hoje. Contar toda a história, com o tempo necessário e sem encher.
 
 ## Capítulos
 
-| Nº | Título | Período | Minutos | Situação |
-| --- | --- | --- | --- | --- |
-| 1 | Antes do Brasil (abertura) | 1868 – 1917 | 4,5 | pronto |
-| 2 | Belém e os Gracie | 1915 – 1937 | 31 | pronto |
-| 3 | A era dos desafios | 1930 – 1955 | 30 | a fazer |
-| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 30 | a fazer |
-| 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 30 | a fazer |
-| 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 30 | a fazer |
-| 7 | Nasce o esporte organizado | 1967 – 2007 | 30 | a fazer |
-| 8 | ADCC e o encontro com o wrestling | 1998 – 2011 | 30 | a fazer |
-| 9 | A evolução da técnica | 1990 – hoje | 30 | a fazer |
-| 10 | A era profissional e o no-gi | 2012 – hoje | 30 | a fazer |
+| Nº | Título | Período | Minutos | Blocos | Situação |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Antes do Brasil (abertura) | 1868 – 1917 | 5 | 1 | pronto |
+| 2 | Belém e os Gracie | 1915 – 1937 | 31 | 4 | pronto |
+| 3 | A era dos desafios | 1930 – 1955 | 30 | 4 | em produção |
+| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 20 | 3 | em produção |
+| 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 25 | 3 | a fazer |
+| 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 30 | 4 | a fazer |
+| 7 | Nasce o esporte organizado | 1967 – 2007 | 22 | 3 | a fazer |
+| 8 | ADCC e o encontro com o wrestling | 1998 – 2011 | 22 | 3 | a fazer |
+| 9 | A evolução da técnica | 1990 – hoje | 28 | 4 | a fazer |
+| 10 | A era profissional e o no-gi | 2012 – hoje | 25 | 3 | a fazer |
 
-Cada capítulo de 30 minutos tem 4 blocos de 7 a 8 minutos (12 a 13 cenas cada), cerca de 4.200 palavras de narração.
+Os minutos são meta: se a pesquisa render mais história boa, o capítulo cresce; se render menos, encolhe. Cada bloco tem de 11 a 13 cenas e de 900 a 1.100 palavras de narração (cerca de 7 minutos). As regras para escrever um bloco estão em `roteiro/BRIEFING-BLOCO.md`.
 
 ## O que cada capítulo conta
 
