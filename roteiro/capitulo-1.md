@@ -42,15 +42,15 @@ Em 1904, Maeda embarca para os Estados Unidos com o professor Tsunejiro Tomita, 
 
 Essas lutas ensinam uma coisa a Maeda. Contra um homem maior, que soca e que não veste kimono, o caminho mais seguro é encurtar a distância, derrubar e resolver no chão. É judô, mas adaptado para a luta real. Décadas antes de a palavra existir, aquilo já tinha cara de vale-tudo.
 
-### c10-brasil (mapa · 1914 · 32 s)
+### c10-brasil (mapa · 1914 · 35 s)
 
-Em 1914, depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em dezembro de 1915, eles se apresentam em Belém do Pará, no Teatro Politeama. Satake fica em Manaus. Maeda ainda viaja, e volta para Belém por volta de 1917. Dessa vez, para ficar.
+Em 1914, depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em outubro de 1915, eles se apresentam em Belém do Pará. Em dezembro, sobem o rio Amazonas até Manaus. Satake fica por lá. Maeda ainda viaja, e volta para Belém por volta de 1917. Dessa vez, para ficar.
 
 ### c11-belem (linhagem · 1917 · 35 s)
 
 Belém vivia o fim do ciclo da borracha. Ainda era uma cidade rica, cheia de estrangeiros, circos e teatros. Maeda ensina, luta e, mais tarde, ajuda imigrantes japoneses a se instalarem na Amazônia. Entre as pessoas do seu círculo está um empresário chamado Gastão Gracie. E Gastão tem um filho adolescente, inquieto e brigão, chamado Carlos. A história oficial diz que Carlos foi aluno direto de Maeda. Historiadores mais recentes discordam. Quem tem razão? É o que a gente vai ver no próximo capítulo.
 
-Duração aproximada: 4 min 33 s.
+Duração aproximada: 4 min 36 s.
 
 ## Conferir antes de publicar
 

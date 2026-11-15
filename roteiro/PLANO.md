@@ -9,7 +9,7 @@ Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os en
 | Nº | Título | Período | Minutos | Situação |
 | --- | --- | --- | --- | --- |
 | 1 | Antes do Brasil (abertura) | 1868 – 1917 | 4,5 | pronto |
-| 2 | Belém e os Gracie | 1915 – 1937 | 30 | em produção |
+| 2 | Belém e os Gracie | 1915 – 1937 | 31 | pronto |
 | 3 | A era dos desafios | 1930 – 1955 | 30 | a fazer |
 | 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 30 | a fazer |
 | 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 30 | a fazer |
