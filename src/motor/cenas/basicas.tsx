@@ -240,9 +240,11 @@ export const Cartao: React.FC<{ cena: CenaCartao; ritmo: Ritmo }> = ({
               fontFamily: FONTE_TITULO,
               fontWeight: 700,
               fontSize:
-                cena.destaque.length <= 5
+                cena.destaque.length <= 2
                   ? 260
-                  : cena.destaque.length <= 14
+                  : cena.destaque.length <= 5
+                    ? 200
+                    : cena.destaque.length <= 14
                     ? 150
                     : 96,
               lineHeight: 1,
@@ -343,6 +345,8 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
   const volta = 2 * Math.PI * raio;
   const p = surgir(ritmo, 8);
   const foto = cena.wiki ? fotos[cena.wiki] : undefined;
+  // Nome comprido ou muitos fatos: encolhe para não invadir a legenda.
+  const cheio = cena.nome.length > 18 || (cena.fatos?.length ?? 0) > 5;
   return (
     <AbsoluteFill>
       <div
@@ -427,7 +431,7 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
               <Rotulo>{cena.papel}</Rotulo>
             </div>
           ) : null}
-          <TituloCena ritmo={ritmo} tamanho={112}>
+          <TituloCena ritmo={ritmo} tamanho={cheio ? 88 : 112}>
             {cena.nome}
           </TituloCena>
           {cena.anos ? (
@@ -445,8 +449,12 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
             </div>
           ) : null}
           {cena.fatos ? (
-            <div style={{ marginTop: 50 }}>
-              <Lista itens={cena.fatos} ritmo={ritmo} tamanho={40} />
+            <div style={{ marginTop: cheio ? 32 : 50 }}>
+              <Lista
+                itens={cena.fatos}
+                ritmo={ritmo}
+                tamanho={cheio ? 35 : 40}
+              />
             </div>
           ) : null}
         </div>

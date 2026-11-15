@@ -1,0 +1,1880 @@
+{
+  "numero": 10,
+  "titulo": "A era profissional e o no-gi",
+  "subtitulo": "Quando lutar jiu-jitsu virou profissão",
+  "fontes": [
+    {
+      "titulo": "Wikipedia (en): Metamoris",
+      "url": "https://en.wikipedia.org/wiki/Metamoris"
+    },
+    {
+      "titulo": "Wikipedia (en): Abu Dhabi World Professional Jiu-Jitsu Championship",
+      "url": "https://en.wikipedia.org/wiki/Abu_Dhabi_World_Professional_Jiu-Jitsu_Championship"
+    },
+    {
+      "titulo": "Wikipedia (en): Abu Dhabi Grand Slam Jiu-Jitsu World Tour",
+      "url": "https://en.wikipedia.org/wiki/Abu_Dhabi_Grand_Slam_Jiu-Jitsu_World_Tour"
+    },
+    {
+      "titulo": "AJP: sobre a organização",
+      "url": "https://ajptour.com/about-us/ajp"
+    },
+    {
+      "titulo": "FloGrappling: Abu Dhabi Jiu-Jitsu Pro Tour (AJP), a new era",
+      "url": "https://www.flograppling.com/articles/6468876-abu-dhabi-jiu-jitsu-pro-tour-ajp-a-new-era-for-professional-jiu-jitsu"
+    },
+    {
+      "titulo": "BJJ Heroes: Metamoris Pro Jiu Jitsu Invitational",
+      "url": "https://bjjheroes.com/?p=2287"
+    },
+    {
+      "titulo": "Vice: Gracie versus Buchecha, old school versus new school",
+      "url": "https://www.vice.com/en/article/gracie-versus-buchecha-old-school-versus-new-school-four-years-on"
+    },
+    {
+      "titulo": "BJJEE: AJ Agazarm blasts Metamoris",
+      "url": "https://www.bjjee.com/featured/aj-agazarm-blasts-metamoris-they-havent-paid-me-in-6-months/"
+    },
+    {
+      "titulo": "FloGrappling: Ralek Gracie on outstanding Metamoris debts",
+      "url": "https://www.flograppling.com/articles/5057210-ralek-gracie-on-outstanding-metamoris-debts-its-not-that-big-of-a-deal"
+    },
+    {
+      "titulo": "FloGrappling: Ryron & Rener Gracie issue statement urging caution",
+      "url": "https://www.flograppling.com/article/47642-ryron-rener-gracie-issue-statement-urging-caution-of-brother-ralek"
+    },
+    {
+      "titulo": "BJJ Fanatics: Eddie Bravo explains EBI rules",
+      "url": "https://bjjfanatics.com/blogs/news/eddie-bravo-explains-ebi-rules-for-sub-only-grand-prix"
+    },
+    {
+      "titulo": "Gold BJJ: Eddie Bravo Invitational",
+      "url": "https://goldbjj.com/blogs/roll/eddie-bravo-invitational"
+    },
+    {
+      "titulo": "Wikipedia (en): Polaris Pro Grappling",
+      "url": "https://en.wikipedia.org/wiki/Polaris_Pro_Grappling"
+    },
+    {
+      "titulo": "Polaris: Polaris 1",
+      "url": "https://polarisprograppling.com/events/polaris-1/"
+    },
+    {
+      "titulo": "BJJ Heroes: entrevista com Jeferson Maycá (Copa Pódio)",
+      "url": "https://www.bjjheroes.com/interview/jeferson-mayca-interview-copa-podio-ceo-is-here-to-test-bjj-dogmas"
+    },
+    {
+      "titulo": "BJJ Heroes: Seth Daniels, the mastermind behind Fight 2 Win Pro",
+      "url": "https://www.bjjheroes.com/interview/seth-daniels-the-mastermind-behind-fight-2-win-pro"
+    },
+    {
+      "titulo": "FloGrappling: Fight to Win Pro on track to pay athletes $1 million by the end of 2017",
+      "url": "https://www.flograppling.com/article/52392-fight-to-win-pro-is-on-track-to-pay-athletes-1-million-by-the-end-of-2017"
+    },
+    {
+      "titulo": "FloSports: lançamento da FloGrappling e da FloMuscle",
+      "url": "https://www.flosports.tv/?p=1650"
+    },
+    {
+      "titulo": "BJJ Fanatics: about",
+      "url": "https://bjjfanatics.com/pages/about-bjj-fanatics"
+    },
+    {
+      "titulo": "Wikipedia (en): Who's Number One",
+      "url": "https://en.wikipedia.org/wiki/Who%27s_Number_One"
+    },
+    {
+      "titulo": "FloGrappling: WNO, Gordon Ryan vs Matheus Diniz",
+      "url": "https://www.flograppling.com/articles/6778440-the-goat-card-coming-to-flograppling"
+    },
+    {
+      "titulo": "Wikipedia (en): Craig Jones Invitational",
+      "url": "https://en.wikipedia.org/wiki/Craig_Jones_Invitational"
+    },
+    {
+      "titulo": "Wikipedia (en): ADCC Submission Fighting World Championship",
+      "url": "https://en.wikipedia.org/wiki/ADCC_Submission_Fighting_World_Championship"
+    },
+    {
+      "titulo": "Wikipedia (en): Gordon Ryan",
+      "url": "https://en.wikipedia.org/wiki/Gordon_Ryan"
+    },
+    {
+      "titulo": "Wikipedia (en): 2022 ADCC World Championship",
+      "url": "https://en.wikipedia.org/wiki/2022_ADCC_World_Championship"
+    },
+    {
+      "titulo": "Wikipedia (en): 2024 ADCC World Championship",
+      "url": "https://en.wikipedia.org/wiki/2024_ADCC_World_Championship"
+    },
+    {
+      "titulo": "Wikipedia (en): Craig Jones (grappler)",
+      "url": "https://en.wikipedia.org/wiki/Craig_Jones_(grappler)"
+    },
+    {
+      "titulo": "Wikipedia (en): B Team Jiu Jitsu",
+      "url": "https://en.wikipedia.org/wiki/B_Team_Jiu_Jitsu"
+    },
+    {
+      "titulo": "Wikipedia (en): UFC BJJ",
+      "url": "https://en.wikipedia.org/wiki/UFC_BJJ"
+    },
+    {
+      "titulo": "Wikipedia (en): Helena Crevar",
+      "url": "https://en.wikipedia.org/wiki/Helena_Crevar"
+    },
+    {
+      "titulo": "FloGrappling: Craig Jones Invitational 2024 Results",
+      "url": "https://www.flograppling.com/articles/14463402-craig-jones-invitational-2024-results-heres-who-won"
+    },
+    {
+      "titulo": "FloGrappling: Craig Jones Invitational 2 Results",
+      "url": "https://www.flograppling.com/articles/14501153-craig-jones-invitational-2-results-heres-who-won-at-cji"
+    },
+    {
+      "titulo": "FloGrappling: Grappling Bulletin (Gordon retires; ADCC to pay more), fev. 2026",
+      "url": "https://www.flograppling.com/articles/15519769-grappling-bulletin-gordon-retires-absolute-gp-adcc-pay-more"
+    },
+    {
+      "titulo": "FloGrappling: 5 things to know about the 2026 ADCC World Championship",
+      "url": "https://www.flograppling.com/articles/15999460-5-things-to-know-about-the-2026-adcc-world-championship"
+    },
+    {
+      "titulo": "FloGrappling: Kaynan Duarte Suspended, Stripped of IBJJF World Title",
+      "url": "https://www.flograppling.com/articles/6684987-kaynan-duarte-suspended-stripped-of-ibjjf-world-title-for-doping"
+    },
+    {
+      "titulo": "IBJJF: Micael Galvão accepts sanction (USADA)",
+      "url": "https://ibjjf.com/news/brazilian-jiu-jitsu-athlete-micael-galvao-accepts-sanctio"
+    },
+    {
+      "titulo": "Sherdog: Braulio Estima Stripped of 2014 IBJJF Title",
+      "url": "https://www.sherdog.com/news/news/Braulio-Estima-Stripped-of-2014-IBJJF-Title-Suspended-2-Years-After-Testing-Positive-77535"
+    },
+    {
+      "titulo": "Graciemag: Backstage at the first drug test in Jiu-Jitsu during Pan 2013",
+      "url": "https://www.graciemag.com/?p=77020"
+    },
+    {
+      "titulo": "Jits Magazine: Gordon Ryan reveals his history with steroids (dez. 2024)",
+      "url": "https://jitsmagazine.com/gordon-ryan-reveals-his-history-with-steroids-and-reasons-for-using-them"
+    },
+    {
+      "titulo": "BJJEE: Mo Jassim on whether ADCC will introduce PED testing",
+      "url": "https://www.bjjee.com/bjj-news/mo-jassim-on-whether-adcc-will-introduce-ped-testing-its-not-high-on-my-list/"
+    },
+    {
+      "titulo": "MuckRock: Using open source tools to track the biggest fight in BJJ (ingressos do ADCC 2022)",
+      "url": "https://muckrock.com/news/archives/2024/dec/13/using-open-source-tools-to-track-the-biggest-fight-in-bjj"
+    },
+    {
+      "titulo": "BJJDoc: Craig Jones: technically ADCC prizes went down in value",
+      "url": "https://bjjdoc.com/?p=6792"
+    },
+    {
+      "titulo": "BJJEE: Who's financing the Craig Jones Invitational?",
+      "url": "https://www.bjjee.com/articles/whos-financing-the-craig-jones-invitational-the-3-million-mystery-behind-bjjs-most-disruptive-tournament/"
+    },
+    {
+      "titulo": "Karate Combat: acordo de licenciamento do Pit com o CJI",
+      "url": "https://karate.com/news/craig-jones-invitational-deal-karate-combat"
+    },
+    {
+      "titulo": "MMA Sucka: Felipe Pena makes ADCC history (ADCC 2026)",
+      "url": "https://mmasucka.com/news/felipe-pena-makes-adcc-history-as-kaynan-duarte-loses-title-and-suffers-injury/"
+    },
+    {
+      "titulo": "BJJEE: Craig Jones confirms CJI 3 is cancelled",
+      "url": "https://www.bjjee.com/articles/craig-jones-confirms-cji-3-is-cancelled-as-ufc-bjj-reshapes-the-professional-grappling-market/"
+    },
+    {
+      "titulo": "ONE Championship: Mikey Musumeci wins first-ever ONE submission grappling world title",
+      "url": "https://www.onefc.com/news/mikey-musumeci-wins-first-ever-one-submission-grappling-world-title/"
+    },
+    {
+      "titulo": "World IBJJF Jiu-Jitsu Championship (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/World_IBJJF_Jiu-Jitsu_Championship"
+    },
+    {
+      "titulo": "Roger Gracie (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Roger_Gracie"
+    },
+    {
+      "titulo": "Marcus Almeida (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Almeida"
+    },
+    {
+      "titulo": "Leandro Lo (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Leandro_Lo"
+    },
+    {
+      "titulo": "PM acusado de matar Leandro Lo é absolvido por júri popular (SBT News)",
+      "url": "https://sbtnews.sbt.com.br/noticia/policia/pm-acusado-de-matar-leandro-lo-e-absolvido-por-juri-popular"
+    },
+    {
+      "titulo": "Caso Leandro Lo: policial militar é absolvido em júri popular (Jovem Pan)",
+      "url": "https://jovempan.com.br/brasil/caso-leandro-lo-policial-militar-henrique-velozo-e-absolvido-em-juri-popular/"
+    },
+    {
+      "titulo": "PM acusado de matar Leandro Lo é demitido novamente, out. 2026 (O Liberal)",
+      "url": "https://www.oliberal.com/policia/pm-acusado-de-matar-lutador-de-jiu-jitsu-leandro-lo-e-demitido-novamente-1.1185245"
+    },
+    {
+      "titulo": "Michelle Nicolini (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Michelle_Nicolini"
+    },
+    {
+      "titulo": "Beatriz Mesquita (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Beatriz_Mesquita"
+    },
+    {
+      "titulo": "Mackenzie Dern (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mackenzie_Dern"
+    },
+    {
+      "titulo": "2026 World Championship Black Belt Recap (IBJJF)",
+      "url": "https://ibjjf.com/news/2026-world-championship-black-belt-recap"
+    },
+    {
+      "titulo": "Grappling Bulletin: IBJJF Worlds 2026 (FloGrappling)",
+      "url": "https://www.flograppling.com/articles/15966987-grappling-bulletin-ibjjf-worlds-delivers-incredible-event"
+    },
+    {
+      "titulo": "Alliance wins historic 15th IBJJF World team title, 2025 (IBJJF)",
+      "url": "https://ibjjf.com/news/alliance-wins-historic-15th-ibjjf-world-team-title"
+    },
+    {
+      "titulo": "IBJJF confirms prizes up to 10,000 dollars for 2019 Worlds (Graciemag)",
+      "url": "https://www.graciemag.com/?p=214361"
+    },
+    {
+      "titulo": "IBJJF announce cash prizes at Worlds, equal pay for black belt men and women (FloGrappling)",
+      "url": "https://www.flograppling.com/articles/6397877-ibjjf-announce-cash-prizes-at-worlds-equal-pay-for-black-belt-men-women"
+    },
+    {
+      "titulo": "How much money is there at the World Championships (Jits Magazine)",
+      "url": "https://jitsmagazine.com/how-much-money-is-there-at-the-world-championships"
+    },
+    {
+      "titulo": "Adam Wardziński, 1st European male black belt world champion (BJJ Eastern Europe)",
+      "url": "https://www.bjjee.com/articles/polands-adam-wardzinski-makes-history-1st-european-male-to-become-black-belt-bjj-world-champion/"
+    },
+    {
+      "titulo": "Adam Wardzinski retires after second consecutive Worlds title, 2025 (FloGrappling)",
+      "url": "https://www.flograppling.com/articles/14258146-adam-wardzinski-retires-after-winning-second-consecutive-ibjjf-worlds-title"
+    },
+    {
+      "titulo": "BJJ statistics: estimativas de praticantes, sem fonte primária (BJJ More)",
+      "url": "https://bjjmore.com/bjj-statistics/"
+    }
+  ],
+  "conferir": [
+    "SENSÍVEL (cena c04): morte de Leandro Lo. A absolvição do policial pelo júri em novembro de 2025 e o recurso pendente vêm da imprensa; o processo corre sob sigilo. Confira a situação atual antes de publicar.",
+    "SENSÍVEL (cena b12): casos de doping citados pelo nome (Braulio Estima 2014, Kaynan Duarte 2019, Micael Galvão 2022) e a declaração de Gordon Ryan sobre esteroides. Confira nas punições oficiais da agência antidoping americana e no vídeo original.",
+    "RECENTE (cenas b06, b07, b11, b13, c05, c06, c10): fatos de 2025 e 2026 (aposentadoria de Gordon Ryan, ADCC de Cracóvia, CJI 2 e cancelamento do CJI 3, UFC BJJ, resultados do Mundial de 2026) vieram de buscas na internet e não foram cruzados com fonte oficial.",
+    "a01: a pesquisa confirmou CJI (16 e 17 de agosto de 2024, Thomas & Mack Center) e ADCC (17 e 18 de agosto, Las Vegas) no mesmo fim de semana; o prêmio de um milhão de dólares por chave do CJI é amplamente noticiado, mas não apareceu nas fontes abertas nesta pesquisa. Conferir com o bloco B.",
+    "a02: a descrição de como vivia um campeão antes de 2009 (aulas, seminários, patrocínio de kimono) é síntese geral, sem fonte única.",
+    "a03: valores do World Pro (US$ 111 mil em 2009, 150 mil em 2010, 600 mil e 5 mil atletas em 2019) vêm só da Wikipedia em inglês. O nome original era World Professional Jiu-Jitsu Cup; a narração traduz como 'Copa do Mundo Profissional'.",
+    "a04: a data em que a UAEJJF passou a se chamar AJP não ficou clara (FloGrappling fala em primeira temporada da AJP em 2019/2020); a narração diz só 'mais tarde'. Etapa de Abu Dhabi entra em 2016/2017, segundo uma fonte.",
+    "a05/a06: a Wikipedia diz que os eventos do Metamoris foram em Los Angeles; há relatos de que o Metamoris 1 foi em San Diego. A narração diz só 'Califórnia'. Conferir também 'seis lutas' e 'transmissão paga pela internet' na primeira edição.",
+    "a06: 'Roger Gracie, dez vezes campeão mundial' e 'Buchecha, campeão absoluto daquele ano (2012)' vêm de conhecimento geral, não foram reconferidos; 'a família comemora como vitória' (Ryron x Galvão) é leitura comum da época, sem fonte direta aqui.",
+    "a07: idades de Royler (48) e Bravo (43) em março de 2014 foram calculadas pelas datas de nascimento conhecidas (dezembro de 1965 e maio de 1970), não vieram de fonte da pesquisa. 'Bravo atacou a maior parte do tempo' é consenso dos relatos, mas o resultado oficial é empate. A finalização de 2003 por triângulo e a faixa marrom de Bravo devem bater com o capítulo 8.",
+    "a08: dívidas do Metamoris: fontes são BJJEE e FloGrappling (2016 a 2018). O ano exato das primeiras denúncias e da nota de Ryron e Rener não foi fixado; não se sabe se as dívidas foram pagas depois. Pessoas vivas: manter só o que está documentado.",
+    "a09: EBI 1 em junho de 2014, Los Angeles (fonte: blog da época). Regras da prorrogação conferidas em mais de uma fonte; a escolha de posição é de quem ataca e a ordem é decidida por moeda.",
+    "a10: Copa Pódio 'criado em 2011' e formato de grupos conforme BJJ Heroes; 'transmissão ao vivo' vem de entrevista de Maycá. Polaris 1: 10 de janeiro de 2015, Cardiff (fontes divergem sobre o ginásio). Fight to Win Pro: primeira edição em novembro de 2015, em Denver; 'dezenas de lutas por noite' vem de relato de cerca de 50 atletas por card.",
+    "a11: FloGrappling lançada em agosto de 2015 (comunicado da FloSports). O ano de fundação da BJJ Fanatics não foi confirmado e por isso não é dito; uma fonte cita um terceiro sócio, Michael Reardon.",
+    "a12: a Wikipedia diz que o Who's Number One existe desde 2019 e houve edição em fevereiro de 2020 (Costa Mesa), antes da pandemia; a narração não diz que a série nasceu na pandemia, só que a FloGrappling apostou nela. Edição de 31 de julho de 2020 em Austin com duas baixas por Covid, e edição de outubro com Gordon Ryan x Matheus Diniz: conferir datas exatas.",
+    "a13: 'sem salário nem contrato longo' é generalização; alguns atletas tiveram contratos de exclusividade com promotores. Gordon Ryan 'de Nova Jersey': conferir com o bloco B.",
+    "Público do ADCC 2022: registros públicos (MuckRock) dão 10.238 ingressos vendidos; a Wikipedia fala em 13.000 pessoas. A narração cita os dois números e não afirma 'recorde'. Conferir antes de usar a palavra recorde.",
+    "Doping: a Graciemag registra o primeiro teste da IBJJF com a USADA no Pan de 2013; não achei o anúncio oficial de quando o Mundial passou a ser testado (há sanções ligadas a Mundiais desde 2013/2014). A narração diz 'começou pelo Pan e chegou ao Mundial'. Conferir a data exata do Mundial.",
+    "Doping: os casos citados (Braulio Estima, Mundial 2014; Kaynan Duarte, Mundial 2019, ostarina; Micael Galvão, Mundial 2022, clomifeno) vêm de Sherdog, FloGrappling/USADA e do site da IBJJF. Conferir no site da USADA a redação oficial de cada sanção. Outros casos oficiais (Felipe Pena, Mundial 2021; Leo Nogueira, 2016) ficaram de fora por espaço.",
+    "Gordon Ryan e esteroides: a fonte é o resumo da Jits Magazine (16/12/2024) de um vídeo do canal dele no YouTube; não vi o vídeo. A narração não cita ano de início nem substância. Conferir o vídeo original.",
+    "ADCC não testa: a afirmação 'nunca testou' vem de declarações de Mo Jassim reproduzidas por BJJEE e MiddleEasy (até 2024). Não confirmei se a edição de 2026 (Cracóvia) teve algum teste, nem a política de testes do CJI, do UFC BJJ e do ONE: por isso a narração só afirma sobre o ADCC.",
+    "Aposentadoria de Gordon Ryan: anunciada no Instagram em fevereiro de 2026 (dia 16 ou 17, as fontes divergem); algumas reportagens dizem que ele deixou aberta a chance de voltar. Conferir a postagem original e se houve retorno depois.",
+    "CJI 3: a BJJEE e o BJJDoc noticiam que Craig Jones respondeu a um fã que a terceira edição foi 'cancelada'; antes disso houve anúncios para 2026. Não achei a data nem comunicado oficial. Conferir a situação em novembro de 2026.",
+    "Prêmios do ADCC 2026 (FloGrappling, fev. 2026): masculino 20 mil dólares ao campeão de categoria (antes 10 mil), feminino mantido em 10 mil, absoluto 50 mil. Há relatos de que Craig Jones prometeu e depois retirou uma oferta de cobrir a diferença do feminino: ficou fora da narração.",
+    "'Mesmo valor desde 1998' e 'o evento nunca deu lucro' são declarações atribuídas a Mo Jassim por sites especializados (BJJDoc, House of Grapplers), não documentos oficiais. Mo Jassim deixou a organização depois de 2024, segundo as fontes: por isso 'organizador da época'.",
+    "Helena Crevar como campeã mais jovem da história do ADCC (2026): Wikipedia e MMA Sucka afirmam; ela e Kade Ruotolo venceram com 19 anos. Conferir as idades exatas em dias.",
+    "Superluta do ADCC: a regra 'vencedor da superluta anterior contra o último campeão absoluto' é o costume, com exceções (em 2024 Gordon Ryan fez duas superlutas; em 2026 a superluta foi Yuri Simões x Kaynan Duarte, pelo título vago). A narração diz 'em geral'.",
+    "Racha de 2021: Danaher anunciou o fim da equipe em 25/26 de julho de 2021 no Instagram. A lista de fundadores da B-Team varia (algumas fontes incluem Izaak Michell). Em 2025 a New Wave passou a se chamar Kingsway e Craig Jones saiu da B-Team: ficou fora da narração.",
+    "Gordon Ryan em 2019: a final do absoluto contra Marcus Buchecha e a idade (24) vêm da Wikipedia e de conta própria. No absoluto de 2017, a Wikipedia diz que ele finalizou todos os adversários antes da final perdida para Felipe Pena.",
+    "Contrato de Gordon Ryan com a FloSports (jan. 2023): 'sete dígitos' é manchete da Jits Magazine citada na Wikipedia; o valor não é público.",
+    "CJI 2024: os 3 milhões e o doador anônimo são declarações do próprio Craig Jones. A área de luta de paredes inclinadas é o 'Pit' licenciado do Karate Combat. O evento também teve superlutas (Craig Jones x Gabi Garcia; Ffion Davies x Mackenzie Dern) e doação a uma entidade de combate ao câncer: fora da narração.",
+    "CJI 2 (2025): a final B-Team x New Wave terminou empatada e foi decidida pelos juízes; houve polêmica sobre um segundo milhão prometido à New Wave e não pago. Fora da narração.",
+    "Mapa b01: Espoo e Anaheim são as cidades-sede; conferir a posição dos rótulos na tela. 'Mineiro' para Felipe Pena (Belo Horizonte) vem de conhecimento geral, não de fonte consultada nesta pesquisa.",
+    "ONE Championship: o primeiro cinturão de luta agarrada (Mikey Musumeci) é de 2022, segundo o site do ONE. Atletas citados no bloco (Kade Ruotolo) também foram campeões lá: fora da narração.",
+    "Leandro Lo (pessoa viva envolvida: o policial absolvido): a narração só afirma morte a tiros em 7/8/2022, prisão e acusação de um policial militar, absolvição pelo júri em novembro de 2025 por legítima defesa e recurso da acusação pendente em outubro de 2026 (imprensa de out. 2026; processo sob sigilo). Conferir no TJ-SP se o recurso foi julgado antes de publicar. O local ('num clube de São Paulo') segue a imprensa; a Wikipedia em inglês diz 'nightclub'.",
+    "Leandro Lo, 'cinco categorias': a Wikipedia lista leve, médio, meio-pesado, pesado e absoluto, ou seja, quatro pesos mais o absoluto. A narração diz 'do peso leve ao absoluto: cinco categorias'. O absoluto de 2018 veio sem final (Buchecha cedeu o título) e o pesado de 2019 veio depois da desclassificação de Kaynan Duarte por doping; a narração não entra nisso.",
+    "Gabrieli Pessanha em 2026: o resumo oficial da IBJJF fala em 11º título no peso e absoluto em seguida; a FloGrappling fala em 12 títulos e 6 absolutos. A narração só diz que ela passou Beatriz Mesquita (10) e igualou os 6 absolutos de Buchecha.",
+    "Absoluto masculino de 2025: não confirmei o campeão (a final foi Erich Munis x Gutemberg Pereira). A narração cita 2022, 2023, 2024 e 2026 e pula 2025; a IBJJF dá 'sétimo título' a Munis em 2026. Completar se quiser.",
+    "Títulos por equipes: sigo a tabela da Wikipedia em inglês (Alliance 2008–2016, 2018, 2019, 2022, 2024, 2025, 2026; Atos 2017; Checkmat 2021; Dream Art 2023; Gracie Barra 2007). Em 2026 a FloGrappling dá à Alliance os títulos masculino e feminino. A tabela não separa masculino e feminino nos outros anos.",
+    "Buchecha: 13 títulos e 6 absolutos (2012, 2013, 2014, 2016, 2017, 2019) pela tabela da Wikipedia. 'Hoje luta no UFC': última luta registrada em abril de 2026.",
+    "Roger x Buchecha 2017: a Wikipedia diz 'lapel choke' no texto e 'choke from the back' na tabela; a narração só diz 'estrangula'. Metamoris 1: 14 de outubro de 2012, San Diego (a narração diz 'Califórnia').",
+    "Prêmios da IBJJF: valores de 2019 (US$ 4 mil a 7 mil por peso, US$ 10 mil no absoluto). Uma listagem de terceiros para 2026 fala em US$ 7 mil a 10 mil por peso e US$ 18 mil no absoluto, sem anúncio oficial que eu tenha achado: não entrou na narração.",
+    "Praticantes no mundo: não há número confiável. As estimativas de 3 a 11 milhões vêm de sites sem fonte primária.",
+    "Estrangeiros no topo: americanos de 2026 são Cole Abate e Jalen Fonacier; Canadá, Lillian Marchand; Marrocos, Seif-Eddine Houmine (a IBJJF diz só 'nascido na África'; a Wikipedia diz Marrocos). 'Australianos em finais' se apoia em Nicholas Maglicic (final do pesado em 2026; nacionalidade pela Wikipedia) e, sem kimono, em Craig Jones (finais do ADCC em 2019 e 2022) e Levi Jones-Leary (final do CJI em 2024): conferir com o bloco B.",
+    "Equipes de Austin: New Wave (John Danaher) e B-Team, ambas instaladas em 2021; conferir com o bloco B se alguma mudou de cidade ou de formação até 2026. A Atos tem sede em San Diego e a Art of Jiu Jitsu em Costa Mesa.",
+    "Kanji do cartão final: 乱取り (randori). Conferir se a fonte do projeto desenha esses caracteres, como desenhou 柔術 e 寝技 no capítulo 1."
+  ],
+  "cenas": [
+    {
+      "id": "a01-gancho",
+      "tipo": "cartao",
+      "ano": 2024,
+      "rotulo": "Las Vegas, agosto de 2024",
+      "titulo": "Dois torneios, um fim de semana",
+      "destaque": "US$ 1 milhão",
+      "narracao": "Las Vegas, agosto de [2024|dois mil e vinte e quatro]. No mesmo fim de semana, a cidade recebe dois torneios de jiu-jitsu sem kimono, em dois ginásios diferentes. Um deles é o mais tradicional do mundo. O outro nunca tinha existido, e promete um milhão de dólares a quem vencer. Os melhores lutadores do planeta tiveram de escolher um lado.",
+      "itens": [
+        {
+          "texto": "Dois torneios sem kimono",
+          "quando": "dois torneios"
+        },
+        {
+          "texto": "Um é o mais tradicional do mundo",
+          "quando": "o mais tradicional"
+        },
+        {
+          "texto": "O outro promete um milhão de dólares",
+          "quando": "um milhão de dólares"
+        },
+        {
+          "texto": "Os melhores tiveram de escolher",
+          "quando": "escolher um lado"
+        }
+      ]
+    },
+    {
+      "id": "t00-titulo",
+      "tipo": "titulo",
+      "numero": 10,
+      "titulo": "A era profissional e o no-gi",
+      "subtitulo": "Quando lutar jiu-jitsu virou profissão",
+      "duracao": 5
+    },
+    {
+      "id": "a02-antes",
+      "tipo": "cartao",
+      "ano": 2008,
+      "rotulo": "Antes",
+      "titulo": "Como vivia um campeão mundial",
+      "narracao": "Para entender como se chegou a isso, é preciso voltar uns quinze anos. Você já viu que o Mundial da [IBJJF|I B J J F] dava medalha, e não dinheiro, e que a federação brasileira que pagava prêmio durou pouco. Então, de que vivia um campeão mundial? De dar aula na academia. De viajar dando seminários, aqueles cursos de fim de semana em academias de outros países. E de um patrocínio de marca de kimono. Lutar era a vitrine. O salário vinha de ensinar. Quem queria viver de lutar ia para o [MMA|eme eme á].",
+      "itens": [
+        {
+          "texto": "O Mundial dava medalha, não dinheiro",
+          "quando": "dava medalha"
+        },
+        {
+          "texto": "Aulas na academia",
+          "quando": "dar aula"
+        },
+        {
+          "texto": "Seminários pelo mundo",
+          "quando": "dando seminários"
+        },
+        {
+          "texto": "Patrocínio de marca de kimono",
+          "quando": "marca de kimono"
+        },
+        {
+          "texto": "Viver de lutar? Só no MMA",
+          "quando": "viver de lutar"
+        }
+      ]
+    },
+    {
+      "id": "a03-world-pro",
+      "tipo": "linha",
+      "ano": 2009,
+      "titulo": "Abu Dhabi World Pro",
+      "narracao": "A primeira mudança vem de um lugar conhecido: Abu Dhabi. Em maio de [2009|dois mil e nove], os Emirados criam um campeonato de kimono com um nome que já diz tudo: Copa do Mundo Profissional de Jiu-Jitsu, o [World Pro|Uôrld Pró]. A bolsa da estreia, segundo a Wikipedia, é de cento e onze mil dólares. No ano seguinte, sobe para cento e cinquenta mil. E há seletivas em vários países: quem vence ganha passagem, hotel e comida para lutar em Abu Dhabi. Em [2019|dois mil e dezenove], já são mais de cinco mil atletas e seiscentos mil dólares em prêmios.",
+      "eventos": [
+        {
+          "ano": "2009",
+          "texto": "Primeiro World Pro: US$ 111 mil em prêmios",
+          "quando": "maio de 2009"
+        },
+        {
+          "ano": "2010",
+          "texto": "A bolsa sobe para US$ 150 mil",
+          "quando": "No ano seguinte"
+        },
+        {
+          "ano": "Seletivas",
+          "texto": "Vencedor viaja com tudo pago",
+          "quando": "seletivas em vários"
+        },
+        {
+          "ano": "2019",
+          "texto": "Mais de 5 mil atletas, US$ 600 mil",
+          "quando": "Em 2019"
+        }
+      ]
+    },
+    {
+      "id": "a04-grand-slam",
+      "tipo": "mapa",
+      "ano": 2015,
+      "titulo": "O circuito dos Emirados",
+      "narracao": "Desde [2012|dois mil e doze], quem organiza o [World Pro|Uôrld Pró] é a federação de jiu-jitsu dos Emirados, a [UAEJJF|U A E J J F]. Em [2015|dois mil e quinze], ela monta um circuito de etapas grandes, os [Grand Slams|Grend Isléms]. A primeira temporada passa por Tóquio, por Los Angeles, pelo Rio de Janeiro e por Londres. Na temporada seguinte entra a etapa de Abu Dhabi. Mais tarde o circuito ganha outro nome, Abu Dhabi Jiu-Jitsu Pro, a [AJP|A J P]. Pela primeira vez, um faixa-preta de kimono tem um calendário pago do começo ao fim do ano.",
+      "vista": {
+        "lon": 10,
+        "lat": 20,
+        "escala": 1
+      },
+      "lugares": [
+        {
+          "nome": "Abu Dhabi",
+          "coord": [
+            54.37,
+            24.45
+          ],
+          "quando": "federação de jiu-jitsu",
+          "destaque": true
+        },
+        {
+          "nome": "Tóquio",
+          "coord": [
+            139.69,
+            35.68
+          ],
+          "quando": "por Tóquio"
+        },
+        {
+          "nome": "Los Angeles",
+          "coord": [
+            -118.24,
+            34.05
+          ],
+          "quando": "por Los Angeles"
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "pelo Rio de Janeiro"
+        },
+        {
+          "nome": "Londres",
+          "coord": [
+            -0.13,
+            51.5
+          ],
+          "quando": "por Londres"
+        }
+      ]
+    },
+    {
+      "id": "a05-ralek",
+      "tipo": "perfil",
+      "ano": 2012,
+      "nome": "Ralek Gracie",
+      "papel": "O criador do Metamoris",
+      "wiki": "Ralek_Gracie",
+      "narracao": "A segunda mudança nasce na Califórnia, e dentro da família Gracie. [Ralek|Rálek] Gracie é filho de Rorion, o homem que criou o [UFC|U F C]. Em outubro de [2012|dois mil e doze], ele lança o [Metamoris|Metamóris]. A ideia é o contrário de um campeonato. Nada de chave, nada de dezenas de lutas ao mesmo tempo. São só seis lutas casadas, uma de cada vez, num tatame só, com transmissão paga pela internet. Cada luta dura vinte minutos. Não há pontos nem vantagens. Só vence quem finalizar, quem fizer o outro desistir. Se ninguém finaliza, é empate.",
+      "fatos": [
+        {
+          "texto": "Filho de Rorion Gracie",
+          "quando": "filho de Rorion"
+        },
+        {
+          "texto": "Lança o Metamoris em outubro de 2012",
+          "quando": "outubro de 2012"
+        },
+        {
+          "texto": "Seis superlutas, uma de cada vez",
+          "quando": "seis lutas casadas"
+        },
+        {
+          "texto": "Vinte minutos, sem pontos",
+          "quando": "vinte minutos"
+        },
+        {
+          "texto": "Sem finalização, empate",
+          "quando": "é empate"
+        }
+      ]
+    },
+    {
+      "id": "a06-metamoris-1",
+      "tipo": "cartao",
+      "ano": 2012,
+      "rotulo": "Metamoris 1, 14 de outubro de 2012",
+      "titulo": "A noite das superlutas",
+      "destaque": "3 empates",
+      "narracao": "A primeira noite mostra a força e o defeito da ideia. Três lutas acabam em finalização. As outras três, em empate. Numa delas, [Ryron|Ráiron] Gracie, irmão de [Ralek|Rálek], passa vinte minutos se defendendo de André Galvão, campeão do [ADCC|A D C C]. Não é finalizado, e a família comemora como vitória. Na luta principal, [Roger|Ródjer] Gracie, dez vezes campeão mundial, enfrenta o campeão absoluto daquele ano, Marcus Almeida, o Buchecha. É a velha guarda contra a nova geração. Vinte minutos depois, empate também. O público adora. Mas fica a pergunta: quem ganhou?",
+      "itens": [
+        {
+          "texto": "Três finalizações, três empates",
+          "quando": "Três lutas acabam"
+        },
+        {
+          "texto": "Ryron Gracie resiste a André Galvão",
+          "quando": "se defendendo de"
+        },
+        {
+          "texto": "Roger Gracie x Marcus \"Buchecha\" Almeida",
+          "quando": "Na luta principal"
+        },
+        {
+          "texto": "Vinte minutos: empate",
+          "quando": "empate também"
+        },
+        {
+          "texto": "Quem ganhou?",
+          "quando": "quem ganhou"
+        }
+      ]
+    },
+    {
+      "id": "a07-royler-bravo",
+      "tipo": "cartao",
+      "ano": 2014,
+      "rotulo": "Metamoris 3, 29 de março de 2014",
+      "titulo": "Royler Gracie x Eddie Bravo",
+      "destaque": "11 anos",
+      "narracao": "A luta mais esperada do [Metamoris|Metamóris] vem em março de [2014|dois mil e quatorze]. Você se lembra: em [2003|dois mil e três], no [ADCC|A D C C], um faixa-marrom americano chamado Eddie Bravo finalizou [Royler|Róiler] Gracie num triângulo. Onze anos depois, os dois se reencontram, sem kimono, por vinte minutos. [Royler|Róiler] tem quarenta e oito anos. Bravo, quarenta e três. O resultado oficial é empate. Mas os relatos da época concordam que Bravo passou boa parte do tempo atacando, com a meia guarda e as posições da escola dele. Para a [10th Planet|Tênf Plénet], valeu como confirmação.",
+      "itens": [
+        {
+          "texto": "2003: Bravo finaliza Royler no ADCC",
+          "quando": "em 2003"
+        },
+        {
+          "texto": "Revanche onze anos depois",
+          "quando": "Onze anos depois"
+        },
+        {
+          "texto": "Royler, 48 anos; Bravo, 43",
+          "quando": "quarenta e oito anos"
+        },
+        {
+          "texto": "Resultado oficial: empate",
+          "quando": "oficial é empate"
+        },
+        {
+          "texto": "Bravo ataca a maior parte do tempo",
+          "quando": "boa parte do tempo"
+        }
+      ]
+    },
+    {
+      "id": "a08-queda",
+      "tipo": "linha",
+      "ano": 2016,
+      "titulo": "A queda do Metamoris",
+      "narracao": "O [Metamoris|Metamóris] provou que havia público pagante. Só não conseguiu pagar a conta. A partir de [2016|dois mil e dezesseis], atletas vão a público dizer que não receberam. O americano AJ Agazarm, por exemplo, cobra dois mil dólares de uma luta. [Ralek|Rálek] pede desculpas e promete quitar tudo. Em outra entrevista, à [FloGrappling|Flôu Grépling], diz que a dívida não é grande coisa. Os irmãos [Ryron|Ráiron] e Rener publicam uma nota recomendando cautela a quem for fazer negócio com ele. A última edição listada pela Wikipedia é de novembro de [2017|dois mil e dezessete]. O evento acabou. O formato ficou.",
+      "eventos": [
+        {
+          "ano": "2012",
+          "texto": "Há público pagante para superlutas",
+          "quando": "havia público pagante"
+        },
+        {
+          "ano": "2016",
+          "texto": "Atletas dizem que não receberam",
+          "quando": "não receberam"
+        },
+        {
+          "ano": "2016",
+          "texto": "Ralek pede desculpas e promete pagar",
+          "quando": "pede desculpas"
+        },
+        {
+          "ano": "Família",
+          "texto": "Os irmãos recomendam cautela",
+          "quando": "recomendando cautela"
+        },
+        {
+          "ano": "2017",
+          "texto": "Última edição listada",
+          "quando": "novembro de 2017"
+        }
+      ]
+    },
+    {
+      "id": "a09-ebi",
+      "tipo": "cartao",
+      "ano": 2014,
+      "rotulo": "Eddie Bravo Invitational, 2014",
+      "titulo": "A prorrogação de Eddie Bravo",
+      "destaque": "EBI",
+      "narracao": "Quem resolve o problema do empate é justamente Eddie Bravo. Em [2014|dois mil e quatorze], em Los Angeles, ele cria o próprio torneio, o Eddie Bravo Invitational, o [EBI|E B I]. A luta dura dez minutos e só vale finalização. Se ninguém finaliza, vem a prorrogação que ele inventou. Um lutador começa já em posição de ataque: ou nas costas do outro, pronto para o estrangulamento, ou com a chave de braço encaixada. Depois, trocam. Vence quem finalizar. Se os dois escaparem, em até três rodadas, vence quem escapou mais rápido. Sempre há um vencedor.",
+      "itens": [
+        {
+          "texto": "Dez minutos, só finalização",
+          "quando": "dez minutos"
+        },
+        {
+          "texto": "Prorrogação: começa já no ataque",
+          "quando": "posição de ataque"
+        },
+        {
+          "texto": "Nas costas ou na chave de braço",
+          "quando": "nas costas do outro"
+        },
+        {
+          "texto": "Depois, trocam de papel",
+          "quando": "Depois, trocam"
+        },
+        {
+          "texto": "Empate? Vence quem escapou mais rápido",
+          "quando": "escapou mais rápido"
+        }
+      ]
+    },
+    {
+      "id": "a10-eventos",
+      "tipo": "mapa",
+      "ano": 2015,
+      "titulo": "Um evento em cada canto",
+      "narracao": "A fórmula se espalha. No Brasil, o Copa Pódio, criado em [2011|dois mil e onze] por Jeferson Maycá, junta faixas-pretas de kimono em grupos, todos contra todos, com transmissão ao vivo. No País de Gales, em janeiro de [2015|dois mil e quinze], estreia em Cardiff o [Polaris|Poláris], a casa das superlutas na Europa. Em novembro do mesmo ano, em Denver, o promotor Seth Daniels lança o [Fight to Win|Fáit tu Uín]: um palco, luzes de show de rock e dezenas de lutas por noite. A meta dele era chegar a um milhão de dólares pagos a atletas até o fim de [2017|dois mil e dezessete].",
+      "vista": {
+        "lon": -40,
+        "lat": 25,
+        "escala": 1.25
+      },
+      "lugares": [
+        {
+          "nome": "Brasil: Copa Pódio, 2011",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "o Copa Pódio"
+        },
+        {
+          "nome": "Los Angeles: Metamoris e EBI",
+          "coord": [
+            -118.24,
+            34.05
+          ],
+          "quando": "A fórmula"
+        },
+        {
+          "nome": "Cardiff: Polaris, 2015",
+          "coord": [
+            -3.18,
+            51.48
+          ],
+          "quando": "em Cardiff",
+          "destaque": true
+        },
+        {
+          "nome": "Denver: Fight to Win, 2015",
+          "coord": [
+            -104.99,
+            39.74
+          ],
+          "quando": "em Denver"
+        }
+      ]
+    },
+    {
+      "id": "a11-internet",
+      "tipo": "cartao",
+      "ano": 2015,
+      "rotulo": "O novo modelo de negócio",
+      "titulo": "A assinatura e o curso em vídeo",
+      "narracao": "O que sustenta tudo isso não é a bilheteria. É a internet. Em agosto de [2015|dois mil e quinze], a empresa americana FloSports, de Austin, no Texas, lança a [FloGrappling|Flôu Grépling]: um site só de luta agarrada, com assinatura mensal. Ela passa a transmitir campeonatos e superlutas, e o jiu-jitsu vira programação de toda semana. Ao mesmo tempo, cresce outro mercado: o dos cursos em vídeo. Lojas como a [BJJ Fanatics|B J J Fanátics], do campeão mundial Bernardo Faria e do sócio Michael Zenga, vendem aulas gravadas pelos próprios campeões. Para o atleta, é uma renda que não depende de vencer no sábado.",
+      "itens": [
+        {
+          "texto": "Não é a bilheteria: é a internet",
+          "quando": "É a internet"
+        },
+        {
+          "texto": "Agosto de 2015: nasce a FloGrappling",
+          "quando": "agosto de 2015"
+        },
+        {
+          "texto": "Assinatura mensal",
+          "quando": "assinatura mensal"
+        },
+        {
+          "texto": "Jiu-jitsu toda semana",
+          "quando": "toda semana"
+        },
+        {
+          "texto": "Cursos em vídeo dos campeões",
+          "quando": "cursos em vídeo"
+        }
+      ]
+    },
+    {
+      "id": "a12-pandemia",
+      "tipo": "linha",
+      "ano": 2020,
+      "titulo": "2020: a superluta vira o centro",
+      "narracao": "Então chega [2020|dois mil e vinte]. A pandemia fecha academias e cancela os campeonatos grandes, aqueles com milhares de inscritos num ginásio. Uma superluta, não: bastam dois atletas, um tatame e uma câmera. A [FloGrappling|Flôu Grépling] aposta nisso com uma série própria, o [Who's Number One|Rus Nâmber Uân], quem é o número um. Em julho, uma edição em Austin perde dois lutadores com Covid e é remontada às pressas. Em outubro, outra noite já tem um nome só no cartaz principal. Durante meses, a superluta por assinatura foi quase todo o jiu-jitsu de alto nível que existiu.",
+      "eventos": [
+        {
+          "ano": "2020",
+          "texto": "A pandemia cancela os grandes campeonatos",
+          "quando": "A pandemia fecha"
+        },
+        {
+          "ano": "Formato",
+          "texto": "Dois atletas, um tatame, uma câmera",
+          "quando": "bastam dois atletas"
+        },
+        {
+          "ano": "2020",
+          "texto": "Who's Number One, da FloGrappling",
+          "quando": "série própria"
+        },
+        {
+          "ano": "Julho",
+          "texto": "Edição em Austin remontada por Covid",
+          "quando": "Em julho"
+        },
+        {
+          "ano": "Outubro",
+          "texto": "Um nome só no cartaz",
+          "quando": "Em outubro"
+        }
+      ]
+    },
+    {
+      "id": "a13-balanco",
+      "tipo": "comparacao",
+      "ano": 2020,
+      "titulo": "Viver de lutar",
+      "narracao": "Em dez anos, a vida do atleta mudou. O lado bom: dá para viver de lutar, com bolsa por luta, prêmio em Abu Dhabi, curso em vídeo e um calendário cheio. O lado ruim: não há salário nem contrato longo. O atleta depende do promotor, que pode não pagar, como no [Metamoris|Metamóris]. Depende da assinatura de uma única empresa. E depende de fama em rede social, porque quem vende ingresso é chamado de novo. Nesse mundo, ganha mais quem luta bem e sabe fazer barulho. E ninguém fez as duas coisas como um americano de Nova Jersey: Gordon Ryan.",
+      "esquerda": {
+        "titulo": "O que melhorou",
+        "tom": "bom",
+        "itens": [
+          {
+            "texto": "Dá para viver de lutar",
+            "quando": "viver de lutar"
+          },
+          {
+            "texto": "Bolsa por luta e prêmio em dinheiro",
+            "quando": "bolsa por luta"
+          },
+          {
+            "texto": "Renda com cursos em vídeo",
+            "quando": "curso em vídeo"
+          },
+          {
+            "texto": "Calendário cheio o ano todo",
+            "quando": "calendário cheio"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O preço",
+        "tom": "ruim",
+        "itens": [
+          {
+            "texto": "Sem salário nem contrato longo",
+            "quando": "não há salário"
+          },
+          {
+            "texto": "Promotor pode não pagar",
+            "quando": "pode não pagar"
+          },
+          {
+            "texto": "Uma única empresa de assinatura",
+            "quando": "uma única empresa"
+          },
+          {
+            "texto": "Depende de fama em rede social",
+            "quando": "fama em rede social"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b01-sedes",
+      "tipo": "mapa",
+      "ano": 2013,
+      "titulo": "ADCC, 2013 a 2019: quatro sedes",
+      "narracao": "Depois de Nottingham, o [ADCC|A D C C] segue viajando. Em [2013|dois mil e treze], vai a Pequim, e o absoluto, a categoria sem limite de peso, fica com Roberto Abreu, o Cyborg. Em [2015|dois mil e quinze], volta ao Brasil: em São Paulo, o campeão absoluto é Claudio Calasans. Em [2017|dois mil e dezessete], em Espoo, na Finlândia, vence o mineiro Felipe Pena. E em [2019|dois mil e dezenove], em Anaheim, na Califórnia, o absoluto vai pela primeira vez para um aluno de John Danaher. Já chegamos a ele.",
+      "vista": {
+        "lon": 10,
+        "lat": 25,
+        "escala": 1
+      },
+      "lugares": [
+        {
+          "nome": "Pequim, 2013: Cyborg",
+          "coord": [
+            116.4,
+            39.9
+          ],
+          "quando": "vai a Pequim"
+        },
+        {
+          "nome": "São Paulo, 2015: Calasans",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "em São Paulo"
+        },
+        {
+          "nome": "Espoo, 2017: Pena",
+          "coord": [
+            24.66,
+            60.21
+          ],
+          "quando": "em Espoo"
+        },
+        {
+          "nome": "Anaheim, 2019",
+          "coord": [
+            -117.91,
+            33.84
+          ],
+          "quando": "em Anaheim",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "b02-galvao-superlutas",
+      "tipo": "cartao",
+      "ano": 2019,
+      "rotulo": "ADCC, 2013 a 2019",
+      "titulo": "As superlutas de André Galvão",
+      "destaque": "4 seguidas",
+      "narracao": "Nessas quatro edições, uma coisa não muda: o dono da superluta. É o combate único da edição, que em geral põe o vencedor da superluta anterior contra o último campeão absoluto. André Galvão, que você viu vencer o peso e o absoluto em [2011|dois mil e onze], ganha a de [2013|dois mil e treze] contra Braulio Estima. Depois defende o posto três vezes: contra Cyborg, contra Calasans e, em [2019|dois mil e dezenove], contra Felipe Pena. São quatro superlutas vencidas em seis anos, todas contra homens que já tinham sido campeões absolutos.",
+      "itens": [
+        {
+          "texto": "2013: vence Braulio Estima",
+          "quando": "contra Braulio Estima"
+        },
+        {
+          "texto": "2015: vence Roberto Abreu, o Cyborg",
+          "quando": "contra Cyborg"
+        },
+        {
+          "texto": "2017: vence Claudio Calasans",
+          "quando": "contra Calasans"
+        },
+        {
+          "texto": "2019: vence Felipe Pena",
+          "quando": "contra Felipe Pena"
+        },
+        {
+          "texto": "Quatro superlutas em seis anos",
+          "quando": "quatro superlutas vencidas"
+        }
+      ]
+    },
+    {
+      "id": "b03-gordon-ryan",
+      "tipo": "perfil",
+      "ano": 2019,
+      "nome": "Gordon Ryan",
+      "anos": "1995 –",
+      "papel": "Campeão do ADCC em 2017, 2019 e 2022",
+      "wiki": "Gordon_Ryan",
+      "narracao": "O aluno de Danaher é Gordon Ryan. Nascido em [1995|mil novecentos e noventa e cinco] em Nova Jersey, ele começa a treinar aos quinze anos e recebe a faixa-preta em [2016|dois mil e dezesseis], das mãos de Garry Tonon. No [ADCC|A D C C] de [2017|dois mil e dezessete], vence a categoria até oitenta e oito quilos e é prata no absoluto, parado na final por Felipe Pena. Dois anos depois, em Anaheim, sobe de peso, ganha até noventa e nove quilos e leva também o absoluto, com vitória sobre Marcus Almeida, o Buchecha, na final. Tinha vinte e quatro anos.",
+      "fatos": [
+        {
+          "texto": "Nascido em 1995, em Nova Jersey",
+          "quando": "em Nova Jersey"
+        },
+        {
+          "texto": "Faixa-preta em 2016, por Garry Tonon",
+          "quando": "recebe a faixa-preta"
+        },
+        {
+          "texto": "2017: ouro até 88 quilos",
+          "quando": "vence a categoria"
+        },
+        {
+          "texto": "2017: prata no absoluto, contra Pena",
+          "quando": "prata no absoluto"
+        },
+        {
+          "texto": "2019: ouro até 99 quilos e absoluto",
+          "quando": "leva também o absoluto"
+        }
+      ]
+    },
+    {
+      "id": "b04-racha",
+      "tipo": "linhagem",
+      "ano": 2021,
+      "titulo": "2021: a equipe de Danaher se divide",
+      "narracao": "Em [2020|dois mil e vinte], a equipe de Danaher troca Nova York por Porto Rico. Dura pouco. Em julho de [2021|dois mil e vinte e um], Danaher anuncia o fim do grupo como equipe única de treino e de competição. Os motivos, cada lado conta do seu jeito. O resultado é que nascem duas academias na mesma cidade: Austin, no Texas. De um lado, a New Wave, com Danaher, Gordon Ryan e Garry Tonon. Do outro, a B-Team, fundada pelo australiano Craig Jones com Nick Rodriguez, Nicky Ryan, irmão de Gordon, e Ethan Crelinsten.",
+      "nos": [
+        {
+          "id": "dds",
+          "nome": "Equipe de Danaher",
+          "sub": "Nova York e Porto Rico",
+          "quando": "a equipe de Danaher"
+        },
+        {
+          "id": "nw",
+          "nome": "New Wave",
+          "sub": "Austin, 2021",
+          "pai": "dds",
+          "quando": "a New Wave"
+        },
+        {
+          "id": "bt",
+          "nome": "B-Team",
+          "sub": "Austin, 2021",
+          "pai": "dds",
+          "quando": "a B-Team"
+        },
+        {
+          "id": "gordon",
+          "nome": "Gordon Ryan",
+          "pai": "nw",
+          "quando": "Gordon Ryan e"
+        },
+        {
+          "id": "tonon",
+          "nome": "Garry Tonon",
+          "pai": "nw",
+          "quando": "Garry Tonon"
+        },
+        {
+          "id": "craig",
+          "nome": "Craig Jones",
+          "pai": "bt",
+          "quando": "australiano Craig Jones"
+        },
+        {
+          "id": "nickyrod",
+          "nome": "Nick Rodriguez",
+          "pai": "bt",
+          "quando": "Nick Rodriguez"
+        },
+        {
+          "id": "nicky",
+          "nome": "Nicky Ryan",
+          "pai": "bt",
+          "quando": "Nicky Ryan"
+        },
+        {
+          "id": "ethan",
+          "nome": "Ethan Crelinsten",
+          "pai": "bt",
+          "quando": "Ethan Crelinsten"
+        }
+      ]
+    },
+    {
+      "id": "b05-vegas-2022",
+      "tipo": "cartao",
+      "ano": 2022,
+      "rotulo": "ADCC 2022, Las Vegas",
+      "titulo": "O torneio enche uma arena",
+      "destaque": "10 mil",
+      "narracao": "A pandemia adia o [ADCC|A D C C] seguinte para setembro de [2022|dois mil e vinte e dois]. O palco é o ginásio [Thomas & Mack|Tômas and Mék], em Las Vegas. Registros públicos obtidos pelo site MuckRock indicam mais de dez mil ingressos vendidos; outras fontes falam em treze mil pessoas. De um jeito ou de outro, é público de arena para um torneio de luta agarrada. Gordon Ryan vence a categoria mais pesada. Na superluta, encerra a série de André Galvão: finaliza com um mata-leão, o estrangulamento pelas costas, aos dezesseis minutos. O absoluto fica com Yuri Simões.",
+      "itens": [
+        {
+          "texto": "Setembro de 2022, ginásio Thomas & Mack",
+          "quando": "em Las Vegas"
+        },
+        {
+          "texto": "Mais de 10 mil ingressos vendidos",
+          "quando": "dez mil ingressos"
+        },
+        {
+          "texto": "Gordon Ryan: ouro acima de 99 quilos",
+          "quando": "categoria mais pesada"
+        },
+        {
+          "texto": "Superluta: Gordon finaliza Galvão",
+          "quando": "finaliza com um"
+        },
+        {
+          "texto": "Absoluto: Yuri Simões",
+          "quando": "Yuri Simões"
+        }
+      ]
+    },
+    {
+      "id": "b06-nomes-novos",
+      "tipo": "linha",
+      "ano": 2022,
+      "titulo": "2022: os nomes novos",
+      "narracao": "Las Vegas também apresenta uma geração. Até setenta e sete quilos, o campeão é o californiano Kade Ruotolo, de dezenove anos. Ele se torna, naquele momento, o mais jovem campeão da história do torneio. Até oitenta e oito quilos, vence o americano Giancarlo Bodoni. Diogo Reis ganha entre os mais leves, e Kaynan Duarte, até noventa e nove quilos. Entre as mulheres, a galesa Ffion Davies vence até sessenta quilos, e a americana Amy Campo, acima disso. Em [2026|dois mil e vinte e seis], segundo as fontes, o recorde de idade passaria para outra americana, Helena Crevar.",
+      "eventos": [
+        {
+          "ano": "2022",
+          "texto": "Kade Ruotolo, 19 anos: ouro até 77 quilos",
+          "quando": "Kade Ruotolo"
+        },
+        {
+          "ano": "2022",
+          "texto": "Giancarlo Bodoni: ouro até 88 quilos",
+          "quando": "Giancarlo Bodoni"
+        },
+        {
+          "ano": "2022",
+          "texto": "Diogo Reis e Kaynan Duarte campeões",
+          "quando": "Diogo Reis ganha"
+        },
+        {
+          "ano": "2022",
+          "texto": "Ffion Davies: ouro até 60 quilos",
+          "quando": "Ffion Davies vence"
+        },
+        {
+          "ano": "2022",
+          "texto": "Amy Campo: ouro acima de 60 quilos",
+          "quando": "Amy Campo"
+        },
+        {
+          "ano": "2026",
+          "texto": "Helena Crevar: nova campeã mais jovem",
+          "quando": "Helena Crevar"
+        }
+      ]
+    },
+    {
+      "id": "b07-gordon-negocio",
+      "tipo": "cartao",
+      "ano": 2023,
+      "rotulo": "Gordon Ryan",
+      "titulo": "O campeão como negócio",
+      "destaque": "7 dígitos",
+      "narracao": "Gordon Ryan muda também o jeito de viver da luta. No tatame, as fontes o descrevem como um finalizador: no absoluto de [2017|dois mil e dezessete], só não finalizou o adversário da final. Fora dele, vende cursos em vídeo, publica um livro e, em janeiro de [2023|dois mil e vinte e três], assina com a FloSports um contrato que a imprensa especializada noticiou como de sete dígitos. Ao mesmo tempo, relata em público um problema crônico de estômago. Em [2021|dois mil e vinte e um], chega a anunciar uma pausa. E em fevereiro de [2026|dois mil e vinte e seis], aos trinta anos, anuncia a aposentadoria das competições.",
+      "itens": [
+        {
+          "texto": "Absoluto de 2017: finalizações até a final",
+          "quando": "um finalizador"
+        },
+        {
+          "texto": "Cursos em vídeo e um livro",
+          "quando": "vende cursos em vídeo"
+        },
+        {
+          "texto": "2023: contrato com a FloSports",
+          "quando": "assina com a FloSports"
+        },
+        {
+          "texto": "Problema crônico de estômago, relatado por ele",
+          "quando": "problema crônico de estômago"
+        },
+        {
+          "texto": "Fevereiro de 2026: anuncia a aposentadoria",
+          "quando": "anuncia a aposentadoria"
+        }
+      ]
+    },
+    {
+      "id": "b08-dinheiro",
+      "tipo": "cartao",
+      "ano": 2023,
+      "rotulo": "O prêmio",
+      "titulo": "Quanto ganha o campeão do ADCC?",
+      "destaque": "US$ 10 mil",
+      "narracao": "E quanto ganha quem vence o maior torneio sem kimono do mundo? Dez mil dólares por categoria. Segundo o organizador da época, Mo Jassim, o valor era o mesmo desde [1998|mil novecentos e noventa e oito]. Quem perdia na primeira luta voltava para casa sem nada: não havia cachê por participar. Craig Jones, duas vezes vice-campeão do [ADCC|A D C C], passa a dizer isso em público, e lembra que, com a inflação, dez mil dólares valiam cada vez menos. Do outro lado, segundo relatos da imprensa, Jassim afirma que o evento nunca deu lucro.",
+      "itens": [
+        {
+          "texto": "Campeão de categoria: 10 mil dólares",
+          "quando": "Dez mil dólares"
+        },
+        {
+          "texto": "Mesmo valor desde 1998, diz o organizador",
+          "quando": "o mesmo desde"
+        },
+        {
+          "texto": "Sem cachê por participar",
+          "quando": "não havia cachê"
+        },
+        {
+          "texto": "Craig Jones critica em público",
+          "quando": "Craig Jones"
+        },
+        {
+          "texto": "Organizador: o evento nunca deu lucro",
+          "quando": "nunca deu lucro"
+        }
+      ]
+    },
+    {
+      "id": "b09-cji",
+      "tipo": "perfil",
+      "ano": 2024,
+      "nome": "Craig Jones",
+      "anos": "1991 –",
+      "papel": "Criador do Craig Jones Invitational (CJI)",
+      "wiki": "Craig_Jones_(grappler)",
+      "narracao": "Em [2024|dois mil e vinte e quatro], Craig Jones, nascido em Adelaide, na Austrália, faz mais do que reclamar. Anuncia um torneio próprio, o Craig Jones Invitational, ou [CJI|C J I], no mesmo fim de semana do [ADCC|A D C C] e na mesma cidade. Diz ter três milhões de dólares de um doador que não identifica. A proposta: um milhão de dólares para o campeão de cada uma das duas categorias, e dez mil e um dólares para cada convidado, só por participar. É um dólar a mais que o prêmio do campeão do torneio rival. A transmissão é gratuita.",
+      "fatos": [
+        {
+          "texto": "Nascido em Adelaide, Austrália",
+          "quando": "nascido em Adelaide"
+        },
+        {
+          "texto": "Prata no ADCC em 2019 e 2022",
+          "quando": "faz mais do que"
+        },
+        {
+          "texto": "CJI: mesmo fim de semana do ADCC",
+          "quando": "mesmo fim de semana"
+        },
+        {
+          "texto": "1 milhão de dólares por categoria",
+          "quando": "um milhão de dólares"
+        },
+        {
+          "texto": "10.001 dólares só por participar",
+          "quando": "dez mil e um"
+        },
+        {
+          "texto": "Transmissão gratuita",
+          "quando": "transmissão é gratuita"
+        }
+      ]
+    },
+    {
+      "id": "b10-fim-de-semana",
+      "tipo": "comparacao",
+      "ano": 2024,
+      "titulo": "Agosto de 2024, Las Vegas: dois torneios",
+      "narracao": "Agosto de [2024|dois mil e vinte e quatro], Las Vegas, dois torneios. O [CJI|C J I] ocupa o [Thomas & Mack|Tômas and Mék], com uma área de luta de paredes inclinadas. Kade Ruotolo vence até oitenta quilos, e Nick Rodriguez, acima disso. Cada um leva um milhão. O [ADCC|A D C C] vai para a T-Mobile Arena e, pela primeira vez, paga cachê: no mínimo dois mil e quinhentos dólares por atleta. Kaynan Duarte ganha o peso e o absoluto. A australiana Adele Fornarino faz o mesmo entre as mulheres. E Gordon Ryan vence duas superlutas, contra Felipe Pena e Yuri Simões.",
+      "esquerda": {
+        "titulo": "CJI (16 e 17 de agosto)",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Ginásio Thomas & Mack",
+            "quando": "ocupa o Thomas"
+          },
+          {
+            "texto": "Área de luta com paredes inclinadas",
+            "quando": "paredes inclinadas"
+          },
+          {
+            "texto": "Até 80 quilos: Kade Ruotolo",
+            "quando": "Kade Ruotolo vence"
+          },
+          {
+            "texto": "Acima de 80 quilos: Nick Rodriguez",
+            "quando": "Nick Rodriguez"
+          },
+          {
+            "texto": "1 milhão de dólares para cada um",
+            "quando": "leva um milhão"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "ADCC (17 e 18 de agosto)",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "T-Mobile Arena",
+            "quando": "T-Mobile Arena"
+          },
+          {
+            "texto": "Primeiro cachê: mínimo de 2.500 dólares",
+            "quando": "paga cachê"
+          },
+          {
+            "texto": "Kaynan Duarte: peso e absoluto",
+            "quando": "Kaynan Duarte ganha"
+          },
+          {
+            "texto": "Adele Fornarino: peso e absoluto",
+            "quando": "Adele Fornarino"
+          },
+          {
+            "texto": "Gordon Ryan vence duas superlutas",
+            "quando": "vence duas superlutas"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b11-depois",
+      "tipo": "linha",
+      "ano": 2025,
+      "titulo": "Depois de 2024",
+      "narracao": "O que veio depois? Em Singapura, o ONE Championship já tinha cinturões de luta agarrada desde [2022|dois mil e vinte e dois]. Em junho de [2025|dois mil e vinte e cinco], é o [UFC|U F C] que estreia um evento só de jiu-jitsu sem kimono, com uma área de luta em forma de tigela. Em agosto, o segundo [CJI|C J I] troca as chaves individuais por um torneio de equipes: a B-Team vence e leva um milhão de dólares. E para [2026|dois mil e vinte e seis], em Cracóvia, na Polônia, o [ADCC|A D C C] dobra o prêmio das categorias masculinas, para vinte mil dólares. O das mulheres segue em dez mil.",
+      "eventos": [
+        {
+          "ano": "2022",
+          "texto": "ONE Championship cria cinturões de luta agarrada",
+          "quando": "o ONE Championship"
+        },
+        {
+          "ano": "2025",
+          "texto": "Junho: estreia o UFC BJJ, em Las Vegas",
+          "quando": "estreia um evento"
+        },
+        {
+          "ano": "2025",
+          "texto": "Agosto: CJI 2, torneio de equipes",
+          "quando": "torneio de equipes"
+        },
+        {
+          "ano": "2025",
+          "texto": "B-Team vence e leva 1 milhão",
+          "quando": "a B-Team vence"
+        },
+        {
+          "ano": "2026",
+          "texto": "ADCC em Cracóvia: 20 mil ao campeão",
+          "quando": "dobra o prêmio"
+        },
+        {
+          "ano": "2026",
+          "texto": "Prêmio feminino segue em 10 mil",
+          "quando": "O das mulheres"
+        }
+      ]
+    },
+    {
+      "id": "b12-doping",
+      "tipo": "comparacao",
+      "ano": 2022,
+      "titulo": "Doping: quem testa e quem não testa",
+      "narracao": "Falta um assunto: o doping. A federação de kimono, a [IBJJF|I B J J F], testa campeões desde [2013|dois mil e treze], por meio da agência antidoping dos Estados Unidos. Começou pelo Pan e chegou ao Mundial. Houve títulos mundiais cassados em casos oficiais, como os de Braulio Estima em [2014|dois mil e catorze], Kaynan Duarte em [2019|dois mil e dezenove] e Micael Galvão em [2022|dois mil e vinte e dois]. Já o [ADCC|A D C C], segundo o organizador da época, nunca tinha testado. E os atletas falam disso abertamente. Em [2024|dois mil e vinte e quatro], num vídeo, Gordon Ryan contou quando começou a usar esteroides, e disse que eles não eram proibidos nos torneios em que lutava.",
+      "esquerda": {
+        "titulo": "Kimono (IBJJF)",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Testes desde 2013, pela agência americana",
+            "quando": "testa campeões desde"
+          },
+          {
+            "texto": "Título cassado: Braulio Estima, 2014",
+            "quando": "Braulio Estima em"
+          },
+          {
+            "texto": "Título cassado: Kaynan Duarte, 2019",
+            "quando": "Kaynan Duarte em"
+          },
+          {
+            "texto": "Título cassado: Micael Galvão, 2022",
+            "quando": "Micael Galvão em"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Sem kimono (ADCC)",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "ADCC: sem testes, diz o organizador",
+            "quando": "nunca tinha testado"
+          },
+          {
+            "texto": "Atletas falam do tema abertamente",
+            "quando": "falam disso abertamente"
+          },
+          {
+            "texto": "Gordon Ryan: uso relatado em vídeo, 2024",
+            "quando": "Gordon Ryan contou"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b13-dois-modelos",
+      "tipo": "comparacao",
+      "ano": 2025,
+      "titulo": "Dois modelos: prós e contras",
+      "narracao": "Dois modelos, então. O do [ADCC|A D C C] tem a história, desde [1998|mil novecentos e noventa e oito], e as seletivas em vários continentes: quem vence a seletiva está dentro. Em troca, paga bem menos. O do [CJI|C J I] paga como nenhum outro e transmite de graça. Em troca, só entra quem é convidado, e tudo depende de um doador anônimo e da decisão de um homem só: a terceira edição, segundo sites especializados, foi cancelada pelo próprio Jones. E enquanto o jiu-jitsu sem kimono discutia dinheiro, o Mundial de kimono continuou, na Califórnia. É para lá que vamos agora.",
+      "esquerda": {
+        "titulo": "Modelo ADCC",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Pró: história desde 1998",
+            "quando": "tem a história"
+          },
+          {
+            "texto": "Pró: vaga conquistada em seletiva",
+            "quando": "vence a seletiva"
+          },
+          {
+            "texto": "Contra: paga bem menos",
+            "quando": "paga bem menos"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Modelo CJI",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Pró: prêmio de 1 milhão e cachê",
+            "quando": "paga como nenhum"
+          },
+          {
+            "texto": "Pró: transmissão gratuita",
+            "quando": "transmite de graça"
+          },
+          {
+            "texto": "Contra: só entra convidado",
+            "quando": "quem é convidado"
+          },
+          {
+            "texto": "Contra: depende de um doador anônimo",
+            "quando": "um doador anônimo"
+          },
+          {
+            "texto": "Terceira edição cancelada, segundo sites",
+            "quando": "foi cancelada"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01-roger",
+      "tipo": "perfil",
+      "ano": 2009,
+      "papel": "Dez títulos mundiais na faixa preta",
+      "nome": "Roger Gracie",
+      "anos": "1981 –",
+      "wiki": "Roger_Gracie",
+      "narracao": "Em [2007|dois mil e sete], o Mundial de kimono se muda para a Califórnia. E os primeiros anos em Long Beach têm dono: Roger Gracie, que você já conhece. Pela contagem da Wikipedia, ele soma dez títulos mundiais na faixa preta, entre [2004|dois mil e quatro] e [2010|dois mil e dez]. Três são no absoluto. Em [2009|dois mil e nove], finaliza todos os adversários, no peso e no absoluto. Na final, usa um golpe que se aprende na faixa branca: o estrangulamento com a gola, feito da montada.",
+      "fatos": [
+        {
+          "texto": "Mundial em Long Beach desde 2007",
+          "quando": "se muda para"
+        },
+        {
+          "texto": "10 títulos mundiais na faixa preta (2004–2010)",
+          "quando": "dez títulos mundiais"
+        },
+        {
+          "texto": "3 títulos no absoluto: 2007, 2009 e 2010",
+          "quando": "Três são no absoluto"
+        },
+        {
+          "texto": "2009: finaliza todos os adversários",
+          "quando": "finaliza todos"
+        },
+        {
+          "texto": "Na final, estrangulamento de gola, da montada",
+          "quando": "feito da montada"
+        }
+      ]
+    },
+    {
+      "id": "c02-buchecha",
+      "tipo": "perfil",
+      "ano": 2014,
+      "papel": "O recordista de títulos mundiais",
+      "nome": "Marcus Almeida, o Buchecha",
+      "anos": "1990 –",
+      "wiki": "Marcus_Almeida",
+      "narracao": "O sucessor vem de Santos, no litoral de São Paulo. Marcus Almeida, o Buchecha, da equipe [Checkmat|Tchéquimét], nasceu em [1990|mil novecentos e noventa]. Em [2012|dois mil e doze], ele vence o peso e o absoluto no Mundial. Repete a dobradinha em [2013|dois mil e treze] e [2014|dois mil e catorze], e depois em [2016|dois mil e dezesseis], [2017|dois mil e dezessete] e [2019|dois mil e dezenove]. A Wikipedia conta treze títulos mundiais, o recorde entre os homens. Seis são no absoluto, outro recorde. Em [2021|dois mil e vinte e um], Buchecha estreia no [MMA|eme eme á], e hoje luta no [UFC|U F C].",
+      "fatos": [
+        {
+          "texto": "Nasce em Santos, em 1990",
+          "quando": "vem de Santos"
+        },
+        {
+          "texto": "2012: campeão do peso e do absoluto",
+          "quando": "vence o peso"
+        },
+        {
+          "texto": "Dobradinha também em 2013, 2014, 2016, 2017 e 2019",
+          "quando": "Repete a dobradinha"
+        },
+        {
+          "texto": "13 títulos mundiais: recorde masculino",
+          "quando": "treze títulos mundiais"
+        },
+        {
+          "texto": "6 títulos no absoluto",
+          "quando": "Seis são no absoluto"
+        },
+        {
+          "texto": "2021: estreia no MMA",
+          "quando": "Buchecha estreia"
+        }
+      ]
+    },
+    {
+      "id": "c03-duelo",
+      "tipo": "linha",
+      "ano": 2017,
+      "titulo": "Roger contra Buchecha",
+      "narracao": "Faltava o encontro entre os dois. Em outubro de [2012|dois mil e doze], na Califórnia, o evento [Metamoris|Metamóris] põe Roger e Buchecha frente a frente. São vinte minutos, sem pontos: só vale finalizar. Ninguém finaliza, e a luta termina empatada. A revanche demora quase cinco anos. Em julho de [2017|dois mil e dezessete], no Rio de Janeiro, no evento Gracie Pro, Roger tem trinta e cinco anos, e Buchecha é o campeão mundial absoluto. Aos seis minutos e cinquenta e dois segundos, Roger estrangula. Em seguida, anuncia que não compete mais.",
+      "eventos": [
+        {
+          "ano": "out. 2012",
+          "texto": "Metamoris, Califórnia: 20 minutos sem pontos",
+          "quando": "Em outubro de 2012"
+        },
+        {
+          "ano": "2012",
+          "texto": "Ninguém finaliza: empate",
+          "quando": "termina empatada"
+        },
+        {
+          "ano": "jul. 2017",
+          "texto": "Gracie Pro, Rio de Janeiro: a revanche",
+          "quando": "Em julho de 2017"
+        },
+        {
+          "ano": "2017",
+          "texto": "Roger finaliza aos 6min52s",
+          "quando": "Roger estrangula"
+        },
+        {
+          "ano": "2017",
+          "texto": "Roger se aposenta das competições",
+          "quando": "não compete mais"
+        }
+      ]
+    },
+    {
+      "id": "c04-leandro-lo",
+      "tipo": "perfil",
+      "ano": 2022,
+      "papel": "Oito vezes campeão mundial",
+      "nome": "Leandro Lo",
+      "anos": "1989 – 2022",
+      "wiki": "Leandro_Lo",
+      "narracao": "Na mesma época cresce outro campeão. Leandro Lo, paulistano, nascido em [1989|mil novecentos e oitenta e nove], é formado por Cícero Costha num projeto social de São Paulo. Entre [2012|dois mil e doze] e [2022|dois mil e vinte e dois], vence oito Mundiais, do peso leve ao absoluto: cinco categorias diferentes. Na madrugada de sete de agosto de [2022|dois mil e vinte e dois], Lo é baleado na cabeça num clube de São Paulo. Morre aos trinta e três anos. Um policial militar é preso e acusado. Em novembro de [2025|dois mil e vinte e cinco], o júri o absolve, aceitando a tese de legítima defesa. Até outubro de [2026|dois mil e vinte e seis], o recurso da acusação não tinha sido julgado.",
+      "fatos": [
+        {
+          "texto": "Formado por Cícero Costha, em projeto social",
+          "quando": "formado por Cícero"
+        },
+        {
+          "texto": "8 títulos mundiais entre 2012 e 2022",
+          "quando": "vence oito Mundiais"
+        },
+        {
+          "texto": "5 categorias, do leve ao absoluto",
+          "quando": "cinco categorias diferentes"
+        },
+        {
+          "texto": "7 de agosto de 2022: morto a tiros",
+          "quando": "Lo é baleado"
+        },
+        {
+          "texto": "Nov. 2025: júri absolve o policial acusado",
+          "quando": "o júri o absolve"
+        },
+        {
+          "texto": "Recurso da acusação: pendente em out. 2026",
+          "quando": "o recurso da acusação"
+        }
+      ]
+    },
+    {
+      "id": "c05-campeas",
+      "tipo": "cartao",
+      "ano": 2026,
+      "rotulo": "O Mundial feminino",
+      "titulo": "As campeãs que mudaram o tamanho do esporte",
+      "destaque": "8 pesos",
+      "narracao": "O Mundial feminino também mudou de tamanho. Você viu que as mulheres entraram em [1998|mil novecentos e noventa e oito], com duas categorias e as faixas misturadas. Hoje, a faixa-preta feminina tem oito pesos e o absoluto. Michelle Nicolini soma oito títulos, segundo a Wikipedia. Gabi Garcia vence o absoluto em [2011|dois mil e onze] e [2012|dois mil e doze]. Beatriz Mesquita chega a dez títulos. [Mackenzie Dern|Mequênzi Dérn], campeã em [2015|dois mil e quinze] e [2016|dois mil e dezesseis], vai para o [MMA|eme eme á] e, em [2025|dois mil e vinte e cinco], conquista o cinturão do [UFC|U F C]. E em [2026|dois mil e vinte e seis], segundo a federação, Gabrieli Pessanha passa Mesquita e iguala os seis absolutos de Buchecha.",
+      "itens": [
+        {
+          "texto": "1998: duas categorias, faixas misturadas",
+          "quando": "com duas categorias"
+        },
+        {
+          "texto": "Hoje: oito pesos e o absoluto",
+          "quando": "oito pesos"
+        },
+        {
+          "texto": "Michelle Nicolini: 8 títulos mundiais",
+          "quando": "Michelle Nicolini soma"
+        },
+        {
+          "texto": "Gabi Garcia: absoluto em 2011 e 2012",
+          "quando": "Gabi Garcia vence"
+        },
+        {
+          "texto": "Beatriz Mesquita: 10 títulos mundiais",
+          "quando": "Beatriz Mesquita chega"
+        },
+        {
+          "texto": "Mackenzie Dern: do Mundial ao cinturão do UFC",
+          "quando": "conquista o cinturão"
+        },
+        {
+          "texto": "Gabrieli Pessanha: recordista em 2026, 6 absolutos",
+          "quando": "Gabrieli Pessanha passa"
+        }
+      ]
+    },
+    {
+      "id": "c06-geracao",
+      "tipo": "linha",
+      "ano": 2026,
+      "titulo": "A geração de agora",
+      "narracao": "E a geração de agora? No absoluto masculino, vencem Nicholas Meregali, em [2022|dois mil e vinte e dois], Victor Hugo, em [2023|dois mil e vinte e três], e Erich Munis, em [2024|dois mil e vinte e quatro]. Em [2026|dois mil e vinte e seis], no trigésimo Mundial da história, Munis vence de novo e, segundo a federação, chega a sete títulos. No mesmo torneio, Tainan Dalpra ganha o peso médio pela quarta vez, com quatro finalizações. Diego Oliveira, o Pato, leva o quinto título no peso pluma e se despede do kimono. Mayssa Bastos soma o sétimo, no peso galo.",
+      "eventos": [
+        {
+          "ano": "2022",
+          "texto": "Absoluto: Nicholas Meregali",
+          "quando": "Nicholas Meregali"
+        },
+        {
+          "ano": "2023",
+          "texto": "Absoluto: Victor Hugo",
+          "quando": "Victor Hugo"
+        },
+        {
+          "ano": "2024",
+          "texto": "Absoluto: Erich Munis",
+          "quando": "Erich Munis"
+        },
+        {
+          "ano": "2026",
+          "texto": "Munis de novo: sete títulos",
+          "quando": "Munis vence de novo"
+        },
+        {
+          "ano": "2026",
+          "texto": "Tainan Dalpra: tetra no médio",
+          "quando": "Tainan Dalpra ganha"
+        },
+        {
+          "ano": "2026",
+          "texto": "Diego Pato: penta no pluma, e adeus",
+          "quando": "leva o quinto título"
+        },
+        {
+          "ano": "2026",
+          "texto": "Mayssa Bastos: sétimo título",
+          "quando": "Mayssa Bastos soma"
+        }
+      ]
+    },
+    {
+      "id": "c07-equipes",
+      "tipo": "mapa",
+      "ano": 2026,
+      "titulo": "As equipes de hoje",
+      "vista": {
+        "lon": -82,
+        "lat": 6,
+        "escala": 1.7
+      },
+      "ate": {
+        "lon": -86,
+        "lat": 10,
+        "escala": 1.9
+      },
+      "narracao": "Por trás dos campeões continuam as equipes. A Alliance, de São Paulo, é a maior vencedora do Mundial. Pela tabela da Wikipedia, desde [2008|dois mil e oito] ela só perdeu o título três vezes: em [2017|dois mil e dezessete], para a Atos, de André Galvão; em [2021|dois mil e vinte e um], para a [Checkmat|Tchéquimét]; e em [2023|dois mil e vinte e três], para a [Dream Art|Drím Árt]. Em [2025|dois mil e vinte e cinco], a vice é a [Art of Jiu Jitsu|Árt óv Jiu-Jítsu], dos irmãos Mendes, na Califórnia. A Gracie Barra, nascida no Rio, foi campeã em [2007|dois mil e sete]. E em Austin, no Texas, duas equipes se dedicam ao sem kimono: a [New Wave|Niú Uêiv] e o [B-Team|Bi Tím].",
+      "lugares": [
+        {
+          "nome": "Alliance e Dream Art",
+          "coord": [
+            -46.6,
+            -23.5
+          ],
+          "quando": "de São Paulo",
+          "destaque": true
+        },
+        {
+          "nome": "Atos",
+          "coord": [
+            -117.16,
+            32.72
+          ],
+          "quando": "para a Atos"
+        },
+        {
+          "nome": "Art of Jiu Jitsu",
+          "coord": [
+            -117.92,
+            33.64
+          ],
+          "quando": "a vice é"
+        },
+        {
+          "nome": "Gracie Barra",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "nascida no Rio"
+        },
+        {
+          "nome": "New Wave e B-Team",
+          "coord": [
+            -97.74,
+            30.27
+          ],
+          "quando": "em Austin"
+        }
+      ]
+    },
+    {
+      "id": "c08-premios",
+      "tipo": "cartao",
+      "ano": 2019,
+      "rotulo": "O dinheiro no kimono",
+      "titulo": "A federação começa a pagar",
+      "destaque": "US$ 10 mil",
+      "narracao": "E o dinheiro? O Mundial não pagava nada, e esse foi um dos motivos do racha de [2002|dois mil e dois]. Por mais de vinte anos, o campeão mundial de kimono levou para casa uma medalha. Isso muda em [2019|dois mil e dezenove]. A federação anuncia prêmio para os campeões faixa-preta: de quatro mil a sete mil dólares por categoria, conforme o número de inscritos, e dez mil para o absoluto. A tabela é a mesma para homens e mulheres. É pouco perto do que o sem kimono passou a pagar. Mas, pela primeira vez, a medalha vem com cheque.",
+      "itens": [
+        {
+          "texto": "1996 a 2018: só a medalha",
+          "quando": "levou para casa"
+        },
+        {
+          "texto": "2019: prêmio para campeões faixa-preta",
+          "quando": "Isso muda em 2019"
+        },
+        {
+          "texto": "US$ 4 mil a 7 mil por categoria",
+          "quando": "de quatro mil"
+        },
+        {
+          "texto": "US$ 10 mil para o absoluto",
+          "quando": "dez mil para"
+        },
+        {
+          "texto": "Mesma tabela para homens e mulheres",
+          "quando": "A tabela é a mesma"
+        }
+      ]
+    },
+    {
+      "id": "c09-campeonatos",
+      "tipo": "comparacao",
+      "ano": 2026,
+      "titulo": "Os campeonatos que importam: antes e hoje",
+      "narracao": "Então, quais campeonatos importam? Antes, a régua era o Rio de Janeiro. Primeiro, os desafios, academia contra academia. Depois, o estadual do Rio e as copas dos anos oitenta. A partir de [1994|mil novecentos e noventa e quatro], o Brasileiro. E, de [1996|mil novecentos e noventa e seis] em diante, o Mundial na Tijuca. Hoje a lista é maior e se divide em duas. De kimono: o Mundial, o Pan, o Europeu e o Brasileiro, mais o [World Pro|Uôrld Pró] de Abu Dhabi. Sem kimono: o [ADCC|A D C C], o Mundial sem kimono, o [CJI|C J I] e os eventos de superluta.",
+      "esquerda": {
+        "titulo": "Antes",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Desafios entre academias",
+            "quando": "os desafios"
+          },
+          {
+            "texto": "Estadual do Rio",
+            "quando": "o estadual do Rio"
+          },
+          {
+            "texto": "Copas dos anos 1980",
+            "quando": "as copas"
+          },
+          {
+            "texto": "Brasileiro, desde 1994",
+            "quando": "o Brasileiro"
+          },
+          {
+            "texto": "Mundial na Tijuca, desde 1996",
+            "quando": "o Mundial na Tijuca"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Hoje",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Kimono: Mundial, Pan, Europeu e Brasileiro",
+            "quando": "De kimono"
+          },
+          {
+            "texto": "Kimono: World Pro de Abu Dhabi",
+            "quando": "mais o World Pro"
+          },
+          {
+            "texto": "Sem kimono: ADCC",
+            "quando": "Sem kimono"
+          },
+          {
+            "texto": "Sem kimono: Mundial sem kimono e CJI",
+            "quando": "o Mundial sem kimono"
+          },
+          {
+            "texto": "Sem kimono: eventos de superluta",
+            "quando": "os eventos de superluta"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10-mundo",
+      "tipo": "mapa",
+      "ano": 2026,
+      "titulo": "O jiu-jitsu no mundo",
+      "vista": {
+        "lon": 10,
+        "lat": 15,
+        "escala": 1.05
+      },
+      "narracao": "E de que tamanho é o jiu-jitsu hoje? Ninguém sabe ao certo. Não há uma entidade única que conte os praticantes, e as estimativas vão de três a onze milhões, sem estudo que as sustente. O que dá para medir é o pódio. O Brasil continua sendo a maior fábrica de campeões. Mas, no Mundial de [2026|dois mil e vinte e seis], há campeões faixa-preta dos Estados Unidos, do Canadá e do Marrocos. O polonês Adam [Wardziński|Vardjínski] venceu em [2024|dois mil e vinte e quatro] e [2025|dois mil e vinte e cinco]. A galesa [Ffion Davies|Fíon Dêivis], em [2023|dois mil e vinte e três]. E há australianos em finais, com e sem kimono.",
+      "lugares": [
+        {
+          "nome": "Brasil",
+          "coord": [
+            -47.9,
+            -15.8
+          ],
+          "quando": "O Brasil continua",
+          "destaque": true
+        },
+        {
+          "nome": "Estados Unidos",
+          "coord": [
+            -98,
+            39
+          ],
+          "quando": "dos Estados Unidos"
+        },
+        {
+          "nome": "Canadá",
+          "coord": [
+            -75.7,
+            45.4
+          ],
+          "quando": "do Canadá"
+        },
+        {
+          "nome": "Marrocos",
+          "coord": [
+            -6.8,
+            34
+          ],
+          "quando": "do Marrocos"
+        },
+        {
+          "nome": "Polônia",
+          "coord": [
+            21,
+            52.2
+          ],
+          "quando": "O polonês Adam"
+        },
+        {
+          "nome": "País de Gales",
+          "coord": [
+            -3.2,
+            51.5
+          ],
+          "quando": "A galesa"
+        },
+        {
+          "nome": "Austrália",
+          "coord": [
+            149.1,
+            -35.3
+          ],
+          "quando": "há australianos"
+        }
+      ]
+    },
+    {
+      "id": "c11-caminho",
+      "tipo": "linha",
+      "ano": 1955,
+      "titulo": "O caminho inteiro: de Kano à luta livre",
+      "narracao": "Vale olhar o caminho inteiro. Em [1882|mil oitocentos e oitenta e dois], em Tóquio, Jigoro Kano cria o judô e o randori, o treino livre. Em [1904|mil novecentos e quatro], Mitsuyo Maeda sai do Japão e roda o mundo aceitando desafios. Por volta de [1917|mil novecentos e dezessete], ele se fixa em Belém, e ali se formam os primeiros brasileiros. No Rio, os Gracie fazem do jiu-jitsu um nome de família, enquanto Luiz França e Oswaldo Fadda ensinam no subúrbio. Vêm os desafios: Hélio contra Kimura, em [1951|mil novecentos e cinquenta e um], no Maracanã. E vem a rivalidade com a luta livre.",
+      "eventos": [
+        {
+          "ano": "1882",
+          "texto": "Kano, o judô e o randori",
+          "quando": "Jigoro Kano cria"
+        },
+        {
+          "ano": "1904",
+          "texto": "Maeda roda o mundo aceitando desafios",
+          "quando": "Mitsuyo Maeda sai"
+        },
+        {
+          "ano": "1917",
+          "texto": "Belém: os primeiros brasileiros",
+          "quando": "em Belém"
+        },
+        {
+          "ano": "1930",
+          "texto": "Os Gracie no Rio; França e Fadda no subúrbio",
+          "quando": "os Gracie fazem"
+        },
+        {
+          "ano": "1951",
+          "texto": "A era dos desafios: Hélio contra Kimura",
+          "quando": "Vêm os desafios"
+        },
+        {
+          "ano": "1930–1991",
+          "texto": "A rivalidade com a luta livre",
+          "quando": "a rivalidade com"
+        }
+      ]
+    },
+    {
+      "id": "c12-o-que-mudou",
+      "tipo": "linha",
+      "ano": 2026,
+      "titulo": "O caminho inteiro: de Carlson ao profissional",
+      "narracao": "Carlson Gracie abre a academia a quem não era da família, e Rolls traz outras lutas para o treino. Em [1993|mil novecentos e noventa e três], Royce vence o primeiro [UFC|U F C], e o mundo descobre a luta de chão. Em [1994|mil novecentos e noventa e quatro] nasce a confederação, e em [1996|mil novecentos e noventa e seis], o Mundial. Em [1998|mil novecentos e noventa e oito], em Abu Dhabi, o [ADCC|A D C C] põe o jiu-jitsu diante do [wrestling|réslin]. A técnica muda, da guarda fechada ao berimbolo e ao ataque às pernas. E, por fim, lutar vira profissão. Mudou a roupa. Mudaram as regras, o dinheiro e o endereço. Mas uma coisa atravessou tudo isso sem mudar.",
+      "eventos": [
+        {
+          "ano": "1955–1982",
+          "texto": "Carlson e Rolls modernizam o treino",
+          "quando": "Carlson Gracie abre"
+        },
+        {
+          "ano": "1993",
+          "texto": "O UFC mostra a luta de chão ao mundo",
+          "quando": "Royce vence"
+        },
+        {
+          "ano": "1994–1996",
+          "texto": "A confederação e o Mundial",
+          "quando": "nasce a confederação"
+        },
+        {
+          "ano": "1998",
+          "texto": "ADCC: o encontro com o wrestling",
+          "quando": "em Abu Dhabi"
+        },
+        {
+          "ano": "1990–hoje",
+          "texto": "A técnica: da guarda fechada às pernas",
+          "quando": "A técnica muda"
+        },
+        {
+          "ano": "2012–hoje",
+          "texto": "Lutar vira profissão",
+          "quando": "lutar vira profissão"
+        }
+      ]
+    },
+    {
+      "id": "c13-fecho",
+      "tipo": "cartao",
+      "ano": 2026,
+      "rotulo": "O que ficou",
+      "titulo": "Lutar de verdade, todos os dias",
+      "destaque": "乱取り",
+      "narracao": "No primeiro capítulo, pedimos que você guardasse uma ideia, a de Kano: lutar de verdade, todos os dias, contra alguém que resiste. Essa ideia saiu de Tóquio na bagagem de Maeda, atravessou o oceano e desembarcou em Belém. Passou pelas academias do Rio, pelo ringue, pela jaula e pelos ginásios de Long Beach e de Abu Dhabi. Hoje, em qualquer academia do mundo, a aula termina do mesmo jeito. Alguém marca o tempo. Duas pessoas se cumprimentam. E lutam de verdade. Tudo o que você viu nesta série começou assim. E continua assim, todos os dias.",
+      "itens": [
+        {
+          "texto": "A ideia de Kano: o randori",
+          "quando": "guardasse uma ideia"
+        },
+        {
+          "texto": "De Tóquio a Belém, com Maeda",
+          "quando": "atravessou o oceano"
+        },
+        {
+          "texto": "Do Rio a Long Beach e Abu Dhabi",
+          "quando": "Passou pelas academias"
+        },
+        {
+          "texto": "Em qualquer academia do mundo, hoje",
+          "quando": "em qualquer academia"
+        },
+        {
+          "texto": "Lutar de verdade, todos os dias",
+          "quando": "E continua assim"
+        }
+      ]
+    }
+  ]
+}
