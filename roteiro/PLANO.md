@@ -10,10 +10,10 @@ Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os en
 | --- | --- | --- | --- | --- | --- |
 | 1 | Antes do Brasil (abertura) | 1868 – 1917 | 5 | 1 | pronto |
 | 2 | Belém e os Gracie | 1915 – 1937 | 31 | 4 | pronto |
-| 3 | A era dos desafios | 1930 – 1955 | 30 | 4 | em produção |
-| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 20 | 3 | em produção |
-| 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 25 | 3 | a fazer |
-| 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 30 | 4 | a fazer |
+| 3 | A era dos desafios | 1930 – 1955 | 30 | 4 | em render |
+| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 20 | 3 | em render |
+| 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 25 | 3 | em produção |
+| 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 30 | 4 | em produção |
 | 7 | Nasce o esporte organizado | 1967 – 2007 | 22 | 3 | a fazer |
 | 8 | ADCC e o encontro com o wrestling | 1998 – 2011 | 22 | 3 | a fazer |
 | 9 | A evolução da técnica | 1990 – hoje | 28 | 4 | a fazer |

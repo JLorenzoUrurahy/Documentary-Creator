@@ -1,0 +1,2231 @@
+{
+  "numero": 6,
+  "titulo": "O vale-tudo conquista o mundo",
+  "subtitulo": "De uma garagem na Califórnia ao Tokyo Dome",
+  "fontes": [
+    {
+      "titulo": "Wikipedia (inglês): Rorion Gracie",
+      "url": "https://en.wikipedia.org/wiki/Rorion_Gracie"
+    },
+    {
+      "titulo": "Wikipedia (inglês): UFC 1",
+      "url": "https://en.wikipedia.org/wiki/UFC_1"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Ultimate Fighting Championship (história)",
+      "url": "https://en.wikipedia.org/wiki/Ultimate_Fighting_Championship"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Royce Gracie",
+      "url": "https://en.wikipedia.org/wiki/Royce_Gracie"
+    },
+    {
+      "titulo": "Pat Jordan, \"Bad\", Playboy, setembro de 1989 (republicado em Bronx Banter)",
+      "url": "https://www.bronxbanterblog.com/tag/rorion-gracie/"
+    },
+    {
+      "titulo": "Sherdog: Let There Be Fight (história oral do UFC 1)",
+      "url": "https://www.sherdog.com/news/articles/1/Let-There-Be-Fight-59271"
+    },
+    {
+      "titulo": "Sherdog Rewind: Clyde Gentry Discusses the UFC's Beginning",
+      "url": "https://www.sherdog.com/news/news/Sherdog-Rewind-Clyde-Gentry-Discusses-the-UFCs-Beginning-59277"
+    },
+    {
+      "titulo": "Gracie v. Gracie, 217 F.3d 1060 (9º Circuito, 2000), texto no Leagle",
+      "url": "https://www.leagle.com/decision/20001277217f3d106011146"
+    },
+    {
+      "titulo": "Gracie v. Gracie, resumo do caso (Quimbee)",
+      "url": "https://www.quimbee.com/cases/gracie-v-gracie"
+    },
+    {
+      "titulo": "BJJEE: Art Davie sobre Rickson, Rorion e dinheiro",
+      "url": "https://www.bjjee.com/featured/ufc-founder-art-davie-rickson-not-fighting-in-ufc-was-because-of-rorion-money/"
+    },
+    {
+      "titulo": "Roberto Pedreira, Global Training Report: Rorion Gracie",
+      "url": "https://www.geocities.ws/global_training_report/rorion.htm"
+    },
+    {
+      "titulo": "UFC 2 (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/UFC_2"
+    },
+    {
+      "titulo": "UFC 3 (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/UFC_3"
+    },
+    {
+      "titulo": "UFC 4 (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/UFC_4"
+    },
+    {
+      "titulo": "UFC 5 (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/UFC_5"
+    },
+    {
+      "titulo": "Royce Gracie (Wikipedia em português)",
+      "url": "https://pt.wikipedia.org/wiki/Royce_Gracie"
+    },
+    {
+      "titulo": "Art Jimmerson (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Art_Jimmerson"
+    },
+    {
+      "titulo": "Dan Severn (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Dan_Severn"
+    },
+    {
+      "titulo": "Kimo Leopoldo (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Kimo_Leopoldo"
+    },
+    {
+      "titulo": "Sherdog: 5 Things You Might Not Know About UFC 4",
+      "url": "https://www.sherdog.com/news/articles/5-Things-You-Might-Not-Know-About-UFC-4-198335"
+    },
+    {
+      "titulo": "Bleacher Report: History of Jiu-Jitsu, Gracies Leave the UFC",
+      "url": "https://bleacherreport.com/articles/661007-history-of-jiu-jitsu-gracies-leave-the-ufc-and-bring-jiu-jitsu-back-to-japan"
+    },
+    {
+      "titulo": "Sherdog: Violence, Money and John McCain",
+      "url": "https://www.sherdog.com/news/articles/Violence-Money-and-John-McCain-141507"
+    },
+    {
+      "titulo": "Fighters Only: McCain e a 'human cockfighting'",
+      "url": "https://fightersonly.com/article/ext/93957/"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Rickson Gracie",
+      "url": "https://en.wikipedia.org/wiki/Rickson_Gracie"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Vale Tudo Japan",
+      "url": "https://en.wikipedia.org/wiki/Vale_Tudo_Japan"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Pride 1",
+      "url": "https://en.wikipedia.org/wiki/Pride_1"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Nobuhiko Takada",
+      "url": "https://en.wikipedia.org/wiki/Nobuhiko_Takada"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Yoji Anjo",
+      "url": "https://en.wikipedia.org/wiki/Yoji_Anjo"
+    },
+    {
+      "titulo": "IMDb: Choke (1999), de Robert Raphael Goodman",
+      "url": "https://www.imdb.com/title/tt0251637"
+    },
+    {
+      "titulo": "Bloody Elbow: resenha do documentário Choke",
+      "url": "https://bloodyelbow.com/2013/03/18/mma-documentary-review-rickson-gracie-choke-mma-history-vale-tudo-japan"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Carlson Gracie",
+      "url": "https://en.wikipedia.org/wiki/Carlson_Gracie"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Brazilian Top Team",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Top_Team"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Vitor Belfort",
+      "url": "https://en.wikipedia.org/wiki/Vitor_Belfort"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Chute Boxe",
+      "url": "https://en.wikipedia.org/wiki/Chute_Boxe"
+    },
+    {
+      "titulo": "Wikipedia (inglês): International Vale Tudo Championship",
+      "url": "https://en.wikipedia.org/wiki/International_Vale_Tudo_Championship"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Frederico Lapenda (WVC)",
+      "url": "https://en.wikipedia.org/wiki/Frederico_Lapenda"
+    },
+    {
+      "titulo": "Tapology: WVC 1, 14 de agosto de 1996",
+      "url": "https://www.tapology.com/fightcenter/events/4181-wvc-1-world-vale-tudo-championship-1"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Renzo Gracie",
+      "url": "https://en.wikipedia.org/wiki/Renzo_Gracie"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Ralph Gracie",
+      "url": "https://en.wikipedia.org/wiki/Ralph_Gracie"
+    },
+    {
+      "titulo": "Low Kick MMA: Brazilian Top Team (disputa por contrato e bolsas)",
+      "url": "https://www.lowkickmma.com/brazilian-top-team/"
+    },
+    {
+      "titulo": "Jiu-Jitsu Style / War Tribe: The \"C\" Word (o racha contado por Libório; origem de 'creonte')",
+      "url": "https://wartribegear.com/blogs/jiu-jitsu-style-magazine/the-c-word"
+    },
+    {
+      "titulo": "Mark Coleman (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Mark_Coleman"
+    },
+    {
+      "titulo": "Mark Kerr (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Mark_Kerr_(fighter)"
+    },
+    {
+      "titulo": "Maurice Smith (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Maurice_Smith_(fighter)"
+    },
+    {
+      "titulo": "Frank Shamrock (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Frank_Shamrock"
+    },
+    {
+      "titulo": "UFC 9 (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/UFC_9"
+    },
+    {
+      "titulo": "Mixed martial arts rules: Regras Unificadas (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Mixed_martial_arts_rules"
+    },
+    {
+      "titulo": "Wallid Ismail (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Wallid_Ismail"
+    },
+    {
+      "titulo": "Sherdog: Wallid Ismail leaves Royce Gracie unconscious in a packed arena in Copacabana",
+      "url": "https://www.sherdog.com/news/articles/Family-Feud-Wallid-Ismail-leaves-Royce-Gracie-Unconscious-in-a-Packed-Arena-in-Copacabana-196425"
+    },
+    {
+      "titulo": "Kazushi Sakuraba (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Kazushi_Sakuraba"
+    },
+    {
+      "titulo": "Pride 8 (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Pride_8"
+    },
+    {
+      "titulo": "Pride 10 (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Pride_10"
+    },
+    {
+      "titulo": "Pride 12 (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Pride_12"
+    }
+  ],
+  "conferir": [
+    "Por que Royce e não Rickson: a versão de Rorion (o irmão magro prova a técnica) vem da Wikipedia; o desentendimento por dinheiro e alunos vem de Art Davie e Clyde Gentry (Sherdog, BJJEE), relatos de terceiros. 'Rickson já dava aulas por conta própria' apareceu só em resumo de busca: conferir no livro de Davie ('Is This Legal?') e na autobiografia de Rickson ('Breathe').",
+    "Octógono: a Wikipedia do UFC 1 atribui a ideia da jaula octogonal a John Milius; a do UFC atribui o desenho a Jason Cusson, contratado pela SEG. A narração dá as duas versões. Fosso e cerca elétrica como ideias descartadas vêm de Clyde Gentry (Sherdog).",
+    "Rickson no córner de Royce no UFC 1: é fato corrente, mas não foi confirmado nas páginas consultadas nesta pesquisa.",
+    "'O mais leve dos oito': a Wikipedia de Rorion diz que Royce era o menor competidor; o peso dele no UFC 1 varia entre 175 e 178 libras (79 a 81 kg) conforme a fonte. A narração diz 'cerca de oitenta quilos'.",
+    "Marca 'Gracie Jiu-Jitsu': registro em 1989, ação de Carley em dezembro de 1994, veredito do júri (1997) e decisão do 9º Circuito em 2000 vêm de resumos do caso, não da leitura integral do acórdão. A frase que liga a disputa ao nome 'jiu-jitsu brasileiro' é interpretação corrente, sem fonte única. Registros posteriores da marca existem no USPTO: conferir a situação atual antes de afirmar algo além de 2000.",
+    "Máquina Mortífera (1987): a Wikipedia diz 'technical adviser' que treinou Mel Gibson e Gary Busey; a Playboy diz 'consultant'. A narração não diz 'coreógrafo' (esse crédito é de Máquina Mortífera 3, de 1992). O triângulo na luta final é do filme, não foi conferido em fonte escrita.",
+    "Gracie in Action: 1988 segundo a Wikipedia; o título aparece também como 'Gracie Jiu-Jitsu in Action' e 'Gracies in Action'.",
+    "Primeira viagem: dezembro de 1969 a fim de 1970 (Wikipedia). Rorion nasceu em 10 de janeiro de 1952, então tinha 17 anos na partida. As histórias de que perdeu o dinheiro e dormiu na rua não foram usadas por falta de fonte sólida.",
+    "Art Davie: agência J.P. Marketing (Sherdog); a cervejaria é a Tecate. As fontes divergem sobre quando ele leu a Playboy e procurou Rorion (1989, 1990 ou depois). Os 152 mil dólares da mala direta do Natal de 1991 são número do próprio Davie.",
+    "WOW: 28 investidores, recusa de HBO (TVKO) e Showtime e acordo com a SEG em maio de 1993 vêm da Wikipedia, que cita o livro de Davie. Preço de 14,95 dólares: Sherdog. Prêmio de 50 mil dólares: Sherdog; na Wikipedia do UFC 1 o valor está marcado como 'citation needed'.",
+    "Chegada dos irmãos: Royce em 1985, aos 18 (Wikipedia de Rorion); Rickson e Royler em Torrance em 1989 segundo a mesma página. A Playboy de 1989 situa a casa e a garagem de Rorion em Torrance, enquanto a Wikipedia fala em Hermosa Beach: é possível que a garagem tenha mudado de cidade antes da academia.",
+    "Pedreira sobre a Playboy ('primeira reportagem numa grande publicação'): citado a partir de resumo de busca do Global Training Report; conferir o texto.",
+    "Gancho: estilos anunciados no UFC 1 foram savate, sumô, kickboxing, kenpo, shootfighting, taekwondo, boxe e jiu-jitsu. 'Casal Vinte' é o título brasileiro de 'Hart to Hart', citado pela Playboy.",
+    "Pronúncias a ouvir na narração: Hermosa Beach, Torrance, Art Davie, John Milius, Bob Meyrowitz, WOW, Showtime, Ultimate Fighting Championship, Gracie in Action.",
+    "b01: público do UFC 1 (7.800) e compras de pay-per-view: a Wikipedia dá 86.000 no quadro, 86.592 no artigo do UFC e 'quase 90 mil' no texto. A narração diz 'cerca de oitenta e seis mil'.",
+    "b01: 'menos da metade da casa' vem da Wikipedia em inglês (UFC 1); conferir a capacidade da McNichols Arena.",
+    "b02: proibições do UFC 1. A Wikipedia lista três (morder, dedo no olho e golpe na virilha); outros relatos só duas, com golpe na virilha liberado. A narração cita só as duas em que todos concordam.",
+    "b02: a Wikipedia diz que o UFC 1 previa rounds de cinco minutos sem limite de número (nenhuma luta chegou lá); o pedido falava em 'sem limite de tempo'. A narração não entra no detalhe no UFC 1 e diz 'sem rounds e sem limite de tempo' só a partir do UFC 2.",
+    "b03: como Jimmerson perdeu. A tabela oficial registra 'smother choke' aos 2min18s; o artigo dele fala em desistência depois de uma cabeçada; o de Royce, em desistência por estar preso. Cartel de 29 vitórias e 5 derrotas deduzido da tabela da Wikipedia.",
+    "b04: 'luta profissionalmente no Japão' (Pancrase, 1993) veio de conhecimento geral, não das páginas consultadas: conferir. Tempo da estreia de Shamrock contra Patrick Smith: 1min49s.",
+    "b05: mordida de Gordeau na orelha de Royce e o estrangulamento mantido depois da desistência: Wikipedia (Royce Gracie). Prêmio de 50 mil dólares aparece na Wikipedia com aviso de 'citação necessária'. A soma 4min59s é conta nossa (2:18 + 0:57 + 1:44).",
+    "b06: 'Royce lembraria depois que as revistas só davam atenção às lutas em pé' é relato do próprio Royce, de memória, não reportagem da época. 'Não nocauteou ninguém' vale para o UFC 1.",
+    "b07: 300 mil compras no UFC 2 é o número da Wikipedia e parece alto perto do UFC 1 (86 mil) e do UFC 3 (90 mil): conferir em outra fonte. Peso de Pardoel: 250 libras (cerca de 113 kg), segundo a Wikipedia. Tempo da luta com Ichihara: 5min08s.",
+    "b08: peso de Kimo no UFC 3: 235 libras (107 kg) no quadro da Wikipedia, 250 libras (113 kg) em outras fontes; a narração diz 'mais de cem quilos'. Quem jogou a toalha antes da semifinal com Harold Howard: o canto de Royce, segundo uma nota da Wikipedia; o próprio Royce, segundo o artigo dele. A narração usa a voz passiva.",
+    "b09: peso de Dan Severn no UFC 4: de 253 a 280 libras conforme a fonte (115 a 127 kg), contra cerca de 80 kg de Royce (peso declarado por ele, contestado). A narração diz 'mais de trinta quilos de vantagem'.",
+    "b09: corte da transmissão do UFC 4. Sherdog e Bleacher Report dizem que a final estourou a janela de duas horas e que operadoras cortaram o sinal; o artigo geral do UFC na Wikipedia atribui o estouro de horário ao UFC 5. Pedidos de reembolso aparecem só no artigo de Royce. Compras: 120 mil (Wikipedia).",
+    "b09: Severn foi duas vezes All-American pela Arizona State e vice-campeão da NCAA em 1980; 'um dos grandes nomes do wrestling universitário' é resumo nosso.",
+    "b10: superluta do UFC 5: limite de 30 minutos, prorrogação de 5, fim aos 36min06s, empate sem juízes (Wikipedia). 'Shamrock passa quase todo o tempo por cima, dentro da guarda' vem de conhecimento geral: conferir no vídeo.",
+    "b10: venda da parte de Rorion. A Wikipedia diz que ele e Art Davie venderam a WOW Promotions à SEG depois do UFC 5 (abril de 1995); o site BJJEE fala em venda a Bob Meyrowitz (dono da SEG) depois do UFC 4. O valor diverge: 500 mil dólares em uma fonte, 1 milhão segundo Robert Drysdale. A narração não dá valor. Art Davie continuou trabalhando no evento depois da venda: 'ele e o sócio vendem' não quer dizer que os dois saíram.",
+    "b11: o efeito nas academias é o ponto mais fraco em fontes. 'Dobrava de tamanho a cada evento' vem de uma entrevista (relato, sem número); a crise das artes tradicionais e a ida de caratecas para o chão são consenso de comentaristas, sem dado de matrículas. Vale procurar reportagem da Black Belt de 1994-95 ou depoimento de Rorion.",
+    "b12: McCain. A frase 'human cockfighting' é datada de 1996 em algumas fontes e de 1997 em outras; 36 estados com proibição na maioria das fontes, 'quase 40' em outras; saída da TCI e da Time Warner em 1997. A cena avança além de 1995: combinar com o bloco D para não repetir.",
+    "b13: cartel de Royce no UFC até 1995: 11 vitórias (3+4+1+3) e 1 empate, conta nossa pelas tabelas. 'Fama de melhor lutador da casa' sobre Rickson e a escolha de Royce 'por ser leve' (versão de Rorion) precisam bater com o bloco A, que conta a escolha.",
+    "Pronúncias a ouvir na narração: Royce (Róice), Shamrock, Gordeau, Jimmerson, Severn, McCain, McNichols, Pardoel, Jennum.",
+    "Pesquisa feita quase só na Wikipedia em inglês (lida por resumo automático) e em resultados de busca; Sherdog, BJJ Heroes, Graciemag e Tatame não foram abertos diretamente. Conferir placares e datas no Sherdog.",
+    "c01: 'faixa-preta aos 18 anos', 'dava aulas em Los Angeles' e a ideia de que a família apontava Rickson como muito superior a Royce foram escritos de memória (são afirmações correntes), não saíram das páginas lidas. Nascimento: 21/11/1959 no texto da Wikipedia; a própria página tem categoria de nascidos em 1958.",
+    "c02: Sayama como 'ex-astro da luta livre de espetáculo' (o primeiro Tiger Mask) e 'oito lutadores' no torneio de 1994 foram escritos de memória; a Wikipedia confirma Sayama/Shooto, a data (29/7/1994), o Tokyo Bay NK Hall, em Urayasu, e o formato eliminatório. A rota do mapa cruza o Pacífico pela linha de data (longitude -180): ver se desenha bem.",
+    "c03: tempos de 1994: Nishi 2:52 ou 2:58 (duas páginas da Wikipedia divergem), Levicki 2:40, Smith 0:39. 1995: Yamamoto (3º round, 3:49), Kimura (2:07), Nakai (6:22). 'Não passa de três minutos em nenhuma' vale para 1994. O olho ferido de Nakai (na luta com Gerard Gordeau, na mesma noite) e 'bem mais leve' foram escritos de memória: conferir.",
+    "c04: Choke: a Wikipedia de Rickson diz 'documentário de 1995'; IMDb e resenhas dizem filmado em 1995 e lançado em 1999. As cenas citadas (respiração, alongamento, banho em rio gelado, família) foram descritas de memória: conferir vendo o filme. Os outros dois lutadores são Todd Hays e Koichiro Kimura.",
+    "c05: desafio de Yoji Anjo: 7 de dezembro de 1994, academia de Rickson em Los Angeles (uma fonte diz Santa Monica); não há vídeo público, os detalhes vêm de relatos. 'Muita gente acreditava que eram os mais fortes do mundo' é generalização sobre o público do estilo 'shoot' (UWF): manter ou suavizar. Takada é pessoa viva.",
+    "c06: público do Pride 1: 47.860 (ficha) ou 47.000 (tabela). Tempo da luta: 4:47 na tabela, 2:32 no texto do artigo de Takada. 'Quase não tinha experiência em luta real' e 'é um choque para muitos fãs' são leitura das fontes, não citação. O Pride ter sido criado para essa luta: Wikipedia de Takada.",
+    "c07: Pride 4 em 11/10/1998, chave de braço aos 9:30. Colosseum 2000 em 26/5/2000, Tokyo Dome, mata-leão aos 12:49 (a Wikipedia diverge sobre os golpes proibidos; ficou de fora). Funaki como cofundador do Pancrase: de memória. Morte de Rockson: a Wikipedia dá dezembro de 2000 e janeiro de 2001 (o pedido dizia 2001); a narração diz 'meses depois'. Causa da morte ficou de fora, de propósito. 'Quarenta anos' depende do nascimento em 1959.",
+    "c08: o que Rickson inclui na conta de 'mais de 400' (jiu-jitsu, vale-tudo, desafios de academia, brigas de rua) foi escrito de memória; a Wikipedia traz só a contestação de Hélio (treinos e lutas amadoras; 'mais de um milhão'). Conferir a entrevista original de Hélio e se o 'milhão' se refere a ele mesmo. Derrota para Ron Tripp no campeonato americano de sambo de 1993 (queda em 47 segundos): Wikipedia; Rickson diz que foi mal informado das regras. O 11-0 inclui as duas lutas com Zulu.",
+    "c09: WVC: fundado por Frederico Lapenda em 1996, primeira edição em 14/8/1996 no Japão; a numeração das edições de São Paulo varia entre as fontes. IVC: fundado por Sérgio Batarelli em 1997, primeira edição em 6/7/1997; regras segundo a Wikipedia. 'Academia mais temida' é adjetivo meu; endereço em Copacabana de memória: alinhar com o capítulo 5.",
+    "c10: a lista de alunos vem da Wikipedia de Carlson, que não diz quem lutou vale-tudo nos anos 1990. 'Wallid venceu no kimono mais de um Gracie' (Ralph, Renzo e Royce) e 'Bustamante e Sperry campeões de jiu-jitsu' foram escritos de memória. Belfort: UFC 12, 7/2/1997, aos 19 anos (Wikipedia). O bloco D pode contar Belfort x Couture: alinhar.",
+    "c11: Chute Boxe fundada em 1978 por Rudimar Fedrigo; grappling a partir de 1991; três dos quatro cinturões do IVC (Wikipedia). Belfort x Wanderlei: UFC Brasil, 16/10/1998, São Paulo, nocaute técnico aos 0:44. Chamar essa luta de começo da rivalidade Carlson x Chute Boxe é leitura minha; a Wikipedia situa a rivalidade forte já na fase BTT x Chute Boxe, no Pride (anos 2000).",
+    "c12: Ralph: Extreme Fighting 1, 2 e 3 (nov. 1995 a out. 1996; a segunda edição foi em Montreal, Canadá). Renzo: WCC 1 (17/10/1995, Charlotte), Taktarov (22/11/1996, nocaute com chute dado do chão), Pride 1 (empate com Akira Shoji), Pride 2 (guilhotina em Sanae Kikuta). As datas em que cada um se mudou e abriu academia nos EUA não estão nas fontes lidas.",
+    "c13: BTT fundada em abril de 2000 por Bustamante, Libório, Sperry e Luís Roberto Duarte (apelido 'Bebeo' de memória: conferir). Motivo do racha: a Wikipedia fala só em 'disputas'; sites de fãs falam em contrato e percentual das bolsas com Carlson morando nos EUA; Libório (Jiu-Jitsu Style) conta outra versão, ligada ao pouco envolvimento de Carlson nos treinos. Não há fonte primária lida. 'Creonte' vem de um personagem de novela; Carlson e os fundadores da BTT: tratar com cuidado (pessoas vivas e família).",
+    "Pronúncias a ouvir: Shooto, Sayama, Nishi, Yamamoto, Koichiro Kimura, Nakai, Budokan, Choke, Takada, Anjo, Pride, Tokyo Dome, Colosseum, Funaki, Pancrase, WVC, muay thai, Brazilian Top Team, Taktarov.",
+    "d11: Regras Unificadas. Nova Jersey passou a sancionar eventos em setembro de 2000 (IFC) e o UFC 28 (novembro de 2000) já seguiu o regulamento do estado, mas a reunião que fechou o texto das 'Regras Unificadas' foi em 3 de abril de 2001, e o nome oficial só foi adotado pela associação das comissões em 2009. A narração diz 'em 2000 [...] um regulamento que fica conhecido como Regras Unificadas'.",
+    "d08: 'um Gracie perdeu no vale-tudo'. A página do Pride 8 na Wikipedia diz que foi a primeira derrota de um Gracie no MMA; isso ignora derrotas antigas (Hélio x Waldemar Santana, 1955) e a retirada de Royce no UFC 3. A narração não afirma 'primeira'. Conferir também a diferença de peso Sakuraba x Royler (fonte: cerca de 30 libras, uns 13,6 kg).",
+    "d07: Wallid x Royce. Data (17/12/1998), tempo (4min53s), relógio e Royce desacordado vêm da Wikipedia e do Sherdog; o local 'Copacabana' vem só do Sherdog (arena na praia); que Royce pediu as regras sem pontos e sem tempo vem da Wikipedia. O nome do evento ('Oscar de Jiu-Jitsu') não foi usado.",
+    "d04: Fábio Gurgel x Mark Kerr (World Vale Tudo Championship 3, São Paulo, 19/1/1997): decisão após 30 minutos. A narração não cita a diferença de peso; se quiser citar, conferir os números. Conferir se Bitetti e Marcus 'Conan' Silveira são mesmo faixas-pretas de Carlson Gracie (dado de memória, não verificado nesta pesquisa) e se o bloco C já os apresentou.",
+    "d09: a data e o local de Royce x Sakuraba (1º de maio de 2000, Tokyo Dome) foram confirmados só indiretamente (final do Grand Prix do Pride em 1º/5/2000, Tóquio). 'Pernas muito castigadas' e as regras especiais seguem a Wikipedia de Sakuraba.",
+    "d08 e d09: os chutes de Sakuraba nas pernas de Royler (Pride 8) são relato corrente, mas não estavam no resumo das fontes consultadas; os chutes nas pernas de Royce estão.",
+    "d02: Coleman x Severn pelo cinturão dos pesados foi no UFC 12 (7/2/1997). A expressão 'ground and pound' é atribuída a uma fala do próprio Coleman antes do UFC 14 (1997), isto é, depois do UFC 10 e 11.",
+    "d05: 'Em pé, Smith domina' resume a Wikipedia (Coleman exausto depois de uns 15 minutos; decisão unânime após 21 minutos). Smith treinava com Frank Shamrock.",
+    "d11: 'briga de galo humana' é a expressão do senador John McCain (1996); a Wikipedia fala em 36 estados com proibição. Luvas obrigatórias no UFC 14 e categorias de peso no UFC 12 (ambos 1997); cabeçadas proibidas no UFC 15 (1997); rounds de cinco minutos no UFC 21 (1999).",
+    "d13: CBJJ em 1994 e primeiro Mundial em 1996 na Tijuca seguem o roteiro/PLANO.md; alinhar com o capítulo 7.",
+    "Pronúncias a ouvir na narração: Coleman, Shamrock, Kazushi Sakuraba, ground and pound, wrestler, kickboxing, Kerr, Frye, Severn, Royce, Ryan.",
+    "Fotos: conferir se há imagem livre na Commons para Mark_Coleman, Maurice_Smith_(fighter) e Kazushi_Sakuraba."
+  ],
+  "cenas": [
+    {
+      "id": "a01-gancho",
+      "tipo": "mapa",
+      "ano": 1993,
+      "narracao": "Denver, Colorado, doze de novembro de [1993|mil novecentos e noventa e três]. Num ginásio, montaram uma jaula de oito lados. Oito lutadores vão entrar nela, cada um de um estilo: boxe, sumô, taekwondo, [kickboxing|quic-bóxin]. Quase não há regras, e não há divisão de peso. O mais leve dos oito vem do Brasil. E entra de kimono.",
+      "vista": {
+        "lon": -70,
+        "lat": 10,
+        "escala": 1.4
+      },
+      "ate": {
+        "lon": -105,
+        "lat": 39.7,
+        "escala": 5
+      },
+      "lugares": [
+        {
+          "nome": "Denver, 12 de novembro de 1993",
+          "coord": [
+            -104.99,
+            39.74
+          ],
+          "quando": "Denver, Colorado",
+          "destaque": true
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "vem do Brasil"
+        }
+      ]
+    },
+    {
+      "id": "t00-titulo",
+      "tipo": "titulo",
+      "numero": 6,
+      "titulo": "O vale-tudo conquista o mundo",
+      "subtitulo": "De uma garagem na Califórnia ao Tokyo Dome",
+      "duracao": 5
+    },
+    {
+      "id": "a02-rorion",
+      "tipo": "perfil",
+      "ano": 1969,
+      "nome": "Rorion Gracie",
+      "anos": "Nascido em 1952",
+      "papel": "O filho mais velho de Hélio",
+      "wiki": "Rorion_Gracie",
+      "narracao": "Para entender como aquele kimono chegou a Denver, é preciso voltar mais de vinte anos. Rorion Gracie nasce no Rio em [1952|mil novecentos e cinquenta e dois]. É o filho mais velho de Hélio, e aprende a ensinar jiu-jitsu ainda garoto, na academia do pai. Em dezembro de [1969|mil novecentos e sessenta e nove], aos dezessete anos, viaja de férias para os Estados Unidos. Acaba ficando um ano, e só volta no fim de [1970|mil novecentos e setenta]. No Rio, forma-se em direito pela universidade federal. Mas não esquece a América.",
+      "fatos": [
+        {
+          "texto": "Nasce no Rio em 1952",
+          "quando": "no Rio em 1952"
+        },
+        {
+          "texto": "Filho mais velho de Hélio Gracie",
+          "quando": "filho mais velho"
+        },
+        {
+          "texto": "Dezembro de 1969: férias nos Estados Unidos",
+          "quando": "dezembro de 1969"
+        },
+        {
+          "texto": "Volta ao Brasil no fim de 1970",
+          "quando": "fim de 1970"
+        },
+        {
+          "texto": "Forma-se em direito no Rio",
+          "quando": "forma-se em direito"
+        }
+      ]
+    },
+    {
+      "id": "a03-california",
+      "tipo": "mapa",
+      "ano": 1978,
+      "titulo": "1978: a mudança definitiva",
+      "narracao": "Em [1978|mil novecentos e setenta e oito], Rorion se muda de vez. Tem vinte e seis anos e escolhe o sul da Califórnia, na região de Los Angeles. Ali, ninguém conhece o jiu-jitsu da família. Para pagar as contas, ele trabalha como figurante no cinema e em séries de televisão, como Casal Vinte. E monta a primeira academia onde dá: na garagem de casa, em [Hermosa Beach|Hermôsa Bitch], uma cidade de praia. Estende tatames no chão e convida quem aparece para experimentar.",
+      "vista": {
+        "lon": -80,
+        "lat": 5,
+        "escala": 1.5
+      },
+      "ate": {
+        "lon": -117,
+        "lat": 34,
+        "escala": 5
+      },
+      "lugares": [
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "se muda de vez"
+        },
+        {
+          "nome": "Hermosa Beach: a garagem",
+          "coord": [
+            -118.4,
+            33.86
+          ],
+          "quando": "em Hermosa Beach",
+          "destaque": true
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -43.2,
+              -22.9
+            ],
+            [
+              -118.4,
+              33.86
+            ]
+          ],
+          "quando": "se muda de vez",
+          "ate": "região de Los Angeles"
+        }
+      ]
+    },
+    {
+      "id": "a04-desafio",
+      "tipo": "cartao",
+      "ano": 1985,
+      "rotulo": "Na garagem",
+      "titulo": "O desafio Gracie americano",
+      "destaque": "US$ 100 mil",
+      "narracao": "Na Califórnia, Rorion repete o que a família fazia no Rio. Você lembra do desafio Gracie: enfrentar qualquer um, de qualquer estilo. Professores de caratê, de kung fu e de [kickboxing|quic-bóxin] aparecem na garagem para testar o brasileiro. Rorion conta que foram centenas de lutas em dez anos. Há também uma oferta em dinheiro: cem mil dólares, o vencedor leva tudo, contra qualquer lutador dos Estados Unidos. Em [1985|mil novecentos e oitenta e cinco], chega reforço. Royce, o irmão de dezoito anos, vem do Rio morar com ele. E boa parte dessas lutas é filmada.",
+      "itens": [
+        {
+          "texto": "O desafio da família, agora na Califórnia",
+          "quando": "repete o que"
+        },
+        {
+          "texto": "Caratê, kung fu e kickboxing na garagem",
+          "quando": "aparecem na garagem"
+        },
+        {
+          "texto": "Rorion: centenas de lutas em dez anos",
+          "quando": "centenas de lutas"
+        },
+        {
+          "texto": "Cem mil dólares, o vencedor leva tudo",
+          "quando": "cem mil dólares"
+        },
+        {
+          "texto": "1985: Royce chega, aos dezoito anos",
+          "quando": "chega reforço"
+        }
+      ]
+    },
+    {
+      "id": "a05-hollywood",
+      "tipo": "linha",
+      "ano": 1987,
+      "titulo": "A garagem fica pequena",
+      "narracao": "No fim dos anos oitenta, o trabalho começa a render. Em [1987|mil novecentos e oitenta e sete], Rorion é consultor técnico do filme Máquina Mortífera e treina os atores Mel Gibson e Gary Busey. Na luta final, o herói vence com um triângulo, o estrangulamento feito com as pernas. Em [1988|mil novecentos e oitenta e oito], ele lança [Gracie in Action|Greici in Équixan], uma fita de vídeo com os desafios e as lutas de vale-tudo da família. E em [1989|mil novecentos e oitenta e nove], a garagem fica pequena. Rorion abre a primeira Academia Gracie dos Estados Unidos, em [Torrance|Tórrans], ali perto.",
+      "eventos": [
+        {
+          "ano": "1987",
+          "texto": "Consultor técnico de Máquina Mortífera",
+          "quando": "Máquina Mortífera"
+        },
+        {
+          "ano": "1987",
+          "texto": "Na tela, o herói vence com um triângulo",
+          "quando": "com um triângulo"
+        },
+        {
+          "ano": "1988",
+          "texto": "A fita Gracie in Action",
+          "quando": "Gracie in Action"
+        },
+        {
+          "ano": "1989",
+          "texto": "Academia Gracie em Torrance",
+          "quando": "Academia Gracie"
+        }
+      ]
+    },
+    {
+      "id": "a06-irmaos",
+      "tipo": "linhagem",
+      "ano": 1989,
+      "titulo": "Torrance, 1989: negócio de família",
+      "narracao": "A academia de Torrance é um negócio de família. Rorion abre as portas ao lado de três irmãos, todos filhos de Hélio. Royce já estava na Califórnia havia quatro anos. Royler vem do Rio. E vem Rickson, o campeão da família, aquele que você viu vencer Rei Zulu e Hugo Duarte. Com quatro professores, as aulas se multiplicam. Agora, quando alguém bate à porta duvidando do jiu-jitsu, quem responde pode ser qualquer um dos irmãos.",
+      "nos": [
+        {
+          "id": "helio",
+          "nome": "Hélio Gracie",
+          "sub": "o pai, no Rio",
+          "quando": "filhos de Hélio"
+        },
+        {
+          "id": "rorion",
+          "nome": "Rorion",
+          "sub": "nos EUA desde 1978",
+          "pai": "helio",
+          "quando": "Rorion abre"
+        },
+        {
+          "id": "rickson",
+          "nome": "Rickson",
+          "sub": "o campeão da família",
+          "pai": "helio",
+          "quando": "vem Rickson"
+        },
+        {
+          "id": "royler",
+          "nome": "Royler",
+          "sub": "vem do Rio",
+          "pai": "helio",
+          "quando": "Royler vem"
+        },
+        {
+          "id": "royce",
+          "nome": "Royce",
+          "sub": "na Califórnia desde 1985",
+          "pai": "helio",
+          "quando": "Royce já estava"
+        }
+      ]
+    },
+    {
+      "id": "a07-marca",
+      "tipo": "comparacao",
+      "ano": 1989,
+      "titulo": "De quem é o nome Gracie Jiu-Jitsu?",
+      "narracao": "No mesmo ano, Rorion registra nos Estados Unidos a marca Gracie Jiu-Jitsu e o logotipo do triângulo. Nem toda a família aceita. Carley Gracie, primo dele e filho de Carlos, também dava aulas na Califórnia. Em [1994|mil novecentos e noventa e quatro], Carley vai à Justiça contra o registro. O júri decide que Rorion não tem direito exclusivo sobre o nome Gracie Jiu-Jitsu, mas que o logotipo é dele. Em [2000|dois mil], um tribunal de apelação manda cancelar o registro do nome. Muita gente vê nessa briga uma das razões de o mundo dizer, hoje, jiu-jitsu brasileiro.",
+      "esquerda": {
+        "titulo": "Rorion",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "1989: registra o nome e o triângulo",
+            "quando": "Rorion registra"
+          },
+          {
+            "texto": "Júri: o logotipo é dele",
+            "quando": "o logotipo é dele"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Carley, o primo",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Filho de Carlos, professor na Califórnia",
+            "quando": "Carley Gracie"
+          },
+          {
+            "texto": "1994: processo contra o registro",
+            "quando": "vai à Justiça"
+          },
+          {
+            "texto": "Júri: o nome não é exclusivo",
+            "quando": "não tem direito exclusivo"
+          },
+          {
+            "texto": "2000: registro do nome cancelado",
+            "quando": "manda cancelar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a08-playboy",
+      "tipo": "cartao",
+      "ano": 1989,
+      "rotulo": "Playboy, setembro de 1989",
+      "titulo": "A reportagem de Pat Jordan",
+      "destaque": "\"Bad\"",
+      "narracao": "Ainda em [1989|mil novecentos e oitenta e nove], vem a vitrine que faltava. Em setembro, a revista [Playboy|Plêiboi] publica uma reportagem sobre Rorion, assinada por Pat Jordan. O título é uma palavra só: [Bad|Béd], mau em inglês. O texto apresenta um brasileiro alto e magro, de trinta e sete anos que se oferece para lutar contra qualquer homem do país. Fala da garagem, da família e dos cem mil dólares. Segundo o pesquisador Roberto Pedreira, é a primeira reportagem sobre o assunto numa grande revista americana. E um dos leitores trabalha com propaganda.",
+      "itens": [
+        {
+          "texto": "Reportagem de Pat Jordan sobre Rorion",
+          "quando": "assinada por Pat Jordan"
+        },
+        {
+          "texto": "Título: \"Bad\"",
+          "quando": "uma palavra só"
+        },
+        {
+          "texto": "Alto, magro, 37 anos",
+          "quando": "alto e magro"
+        },
+        {
+          "texto": "A garagem, a família, os cem mil dólares",
+          "quando": "Fala da garagem"
+        },
+        {
+          "texto": "Pedreira: a primeira numa grande revista",
+          "quando": "a primeira reportagem"
+        }
+      ]
+    },
+    {
+      "id": "a09-davie",
+      "tipo": "perfil",
+      "ano": 1991,
+      "nome": "Art Davie",
+      "papel": "O publicitário",
+      "anos": "Agência de propaganda, Califórnia",
+      "wiki": "Art_Davie",
+      "narracao": "O leitor se chama [Art Davie|Art Dêivi]. Ele trabalha numa agência de propaganda perto de Los Angeles e quer montar um torneio para descobrir qual luta é a melhor. Já tinha oferecido a ideia a uma marca de cerveja, que achou violento demais. Davie procura Rorion em Torrance, insiste e acaba virando aluno da academia. Para o Natal de [1991|mil novecentos e noventa e um], sugere vender as fitas da família pelo correio. Segundo o relato dele, a primeira remessa rende cento e cinquenta e dois mil dólares. A partir daí, Rorion passa a ouvir o resto do plano.",
+      "fatos": [
+        {
+          "texto": "Trabalha numa agência de propaganda",
+          "quando": "agência de propaganda"
+        },
+        {
+          "texto": "Quer um torneio entre estilos de luta",
+          "quando": "montar um torneio"
+        },
+        {
+          "texto": "Uma cervejaria recusa: violento demais",
+          "quando": "marca de cerveja"
+        },
+        {
+          "texto": "Procura Rorion e vira aluno",
+          "quando": "acaba virando aluno"
+        },
+        {
+          "texto": "Natal de 1991: as fitas pelo correio",
+          "quando": "Natal de 1991"
+        }
+      ]
+    },
+    {
+      "id": "a10-wow",
+      "tipo": "cartao",
+      "ano": 1993,
+      "rotulo": "O negócio",
+      "titulo": "Guerra dos Mundos",
+      "destaque": "8 lutadores",
+      "narracao": "O plano é um torneio de oito lutadores, numa noite só, com eliminação direta: quem perde, sai. Davie batiza o projeto de Guerra dos Mundos. Rorion aceita. O cineasta [John Milius|Djón Mílius], diretor de Conan, o Bárbaro e aluno da academia, entra como diretor criativo. Davie e Rorion abrem a empresa [WOW|uáu], com o dinheiro de vinte e oito investidores. Os canais [HBO|agá bê ó] e [Showtime|Xôu-taim] recusam o programa. Quem aceita, em maio de [1993|mil novecentos e noventa e três], é a [SEG|S E G], de [Bob Meyrowitz|Bób Máirouits], uma produtora de [pay-per-view|pei-per-viú], a televisão paga por evento.",
+      "itens": [
+        {
+          "texto": "Oito lutadores, uma noite, eliminação direta",
+          "quando": "oito lutadores"
+        },
+        {
+          "texto": "Nome do projeto: Guerra dos Mundos",
+          "quando": "Guerra dos Mundos"
+        },
+        {
+          "texto": "John Milius, diretor criativo",
+          "quando": "John Milius"
+        },
+        {
+          "texto": "Empresa WOW: 28 investidores",
+          "quando": "abrem a empresa"
+        },
+        {
+          "texto": "HBO e Showtime recusam",
+          "quando": "recusam o programa"
+        },
+        {
+          "texto": "Maio de 1993: acordo com a SEG",
+          "quando": "maio de 1993"
+        }
+      ]
+    },
+    {
+      "id": "a11-octogono",
+      "tipo": "cartao",
+      "ano": 1993,
+      "rotulo": "O palco",
+      "titulo": "Uma jaula de oito lados",
+      "destaque": "O octógono",
+      "narracao": "Falta o palco. Nas conversas aparece de tudo, até um fosso em volta do ringue e uma cerca elétrica. O que fica é uma jaula de oito lados, fechada com tela de arame: o octógono. Uma versão atribui a ideia a Milius. Outra dá o desenho a Jason Cusson, diretor de arte chamado pela SEG. É a SEG também que cria o nome definitivo: [Ultimate Fighting Championship|Âltimeit Fáitin Tchêmpionxip]. A sede será Denver, porque o Colorado não tem comissão atlética para vetar a luta sem luvas. Preço na televisão: catorze dólares e noventa e cinco.",
+      "itens": [
+        {
+          "texto": "Ideias descartadas: fosso e cerca elétrica",
+          "quando": "um fosso"
+        },
+        {
+          "texto": "Oito lados e tela de arame",
+          "quando": "jaula de oito lados"
+        },
+        {
+          "texto": "Ideia de Milius ou desenho de Cusson?",
+          "quando": "Uma versão atribui"
+        },
+        {
+          "texto": "O nome vem da SEG",
+          "quando": "o nome definitivo"
+        },
+        {
+          "texto": "Colorado: sem comissão atlética",
+          "quando": "não tem comissão atlética"
+        },
+        {
+          "texto": "Pay-per-view a 14,95 dólares",
+          "quando": "Preço na televisão"
+        }
+      ]
+    },
+    {
+      "id": "a12-royce-rickson",
+      "tipo": "comparacao",
+      "ano": 1993,
+      "titulo": "Qual Gracie vai lutar?",
+      "narracao": "Falta escolher o Gracie que vai lutar. Art Davie esperava Rickson, o mais temido. Mas Rorion e Rickson tinham se desentendido. Os relatos falam em dinheiro e em alunos, e Rickson já dava aulas por conta própria. Rorion escolhe Royce, de vinte e seis anos e cerca de oitenta quilos. A explicação dele: se um Gracie magro vencer homens muito maiores, o mérito fica com a técnica, não com o atleta. Royce dá outra razão: o pai e o irmão sabiam que ele ia obedecer. Para Davie, Royce era só um garoto das aulas de sábado.",
+      "esquerda": {
+        "titulo": "Por que não Rickson",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Davie esperava Rickson",
+            "quando": "esperava Rickson"
+          },
+          {
+            "texto": "Desentendimento com Rorion",
+            "quando": "tinham se desentendido"
+          },
+          {
+            "texto": "Relatos: dinheiro e alunos",
+            "quando": "dinheiro e em alunos"
+          },
+          {
+            "texto": "Já dava aulas por conta própria",
+            "quando": "por conta própria"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Por que Royce",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "26 anos, cerca de 80 quilos",
+            "quando": "cerca de oitenta quilos"
+          },
+          {
+            "texto": "Rorion: magro, o mérito fica com a técnica",
+            "quando": "um Gracie magro"
+          },
+          {
+            "texto": "Royce: sabiam que ele ia obedecer",
+            "quando": "ia obedecer"
+          },
+          {
+            "texto": "Davie: um garoto das aulas de sábado",
+            "quando": "aulas de sábado"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a13-vespera",
+      "tipo": "mapa",
+      "ano": 1993,
+      "titulo": "11 de novembro de 1993",
+      "narracao": "Onze de novembro de [1993|mil novecentos e noventa e três], véspera do torneio. Em Denver, o octógono está montado, e o prêmio anunciado para o campeão é de cinquenta mil dólares. Sete homens estão ali para provar que a sua luta é a melhor. O oitavo é Royce. Rickson está com ele, para ajudar no córner. Para Rorion, são quinze anos de garagem, de fitas e de desafios apostados numa noite só, ao vivo, na televisão americana. No dia seguinte, a porta da jaula se fecha.",
+      "vista": {
+        "lon": -111,
+        "lat": 37,
+        "escala": 4.5
+      },
+      "ate": {
+        "lon": -105,
+        "lat": 39.7,
+        "escala": 6
+      },
+      "lugares": [
+        {
+          "nome": "Denver: o octógono",
+          "coord": [
+            -104.99,
+            39.74
+          ],
+          "quando": "Em Denver",
+          "destaque": true
+        },
+        {
+          "nome": "Torrance: a academia",
+          "coord": [
+            -118.34,
+            33.84
+          ],
+          "quando": "quinze anos de garagem"
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -118.34,
+              33.84
+            ],
+            [
+              -104.99,
+              39.74
+            ]
+          ],
+          "quando": "quinze anos de garagem",
+          "ate": "numa noite só"
+        }
+      ]
+    },
+    {
+      "id": "b01-denver",
+      "tipo": "mapa",
+      "ano": 1993,
+      "titulo": "Denver, 12 de novembro de 1993",
+      "narracao": "Denver, no Colorado, doze de novembro de [1993|mil novecentos e noventa e três]. A [McNichols|Mequinícols] Arena tem lugar de sobra: cerca de sete mil e oitocentas pessoas, menos da metade da casa. O Colorado não tinha comissão atlética, então ninguém precisava autorizar uma luta sem luvas. No centro, uma grade de oito lados, o octógono. Em casa, pela televisão paga, cerca de oitenta e seis mil compradores. O plano de Rorion ia a público. E quem ia defendê-lo era [Royce|Róice], o irmão magro, de vinte e seis anos.",
+      "vista": {
+        "lon": -98,
+        "lat": 39,
+        "escala": 2.5
+      },
+      "ate": {
+        "lon": -105,
+        "lat": 39.7,
+        "escala": 6
+      },
+      "lugares": [
+        {
+          "nome": "Denver, Colorado",
+          "coord": [
+            -104.99,
+            39.74
+          ],
+          "quando": "Denver, no Colorado",
+          "destaque": true
+        },
+        {
+          "nome": "Torrance, Califórnia",
+          "coord": [
+            -118.34,
+            33.84
+          ],
+          "quando": "O plano de Rorion"
+        }
+      ]
+    },
+    {
+      "id": "b02-formato",
+      "tipo": "comparacao",
+      "ano": 1993,
+      "titulo": "Oito homens, uma noite",
+      "narracao": "O formato era de torneio. Oito lutadores, uma noite só. Não havia categoria de peso, nem juízes, nem pontos. A luta só acabava por nocaute, desistência ou toalha jogada pelo canto. As fontes concordam em duas proibições: morder e enfiar o dedo no olho. Cada lutador representava uma escola. Havia boxe, [kickboxing|quíc-bóxin], caratê [kenpo|quêmpo], taekwondo e [savate|savát], o boxe francês com chutes. Havia um lutador de sumô. E havia dois homens que sabiam lutar no chão: um americano do [shootfighting|chut-fáiting] e um brasileiro de kimono.",
+      "esquerda": {
+        "titulo": "As regras",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Torneio de oito, numa noite só",
+            "quando": "Oito lutadores"
+          },
+          {
+            "texto": "Sem peso, sem juízes, sem pontos",
+            "quando": "categoria de peso"
+          },
+          {
+            "texto": "Fim: nocaute, desistência ou toalha",
+            "quando": "nocaute, desistência"
+          },
+          {
+            "texto": "Proibido morder e atacar os olhos",
+            "quando": "duas proibições"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Os estilos",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Boxe, kickboxing, kenpo, taekwondo, savate",
+            "quando": "Havia boxe"
+          },
+          {
+            "texto": "Sumô",
+            "quando": "lutador de sumô"
+          },
+          {
+            "texto": "Shootfighting",
+            "quando": "um americano do"
+          },
+          {
+            "texto": "Jiu-jitsu",
+            "quando": "brasileiro de kimono"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b03-jimmerson",
+      "tipo": "perfil",
+      "ano": 1993,
+      "papel": "O boxeador de uma luva só",
+      "nome": "Art Jimmerson",
+      "anos": "Quartas de final do UFC 1",
+      "wiki": "Art_Jimmerson",
+      "narracao": "A primeira luta de [Royce|Róice] é contra um boxeador profissional, Art [Jimmerson|Djímerson], com vinte e nove vitórias no cartel. [Jimmerson|Djímerson] entra com uma luva só, na mão do jab, o soco da frente. [Royce|Róice] mantém distância com chutes, mergulha nas duas pernas e derruba. Monta, quer dizer, senta sobre o tronco do adversário. O boxeador não acha saída e bate em desistência, com dois minutos e dezoito segundos. Os registros anotam um estrangulamento. Os relatos dizem que ele desistiu ao se ver preso.",
+      "fatos": [
+        {
+          "texto": "Boxeador profissional, 29 vitórias",
+          "quando": "boxeador profissional"
+        },
+        {
+          "texto": "Uma luva só, na mão do jab",
+          "quando": "uma luva só"
+        },
+        {
+          "texto": "Derrubado pelas duas pernas",
+          "quando": "nas duas pernas"
+        },
+        {
+          "texto": "Desiste aos 2min18s",
+          "quando": "bate em desistência"
+        },
+        {
+          "texto": "Registro oficial: estrangulamento",
+          "quando": "Os registros anotam"
+        }
+      ]
+    },
+    {
+      "id": "b04-shamrock",
+      "tipo": "perfil",
+      "ano": 1993,
+      "papel": "O adversário mais perigoso",
+      "nome": "Ken Shamrock",
+      "anos": "Semifinal do UFC 1",
+      "wiki": "Ken_Shamrock",
+      "narracao": "Na semifinal vem o adversário mais perigoso. Ken [Shamrock|Chém-róc] é forte, luta profissionalmente no Japão e conhece chaves e estrangulamentos. Na estreia, tinha vencido com uma chave de calcanhar em menos de dois minutos. Contra [Royce|Róice], ele tenta a mesma chave. O brasileiro escapa, vai para as costas e estrangula com a ajuda do kimono. Cinquenta e sete segundos. O árbitro não vê a desistência e manda seguir. É [Shamrock|Chém-róc] quem avisa que tinha batido, e que continuar não seria justo.",
+      "fatos": [
+        {
+          "texto": "Luta profissionalmente no Japão",
+          "quando": "profissionalmente no Japão"
+        },
+        {
+          "texto": "Estreia: chave de calcanhar em 1min49s",
+          "quando": "chave de calcanhar"
+        },
+        {
+          "texto": "Royce estrangula com a ajuda do kimono",
+          "quando": "vai para as costas"
+        },
+        {
+          "texto": "57 segundos",
+          "quando": "Cinquenta e sete segundos"
+        },
+        {
+          "texto": "O próprio Shamrock avisa que bateu",
+          "quando": "quem avisa"
+        }
+      ]
+    },
+    {
+      "id": "b05-gordeau",
+      "tipo": "linha",
+      "ano": 1993,
+      "titulo": "A final",
+      "narracao": "A final é contra o holandês Gerard [Gordeau|Gordô], do [savate|savát]. Ele nocauteou o lutador de sumô com um chute, em vinte e seis segundos, e venceu a semifinal em menos de um minuto. Com [Royce|Róice], não consegue manter a luta em pé. Vai ao chão, cede as costas e leva o mata-leão, o estrangulamento por trás. Um minuto e quarenta e quatro. No meio da luta, [Gordeau|Gordô] morde a orelha dele, e [Royce|Róice] segura o golpe um instante a mais. Somadas, as três lutas do campeão não chegam a cinco minutos.",
+      "eventos": [
+        {
+          "ano": "Quartas",
+          "texto": "Gordeau nocauteia Teila Tuli em 26 segundos",
+          "quando": "vinte e seis segundos"
+        },
+        {
+          "ano": "Semifinal",
+          "texto": "Gordeau vence Kevin Rosier em 59 segundos",
+          "quando": "venceu a semifinal"
+        },
+        {
+          "ano": "Final",
+          "texto": "Royce finaliza com mata-leão, 1min44s",
+          "quando": "leva o mata-leão"
+        },
+        {
+          "ano": "Total",
+          "texto": "Três lutas de Royce: 4min59s",
+          "quando": "as três lutas"
+        }
+      ]
+    },
+    {
+      "id": "b06-reacao",
+      "tipo": "cartao",
+      "ano": 1993,
+      "rotulo": "A reação",
+      "titulo": "O campeão que ninguém esperava",
+      "destaque": "Em fita",
+      "narracao": "A reação não foi imediata. A imprensa quase ignorou a noite, e a principal revista de artes marciais americana, a [Black Belt|Bléc Bélt], só tratou do evento meses depois. Quem espalhou a história foi a fita de vídeo, alugada nas locadoras. O campeão não era o maior nem o mais forte. Não nocauteou ninguém. Levou todo mundo para o chão, um lugar onde boxeador, carateca e chutador não sabiam o que fazer. [Royce|Róice] lembraria depois que as revistas só davam atenção às lutas em pé.",
+      "itens": [
+        {
+          "texto": "A imprensa quase ignora",
+          "quando": "quase ignorou"
+        },
+        {
+          "texto": "Black Belt só cobre meses depois",
+          "quando": "meses depois"
+        },
+        {
+          "texto": "A história corre pelas locadoras",
+          "quando": "fita de vídeo"
+        },
+        {
+          "texto": "Campeão sem nocaute",
+          "quando": "Não nocauteou ninguém"
+        },
+        {
+          "texto": "No chão, os outros estilos se perdem",
+          "quando": "para o chão"
+        },
+        {
+          "texto": "Revistas só olhavam a luta em pé",
+          "quando": "lutas em pé"
+        }
+      ]
+    },
+    {
+      "id": "b07-ufc2",
+      "tipo": "linha",
+      "ano": 1994,
+      "titulo": "UFC 2: quatro vitórias numa noite",
+      "narracao": "O segundo evento vem quatro meses depois, em onze de março de [1994|mil novecentos e noventa e quatro]. O torneio dobra: dezesseis lutadores. Campeão, só com quatro vitórias na mesma noite, e sem limite de tempo. [Royce|Róice] vence um carateca japonês com um estrangulamento de gola, depois de cinco minutos. Passa por Jason DeLucia com uma chave de braço. Estrangula o judoca holandês Remco [Pardoel|Pardul], de cerca de cento e treze quilos. Na final, Patrick Smith desiste debaixo de socos. Pelos números divulgados, as compras na televisão chegam a trezentas mil.",
+      "eventos": [
+        {
+          "ano": "1ª luta",
+          "texto": "Minoki Ichihara: estrangulamento de gola, 5min08s",
+          "quando": "carateca japonês"
+        },
+        {
+          "ano": "Quartas",
+          "texto": "Jason DeLucia: chave de braço, 1min07s",
+          "quando": "Jason DeLucia"
+        },
+        {
+          "ano": "Semifinal",
+          "texto": "Remco Pardoel: estrangulamento de gola, 1min31s",
+          "quando": "judoca holandês"
+        },
+        {
+          "ano": "Final",
+          "texto": "Patrick Smith desiste nos socos, 1min17s",
+          "quando": "Patrick Smith"
+        },
+        {
+          "ano": "TV",
+          "texto": "Cerca de 300 mil compras",
+          "quando": "trezentas mil"
+        }
+      ]
+    },
+    {
+      "id": "b08-kimo",
+      "tipo": "perfil",
+      "ano": 1994,
+      "papel": "O primeiro susto",
+      "nome": "Kimo Leopoldo",
+      "anos": "UFC 3, 9 de setembro de 1994",
+      "wiki": "Kimo_Leopoldo",
+      "narracao": "Setembro de [1994|mil novecentos e noventa e quatro], Charlotte, na Carolina do Norte. O [UFC|U F C] 3 traz Kimo Leopoldo, um americano de mais de cem quilos. Kimo faz o que ninguém tinha feito: pressiona, domina a luta agarrada e chega às costas de [Royce|Róice]. O brasileiro se agarra ao rabo de cavalo do adversário, encaixa uma chave de braço, aos quatro minutos e quarenta. Vence, mas esgotado e desidratado. Volta para a semifinal e, antes do início, a toalha é jogada. O campeão é um reserva, Steve [Jennum|Djénum].",
+      "fatos": [
+        {
+          "texto": "Mais de cem quilos",
+          "quando": "mais de cem quilos"
+        },
+        {
+          "texto": "Chega às costas de Royce",
+          "quando": "chega às costas"
+        },
+        {
+          "texto": "Royce segura no rabo de cavalo",
+          "quando": "rabo de cavalo"
+        },
+        {
+          "texto": "Chave de braço aos 4min40s",
+          "quando": "chave de braço"
+        },
+        {
+          "texto": "Royce desiste antes da semifinal",
+          "quando": "a toalha é jogada"
+        },
+        {
+          "texto": "Campeão: o reserva Steve Jennum",
+          "quando": "é um reserva"
+        }
+      ]
+    },
+    {
+      "id": "b09-severn",
+      "tipo": "cartao",
+      "ano": 1994,
+      "rotulo": "UFC 4, Tulsa, 16 de dezembro de 1994",
+      "titulo": "O triângulo que a TV não mostrou",
+      "destaque": "15min49s",
+      "narracao": "Dezembro de [1994|mil novecentos e noventa e quatro], Tulsa. [Royce|Róice] chega à final contra Dan [Severn|Séven], nome forte do wrestling universitário, com mais de trinta quilos de vantagem. [Severn|Séven] derruba e fica por cima, batendo, por quase quinze minutos. [Royce|Róice] aguenta de costas no chão, com o adversário entre as pernas: é a guarda. Dali ele fecha o triângulo, um estrangulamento feito com as pernas. Quinze minutos e quarenta e nove. Só que muita gente não viu. A transmissão paga tinha hora para acabar, e operadoras cortaram o sinal antes do fim.",
+      "itens": [
+        {
+          "texto": "Dan Severn, do wrestling universitário",
+          "quando": "do wrestling universitário"
+        },
+        {
+          "texto": "Mais de trinta quilos de vantagem",
+          "quando": "mais de trinta quilos"
+        },
+        {
+          "texto": "Quase quinze minutos por cima",
+          "quando": "quase quinze minutos"
+        },
+        {
+          "texto": "Triângulo: estrangulamento com as pernas",
+          "quando": "fecha o triângulo"
+        },
+        {
+          "texto": "Sinal cortado antes do fim",
+          "quando": "cortaram o sinal"
+        }
+      ]
+    },
+    {
+      "id": "b10-saida",
+      "tipo": "comparacao",
+      "ano": 1995,
+      "titulo": "UFC 5: o empate e a saída",
+      "narracao": "A resposta vem no [UFC|U F C] 5, em abril de [1995|mil novecentos e noventa e cinco]: limite de trinta minutos. A atração é a revanche com Ken [Shamrock|Chém-róc], fora do torneio. [Shamrock|Chém-róc] passa quase todo o tempo por cima, dentro da guarda. Ninguém finaliza. Dão mais cinco minutos. Aos trinta e seis, sem juízes, sai o empate. Para Rorion, luta de verdade vai até o fim. A televisão quer relógio, juízes e categorias de peso. Depois desse evento, ele e o sócio vendem sua parte à produtora, e [Royce|Róice] sai junto.",
+      "esquerda": {
+        "titulo": "Rorion",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Revanche com Shamrock: 36 minutos, empate",
+            "quando": "Aos trinta e seis"
+          },
+          {
+            "texto": "Luta de verdade vai até o fim",
+            "quando": "vai até o fim"
+          },
+          {
+            "texto": "Vende sua parte à produtora",
+            "quando": "vendem sua parte"
+          },
+          {
+            "texto": "Royce sai junto",
+            "quando": "sai junto"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "A televisão",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Limite de trinta minutos",
+            "quando": "limite de trinta minutos"
+          },
+          {
+            "texto": "Mais cinco de prorrogação",
+            "quando": "mais cinco minutos"
+          },
+          {
+            "texto": "Relógio, juízes e categorias de peso",
+            "quando": "A televisão quer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b11-efeito",
+      "tipo": "cartao",
+      "ano": 1995,
+      "rotulo": "O efeito",
+      "titulo": "Todo mundo quer aprender a lutar no chão",
+      "destaque": "Corrida",
+      "narracao": "Nos Estados Unidos, a procura pelo jiu-jitsu dos Gracie dispara. Um relato ligado à academia de Torrance diz que ela dobrava de tamanho a cada evento. Academias da família e de seus alunos se espalham pelo país e depois pelo mundo. Para as artes tradicionais, o golpe é duro. Muita escola prometia resolver qualquer briga com um soco ou um chute. As fitas mostravam outra coisa. Aos poucos, gente do caratê, do kung fu e do taekwondo passa a procurar aulas de chão.",
+      "itens": [
+        {
+          "texto": "Procura pelo jiu-jitsu dispara nos EUA",
+          "quando": "dos Gracie dispara"
+        },
+        {
+          "texto": "Torrance: dobrava a cada evento, diz relato",
+          "quando": "dobrava de tamanho"
+        },
+        {
+          "texto": "Academias pelo país e pelo mundo",
+          "quando": "se espalham"
+        },
+        {
+          "texto": "Artes tradicionais postas em dúvida",
+          "quando": "o golpe é duro"
+        },
+        {
+          "texto": "Caratê, kung fu e taekwondo vão ao chão",
+          "quando": "aulas de chão"
+        }
+      ]
+    },
+    {
+      "id": "b12-mccain",
+      "tipo": "perfil",
+      "ano": 1996,
+      "papel": "O inimigo em Washington",
+      "nome": "John McCain",
+      "anos": "Senador pelo Arizona",
+      "wiki": "John_McCain",
+      "narracao": "O sucesso trouxe inimigos. O mais famoso: o senador John [McCain|Mequêin], do Arizona. Depois de ver uma fita dos primeiros eventos, ele chamou aquilo de briga de galo humana. Em [1996|mil novecentos e noventa e seis], escreveu aos governadores dos cinquenta estados pedindo a proibição. A maioria das fontes fala em trinta e seis estados com leis contra o vale-tudo. Outras, em quase quarenta. No ano seguinte, grandes operadoras de cabo tiraram o evento da grade. O espetáculo que vendia a falta de regras ia ter de escolher: mudar ou desaparecer.",
+      "fatos": [
+        {
+          "texto": "\"Briga de galo humana\"",
+          "quando": "briga de galo humana"
+        },
+        {
+          "texto": "1996: carta aos 50 governadores",
+          "quando": "escreveu aos governadores"
+        },
+        {
+          "texto": "36 estados proíbem; há quem diga quase 40",
+          "quando": "trinta e seis estados"
+        },
+        {
+          "texto": "1997: operadoras de cabo cortam o evento",
+          "quando": "operadoras de cabo"
+        },
+        {
+          "texto": "Mudar ou desaparecer",
+          "quando": "mudar ou desaparecer"
+        }
+      ]
+    },
+    {
+      "id": "b13-rickson",
+      "tipo": "linhagem",
+      "ano": 1995,
+      "titulo": "O irmão que ficou de fora",
+      "narracao": "Antes disso, falta um nome. [Royce|Róice] deixou o [UFC|U F C] sem perder: onze vitórias e um empate. Mas, entre os filhos de Hélio, Rorion tinha escolhido [Royce|Róice] por ser leve, para a demonstração ficar mais clara. O irmão que tinha fama de melhor lutador da casa ficou fora do octógono. Você já o viu nesta série, na praia, contra Hugo Duarte. Enquanto [Royce|Róice] ficava famoso nos Estados Unidos, ele tomou outro caminho, que passava pelo Japão. O nome dele é Rickson Gracie.",
+      "nos": [
+        {
+          "id": "helio",
+          "nome": "Hélio Gracie",
+          "sub": "o pai",
+          "quando": "filhos de Hélio"
+        },
+        {
+          "id": "rorion",
+          "nome": "Rorion",
+          "sub": "criou o evento",
+          "pai": "helio",
+          "quando": "Rorion tinha escolhido"
+        },
+        {
+          "id": "royce",
+          "nome": "Royce",
+          "sub": "11 vitórias e 1 empate no UFC",
+          "pai": "helio",
+          "quando": "por ser leve"
+        },
+        {
+          "id": "rickson",
+          "nome": "Rickson",
+          "sub": "fora do UFC, rumo ao Japão",
+          "pai": "helio",
+          "quando": "ficou fora do octógono"
+        }
+      ]
+    },
+    {
+      "id": "c01-rickson",
+      "tipo": "perfil",
+      "ano": 1994,
+      "papel": "O melhor da família",
+      "nome": "Rickson Gracie",
+      "anos": "1959 –",
+      "wiki": "Rickson_Gracie",
+      "narracao": "Dentro da família Gracie, quase ninguém discutia quem era o melhor. Era Rickson, filho de Hélio. Enquanto o irmão Royce vencia nos Estados Unidos, os próprios Gracie repetiam que havia em casa alguém muito superior. Faixa-preta desde os dezoito anos, Rickson dava aulas em Los Angeles. Faltava um palco. Ele apareceu do outro lado do Pacífico, num país que levava luta muito a sério.",
+      "fatos": [
+        {
+          "texto": "Filho de Hélio Gracie",
+          "quando": "filho de Hélio"
+        },
+        {
+          "texto": "Para a família, superior a Royce",
+          "quando": "alguém muito superior"
+        },
+        {
+          "texto": "Faixa-preta aos 18 anos",
+          "quando": "Faixa-preta desde"
+        },
+        {
+          "texto": "Professor em Los Angeles",
+          "quando": "aulas em Los Angeles"
+        }
+      ]
+    },
+    {
+      "id": "c02-vale-tudo-japan",
+      "tipo": "mapa",
+      "ano": 1994,
+      "titulo": "Vale Tudo Japan, 1994",
+      "narracao": "O convite vem do Japão. [Satoru Sayama|Satóru Saiáma], ex-astro da luta livre de espetáculo, tinha criado o [Shooto|Xúto], uma organização de lutas de verdade. Em [1994|mil novecentos e noventa e quatro], ele monta um torneio aberto a qualquer estilo e usa o nome brasileiro: Vale Tudo Japan. A data é vinte e nove de julho. O lugar, um ginásio em Urayasu, ao lado de Tóquio. São oito lutadores e uma regra simples: quem vence continua, na mesma noite. Rickson viaja de Los Angeles para representar o jiu-jitsu da família.",
+      "vista": {
+        "lon": -170,
+        "lat": 30,
+        "escala": 1.6
+      },
+      "ate": {
+        "lon": 139.5,
+        "lat": 36,
+        "escala": 5
+      },
+      "lugares": [
+        {
+          "nome": "Japão",
+          "coord": [
+            138.2,
+            36.6
+          ],
+          "quando": "vem do Japão"
+        },
+        {
+          "nome": "Urayasu, 29 de julho",
+          "coord": [
+            139.9,
+            35.65
+          ],
+          "quando": "ginásio em Urayasu",
+          "destaque": true
+        },
+        {
+          "nome": "Los Angeles",
+          "coord": [
+            -118.25,
+            34.05
+          ],
+          "quando": "viaja de Los Angeles"
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -118.25,
+              34.05
+            ],
+            [
+              -150,
+              45
+            ],
+            [
+              -180,
+              48
+            ]
+          ],
+          "quando": "viaja de Los Angeles",
+          "ate": "jiu-jitsu da família"
+        }
+      ]
+    },
+    {
+      "id": "c03-dois-torneios",
+      "tipo": "linha",
+      "ano": 1995,
+      "titulo": "Dois torneios, seis lutas",
+      "narracao": "Naquela noite, Rickson luta três vezes e não passa de três minutos em nenhuma. Vence o japonês [Yoshinori Nishi|Iochinôri Níchi] com um mata-leão, o estrangulamento pelas costas. Depois, dois americanos, David Levicki e Bud Smith, desistem debaixo de socos. Em abril de [1995|mil novecentos e noventa e cinco], ele volta para a segunda edição, no [Budokan|Budocã], em Tóquio. De novo três lutas, e três estrangulamentos: [Yoshihisa Yamamoto|Iochiíssa Iamamôto], [Koichiro Kimura|Coitchíro Quimúra] e, na final, [Yuki Nakai|Iúqui Nacái]. Nakai era bem mais leve e tinha chegado à decisão ferido num olho.",
+      "eventos": [
+        {
+          "ano": "29 jul. 1994",
+          "texto": "Yoshinori Nishi: mata-leão",
+          "quando": "Yoshinori Nishi"
+        },
+        {
+          "ano": "29 jul. 1994",
+          "texto": "Levicki e Smith desistem sob socos",
+          "quando": "desistem debaixo"
+        },
+        {
+          "ano": "20 abr. 1995",
+          "texto": "Segunda edição, no Budokan",
+          "quando": "a segunda edição"
+        },
+        {
+          "ano": "20 abr. 1995",
+          "texto": "Yamamoto e Kimura: estrangulados",
+          "quando": "Yoshihisa Yamamoto"
+        },
+        {
+          "ano": "20 abr. 1995",
+          "texto": "Final contra Yuki Nakai: mata-leão",
+          "quando": "Yuki Nakai"
+        }
+      ]
+    },
+    {
+      "id": "c04-choke",
+      "tipo": "cartao",
+      "ano": 1999,
+      "rotulo": "O documentário",
+      "titulo": "Choke",
+      "destaque": "1995 → 1999",
+      "narracao": "Uma equipe de cinema acompanhou Rickson nesse segundo torneio. O resultado é o documentário [Choke|Tchôuque], estrangulamento em inglês, de Robert Goodman. Foi filmado em [1995|mil novecentos e noventa e cinco] e, segundo as fontes, só chegou ao público em [1999|mil novecentos e noventa e nove]. O filme mostra a preparação: a respiração, os alongamentos, o banho num rio gelado, a família em volta. Acompanha também outros dois lutadores do torneio. Para muita gente, foi a primeira vez que se viu por dentro a rotina de um lutador de jiu-jitsu. E ajudou a fazer de Rickson uma lenda.",
+      "itens": [
+        {
+          "texto": "Filmado no Vale Tudo Japan de 1995",
+          "quando": "nesse segundo torneio"
+        },
+        {
+          "texto": "Direção de Robert Goodman",
+          "quando": "Robert Goodman"
+        },
+        {
+          "texto": "Lançado em 1999",
+          "quando": "chegou ao público"
+        },
+        {
+          "texto": "Respiração, alongamento, rio gelado",
+          "quando": "a respiração"
+        },
+        {
+          "texto": "Segue também outros dois lutadores",
+          "quando": "outros dois lutadores"
+        }
+      ]
+    },
+    {
+      "id": "c05-takada",
+      "tipo": "perfil",
+      "ano": 1994,
+      "papel": "O astro do pro-wrestling japonês",
+      "nome": "Nobuhiko Takada",
+      "anos": "1962 –",
+      "wiki": "Nobuhiko_Takada",
+      "narracao": "Para entender o que vem depois, conheça [Nobuhiko Takada|Nobuíco Tacáda]. No Japão, a luta livre de espetáculo, o [pro-wrestling|pró-réslin], enchia estádios. [Takada|Tacáda] era uma das maiores estrelas de uma corrente que vendia suas lutas como reais. Muita gente acreditava que aqueles homens eram os lutadores mais fortes do mundo. Em dezembro de [1994|mil novecentos e noventa e quatro], um colega dele, [Yoji Anjo|Iôdji Ândjo], vai à academia de Rickson, em Los Angeles, para desafiá-lo. Sai de lá derrotado e machucado. A honra do grupo passa a depender de [Takada|Tacáda].",
+      "fatos": [
+        {
+          "texto": "No Japão, o pro-wrestling enchia estádios",
+          "quando": "enchia estádios"
+        },
+        {
+          "texto": "Estrela do estilo que imitava luta real",
+          "quando": "uma das maiores estrelas"
+        },
+        {
+          "texto": "Vistos como os mais fortes do mundo",
+          "quando": "mais fortes do mundo"
+        },
+        {
+          "texto": "Dez. 1994: Yoji Anjo desafia Rickson",
+          "quando": "Yoji Anjo"
+        },
+        {
+          "texto": "Anjo perde; resta Takada",
+          "quando": "A honra do grupo"
+        }
+      ]
+    },
+    {
+      "id": "c06-pride-1",
+      "tipo": "cartao",
+      "ano": 1997,
+      "rotulo": "11 de outubro de 1997",
+      "titulo": "Pride 1: Rickson x Takada",
+      "destaque": "Tokyo Dome",
+      "narracao": "Para essa luta nasce um evento novo: o [Pride|Práide]. Onze de outubro de [1997|mil novecentos e noventa e sete], [Tokyo Dome|Tóquio Dôme]. Mais de quarenta e sete mil pessoas vão ver o astro japonês contra o brasileiro. Só que [Takada|Tacáda] quase não tinha experiência em luta real. Rickson derruba, monta e estica o braço dele numa chave. Menos de cinco minutos. Para muitos fãs, é um choque: o herói do [pro-wrestling|pró-réslin] não resiste ao jiu-jitsu. E o [Pride|Práide], criado para uma noite, vai se tornar um dos maiores eventos de luta do mundo.",
+      "itens": [
+        {
+          "texto": "O Pride nasce para essa luta",
+          "quando": "um evento novo"
+        },
+        {
+          "texto": "Mais de 47 mil pessoas no Tokyo Dome",
+          "quando": "Mais de quarenta e sete"
+        },
+        {
+          "texto": "Takada: quase sem experiência em luta real",
+          "quando": "quase não tinha experiência"
+        },
+        {
+          "texto": "Queda, montada e chave de braço",
+          "quando": "Rickson derruba"
+        },
+        {
+          "texto": "Vitória em menos de cinco minutos",
+          "quando": "Menos de cinco minutos"
+        },
+        {
+          "texto": "O Pride vira um gigante das lutas",
+          "quando": "vai se tornar"
+        }
+      ]
+    },
+    {
+      "id": "c07-ultimas-lutas",
+      "tipo": "linha",
+      "ano": 2000,
+      "titulo": "As últimas lutas de Rickson",
+      "narracao": "Um ano depois, no mesmo dia onze de outubro, vem a revanche, no [Pride|Práide] quatro. [Takada|Tacáda] resiste mais, quase dez minutos. O fim é igual: chave de braço. Em maio de [2000|dois mil], Rickson volta ao [Tokyo Dome|Tóquio Dôme], num evento chamado [Colosseum|Colosséum]. O adversário é [Masakatsu Funaki|Massacátsu Funáqui], um dos criadores do [Pancrase|Pancrêize], liga japonesa de lutas reais. Rickson vence com um mata-leão, aos doze minutos. Ele tem quarenta anos. Meses depois, perde o filho mais velho, Rockson. E nunca mais faz uma luta profissional.",
+      "eventos": [
+        {
+          "ano": "11 out. 1998",
+          "texto": "Pride 4: revanche com Takada",
+          "quando": "vem a revanche"
+        },
+        {
+          "ano": "11 out. 1998",
+          "texto": "Chave de braço, aos nove minutos e meio",
+          "quando": "chave de braço"
+        },
+        {
+          "ano": "26 maio 2000",
+          "texto": "Colosseum 2000, contra Masakatsu Funaki",
+          "quando": "Masakatsu Funaki"
+        },
+        {
+          "ano": "26 maio 2000",
+          "texto": "Mata-leão, aos doze minutos",
+          "quando": "com um mata-leão"
+        },
+        {
+          "ano": "2000–2001",
+          "texto": "Morre o filho Rockson; fim da carreira",
+          "quando": "perde o filho"
+        }
+      ]
+    },
+    {
+      "id": "c08-quatrocentas",
+      "tipo": "comparacao",
+      "ano": 2000,
+      "titulo": "Mais de 400 lutas invicto?",
+      "narracao": "Rickson ficou conhecido por um número: mais de quatrocentas lutas, nenhuma derrota. Ele dizia somar lutas de jiu-jitsu, de vale-tudo, desafios de academia e brigas de rua. O registro oficial é bem menor: onze lutas de vale-tudo, onze vitórias. O pai, Hélio, contestou a conta. Disse que o filho somava treinos e lutas amadoras e que, por esse critério, ele mesmo teria mais de um milhão. E há uma derrota registrada: em [1993|mil novecentos e noventa e três], num campeonato americano de sambo, a luta russa, para Ron Tripp. Rickson contesta esse resultado.",
+      "esquerda": {
+        "titulo": "O que Rickson afirma",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Mais de 400 lutas, nenhuma derrota",
+            "quando": "mais de quatrocentas lutas"
+          },
+          {
+            "texto": "Soma jiu-jitsu, vale-tudo, desafios e rua",
+            "quando": "dizia somar"
+          },
+          {
+            "texto": "Contesta a derrota no sambo",
+            "quando": "Rickson contesta"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que está registrado",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Vale-tudo: 11 lutas, 11 vitórias",
+            "quando": "onze lutas de vale-tudo"
+          },
+          {
+            "texto": "Hélio: a conta inclui treinos e amadoras",
+            "quando": "contestou a conta"
+          },
+          {
+            "texto": "1993: derrota no sambo para Ron Tripp",
+            "quando": "uma derrota registrada"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09-brasil",
+      "tipo": "mapa",
+      "ano": 1997,
+      "titulo": "O vale-tudo no Brasil dos anos 1990",
+      "narracao": "E no Brasil? Nos anos noventa, o vale-tudo volta a crescer. Em [1996|mil novecentos e noventa e seis], o produtor Frederico Lapenda cria o [WVC|dábliu V C], que estreia no Japão e depois chega a São Paulo. Em [1997|mil novecentos e noventa e sete], Sérgio Batarelli, ex-sócio dele, lança em São Paulo o [IVC|I V C]: um round só, de até trinta minutos, e no começo valia até cabeçada. No Rio, a academia mais temida é a de Carlson Gracie, em Copacabana. E em Curitiba cresce uma escola de [muay thai|muai tai], a Chute Boxe.",
+      "vista": {
+        "lon": -52,
+        "lat": -15,
+        "escala": 3
+      },
+      "ate": {
+        "lon": -46.5,
+        "lat": -24,
+        "escala": 5.5
+      },
+      "lugares": [
+        {
+          "nome": "São Paulo: WVC e IVC",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "chega a São Paulo",
+          "destaque": true
+        },
+        {
+          "nome": "Rio: Carlson Gracie",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "No Rio"
+        },
+        {
+          "nome": "Curitiba: Chute Boxe",
+          "coord": [
+            -49.27,
+            -25.43
+          ],
+          "quando": "em Curitiba cresce"
+        }
+      ]
+    },
+    {
+      "id": "c10-equipe-carlson",
+      "tipo": "linhagem",
+      "ano": 1997,
+      "titulo": "A equipe de Carlson Gracie",
+      "narracao": "Carlson, você lembra, é o sobrinho de Hélio que abriu a própria academia. Nos anos noventa, a equipe dele vira uma fábrica de lutadores de vale-tudo. Murilo Bustamante e Mário Sperry, campeões de jiu-jitsu. Wallid Ismail, que tinha vencido no kimono mais de um Gracie. Amaury Bitetti e Ricardo Libório. E o caçula, Vitor Belfort, que une o chão da academia a um boxe muito rápido. Em fevereiro de [1997|mil novecentos e noventa e sete], aos dezenove anos, Belfort vence um torneio de pesos pesados do [UFC|U F C], nos Estados Unidos.",
+      "nos": [
+        {
+          "id": "carlson",
+          "nome": "Carlson Gracie",
+          "sub": "Copacabana, Rio",
+          "quando": "Carlson, você lembra"
+        },
+        {
+          "id": "bustamante",
+          "nome": "Murilo Bustamante",
+          "pai": "carlson",
+          "quando": "Murilo Bustamante"
+        },
+        {
+          "id": "sperry",
+          "nome": "Mário Sperry",
+          "pai": "carlson",
+          "quando": "Mário Sperry"
+        },
+        {
+          "id": "wallid",
+          "nome": "Wallid Ismail",
+          "pai": "carlson",
+          "quando": "Wallid Ismail"
+        },
+        {
+          "id": "bitetti",
+          "nome": "Amaury Bitetti",
+          "pai": "carlson",
+          "quando": "Amaury Bitetti"
+        },
+        {
+          "id": "liborio",
+          "nome": "Ricardo Libório",
+          "pai": "carlson",
+          "quando": "Ricardo Libório"
+        },
+        {
+          "id": "belfort",
+          "nome": "Vitor Belfort",
+          "sub": "campeão no UFC 12",
+          "pai": "carlson",
+          "quando": "Vitor Belfort"
+        }
+      ]
+    },
+    {
+      "id": "c11-chute-boxe",
+      "tipo": "cartao",
+      "ano": 1998,
+      "rotulo": "Curitiba",
+      "titulo": "A Chute Boxe",
+      "destaque": "Muay thai",
+      "narracao": "A Chute Boxe nasceu em [1978|mil novecentos e setenta e oito], fundada por Rudimar Fedrigo, como academia de [muay thai|muai tai], a luta tailandesa de socos, chutes e joelhadas. Nos anos noventa, passa a treinar também quedas e chão. No [IVC|I V C], seus lutadores ficam com três dos quatro cinturões. Os nomes: Wanderlei Silva, José Landi-Jons, o Pelé, e Rafael Cordeiro. O encontro com a equipe de Carlson vem em outubro de [1998|mil novecentos e noventa e oito], no [UFC|U F C] Brasil. Belfort vence Wanderlei por nocaute técnico em quarenta e quatro segundos. A rivalidade só estava começando.",
+      "itens": [
+        {
+          "texto": "Fundada em 1978 por Rudimar Fedrigo",
+          "quando": "Rudimar Fedrigo"
+        },
+        {
+          "texto": "Anos 1990: muay thai mais quedas e chão",
+          "quando": "quedas e chão"
+        },
+        {
+          "texto": "Três dos quatro cinturões do IVC",
+          "quando": "três dos quatro"
+        },
+        {
+          "texto": "Wanderlei Silva, Pelé e Rafael Cordeiro",
+          "quando": "Wanderlei Silva"
+        },
+        {
+          "texto": "UFC Brasil, 1998: Belfort vence Wanderlei",
+          "quando": "Belfort vence Wanderlei"
+        }
+      ]
+    },
+    {
+      "id": "c12-renzo-ralph",
+      "tipo": "linha",
+      "ano": 1996,
+      "titulo": "Renzo e Ralph Gracie",
+      "narracao": "Outros Gracie seguem o mesmo caminho: os irmãos Renzo e Ralph, netos de Carlos. Ralph, apelidado de Pitbull, vence três lutas seguidas num evento americano, entre [1995|mil novecentos e noventa e cinco] e [1996|mil novecentos e noventa e seis], todas em menos de dois minutos. Renzo ganha um torneio de três lutas na Carolina do Norte, em [1995|mil novecentos e noventa e cinco]. No ano seguinte, nocauteia o russo Oleg Taktarov com um chute dado do chão. Depois vai ao Japão: empata na primeira noite do [Pride|Práide] e vence na segunda edição. Os dois passam a ensinar nos Estados Unidos.",
+      "eventos": [
+        {
+          "ano": "1995–1996",
+          "texto": "Ralph: três vitórias em menos de dois minutos",
+          "quando": "vence três lutas"
+        },
+        {
+          "ano": "out. 1995",
+          "texto": "Renzo vence torneio na Carolina do Norte",
+          "quando": "Renzo ganha"
+        },
+        {
+          "ano": "nov. 1996",
+          "texto": "Renzo nocauteia Oleg Taktarov",
+          "quando": "Oleg Taktarov"
+        },
+        {
+          "ano": "out. 1997",
+          "texto": "Pride 1: empate com Akira Shoji",
+          "quando": "empata na primeira"
+        },
+        {
+          "ano": "mar. 1998",
+          "texto": "Pride 2: vitória sobre Sanae Kikuta",
+          "quando": "vence na segunda"
+        }
+      ]
+    },
+    {
+      "id": "c13-racha",
+      "tipo": "cartao",
+      "ano": 2000,
+      "rotulo": "Rio de Janeiro, 2000",
+      "titulo": "O racha e a Brazilian Top Team",
+      "destaque": "Creontes",
+      "narracao": "Em [2000|dois mil], a equipe de Carlson racha. Ele passava boa parte do tempo nos Estados Unidos, e a briga, segundo as fontes, envolve dinheiro: a parte do mestre nas bolsas dos lutadores. Os relatos divergem nos detalhes. Bustamante, Sperry, Libório e Luís Roberto Duarte, o Bebeo, saem e fundam, no Rio, a [Brazilian Top Team|Brazílian Tóp Tim]. Carlson nunca perdoa: chama os que saíram de creontes, traidores. Mas um problema maior espera todos eles. Lá fora, os adversários já tinham estudado o jiu-jitsu. E aprendido a não ser finalizados.",
+      "itens": [
+        {
+          "texto": "2000: a equipe de Carlson racha",
+          "quando": "a equipe de Carlson"
+        },
+        {
+          "texto": "Disputa pela parte do mestre nas bolsas",
+          "quando": "envolve dinheiro"
+        },
+        {
+          "texto": "Bustamante, Sperry, Libório e Bebeo saem",
+          "quando": "Bustamante, Sperry"
+        },
+        {
+          "texto": "Nasce a Brazilian Top Team, no Rio",
+          "quando": "Brazilian Top Team"
+        },
+        {
+          "texto": "Carlson os chama de creontes",
+          "quando": "de creontes"
+        },
+        {
+          "texto": "Adversários aprenderam a não ser finalizados",
+          "quando": "a não ser finalizados"
+        }
+      ]
+    },
+    {
+      "id": "d01-wrestling",
+      "tipo": "cartao",
+      "ano": 1996,
+      "rotulo": "O outro lado",
+      "titulo": "O wrestling americano",
+      "destaque": "Derrubar",
+      "narracao": "Enquanto o jiu-jitsu comemorava, outro tipo de lutador estudava as fitas. Nos Estados Unidos, [wrestling|réslin] é a luta olímpica, a luta das escolas e das universidades. Ali ninguém estrangula nem torce braço. Ganha quem derruba e controla por cima. Não existe finalização, o golpe que obriga o outro a desistir. Mas existem milhares de atletas treinados desde crianças. Dan Severn, aquele que Royce finalizou, vence dois torneios em [1995|mil novecentos e noventa e cinco]. Don Frye, outro lutador de universidade, leva o [UFC|U F C] oito em [1996|mil novecentos e noventa e seis].",
+      "itens": [
+        {
+          "texto": "Luta olímpica, das escolas e universidades",
+          "quando": "a luta olímpica"
+        },
+        {
+          "texto": "Vence quem derruba e controla por cima",
+          "quando": "Ganha quem derruba"
+        },
+        {
+          "texto": "Sem estrangulamento nem chave: não há finalização",
+          "quando": "Não existe finalização"
+        },
+        {
+          "texto": "Dan Severn: dois torneios em 1995",
+          "quando": "vence dois torneios"
+        },
+        {
+          "texto": "Don Frye: campeão do UFC 8, em 1996",
+          "quando": "Don Frye"
+        }
+      ]
+    },
+    {
+      "id": "d02-coleman",
+      "tipo": "perfil",
+      "ano": 1996,
+      "nome": "Mark Coleman",
+      "anos": "Nascido em 1964",
+      "papel": "O padrinho do ground and pound",
+      "wiki": "Mark_Coleman",
+      "narracao": "O mais assustador chega em julho de [1996|mil novecentos e noventa e seis]. Mark [Coleman|Côlman] foi campeão universitário americano e disputou a Olimpíada de Barcelona. No [UFC|U F C] dez, ele vence três lutas na mesma noite. Na final, passa mais de onze minutos em cima de Don Frye, batendo. Dois meses depois, ganha o [UFC|U F C] onze. No começo de [1997|mil novecentos e noventa e sete], vira o primeiro campeão dos pesos pesados do evento. O que ele faz ganha um nome em inglês: [ground and pound|gráund end páund]. Derrubar e bater.",
+      "fatos": [
+        {
+          "texto": "Campeão universitário e atleta olímpico em Barcelona",
+          "quando": "campeão universitário americano"
+        },
+        {
+          "texto": "UFC 10, julho de 1996: três vitórias",
+          "quando": "vence três lutas"
+        },
+        {
+          "texto": "Final: mais de onze minutos sobre Don Frye",
+          "quando": "mais de onze minutos"
+        },
+        {
+          "texto": "Vence também o UFC 11",
+          "quando": "Dois meses depois"
+        },
+        {
+          "texto": "1997: primeiro campeão dos pesos pesados",
+          "quando": "o primeiro campeão"
+        },
+        {
+          "texto": "Ground and pound: derrubar e bater",
+          "quando": "ground and pound"
+        }
+      ]
+    },
+    {
+      "id": "d03-guarda-pancada",
+      "tipo": "comparacao",
+      "ano": 1996,
+      "titulo": "A guarda contra o ground and pound",
+      "narracao": "Por que isso funciona? Você lembra da guarda: o lutador de costas no chão, que controla o outro com as pernas e ataca dali. Era a grande arma do jiu-jitsu. O [wrestler|résler] aprende uma resposta simples. Ele não tenta passar a guarda. Fica dentro dela, com a postura fechada. Não estica o braço, não entrega o pescoço. E bate: socos curtos, cotoveladas e, naquela época, até cabeçadas. Quem está por baixo cansa e se machuca. E, com limite de tempo, quem ficou por cima leva a decisão.",
+      "esquerda": {
+        "titulo": "Quem está por baixo",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Guarda: controla com as pernas e ataca",
+            "quando": "lembra da guarda"
+          },
+          {
+            "texto": "Era a grande arma do jiu-jitsu",
+            "quando": "a grande arma"
+          },
+          {
+            "texto": "Sob pancada, cansa e se machuca",
+            "quando": "cansa e se machuca"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Quem está por cima",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Não tenta passar: fica dentro da guarda",
+            "quando": "Fica dentro dela"
+          },
+          {
+            "texto": "Não estica o braço nem entrega o pescoço",
+            "quando": "Não estica o braço"
+          },
+          {
+            "texto": "Socos curtos, cotoveladas e cabeçadas",
+            "quando": "socos curtos"
+          },
+          {
+            "texto": "Com limite de tempo, leva a decisão",
+            "quando": "leva a decisão"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d04-primeiras-derrotas",
+      "tipo": "mapa",
+      "ano": 1997,
+      "titulo": "As primeiras derrotas",
+      "narracao": "E os nomes do jiu-jitsu começam a perder. Detroit, maio de [1996|mil novecentos e noventa e seis]: Amaury Bitetti, faixa-preta de Carlson Gracie, é parado pelos socos de Don Frye. Tulsa, em outubro: Marcus Silveira, o Conan, também de Carlson, cai com um chute na cabeça de Maurice Smith. São Paulo, janeiro de [1997|mil novecentos e noventa e sete]: Mark Kerr, outro campeão universitário, enfrenta Fábio Gurgel, um dos principais nomes do jiu-jitsu de competição. Gurgel aguenta trinta minutos por baixo, apanhando. Não desiste, mas perde na decisão dos juízes. A técnica já não bastava sozinha.",
+      "vista": {
+        "lon": -72,
+        "lat": 10,
+        "escala": 1.7
+      },
+      "lugares": [
+        {
+          "nome": "Detroit: Frye x Bitetti",
+          "coord": [
+            -83.05,
+            42.33
+          ],
+          "quando": "Detroit, maio"
+        },
+        {
+          "nome": "Tulsa: Smith x Conan",
+          "coord": [
+            -95.99,
+            36.15
+          ],
+          "quando": "Tulsa, em outubro"
+        },
+        {
+          "nome": "São Paulo: Kerr x Gurgel",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "São Paulo, janeiro",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "d05-maurice-smith",
+      "tipo": "perfil",
+      "ano": 1997,
+      "nome": "Maurice Smith",
+      "anos": "Nascido em 1961",
+      "papel": "O trocador que usou a guarda",
+      "wiki": "Maurice_Smith_(fighter)",
+      "narracao": "A primeira resposta ao [ground and pound|gráund end páund] não vem do jiu-jitsu. Vem de um trocador, o lutador que prefere lutar em pé. Maurice Smith era campeão mundial de [kickboxing|quíc-bócsin]. Em julho de [1997|mil novecentos e noventa e sete], ele enfrenta [Coleman|Côlman] como azarão. Mas treinou defesa de chão com Frank [Shamrock|Xémroc]. Derrubado, Smith fecha a guarda, se protege e espera. Depois de uns quinze minutos, [Coleman|Côlman] está exausto. Em pé, Smith domina. E vence por decisão. Um trocador tinha usado a guarda para ganhar de um [wrestler|résler].",
+      "fatos": [
+        {
+          "texto": "Campeão mundial de kickboxing",
+          "quando": "campeão mundial"
+        },
+        {
+          "texto": "Julho de 1997: azarão contra Coleman",
+          "quando": "como azarão"
+        },
+        {
+          "texto": "Treinou defesa de chão com Frank Shamrock",
+          "quando": "treinou defesa de chão"
+        },
+        {
+          "texto": "Fecha a guarda, se protege e espera",
+          "quando": "fecha a guarda"
+        },
+        {
+          "texto": "Coleman cansa; Smith vence por decisão",
+          "quando": "vence por decisão"
+        }
+      ]
+    },
+    {
+      "id": "d06-treino-cruzado",
+      "tipo": "cartao",
+      "ano": 1997,
+      "rotulo": "A lição",
+      "titulo": "Nasce o treino cruzado",
+      "destaque": "Saber de tudo",
+      "narracao": "A lição corre o mundo: quem sabe uma luta só, perde. Nasce o treino cruzado. O [wrestler|résler] aprende a defender a chave de braço. E todo mundo vai aprender jiu-jitsu. Isso tira do jiu-jitsu a vantagem que Royce tinha: a surpresa. O melhor exemplo é o próprio Frank [Shamrock|Xémroc], irmão adotivo de Ken. Ele finaliza, bate em pé e tem fôlego. Em dezembro de [1997|mil novecentos e noventa e sete], vira campeão do [UFC|U F C] com uma chave de braço em dezesseis segundos. Defende o cinturão quatro vezes e sai sem perdê-lo.",
+      "itens": [
+        {
+          "texto": "Quem sabe uma luta só, perde",
+          "quando": "uma luta só"
+        },
+        {
+          "texto": "Todo mundo vai aprender jiu-jitsu",
+          "quando": "vai aprender jiu-jitsu"
+        },
+        {
+          "texto": "O jiu-jitsu perde a vantagem da surpresa",
+          "quando": "a surpresa"
+        },
+        {
+          "texto": "Frank Shamrock: finaliza, bate e tem fôlego",
+          "quando": "Ele finaliza"
+        },
+        {
+          "texto": "Campeão do UFC em dezesseis segundos",
+          "quando": "dezesseis segundos"
+        },
+        {
+          "texto": "Quatro defesas; sai sem perder o cinturão",
+          "quando": "quatro vezes"
+        }
+      ]
+    },
+    {
+      "id": "d07-wallid-royce",
+      "tipo": "cartao",
+      "ano": 1998,
+      "rotulo": "17 de dezembro de 1998",
+      "titulo": "Wallid Ismail x Royce Gracie",
+      "destaque": "O relógio",
+      "narracao": "E a notícia ruim não vem só da jaula. Rio, dezessete de dezembro de [1998|mil novecentos e noventa e oito]. Royce aceita uma luta de jiu-jitsu, de kimono, em Copacabana. Segundo as fontes, é ele quem pede as regras: sem pontos e sem limite de tempo. Só vale finalização. Do outro lado está Wallid Ismail, aquele aluno de Carlson que já vencera outros Gracie. Em menos de cinco minutos, Wallid encaixa o relógio, um estrangulamento feito com a gola do kimono. Royce não bate. Desmaia. O campeão do [UFC|U F C] perdeu dentro do próprio jiu-jitsu.",
+      "itens": [
+        {
+          "texto": "Luta de jiu-jitsu, de kimono, em Copacabana",
+          "quando": "de kimono"
+        },
+        {
+          "texto": "Sem pontos e sem limite de tempo",
+          "quando": "sem pontos"
+        },
+        {
+          "texto": "Wallid Ismail, aluno de Carlson Gracie",
+          "quando": "Wallid Ismail"
+        },
+        {
+          "texto": "Relógio: estrangulamento com a gola do kimono",
+          "quando": "encaixa o relógio"
+        },
+        {
+          "texto": "Royce não bate e desmaia",
+          "quando": "Royce não bate"
+        }
+      ]
+    },
+    {
+      "id": "d08-sakuraba",
+      "tipo": "perfil",
+      "ano": 1999,
+      "nome": "Kazushi Sakuraba",
+      "anos": "Nascido em 1969",
+      "papel": "O caçador de Gracies",
+      "wiki": "Kazushi_Sakuraba",
+      "narracao": "No Japão, o problema tem nome: [Kazushi Sakuraba|Cazúchi Sacurába]. Ele vem da luta olímpica e da luta livre profissional japonesa, aquela dos espetáculos. Não tem medo do chão. Em novembro de [1999|mil novecentos e noventa e nove], no Pride oito, em Tóquio, enfrenta Royler Gracie, uns treze quilos mais leve. Sakuraba castiga as pernas de Royler com chutes. Perto do fim, encaixa uma [kimura|quimúra], a chave de ombro que você conhece do Maracanã. Royler não bate. O juiz interrompe, e a família protesta. As manchetes dizem: um Gracie perdeu no vale-tudo.",
+      "fatos": [
+        {
+          "texto": "Luta olímpica e luta livre profissional japonesa",
+          "quando": "da luta olímpica"
+        },
+        {
+          "texto": "Pride 8, Tóquio, novembro de 1999",
+          "quando": "no Pride oito"
+        },
+        {
+          "texto": "Royler Gracie: uns treze quilos mais leve",
+          "quando": "uns treze quilos"
+        },
+        {
+          "texto": "Chutes nas pernas e uma kimura",
+          "quando": "encaixa uma kimura"
+        },
+        {
+          "texto": "Royler não bate; o juiz interrompe",
+          "quando": "O juiz interrompe"
+        },
+        {
+          "texto": "A família protesta",
+          "quando": "a família protesta"
+        }
+      ]
+    },
+    {
+      "id": "d09-noventa-minutos",
+      "tipo": "cartao",
+      "ano": 2000,
+      "rotulo": "Tóquio, 1º de maio de 2000",
+      "titulo": "Royce Gracie x Sakuraba",
+      "destaque": "90 minutos",
+      "narracao": "A revanche da família fica com Royce. Primeiro de maio de [2000|dois mil], Tóquio, torneio do Pride. Os Gracie exigem regras especiais: rounds de quinze minutos, sem limite de rounds, sem juízes e sem interrupção do árbitro. A luta dura noventa minutos. Sakuraba escapa dos ataques e chuta as pernas dele, round após round. Depois do sexto, Royce tem as pernas muito castigadas. No canto, o irmão Rorion joga a toalha. Os jornais japoneses dão a Sakuraba um apelido: o caçador de Gracies.",
+      "itens": [
+        {
+          "texto": "Regras pedidas pelos Gracie",
+          "quando": "regras especiais"
+        },
+        {
+          "texto": "Rounds de quinze minutos, sem limite",
+          "quando": "rounds de quinze minutos"
+        },
+        {
+          "texto": "Sem juízes e sem interrupção do árbitro",
+          "quando": "sem juízes"
+        },
+        {
+          "texto": "Seis rounds: noventa minutos de luta",
+          "quando": "noventa minutos"
+        },
+        {
+          "texto": "Chutes nas pernas, round após round",
+          "quando": "chuta as pernas"
+        },
+        {
+          "texto": "Rorion joga a toalha",
+          "quando": "joga a toalha"
+        }
+      ]
+    },
+    {
+      "id": "d10-quatro-gracie",
+      "tipo": "linha",
+      "ano": 2000,
+      "titulo": "Treze meses, quatro Gracie",
+      "narracao": "E o caçador não para. Em agosto de [2000|dois mil], no Pride dez, é a vez de Renzo Gracie. Perto do fim do segundo round, Sakuraba pega o braço de Renzo por trás, numa [kimura|quimúra], e gira. O cotovelo sai do lugar. Renzo não bate, e o juiz encerra a luta. Em dezembro, Ryan Gracie, com o ombro machucado e num round único de dez minutos, perde por decisão. Em treze meses, Sakuraba tinha vencido quatro Gracie: Royler, Royce, Renzo e Ryan.",
+      "eventos": [
+        {
+          "ano": "nov. 1999",
+          "texto": "Royler: kimura, o juiz interrompe",
+          "quando": "E o caçador"
+        },
+        {
+          "ano": "mai. 2000",
+          "texto": "Royce: a toalha depois de noventa minutos",
+          "quando": "não para"
+        },
+        {
+          "ano": "ago. 2000",
+          "texto": "Renzo: kimura, o cotovelo sai do lugar",
+          "quando": "O cotovelo sai"
+        },
+        {
+          "ano": "dez. 2000",
+          "texto": "Ryan: decisão em round único de dez minutos",
+          "quando": "Ryan Gracie"
+        }
+      ]
+    },
+    {
+      "id": "d11-regras-novas",
+      "tipo": "linha",
+      "ano": 2000,
+      "titulo": "O vale-tudo ganha regras",
+      "narracao": "Enquanto isso, o vale-tudo mudava. Nos Estados Unidos, políticos chamavam aquilo de briga de galo humana, e muitos estados proibiram os eventos. Para sobreviver, o [UFC|U F C] cria regras. Em [1997|mil novecentos e noventa e sete], categorias de peso, luvas obrigatórias e o fim das cabeçadas. Em [1999|mil novecentos e noventa e nove], rounds de cinco minutos. Em [2000|dois mil], a comissão atlética de Nova Jersey passa a aceitar os eventos, com um regulamento que fica conhecido como Regras Unificadas. A luta sem regras e sem relógio deixava de existir. Nascia um esporte: o [MMA|eme eme á], as artes marciais mistas.",
+      "eventos": [
+        {
+          "ano": "1996",
+          "texto": "Políticos atacam; estados proíbem os eventos",
+          "quando": "briga de galo"
+        },
+        {
+          "ano": "1997",
+          "texto": "Categorias de peso, luvas, fim das cabeçadas",
+          "quando": "categorias de peso"
+        },
+        {
+          "ano": "1999",
+          "texto": "Rounds de cinco minutos",
+          "quando": "rounds de cinco minutos"
+        },
+        {
+          "ano": "2000",
+          "texto": "Nova Jersey aceita os eventos: Regras Unificadas",
+          "quando": "Nova Jersey"
+        },
+        {
+          "ano": "2000",
+          "texto": "O vale-tudo vira MMA",
+          "quando": "Nascia um esporte"
+        }
+      ]
+    },
+    {
+      "id": "d12-balanco",
+      "tipo": "comparacao",
+      "ano": 2000,
+      "titulo": "O que o vale-tudo deu e o que tirou",
+      "narracao": "O que o jiu-jitsu ganhou com o vale-tudo? Quase tudo. Em menos de dez anos, saiu de algumas academias do Rio para o mundo inteiro. Todo lutador profissional passou a treiná-lo, e abriram academias em todo lugar. E o que perdeu? A aura de invencível. Ficou provado que ninguém vence só com uma arte. A guarda, debaixo de socos, virou um lugar perigoso. E o [MMA|eme eme á] seguiu seu caminho, com academias, treinadores e campeões próprios. O jiu-jitsu deixou de ser a resposta. Virou uma parte dela, obrigatória.",
+      "esquerda": {
+        "titulo": "O que ganhou",
+        "tom": "bom",
+        "itens": [
+          {
+            "texto": "Do Rio para o mundo inteiro",
+            "quando": "o mundo inteiro"
+          },
+          {
+            "texto": "Todo lutador profissional treina jiu-jitsu",
+            "quando": "Todo lutador profissional"
+          },
+          {
+            "texto": "Academias em todo lugar",
+            "quando": "em todo lugar"
+          },
+          {
+            "texto": "Parte obrigatória de qualquer lutador",
+            "quando": "uma parte dela"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que perdeu",
+        "tom": "ruim",
+        "itens": [
+          {
+            "texto": "A aura de invencível",
+            "quando": "aura de invencível"
+          },
+          {
+            "texto": "Ninguém vence só com uma arte",
+            "quando": "só com uma arte"
+          },
+          {
+            "texto": "A guarda sob socos virou lugar perigoso",
+            "quando": "um lugar perigoso"
+          },
+          {
+            "texto": "O MMA virou esporte próprio",
+            "quando": "seguiu seu caminho"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d13-gancho-esporte",
+      "tipo": "mapa",
+      "ano": 2000,
+      "titulo": "Enquanto isso, no Rio",
+      "narracao": "Só que essa é metade da história. Enquanto o mundo olhava para a jaula, nos Estados Unidos e no Japão, no Rio de Janeiro acontecia outra coisa, com menos barulho. O jiu-jitsu de kimono, aquele sem socos, estava virando um esporte de verdade. Com uma confederação, criada em [1994|mil novecentos e noventa e quatro]. Com regras, pontos e categorias. E com um campeonato mundial, disputado pela primeira vez em [1996|mil novecentos e noventa e seis], num ginásio da Tijuca. Para muita gente, o futuro da arte estava ali. No próximo capítulo: nasce o esporte organizado.",
+      "vista": {
+        "lon": 20,
+        "lat": 15,
+        "escala": 1
+      },
+      "ate": {
+        "lon": -44,
+        "lat": -21,
+        "escala": 4.5
+      },
+      "lugares": [
+        {
+          "nome": "Estados Unidos: o UFC",
+          "coord": [
+            -98,
+            39
+          ],
+          "quando": "nos Estados Unidos"
+        },
+        {
+          "nome": "Japão: o Pride",
+          "coord": [
+            139.7,
+            35.7
+          ],
+          "quando": "no Japão"
+        },
+        {
+          "nome": "Rio: o esporte de kimono",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "no Rio de Janeiro",
+          "destaque": true
+        }
+      ]
+    }
+  ]
+}
