@@ -124,7 +124,7 @@ export const Mapa: React.FC<{ cena: CenaMapa; ritmo: Ritmo }> = ({
           // Lugares no mesmo ponto (ou quase): empilha os rótulos em vez de sobrepor.
           const vizinhos = lugares.slice(0, k).filter((outro) => {
             const o = projecao(outro.coord);
-            return o && Math.abs(o[0] - xy[0]) < 260 && Math.abs(o[1] - xy[1]) < 34;
+            return o && Math.abs(o[0] - xy[0]) < 300 && Math.abs(o[1] - xy[1]) < 50;
           }).length;
           const descer = vizinhos * 46;
           const cor = lugar.destaque ? COR.dourado : COR.texto;

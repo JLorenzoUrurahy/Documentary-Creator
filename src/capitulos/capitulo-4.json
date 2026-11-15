@@ -1,0 +1,1529 @@
+{
+  "numero": 4,
+  "titulo": "Jiu-jitsu contra luta livre",
+  "subtitulo": "Kimono contra calção: meio século de rivalidade no Rio",
+  "fontes": [
+    {
+      "titulo": "Roberto Alves Garcia, Nádia Lima da Silva e Sebastião Josué Votre, A luta livre no século XX no Rio de Janeiro (revista Movimento, UFRGS, 2016)",
+      "url": "https://seer.ufrgs.br/index.php/Movimento/article/download/56881/51794/369797"
+    },
+    {
+      "titulo": "Primórdios do jiu-jitsu e dos confrontos intermodalidades no Brasil: contestando uma memória consolidada (RBCE, SciELO)",
+      "url": "https://www.scielo.br/j/rbce/a/hsWF8YZRffJBdgPhf8DtQ8B/"
+    },
+    {
+      "titulo": "Euclydes Hatem (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Euclydes_Hatem"
+    },
+    {
+      "titulo": "Euclydes Hatem (Wikipédia, português)",
+      "url": "https://pt.wikipedia.org/wiki/Euclydes_Hatem"
+    },
+    {
+      "titulo": "Luta Livre (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Luta_Livre"
+    },
+    {
+      "titulo": "Luta livre esportiva (Wikipédia, português)",
+      "url": "https://pt.wikipedia.org/wiki/Luta_livre_esportiva"
+    },
+    {
+      "titulo": "George Gracie: registro de lutas (Simon BJJ)",
+      "url": "https://simonbjj.com/george-gracie"
+    },
+    {
+      "titulo": "Euclydes \"Tatu\" Hatem, com trechos de jornais de 1942 e 1947 (Submission Wrestling Arts)",
+      "url": "https://submissionwrestlingarts.com/?p=753"
+    },
+    {
+      "titulo": "Telecatch (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Telecatch"
+    },
+    {
+      "titulo": "Árvore da luta livre (Brasília Luta Livre)",
+      "url": "https://www.brasilialutalivre.com.br/wp-content/uploads/2022/12/arvore-bll_compressed.pdf"
+    },
+    {
+      "titulo": "The Biggest Rivalry in Martial Arts History: BJJ vs Luta Livre (BJJ Heroes; não foi possível abrir, conferir)",
+      "url": "https://bjjheroes.com/?p=4255"
+    },
+    {
+      "titulo": "Roberto Leitão (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Roberto_Leit%C3%A3o"
+    },
+    {
+      "titulo": "Revered Coach, Leg Lock Specialist Roberto Leitao Dies of COVID-19 at Age 83 (Sherdog)",
+      "url": "https://www.sherdog.com/news/news/Revered-Coach-Leg-Lock-Specialist-Roberto-Leitao-Dies-of-COVID19-at-Age-83-176507"
+    },
+    {
+      "titulo": "Master Leitão expounds on leverage in grappling (Graciemag)",
+      "url": "https://www.graciemag.com/?p=34361"
+    },
+    {
+      "titulo": "Celebrated coach, luta livre athlete Roberto Leitão dies at 83 (Graciemag, reproduzido)",
+      "url": "https://sensobjj.com/blogs/graciemag-1/celebrated-coach-luta-livre-athlete-roberto-leitao-dies-at-83-after-contracting-covid-19"
+    },
+    {
+      "titulo": "Totonho Aleixo destaca crescimento da Luta Livre (Lance): Fausto e Carlos Brunocilla, alunos de Tatu",
+      "url": "https://www.lance.com.br/lutas/totonho-aleixo-destaca-crescimento-da-luta-livre-e-cita-importancia-de-manaus-am.html"
+    },
+    {
+      "titulo": "Vale tudo (Wikipedia, inglês): Heróis do Ringue, Telecatch, Noite das Artes Marciais",
+      "url": "https://en.wikipedia.org/wiki/Vale_tudo"
+    },
+    {
+      "titulo": "\"O Grande Desafio\": o recomeço do Vale Tudo no Rio de Janeiro (1980 e 1990), Müller Júnior, Lise e Capraro (Recorde: Revista de História do Esporte, UFRJ, 2025)",
+      "url": "https://www.revistas.ufrj.br/index.php/Recorde/article/view/61300"
+    },
+    {
+      "titulo": "Euclides Pereira (Simon BJJ)",
+      "url": "https://simonbjj.com/euclides-pereira"
+    },
+    {
+      "titulo": "Ivan Gomes (Simon BJJ)",
+      "url": "https://simonbjj.com/ivan-gomes"
+    },
+    {
+      "titulo": "Ivan Gomes (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Gomes"
+    },
+    {
+      "titulo": "Ivan Gomes (BJJ Heroes)",
+      "url": "https://bjjheroes.com/?p=2335"
+    },
+    {
+      "titulo": "Marco Ruas (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Marco_Ruas"
+    },
+    {
+      "titulo": "JJ vs. MA: Jiu-Jitsu vs. Martial Arts, 30/11/1984 (Sherdog, ficha do evento)",
+      "url": "https://www.sherdog.com/events/JJ-vs-MA-JiuJitsu-vs-Martial-Arts-1604"
+    },
+    {
+      "titulo": "Rickson Gracie (Wikipedia, inglês)",
+      "url": "https://en.wikipedia.org/wiki/Rickson_Gracie"
+    },
+    {
+      "titulo": "Rickson Gracie x Hugo Duarte, 1988 (Fighters Only, edição 79)",
+      "url": "https://fightersonly.com/article/ext/40152/issue+079/1"
+    },
+    {
+      "titulo": "Both Sides of the Story: Three Chapters that Changed Vale Tudo History in Brazil (Sherdog, documentário de Gleidson Venga e Marcelo Alonso)",
+      "url": "https://www.sherdog.com/news/articles/Both-Sides-of-the-Story-Three-Chapters-that-Changed-Vale-Tudo-History-in-Brazil-161389"
+    },
+    {
+      "titulo": "Desafio - Jiu Jitsu vs Luta Livre (Wikipédia em português)",
+      "url": "https://pt.wikipedia.org/wiki/Desafio_-_Jiu_Jitsu_vs_Luta_Livre"
+    },
+    {
+      "titulo": "Desafio - Jiu-Jitsu vs. Luta Livre: resultados (Sherdog)",
+      "url": "https://www.sherdog.com/events/Desafio-JiuJitsu-vs-Luta-Livre-460"
+    },
+    {
+      "titulo": "Wallid Ismail (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Wallid_Ismail"
+    },
+    {
+      "titulo": "Eugenio Tadeu (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Eugenio_Tadeu"
+    },
+    {
+      "titulo": "The Biggest Rivalry in Martial Arts History: BJJ vs Luta Livre (BJJ Heroes)",
+      "url": "https://www.bjjheroes.com/bjj-culture/jiu-jitsu-vs-luta-livre"
+    },
+    {
+      "titulo": "Pentagon Combat: The Riot that Got MMA Banned in Rio and Inspired ADCC (Sherdog)",
+      "url": "https://www.sherdog.com/news/articles/Pentagon-Combat-The-Riot-that-Got-MMA-Banned-in-Rio-and-Inspired-ADCC-188168"
+    },
+    {
+      "titulo": "The Night the Lights Went Out in Brazil (Sherdog)",
+      "url": "https://www.sherdog.com/news/articles/The-Night-the-Lights-Went-Out-in-Brazil-174563"
+    },
+    {
+      "titulo": "Renzo Gracie (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Renzo_Gracie"
+    },
+    {
+      "titulo": "Pedro Rizzo (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Rizzo"
+    },
+    {
+      "titulo": "Márcio Cromado celebra retorno da RFT ao UFC (Lance!)",
+      "url": "https://www.lance.com.br/lutas/marcio-cromado-celebra-retorno-rft-ufc-abre-portas-para-novos-mocambiques.html"
+    }
+  ],
+  "conferir": [
+    "Tatu x George Gracie: Wikipedia (inglês) e Simon BJJ dão 1942, Porto Alegre, estrangulamento pelas costas no 2º round; o site Submission Wrestling Arts cita um jornal carioca de 11/6/1942 e fala em três rounds e chave de braço ('reverse double wrist lock'); a Wikipédia em português traz 1942 num trecho e 1940 em outro. Nenhum jornal original foi consultado, e não achei o que Roberto Pedreira (Choque) diz dessa luta. A narração afirma só ano, cidade, sem kimono e vitória de Tatu, e avisa das divergências. Como parte do catch da época era combinada, vale conferir se algum historiador contesta a luta.",
+    "Brunocilla: a Wikipedia em inglês (artigo de Hatem) chama Carlos e Fausto de irmãos; a Wikipedia sobre luta livre (inglês e português), a árvore da Brasília Luta Livre e outras fontes brasileiras dizem pai (Fausto) e filho (Carlos). A narração diz as duas versões. Na árvore da cena a08, os dois aparecem lado a lado como alunos de Tatu, e o nó 'Mestres da geração seguinte' está pendurado em Carlos só por desenho.",
+    "Professor de Tatu na ACM: Wikipedia em inglês diz Orlando Américo da Silva, o Dudu; Submission Wrestling Arts diz Rufino dos Santos (entendi como Manoel Rufino dos Santos, o mesmo que lutou com Carlos Gracie; conferir). A narração dá os dois.",
+    "Começo de Tatu: 'aos 14 anos, na ACM' vem da Wikipedia em inglês; o site da federação do Rio (citado no artigo da revista Movimento) diz que ele ganhou notoriedade a partir de 1928 e que antes era nadador, não remador. As Wikipedias dizem que ele 'começou a ensinar em 1927', o que não bate com a idade (13 anos); não usei.",
+    "Família de origem libanesa e apelido de infância: só Wikipedia (inglês); a Wikipédia em português traz apenas a categoria 'brasileiros de ascendência libanesa'.",
+    "Carreira de Tatu (cena a05): campeonato de 1935, Ulsemer em 1940 com Oswaldo Gracie de árbitro, torneio de São Paulo, Luiz Stock em Porto Alegre e temporada invicta na Argentina em 1947 vêm da Wikipedia em inglês e do Submission Wrestling Arts, sem jornal conferido. As duas fontes divergem sobre o golpe contra Ulsemer (chave de braço ou estrangulamento); a narração não diz o golpe. A cidade do campeonato de 1935 e da luta com Ulsemer não está nas fontes; o mapa não as marca.",
+    "Tatu x Takeo Yano (cena a06): 1937, vitória sem kimono, derrota na revanche de kimono e terceira luta em 1947 vêm só da Wikipedia em inglês. 'Dez anos mais tarde' é 1937 a 1947.",
+    "Luta proposta com Hélio Gracie que não saiu por causa do kimono: só Wikipedia em inglês. Hélio é figura central da série: conferir antes de publicar.",
+    "Não usei a história de Waldemar Santana desafiando Tatu na academia e sendo finalizado (Wikipedia e Submission Wrestling Arts, a partir de um único depoimento), nem Euclides Pereira como aluno de Tatu (só Wikipedia).",
+    "Aposentadoria 'nos anos cinquenta' e academia própria: Wikipedia em inglês; nenhuma fonte diz onde ficava a academia. As fontes não descrevem o método de ensino de Tatu, e a narração diz isso. Os clubes onde Brunocilla ensinou depois (Santa Luzia e Boqueirão, segundo Hugo Duarte no artigo da Movimento) ficaram fora por serem dos anos 1970-80.",
+    "Trupes estrangeiras no Rio em 1909, 1911, 1913 e 1915: dado de Riqueldi Lise (2014) citado no artigo da Movimento; a narração resume como 'entre 1909 e 1915'. André Balsa (Correio da Manhã, 13/4/1920) e Manoel Rufino contra lutador de cruzador americano (Correio da Manhã, 9/3/1930): mesma fonte secundária. O evento '1900' da linha do tempo quer dizer 'começo do século' (teatros de Paschoal Segreto, artigo da RBCE, sem data exata).",
+    "Circos: a menção a circos vem da Wikipedia (Telecatch) e do pedido; as fontes acadêmicas consultadas falam em teatros.",
+    "Diferença de classe (cena a10): 'luta de quem não podia comprar kimono' está na Wikipedia; 'praticantes do subúrbio' é fala de Roberto Leitão no artigo da Movimento. 'Zona sul' e 'aula particular para gente influente' são a tradição e o que a série já contou dos Gracie; conferir com o capítulo 2 e 3. Fadda como contraexemplo vem do capítulo 2.",
+    "Prós e contras de kimono e calção (cena a11): síntese de argumentos correntes entre praticantes, sem fonte única.",
+    "'Luta de calção' como apelido da modalidade: depoimentos de Roberto Leitão e João Ricardo no artigo da Movimento (texto em inglês: 'shorts' fight').",
+    "Pronúncias a ouvir na narração: Hatem, Brunocilla, Ulsemer, Yano e 'catch-as-catch-can' (escrito para falar 'quétch és quétch quén').",
+    "Cena a12 cita Kimura e Waldemar Santana como já vistos no capítulo 3; ajustar se o capítulo 3 mudar.",
+    "Euclides Pereira e Ivan Gomes como 'luta livre': a Wikipedia (pt e en) chama Euclides de discípulo do Tatu; o Simon BJJ diz que ele se formou no Recife com Jurandir Moura (linha Takeo Yano/George Gracie) e nem cita Tatu, e que Ivan Gomes era faixa preta de jiu-jitsu. A cena b05 mostra as duas versões. O acordo de Ivan com os Gracie em 1964 vem só do relato do irmão José, via Simon BJJ, que admite não ter confirmado os termos.",
+    "Carlson x Euclides Pereira (6/9/1968, Salvador, 6 x 5 min, decisão dos jurados, nariz quebrado): fonte única detalhada é o Simon BJJ, que não cita jornais; algumas versões falam em guilhotina em vez de estrangulamento pelas costas. Carlson x Ivan Gomes (28/12/1963, Recife): empate; Simon BJJ fala em 6 quedas, Sherdog em 8 (a narração diz 'várias vezes').",
+    "Heróis do Ringue: fim do programa em 1960 (Simon BJJ) ou 1962 (artigo da revista Recorde/UFRJ). O golpe de João Alberto Barreto é 'armbar' na Wikipedia e 'americana' no Simon BJJ; o nome do adversário varia (Simon BJJ: Soares Vinagre; outra fonte começa com 'José') e ficou fora da narração. 'Da academia Gracie' para Barreto: conferir. A troca pelo Telecatch (Wikipedia) ficou fora da narração.",
+    "Praia do Pepê e Humaitá (1988): não há data exata; 'meses depois' da visita ao Boqueirão (junho de 1988, segundo a Fighters Only) e 'seis dias depois' vêm de fontes secundárias. Tamanho do grupo de Hugo: 50, 60, 100, 200 ou 300 conforme a fonte. A narração deixou de fora os relatos de armas e de tiros para o alto (pt.wikipedia, relato de Rickson). A praia do Pepê fica na Barra da Tijuca. 'Manhã de sol' junta duas fontes ('sábado de manhã' e 'dia de sol').",
+    "Vídeo da praia: a pt.wikipedia diz que os Gracie venderam as imagens; uma fonte diz que o vídeo foi editado a favor de Rickson. O título da coluna 'O que o vídeo mostra' pressupõe que tapa, montada e desistência estão nas imagens: assistir e confirmar antes de publicar. A alegação de emboscada e de areia nos olhos é de Hugo Duarte (pessoa viva).",
+    "Noite das Artes Marciais (30/11/1984): Eugênio Tadeu x Renan Pitanguy é 'TKO, córner interrompe, 5:02' no Sherdog e 'nocaute' em outras fontes; o BJJ Heroes data Ruas x Pinduka de 1983 numa legenda. O Sherdog lista 5 lutas (uma delas, Rei Zulu x Sérgio Batarelli, sem jiu-jitsu); o jiu-jitsu venceu com Marcelo Behring (x Flávio Molina) e Ignácio Aragão (x Bruce Lúcio).",
+    "Invasão da academia Naja: ano de 1982 só no BJJ Heroes (a narração diz 'começo dos anos oitenta'). A pt.wikipedia atribui a invasão 'aos Gracie'; a narração diz 'lutadores de jiu-jitsu', como o artigo da Recorde.",
+    "Roberto Leitão: fundação da 'primeira federação de luta olímpica do país' em 1979 vem de nota de falecimento na imprensa especializada; data da morte é 28/11/2020 no quadro da Wikipedia e 11/11/2020 no texto. 'Ramo Budokan' e 'teoria do grappling' vêm das Wikipedias. Carlos Brunocilla no Boqueirão está documentado para 1988 (Fighters Only), não para os anos 1970.",
+    "Rickson x Ruas em 1988: segundo a Wikipedia, Hélio recusou a luta em evento sem cachê maior ou sem ser na academia Gracie; a Wikipedia de Rickson diz ainda que o primeiro desafiante era Denilson Maia, que saiu após a morte do pai, e Hugo entrou no lugar (fora da narração).",
+    "Royler x Eugênio Tadeu: 38 minutos (pt.wikipedia) ou 50 minutos com empate declarado por Rickson (Fighters Only); a narração diz 'mais de meia hora'. Mudança de Rickson para Los Angeles em janeiro de 1989: Fighters Only.",
+    "Classe social (b07): 'classe média e alta' vem do artigo da Recorde/UFRJ; 'popular entre garotos das favelas' vem de estudo de Cardiff e da pt.wikipedia. 'Porta da boate' apoia-se na Fighters Only ('praias, ruas e discotecas').",
+    "Pronúncias a ouvir: [muay thai|muai tai], [Pitanguy|Pitanguí]; Rickson, Royler e Pinduka ficaram sem marcação.",
+    "Estopim de 1991 (c01): textos de Wallid Ismail no jornal O Dia, a expressão 'cópia barata' e a invasão da Copa Nastra, na Urca, vêm das Wikipedias (inglês e português), sem o jornal original. Hugo Duarte à frente do grupo: só a Wikipédia em português. Carlson como autor da proposta do desafio: Wikipedia em inglês; outra fonte atribui a organização a Robson Gracie. Não achei fonte sólida para uma briga de praia como estopim de 1991; a narração não a cita.",
+    "Data do Desafio (c02): 26/9/1991 na Sherdog e nas Wikipedias; pelo menos uma fonte secundária dá 26/8/1991. Transmissão pela TV Globo ('ao vivo' só na Wikipédia em português; a narração diz só 'transmite').",
+    "Cinco lutas previstas (c02): só a Wikipédia em português (Behring x Hugo Duarte cancelada por lesão no cotovelo; Bitetti x Ruas com W.O., que o próprio artigo diz ser contestado). A Wikipedia em inglês confirma que Ruas cancelou. A narração diz 'pelo que se conta'.",
+    "Wallid x Tadeu (c03): tempo 16:18 (Sherdog, 1 round; a Wikipédia em português fala em 3 rounds). Versões: a Wikipedia em inglês diz que Wallid jogou Tadeu para fora do ringue várias vezes e que ele não conseguiu voltar; a Wikipédia em português fala em corte no supercílio por cabeçada e na alegação de Tadeu de que foi impedido de voltar.",
+    "Bustamante x Mendes (c04): 4:42, 'TKO (lesão)' na Sherdog; a Wikipédia em português diz que Mendes tentou sair do ringue e abandonou (e, em outro trecho, que foi finalizado com socos). Gurgel x Maia: 9:55; Sherdog diz 1º round, Wikipédia em português diz 2º round e fala em nariz quebrado (não usado). Ordem das lutas na linha do tempo segue a Sherdog (Gurgel x Maia como luta principal).",
+    "c05: Gurgel como aluno de Romero 'Jacaré' Cavalcanti e Wallid e Bustamante como alunos de Carlson são fatos conhecidos, mas não vieram das fontes listadas neste bloco: conferir. 'Hugo Duarte e Marco Ruas, os dois nomes mais conhecidos' é juízo do roteiro.",
+    "Pentagon Combat (c06): data 27/9/1997 (Sherdog e Wikipedia de Tadeu; a Wikipedia de Renzo dá 22/9). Como o tumulto começou: a Sherdog diz que Renzo levou um chute na cabeça através da grade e um soco de um integrante da luta livre; a Wikipedia diz que Renzo deu um soco num torcedor. Quem apagou as luzes é desconhecido. Tempo da luta: cerca de 9 minutos (Sherdog) ou 14:45 (Wikipedia). O tiro teria sido de um policial (Sherdog). Ano de nascimento de Renzo (1967): conferir.",
+    "Proibição do vale-tudo no Rio (c07): uma matéria da Sherdog diz que foi o prefeito e que durou três anos; outra diz que foi o governador; a Wikipedia e o MMA Fighting falam em quase dez anos. A narração diz 'as autoridades' e cita a divergência. Tahnoon como patrono do evento e criador do ADCC em 1998: Sherdog.",
+    "Balanço técnico (c08, c09, c10): é síntese do roteiro. A Wikipedia sustenta que as chaves de perna eram ignoradas pelo jiu-jitsu na época, que a luta livre pontua quedas, que muitos lutadores de luta livre foram para equipes como Brazilian Top Team, Chute Boxe e Nova União, e que o jiu-jitsu sem kimono foi 'muito influenciado' pela luta livre. 'Menos atenção às quedas' e 'pouco dinheiro' são generalizações: conferir com alguém da área ou suavizar.",
+    "Legado (c11): Ruas lutava como 'Ruas Vale Tudo', do qual a luta livre era só uma parte; UFC 7 em 8/9/1995, com chave de calcanhar em Larry Cureton e nocaute técnico por chutes nas pernas e socos em Paul Varelans. Rizzo: três disputas de cinturão (2000 e duas em 2001), todas perdidas; a base dele é mais muay thai do que luta livre. Renovação Fight Team e Márcio Cromado: só uma matéria do Lance! (página hoje fora do ar) e resultados de busca; a ligação da equipe à 'escola de Tatu' no desenho é genérica, não de mestre para aluno.",
+    "c12: Hélio x Waldemar Santana, maio de 1955, mais de três horas (alinhar com o capítulo 3: costuma-se dar 3h40 a 3h45). Carlson com 22 anos em 1955 (nascido em agosto de 1932): conferir. 'Mais de meio século' de rixa conta dos anos 1930 a 1997.",
+    "Perfis: confirmar se existe artigo 'Renzo_Gracie' com foto livre na Wikimedia Commons."
+  ],
+  "cenas": [
+    {
+      "id": "a01-gancho",
+      "tipo": "comparacao",
+      "ano": 1950,
+      "titulo": "Uma cidade, duas escolas",
+      "narracao": "Rio de Janeiro, meados do século vinte. Na mesma cidade, duas escolas ensinam a lutar agarrado e a vencer no chão. Uma treina de kimono. A outra, de calção. Podiam ser parentes. Viram inimigas. E passam décadas brigando, no ringue, na praia e na porta da academia, para decidir qual das duas é a melhor.",
+      "esquerda": {
+        "titulo": "De kimono",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Jiu-jitsu",
+            "quando": "Uma treina"
+          },
+          {
+            "texto": "Luta agarrada, decidida no chão",
+            "quando": "Podiam ser parentes"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "De calção",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Luta livre",
+            "quando": "A outra"
+          },
+          {
+            "texto": "Luta agarrada, decidida no chão",
+            "quando": "Podiam ser parentes"
+          },
+          {
+            "texto": "Décadas de briga entre as duas",
+            "quando": "passam décadas brigando"
+          }
+        ]
+      }
+    },
+    {
+      "id": "t00-titulo",
+      "tipo": "titulo",
+      "numero": 4,
+      "titulo": "Jiu-jitsu contra luta livre",
+      "subtitulo": "Kimono contra calção: meio século de rivalidade no Rio",
+      "duracao": 5
+    },
+    {
+      "id": "a02-raizes",
+      "tipo": "linha",
+      "ano": 1909,
+      "titulo": "Antes da luta livre: palcos e desafios",
+      "narracao": "A luta de calção é mais antiga no Brasil do que parece. No começo do século, os teatros do Rio lotam para ver campeonatos de luta romana. Entre [1909|mil novecentos e nove] e [1915|mil novecentos e quinze], trupes estrangeiras se apresentam na cidade. Em [1920|mil novecentos e vinte], o Correio da Manhã noticia a chegada do espanhol André Balsa, que desafia qualquer amador ou profissional. Em [1930|mil novecentos e trinta], o brasileiro Manoel Rufino enfrenta um lutador da tripulação de um cruzador americano. É desse mundo de teatros, circos e desafios, o mesmo de Maeda, que sai a luta livre.",
+      "eventos": [
+        {
+          "ano": "1900",
+          "texto": "Campeonatos de luta romana nos teatros do Rio",
+          "quando": "os teatros do Rio"
+        },
+        {
+          "ano": "1909–15",
+          "texto": "Trupes estrangeiras de luta na cidade",
+          "quando": "trupes estrangeiras"
+        },
+        {
+          "ano": "1920",
+          "texto": "O espanhol André Balsa desafia todos",
+          "quando": "a chegada do espanhol"
+        },
+        {
+          "ano": "1930",
+          "texto": "Manoel Rufino x lutador de cruzador americano",
+          "quando": "o brasileiro Manoel Rufino"
+        }
+      ]
+    },
+    {
+      "id": "a03-nome",
+      "tipo": "cartao",
+      "ano": 1928,
+      "rotulo": "O nome",
+      "titulo": "Por que \"livre\"?",
+      "destaque": "catch",
+      "narracao": "O nome vem de uma comparação. Na luta romana, que hoje chamamos de greco-romana, é proibido agarrar abaixo da cintura. No estilo que vem da Inglaterra e dos Estados Unidos, o [catch-as-catch-can|quétch és quétch quén], agarre como puder, vale pegar as pernas e vale torcer braço, perna e pé. Os jornais brasileiros traduzem: luta livre americana. Só que o [catch|quétch] tem duas caras. Uma é disputa de verdade. A outra é espetáculo, com resultado combinado. Nos anúncios da época, nem sempre dá para saber qual é qual.",
+      "itens": [
+        {
+          "texto": "Luta romana: proibido agarrar abaixo da cintura",
+          "quando": "é proibido agarrar"
+        },
+        {
+          "texto": "Catch: \"agarre como puder\"",
+          "quando": "agarre como puder"
+        },
+        {
+          "texto": "No Brasil: \"luta livre americana\"",
+          "quando": "luta livre americana"
+        },
+        {
+          "texto": "Parte disputa, parte espetáculo combinado",
+          "quando": "tem duas caras"
+        }
+      ]
+    },
+    {
+      "id": "a04-tatu",
+      "tipo": "perfil",
+      "ano": 1928,
+      "nome": "Euclydes Hatem",
+      "papel": "O Tatu, pai da luta livre brasileira",
+      "anos": "Rio de Janeiro, 1914 – 1984",
+      "wiki": "Euclydes_Hatem",
+      "narracao": "O homem que dá cara brasileira a essa luta nasce no Rio, em setembro de [1914|mil novecentos e catorze]. Euclydes Hatem vem de uma família de origem libanesa. É um menino baixo e troncudo, e o apelido pega cedo: Tatu. Tenta o remo e não vai longe. Aos catorze anos, entra na luta livre da Associação Cristã de Moços. As fontes divergem sobre o professor: umas apontam Orlando Américo da Silva, o Dudu; outras, Manoel Rufino dos Santos. A federação de luta livre do Rio marca aí, em [1928|mil novecentos e vinte e oito], o começo da modalidade.",
+      "fatos": [
+        {
+          "texto": "Nasce no Rio, em setembro de 1914",
+          "quando": "nasce no Rio"
+        },
+        {
+          "texto": "Família de origem libanesa",
+          "quando": "origem libanesa"
+        },
+        {
+          "texto": "Baixo e troncudo: o Tatu",
+          "quando": "o apelido pega"
+        },
+        {
+          "texto": "Aos 14 anos, luta livre na ACM",
+          "quando": "Aos catorze anos"
+        },
+        {
+          "texto": "Professor: Dudu ou Rufino, as fontes divergem",
+          "quando": "As fontes divergem"
+        }
+      ]
+    },
+    {
+      "id": "a05-carreira",
+      "tipo": "mapa",
+      "ano": 1940,
+      "titulo": "Os ringues do Tatu",
+      "narracao": "Nos anos trinta e quarenta, Tatu vive do ringue, com base no Rio de Janeiro. Em [1935|mil novecentos e trinta e cinco], vence um campeonato internacional de luta livre. Em [1940|mil novecentos e quarenta], bate o francês Charles Ulsemer na final de outro torneio. O árbitro é Oswaldo Gracie, irmão de Carlos e de Hélio. Em São Paulo, num torneio em que o estrangulamento é proibido, perde por encostamento de ombros. Em Porto Alegre, vence Luiz Stock duas vezes na mesma noite. E, em [1947|mil novecentos e quarenta e sete], volta invicto de uma temporada na Argentina.",
+      "vista": {
+        "lon": -50,
+        "lat": -22,
+        "escala": 3
+      },
+      "ate": {
+        "lon": -52,
+        "lat": -28,
+        "escala": 3.6
+      },
+      "lugares": [
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "no Rio de Janeiro",
+          "destaque": true
+        },
+        {
+          "nome": "São Paulo",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "Em São Paulo"
+        },
+        {
+          "nome": "Porto Alegre",
+          "coord": [
+            -51.2,
+            -30.03
+          ],
+          "quando": "Em Porto Alegre"
+        },
+        {
+          "nome": "Argentina, 1947",
+          "coord": [
+            -58.4,
+            -34.6
+          ],
+          "quando": "volta invicto"
+        }
+      ]
+    },
+    {
+      "id": "a06-yano",
+      "tipo": "cartao",
+      "ano": 1937,
+      "rotulo": "A roupa decide",
+      "titulo": "Tatu contra Takeo Yano",
+      "destaque": "1937",
+      "narracao": "Uma dessas lutas mostra, em miniatura, o assunto deste capítulo. Em [1937|mil novecentos e trinta e sete], Tatu enfrenta Takeo Yano, judoca japonês radicado no Brasil. Sem kimono, Tatu vence por estrangulamento. Yano pede revanche e impõe uma condição: os dois de kimono. Tatu aceita. Leva uma queda de quadril, se machuca e perde. Mesmos lutadores, roupa diferente, resultado invertido. Dez anos mais tarde, os dois se enfrentam pela terceira vez, e Tatu vence de novo. Fica a lição, que vai voltar muitas vezes: a roupa muda a luta.",
+      "itens": [
+        {
+          "texto": "Sem kimono: Tatu vence por estrangulamento",
+          "quando": "Sem kimono"
+        },
+        {
+          "texto": "Revanche de kimono: Yano vence",
+          "quando": "Yano pede revanche"
+        },
+        {
+          "texto": "Tatu se machuca numa queda de quadril",
+          "quando": "queda de quadril"
+        },
+        {
+          "texto": "1947: terceira luta, vitória de Tatu",
+          "quando": "pela terceira vez"
+        }
+      ]
+    },
+    {
+      "id": "a07-george",
+      "tipo": "comparacao",
+      "ano": 1942,
+      "titulo": "Tatu x George Gracie",
+      "narracao": "Falta a luta que mais interessa aqui. George Gracie, o irmão de Carlos e de Hélio que mais subiu ao ringue, lança um desafio. Tatu responde. Em [1942|mil novecentos e quarenta e dois], em Porto Alegre, sem kimono e nas regras da luta livre, Tatu vence. Até aí, as fontes concordam. No resto, não. A versão mais repetida fala em estrangulamento pelas costas, no segundo assalto. Outras falam em chave de braço, ou em terceiro assalto. Algumas dão o ano de [1940|mil novecentos e quarenta]. E não encontramos o jornal original.",
+      "esquerda": {
+        "titulo": "Onde as fontes concordam",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "George Gracie desafia, Tatu aceita",
+            "quando": "lança um desafio"
+          },
+          {
+            "texto": "Porto Alegre, 1942",
+            "quando": "em Porto Alegre"
+          },
+          {
+            "texto": "Sem kimono, regras de luta livre",
+            "quando": "sem kimono"
+          },
+          {
+            "texto": "Vitória de Tatu",
+            "quando": "Tatu vence"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Onde divergem",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Estrangulamento pelas costas, no 2º assalto?",
+            "quando": "estrangulamento pelas costas"
+          },
+          {
+            "texto": "Chave de braço? Terceiro assalto?",
+            "quando": "chave de braço"
+          },
+          {
+            "texto": "Algumas fontes dizem 1940",
+            "quando": "Algumas dão"
+          },
+          {
+            "texto": "Jornal original não localizado",
+            "quando": "o jornal original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a08-alunos",
+      "tipo": "linhagem",
+      "ano": 1955,
+      "titulo": "De Tatu para os Brunocilla",
+      "narracao": "Nos anos cinquenta, Tatu larga os ringues. Uma luta com Hélio Gracie chega a ser proposta, mas não sai: Hélio exige kimono, Tatu recusa. Ele abre uma academia e passa a ensinar. Sobre como eram essas aulas, as fontes dizem pouco. Dizem mais sobre quem aprendeu. Os nomes que sempre aparecem são Fausto Brunocilla e Carlos Brunocilla, pai e filho segundo as fontes brasileiras, irmãos segundo outras. Tatu ensina até morrer, em [1984|mil novecentos e oitenta e quatro]. E é dos Brunocilla que sai boa parte dos mestres da geração seguinte.",
+      "nos": [
+        {
+          "id": "tatu",
+          "nome": "Euclydes Hatem",
+          "sub": "Tatu: ensina dos anos 1950 a 1984",
+          "quando": "Tatu larga"
+        },
+        {
+          "id": "fausto",
+          "nome": "Fausto Brunocilla",
+          "sub": "aluno de Tatu",
+          "pai": "tatu",
+          "quando": "Fausto Brunocilla"
+        },
+        {
+          "id": "carlos",
+          "nome": "Carlos Brunocilla",
+          "sub": "aluno de Tatu",
+          "pai": "tatu",
+          "quando": "Carlos Brunocilla"
+        },
+        {
+          "id": "seguintes",
+          "nome": "Mestres da geração seguinte",
+          "sub": "formados pelos Brunocilla",
+          "pai": "carlos",
+          "quando": "boa parte dos mestres"
+        }
+      ]
+    },
+    {
+      "id": "a09-tecnica",
+      "tipo": "cartao",
+      "ano": 1955,
+      "rotulo": "A técnica",
+      "titulo": "A luta de calção",
+      "narracao": "Primeiro, não há pano para segurar. A pegada é no corpo: pescoço, braço, cintura, perna. Segundo, a luta começa em pé, e derrubar é metade do trabalho. Terceiro, o objetivo não é encostar os ombros do outro no chão. É a finalização: fazer o adversário desistir, com um estrangulamento ou uma chave, que é a torção de uma articulação. A luta livre ataca perna e pé, alvos que o jiu-jitsu da época quase não usava. Os próprios praticantes tinham outro nome para ela: luta de calção.",
+      "itens": [
+        {
+          "texto": "Sem pano: a pegada é no corpo",
+          "quando": "A pegada é"
+        },
+        {
+          "texto": "Começa em pé: a queda é metade",
+          "quando": "derrubar é metade"
+        },
+        {
+          "texto": "Vence quem faz o outro desistir",
+          "quando": "É a finalização"
+        },
+        {
+          "texto": "Marca da casa: chaves de perna e de pé",
+          "quando": "ataca perna e pé"
+        },
+        {
+          "texto": "Apelido entre praticantes: luta de calção",
+          "quando": "luta de calção"
+        }
+      ]
+    },
+    {
+      "id": "a10-classe",
+      "tipo": "cartao",
+      "ano": 1955,
+      "rotulo": "A tradição",
+      "titulo": "Luta de rico, luta de pobre?",
+      "narracao": "A tradição conta também uma diferença de classe. O jiu-jitsu seria da zona sul, de quem podia pagar aula particular. A luta livre, do subúrbio, de quem não tinha dinheiro para o kimono. Tem fato aí. O kimono custava caro, os Gracie davam aula para gente influente, e veteranos da luta livre falam dos praticantes do subúrbio. Mas tem estereótipo. Tatu aprendeu num clube, a Associação Cristã de Moços. E o jiu-jitsu vivia no subúrbio com Oswaldo Fadda. A divisão existia. Só não era uma fronteira.",
+      "itens": [
+        {
+          "texto": "Tradição: jiu-jitsu da zona sul",
+          "quando": "da zona sul"
+        },
+        {
+          "texto": "Tradição: luta livre do subúrbio, sem kimono",
+          "quando": "do subúrbio"
+        },
+        {
+          "texto": "Fato: kimono caro, alunos influentes",
+          "quando": "O kimono custava"
+        },
+        {
+          "texto": "Estereótipo: Tatu aprendeu num clube, a ACM",
+          "quando": "Tatu aprendeu"
+        },
+        {
+          "texto": "Estereótipo: Fadda ensinava jiu-jitsu no subúrbio",
+          "quando": "com Oswaldo Fadda"
+        }
+      ]
+    },
+    {
+      "id": "a11-pros-contras",
+      "tipo": "comparacao",
+      "ano": 1955,
+      "titulo": "Com kimono ou sem kimono?",
+      "narracao": "Qual das duas é melhor? De kimono, há muito mais onde segurar. A luta fica mais lenta, e sobra tempo para o detalhe e para o estrangulamento com a gola. O preço: pegadas que somem quando o adversário está sem camisa, e um uniforme que custa dinheiro. De calção, o corpo suado escorrega. Ganham valor a queda, a velocidade e o controle do corpo, como numa briga de rua. O preço: é mais difícil prender alguém, e a força pesa mais. Cada escola enxergava bem o defeito da outra.",
+      "esquerda": {
+        "titulo": "Prós",
+        "tom": "bom",
+        "itens": [
+          {
+            "texto": "Kimono: muito mais onde segurar",
+            "quando": "muito mais onde"
+          },
+          {
+            "texto": "Kimono: luta lenta, tempo para o detalhe",
+            "quando": "sobra tempo"
+          },
+          {
+            "texto": "Calção: queda, velocidade, controle do corpo",
+            "quando": "Ganham valor"
+          },
+          {
+            "texto": "Calção: mais perto da briga de rua",
+            "quando": "briga de rua"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Contras",
+        "tom": "ruim",
+        "itens": [
+          {
+            "texto": "Kimono: pegadas que somem sem roupa",
+            "quando": "pegadas que somem"
+          },
+          {
+            "texto": "Kimono: o uniforme custa dinheiro",
+            "quando": "custa dinheiro"
+          },
+          {
+            "texto": "Calção: corpo suado, difícil prender",
+            "quando": "mais difícil prender"
+          },
+          {
+            "texto": "Calção: a força pesa mais",
+            "quando": "a força pesa"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a12-geracao-seguinte",
+      "tipo": "cartao",
+      "ano": 1955,
+      "rotulo": "A seguir",
+      "titulo": "A pergunta que ficou",
+      "destaque": "quem ganha?",
+      "narracao": "Quando Tatu deixa o ringue, a luta livre do Rio já tem técnica própria, academia e alunos formando alunos. O jiu-jitsu também cresceu, e você viu como: Hélio contra [Kimura|Quimúra], Hélio contra Waldemar Santana. As duas escolas dividem a mesma cidade, os mesmos jornais e a mesma pergunta, que Porto Alegre não respondeu de vez: quem ganha, o kimono ou o calção? A geração seguinte não vai deixar essa pergunta em paz. E vai levar a discussão para bem longe do ringue.",
+      "itens": [
+        {
+          "texto": "Luta livre: técnica própria, alunos formando alunos",
+          "quando": "técnica própria"
+        },
+        {
+          "texto": "Jiu-jitsu: a fama dos desafios de Hélio",
+          "quando": "O jiu-jitsu também"
+        },
+        {
+          "texto": "Mesma cidade, mesmos jornais, mesma pergunta",
+          "quando": "a mesma cidade"
+        },
+        {
+          "texto": "A geração seguinte herda a disputa",
+          "quando": "A geração seguinte"
+        }
+      ]
+    },
+    {
+      "id": "b01-segunda-geracao",
+      "tipo": "cartao",
+      "ano": 1970,
+      "rotulo": "Anos 1970",
+      "titulo": "A segunda geração",
+      "destaque": "Duas casas",
+      "narracao": "Nos anos setenta, a luta livre do Rio já não depende só do Tatu. O bastão passa para a segunda geração. De um lado, a família Brunocilla. Fausto, lutador dos velhos tempos, agora é formador: prepara o filho Carlos, que mais tarde vai comandar os treinos no Boqueirão do Passeio. De outro lado, um ramo conhecido como Budokan, o do mestre Roberto Leitão. A luta é a mesma, sem kimono. Mas agora ela tem duas casas.",
+      "itens": [
+        {
+          "texto": "O bastão passa do Tatu aos alunos",
+          "quando": "O bastão passa"
+        },
+        {
+          "texto": "Fausto Brunocilla: de lutador a formador",
+          "quando": "agora é formador"
+        },
+        {
+          "texto": "Carlos Brunocilla e o Boqueirão do Passeio",
+          "quando": "o filho Carlos"
+        },
+        {
+          "texto": "Ramo Budokan: Roberto Leitão",
+          "quando": "conhecido como Budokan"
+        },
+        {
+          "texto": "A mesma luta, sem kimono",
+          "quando": "sem kimono"
+        }
+      ]
+    },
+    {
+      "id": "b02-leitao",
+      "tipo": "perfil",
+      "ano": 1979,
+      "papel": "O engenheiro da luta livre",
+      "nome": "Roberto Leitão",
+      "anos": "Santa Catarina, 1937 – Rio de Janeiro, 2020",
+      "wiki": "Roberto_Leitão",
+      "narracao": "Roberto Leitão é catarinense, nascido em [1937|mil novecentos e trinta e sete]. É engenheiro mecânico e professor universitário. Também é faixa preta de judô e passa cerca de sessenta anos na luta livre. Leitão olha para a luta como engenheiro: alavanca, apoio, força. Escreve sobre isso a vida inteira, e essas ideias ficam conhecidas como a teoria do grappling, a luta agarrada. Em [1979|mil novecentos e setenta e nove], segundo a imprensa especializada, funda a primeira federação de luta olímpica do país. Entre os alunos dele vai estar um certo Marco Ruas.",
+      "fatos": [
+        {
+          "texto": "Engenheiro mecânico e professor universitário",
+          "quando": "engenheiro mecânico"
+        },
+        {
+          "texto": "Faixa preta de judô, 60 anos de luta livre",
+          "quando": "faixa preta de judô"
+        },
+        {
+          "texto": "A luta explicada por alavanca e apoio",
+          "quando": "alavanca, apoio, força"
+        },
+        {
+          "texto": "A \"teoria do grappling\"",
+          "quando": "teoria do grappling"
+        },
+        {
+          "texto": "1979: federação de luta olímpica",
+          "quando": "Em 1979"
+        },
+        {
+          "texto": "Professor de Marco Ruas",
+          "quando": "os alunos dele"
+        }
+      ]
+    },
+    {
+      "id": "b03-herois-do-ringue",
+      "tipo": "linha",
+      "ano": 1959,
+      "titulo": "Heróis do Ringue",
+      "narracao": "Antes disso, a rivalidade já tinha passado pela televisão. Em [1959|mil novecentos e cinquenta e nove], a TV Continental, do Rio, estreia o programa Heróis do Ringue. São lutas de estilo contra estilo, com os Gracie entre organizadores e comentaristas. É ali que a expressão vale-tudo cai na boca do povo. Numa das lutas, João Alberto Barreto, da academia Gracie, aplica uma chave de braço num lutador de luta livre. O adversário não desiste. O braço quebra. O programa sai do ar pouco depois; as fontes divergem sobre o ano.",
+      "eventos": [
+        {
+          "ano": "1959",
+          "texto": "Estreia na TV Continental, do Rio",
+          "quando": "a TV Continental"
+        },
+        {
+          "ano": "1959",
+          "texto": "Estilo contra estilo, com os Gracie no comando",
+          "quando": "estilo contra estilo"
+        },
+        {
+          "ano": "1959–60",
+          "texto": "\"Vale-tudo\" entra no vocabulário",
+          "quando": "a expressão vale-tudo"
+        },
+        {
+          "ano": "?",
+          "texto": "Barreto quebra o braço de um rival",
+          "quando": "O braço quebra"
+        },
+        {
+          "ano": "1960 ou 1962",
+          "texto": "Fim do programa",
+          "quando": "sai do ar"
+        }
+      ]
+    },
+    {
+      "id": "b04-nordeste",
+      "tipo": "mapa",
+      "ano": 1963,
+      "titulo": "Carlson no Nordeste",
+      "narracao": "Sem a televisão do Rio, o vale-tudo segue forte no Nordeste. E é lá que Carlson Gracie encontra dois problemas. O primeiro, em dezembro de [1963|mil novecentos e sessenta e três], no Recife: o paraibano Ivan Gomes, bem mais pesado. Ivan derruba Carlson várias vezes, mas não consegue finalizar. Empate. O segundo, em setembro de [1968|mil novecentos e sessenta e oito], em Salvador: o potiguar Euclides Pereira. São seis assaltos de cinco minutos. Carlson chega a ameaçar um estrangulamento. Euclides escapa, acerta o nariz dele e vence por decisão dos jurados.",
+      "vista": {
+        "lon": -44,
+        "lat": -14,
+        "escala": 3
+      },
+      "ate": {
+        "lon": -38,
+        "lat": -10,
+        "escala": 5.5
+      },
+      "lugares": [
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "televisão do Rio"
+        },
+        {
+          "nome": "Recife, 1963: empate",
+          "coord": [
+            -34.88,
+            -8.05
+          ],
+          "quando": "no Recife",
+          "destaque": true
+        },
+        {
+          "nome": "Campina Grande: Ivan Gomes",
+          "coord": [
+            -35.88,
+            -7.23
+          ],
+          "quando": "o paraibano Ivan Gomes"
+        },
+        {
+          "nome": "Salvador, 1968: derrota",
+          "coord": [
+            -38.5,
+            -12.97
+          ],
+          "quando": "em Salvador",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "b05-de-que-escola",
+      "tipo": "comparacao",
+      "ano": 1968,
+      "titulo": "De que escola eles eram?",
+      "narracao": "A luta livre costuma contar essas duas noites como suas. Em muitas versões, Euclides Pereira aparece como discípulo do Tatu. Só que o pesquisador do site Simon BJJ conta outra história. Euclides se formou no Recife, na academia de Jurandir Moura, que vinha da linha de Takeo Yano e de George Gracie. Ivan Gomes era faixa preta de jiu-jitsu. E mais: segundo o irmão de Ivan, em [1964|mil novecentos e sessenta e quatro] ele fez um acordo com os Gracie e foi dar aula no Rio, ao lado de Carlson. A fronteira entre as escolas nunca foi tão clara.",
+      "esquerda": {
+        "titulo": "A versão da luta livre",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Duas noites contadas como da luta livre",
+            "quando": "essas duas noites"
+          },
+          {
+            "texto": "Euclides Pereira, discípulo do Tatu",
+            "quando": "discípulo do Tatu"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que diz o pesquisador",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Euclides: academia de Jurandir Moura, Recife",
+            "quando": "se formou no Recife"
+          },
+          {
+            "texto": "Linha de Takeo Yano e George Gracie",
+            "quando": "linha de Takeo Yano"
+          },
+          {
+            "texto": "Ivan Gomes: faixa preta de jiu-jitsu",
+            "quando": "Ivan Gomes era"
+          },
+          {
+            "texto": "1964: Ivan dá aula no Rio com Carlson",
+            "quando": "fez um acordo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b06-ruas",
+      "tipo": "perfil",
+      "ano": 1984,
+      "papel": "A geração dos anos 1980",
+      "nome": "Marco Ruas",
+      "anos": "Rio de Janeiro, 1961",
+      "wiki": "Marco_Ruas",
+      "narracao": "Nos anos oitenta, chega mais uma geração. E ela é diferente. Marco Ruas, carioca nascido em [1961|mil novecentos e sessenta e um], treina luta livre com Roberto Leitão e [muay thai|muai tai], o boxe tailandês, com Luiz Alves. Soma chute, joelhada e luta de chão. Ao lado dele aparecem Eugênio Tadeu, que veio da capoeira, Hugo Duarte e Denilson Maia. São jovens, lutam sem kimono e não aceitam a ideia de que o jiu-jitsu dos Gracie seja imbatível. Todos eles voltam nesta história.",
+      "fatos": [
+        {
+          "texto": "Luta livre com Roberto Leitão",
+          "quando": "treina luta livre"
+        },
+        {
+          "texto": "Muay thai com Luiz Alves",
+          "quando": "o boxe tailandês"
+        },
+        {
+          "texto": "Chute, joelhada e luta de chão",
+          "quando": "Soma chute"
+        },
+        {
+          "texto": "Eugênio Tadeu, vindo da capoeira",
+          "quando": "aparecem Eugênio Tadeu"
+        },
+        {
+          "texto": "Hugo Duarte e Denilson Maia",
+          "quando": "Hugo Duarte e"
+        }
+      ]
+    },
+    {
+      "id": "b07-duas-turmas",
+      "tipo": "comparacao",
+      "ano": 1985,
+      "titulo": "Duas turmas na mesma cidade",
+      "narracao": "Por trás da rixa de tatame existe uma diferença de endereço. Estudos acadêmicos descrevem o jiu-jitsu dessa época como coisa da classe média e alta, com o sobrenome Gracie como referência. E a luta livre como a luta de quem tinha menos dinheiro, popular entre garotos das favelas. As duas turmas se cruzam na praia, na rua, na porta da boate. Um olhar torto vira provocação. A provocação vira briga. E, cada vez mais, a briga termina dentro da academia do outro.",
+      "esquerda": {
+        "titulo": "Jiu-jitsu",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Classe média e alta",
+            "quando": "classe média e alta"
+          },
+          {
+            "texto": "O sobrenome Gracie como referência",
+            "quando": "o sobrenome Gracie"
+          },
+          {
+            "texto": "Encontros na praia, na rua, na boate",
+            "quando": "se cruzam na praia"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Luta livre",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "A luta de quem tinha menos dinheiro",
+            "quando": "tinha menos dinheiro"
+          },
+          {
+            "texto": "Popular entre garotos das favelas",
+            "quando": "garotos das favelas"
+          },
+          {
+            "texto": "Provocação, briga, invasão de academia",
+            "quando": "vira provocação"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b08-naja",
+      "tipo": "linha",
+      "ano": 1984,
+      "titulo": "Da invasão ao ginásio",
+      "narracao": "A primeira invasão famosa nem é contra a luta livre. No começo dos anos oitenta, lutadores de jiu-jitsu entram na academia Naja, de Flávio Molina, e desafiam o pessoal do [muay thai|muai tai]. A resposta é uma aliança: o boxe tailandês se junta à luta livre. O acerto de contas fica marcado para o ringue. Em trinta de novembro de [1984|mil novecentos e oitenta e quatro], no Maracanãzinho, acontece a Noite das Artes Marciais. De um lado, o jiu-jitsu. Do outro, os demais estilos. Duas lutas interessam a esta história.",
+      "eventos": [
+        {
+          "ano": "c. 1982",
+          "texto": "Jiu-jitsu invade a academia Naja",
+          "quando": "na academia Naja"
+        },
+        {
+          "ano": "1982–84",
+          "texto": "Muay thai e luta livre se aliam",
+          "quando": "é uma aliança"
+        },
+        {
+          "ano": "30/11/1984",
+          "texto": "Noite das Artes Marciais, Maracanãzinho",
+          "quando": "no Maracanãzinho"
+        },
+        {
+          "ano": "1984",
+          "texto": "Jiu-jitsu contra os demais estilos",
+          "quando": "os demais estilos"
+        }
+      ]
+    },
+    {
+      "id": "b09-maracanazinho",
+      "tipo": "cartao",
+      "ano": 1984,
+      "rotulo": "Maracanãzinho, 30 de novembro de 1984",
+      "titulo": "A noite em que o jiu-jitsu não saiu por cima",
+      "destaque": "Empate: 20 min",
+      "narracao": "Na primeira, Eugênio Tadeu enfrenta Renan [Pitanguy|Pitanguí], da academia Gracie. Depois de cinco minutos, o córner de Renan interrompe a luta. Vitória de Eugênio. Na segunda, Marco Ruas encara Fernando Pinduka, aluno de Carlson. Ruas usa a luta livre para anular o jogo de chão de Pinduka, e os dois chegam ao fim dos vinte minutos. Empate. O jiu-jitsu ainda vence outras duas lutas naquela noite. Mas o recado está dado: um lutador sem kimono, bem treinado, consegue parar o jiu-jitsu.",
+      "itens": [
+        {
+          "texto": "Eugênio Tadeu x Renan Pitanguy",
+          "quando": "Eugênio Tadeu enfrenta"
+        },
+        {
+          "texto": "Córner interrompe: vitória de Eugênio",
+          "quando": "Vitória de Eugênio"
+        },
+        {
+          "texto": "Marco Ruas x Fernando Pinduka",
+          "quando": "Marco Ruas encara"
+        },
+        {
+          "texto": "Vinte minutos, empate",
+          "quando": "dos vinte minutos"
+        },
+        {
+          "texto": "Jiu-jitsu vence outras duas lutas",
+          "quando": "vence outras duas"
+        }
+      ]
+    },
+    {
+      "id": "b10-boqueirao",
+      "tipo": "cartao",
+      "ano": 1988,
+      "rotulo": "Rio de Janeiro, 1988",
+      "titulo": "A visita ao Boqueirão",
+      "destaque": "Rickson x Ruas",
+      "narracao": "Quatro anos depois, a conta volta. Em [1988|mil novecentos e oitenta e oito], promotores tentam casar uma luta: Rickson Gracie contra Marco Ruas. Não sai acordo. Então Rickson e o pai, Hélio, vão em pessoa ao Boqueirão do Passeio, a casa da luta livre. O que se diz ali tem duas versões. Rickson conta que Ruas pediu quatro meses para treinar. Ruas nega e diz que lutava na hora. Do encontro sai uma lista de desafiantes. E um nome que se oferece: Hugo Duarte.",
+      "itens": [
+        {
+          "texto": "A luta que não sai: Rickson x Ruas",
+          "quando": "Rickson Gracie contra"
+        },
+        {
+          "texto": "Rickson e Hélio vão ao Boqueirão",
+          "quando": "vão em pessoa"
+        },
+        {
+          "texto": "Rickson: Ruas pediu quatro meses",
+          "quando": "pediu quatro meses"
+        },
+        {
+          "texto": "Ruas: lutava na hora",
+          "quando": "Ruas nega"
+        },
+        {
+          "texto": "Hugo Duarte entra na lista",
+          "quando": "Hugo Duarte"
+        }
+      ]
+    },
+    {
+      "id": "b11-pepe",
+      "tipo": "comparacao",
+      "ano": 1988,
+      "titulo": "Praia do Pepê, 1988",
+      "narracao": "Hugo quer lutar num evento pago. Rickson não espera. Meses depois, numa manhã de sol, ele encontra Hugo na praia do Pepê. Pergunta se está pronto e dá um tapa no rosto dele. A luta é ali mesmo, na areia, com uma roda em volta e uma câmera ligada. Rickson demora a derrubar, mas monta, que é sentar sobre o peito do adversário, e bate até Hugo desistir. Hugo diz que foi emboscada: dezenas de alunos do rival em volta e areia jogada nos olhos.",
+      "esquerda": {
+        "titulo": "O que o vídeo mostra",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Rickson dá um tapa e a luta começa",
+            "quando": "dá um tapa"
+          },
+          {
+            "texto": "Na areia, com uma roda em volta",
+            "quando": "na areia"
+          },
+          {
+            "texto": "Rickson monta e bate",
+            "quando": "mas monta"
+          },
+          {
+            "texto": "Hugo desiste",
+            "quando": "até Hugo desistir"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que diz Hugo Duarte",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Queria lutar num evento pago",
+            "quando": "num evento pago"
+          },
+          {
+            "texto": "Foi emboscada",
+            "quando": "foi emboscada"
+          },
+          {
+            "texto": "Dezenas de alunos do rival em volta",
+            "quando": "dezenas de alunos"
+          },
+          {
+            "texto": "Areia jogada nos olhos",
+            "quando": "areia jogada"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b12-humaita",
+      "tipo": "linha",
+      "ano": 1988,
+      "titulo": "A revanche no Humaitá",
+      "narracao": "Seis dias depois, segundo um dos relatos, Hugo aparece na academia Gracie, no Humaitá. São cinquenta homens numa versão, trezentos em outra. Hélio recebe o grupo e manda chamar o filho. A revanche acontece no pátio, no cimento. Rickson monta de novo e vence de novo. Os vizinhos chamam a polícia. Dias mais tarde, Royler Gracie e Eugênio Tadeu lutam por mais de meia hora e empatam. Em [1989|mil novecentos e oitenta e nove], Rickson se muda para os Estados Unidos. A raiva fica no Rio. E, em [1991|mil novecentos e noventa e um], vai achar um ringue.",
+      "eventos": [
+        {
+          "ano": "1988",
+          "texto": "Hugo vai à academia Gracie com um grupo",
+          "quando": "na academia Gracie"
+        },
+        {
+          "ano": "1988",
+          "texto": "De 50 a 300 homens, conforme a versão",
+          "quando": "cinquenta homens"
+        },
+        {
+          "ano": "1988",
+          "texto": "Revanche no pátio: Rickson vence de novo",
+          "quando": "vence de novo"
+        },
+        {
+          "ano": "1988",
+          "texto": "Royler x Eugênio Tadeu: empate",
+          "quando": "Royler Gracie e"
+        },
+        {
+          "ano": "1989",
+          "texto": "Rickson se muda para os Estados Unidos",
+          "quando": "Rickson se muda"
+        },
+        {
+          "ano": "1991",
+          "texto": "A rixa procura um ringue",
+          "quando": "achar um ringue"
+        }
+      ]
+    },
+    {
+      "id": "c01-provocacao",
+      "tipo": "cartao",
+      "ano": 1991,
+      "rotulo": "O estopim",
+      "titulo": "A provocação no jornal",
+      "narracao": "Em [1991|mil novecentos e noventa e um], a rixa volta aos jornais. Wallid Ismail, faixa-marrom de Carlson Gracie, publica no jornal O Dia textos provocando a luta livre. Segundo os relatos, chama a escola rival de cópia barata do jiu-jitsu. Dias depois, um grupo de lutadores de luta livre invade a Copa Nastra, um campeonato de jiu-jitsu na Urca, atrás dele. Há fontes que põem Hugo Duarte à frente do grupo. Para a briga não explodir, Carlson propõe outra saída: resolver no ringue, com regras de vale-tudo.",
+      "itens": [
+        {
+          "texto": "Wallid Ismail, faixa-marrom de Carlson Gracie",
+          "quando": "Wallid Ismail"
+        },
+        {
+          "texto": "Textos no jornal O Dia contra a luta livre",
+          "quando": "jornal O Dia"
+        },
+        {
+          "texto": "Lutadores de luta livre invadem a Copa Nastra",
+          "quando": "invade a Copa Nastra"
+        },
+        {
+          "texto": "Hugo Duarte à frente, segundo algumas fontes",
+          "quando": "Hugo Duarte"
+        },
+        {
+          "texto": "Carlson propõe: resolver no ringue",
+          "quando": "Carlson propõe"
+        }
+      ]
+    },
+    {
+      "id": "c02-desafio",
+      "tipo": "cartao",
+      "ano": 1991,
+      "rotulo": "Grajaú Country Club, Rio",
+      "titulo": "Desafio: Jiu-Jitsu x Luta Livre",
+      "destaque": "26.9.1991",
+      "narracao": "A data fica marcada: 26 de setembro de [1991|mil novecentos e noventa e um], no Grajaú Country Club, na zona norte do Rio. O evento se chama Desafio: Jiu-Jitsu contra Luta Livre. A TV Globo transmite. Pelo que se conta, estavam previstas cinco lutas, mas só três acontecem. Marcelo Behring, que enfrentaria Hugo Duarte, se machuca dias antes. E Marco Ruas, escalado contra Amaury Bitetti, não luta. Sobram três duplas. De um lado, Wallid Ismail, Murilo Bustamante e Fábio Gurgel. Do outro, Eugênio Tadeu, Marcelo Mendes e Denilson Maia.",
+      "itens": [
+        {
+          "texto": "Grajaú Country Club, zona norte do Rio",
+          "quando": "Grajaú Country Club"
+        },
+        {
+          "texto": "Transmissão da TV Globo",
+          "quando": "A TV Globo"
+        },
+        {
+          "texto": "Cinco lutas previstas, três realizadas",
+          "quando": "só três acontecem"
+        },
+        {
+          "texto": "Jiu-jitsu: Wallid, Bustamante e Gurgel",
+          "quando": "De um lado"
+        },
+        {
+          "texto": "Luta livre: Tadeu, Mendes e Maia",
+          "quando": "Do outro"
+        }
+      ]
+    },
+    {
+      "id": "c03-wallid-tadeu",
+      "tipo": "comparacao",
+      "ano": 1991,
+      "titulo": "Wallid Ismail x Eugênio Tadeu",
+      "narracao": "A luta mais longa é a de Wallid contra Eugênio Tadeu. Em pé, Tadeu leva vantagem nos golpes. Mas Wallid derruba, fica por cima e castiga com socos e cabeçadas, que a regra permitia. Mais de uma vez, Tadeu vai parar fora do ringue. Depois de cerca de dezesseis minutos, cortado e exausto, ele não volta. Vitória de Wallid. Tadeu contou outra versão: disse que gente do jiu-jitsu o impediu de subir de novo. O resultado foi mantido.",
+      "esquerda": {
+        "titulo": "Wallid Ismail (jiu-jitsu)",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Derruba e fica por cima",
+            "quando": "Wallid derruba"
+          },
+          {
+            "texto": "Socos e cabeçadas, permitidos na época",
+            "quando": "socos e cabeçadas"
+          },
+          {
+            "texto": "Vence em cerca de 16 minutos",
+            "quando": "Vitória de Wallid"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Eugênio Tadeu (luta livre)",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Melhor nos golpes em pé",
+            "quando": "Tadeu leva vantagem"
+          },
+          {
+            "texto": "Cortado e exausto, não volta ao ringue",
+            "quando": "cortado e exausto"
+          },
+          {
+            "texto": "Versão dele: foi impedido de voltar",
+            "quando": "outra versão"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04-tres-a-zero",
+      "tipo": "linha",
+      "ano": 1991,
+      "titulo": "A noite do Grajaú",
+      "narracao": "As outras duas lutas são mais curtas. Murilo Bustamante domina Marcelo Mendes em pé e no chão. Em menos de cinco minutos, Mendes abandona. Na luta principal, Denilson Maia começa melhor: derruba Fábio Gurgel e acerta chutes. Gurgel reage, leva a luta para o chão e chega à montada, sentado sobre o peito do adversário. Dali, bate até Maia desistir, com pouco menos de dez minutos. Placar final: três a zero para o jiu-jitsu.",
+      "eventos": [
+        {
+          "ano": "Luta 1",
+          "texto": "Wallid Ismail vence Eugênio Tadeu",
+          "quando": "As outras duas"
+        },
+        {
+          "ano": "Luta 2",
+          "texto": "Bustamante vence: Mendes abandona",
+          "quando": "Mendes abandona"
+        },
+        {
+          "ano": "Luta 3",
+          "texto": "Gurgel monta e bate até Maia desistir",
+          "quando": "até Maia desistir"
+        },
+        {
+          "ano": "Placar",
+          "texto": "Jiu-jitsu 3 x 0 luta livre",
+          "quando": "três a zero"
+        }
+      ]
+    },
+    {
+      "id": "c05-significado",
+      "tipo": "cartao",
+      "ano": 1991,
+      "rotulo": "O resultado",
+      "titulo": "O que a noite decidiu",
+      "destaque": "3 a 0",
+      "narracao": "Na televisão, o resultado ganha um peso que nenhuma briga de praia teve. Para o jiu-jitsu, é a vitória pública que a escola buscava. E os três vencedores nem Gracie eram de sobrenome: Wallid e Bustamante eram alunos de Carlson, e Gurgel, de Romero Cavalcanti, o Jacaré. Para a luta livre, é um golpe duro. Sai dali com fama de derrotada e sem revanche. Só que três lutas não medem uma arte inteira. E os seus dois nomes mais conhecidos, Hugo Duarte e Marco Ruas, não tinham lutado.",
+      "itens": [
+        {
+          "texto": "Vitória pública, vista na televisão",
+          "quando": "Na televisão"
+        },
+        {
+          "texto": "Vencedores: alunos de Carlson e de Jacaré",
+          "quando": "nem Gracie eram"
+        },
+        {
+          "texto": "Luta livre: fama de derrotada, sem revanche",
+          "quando": "um golpe duro"
+        },
+        {
+          "texto": "Três lutas não medem uma arte inteira",
+          "quando": "três lutas não medem"
+        },
+        {
+          "texto": "Hugo Duarte e Marco Ruas não lutaram",
+          "quando": "não tinham lutado"
+        }
+      ]
+    },
+    {
+      "id": "c06-pentagon",
+      "tipo": "perfil",
+      "ano": 1997,
+      "nome": "Renzo Gracie",
+      "anos": "Rio de Janeiro, 1967",
+      "papel": "A última luta da rixa",
+      "wiki": "Renzo_Gracie",
+      "narracao": "A revanche demora seis anos. Em 27 de setembro de [1997|mil novecentos e noventa e sete], o [Pentagon Combat|Pêntagon Combát] leva ao Tijuca Tênis Clube a luta que faltava: Renzo Gracie, neto de Carlos, contra Eugênio Tadeu. Renzo domina o começo no chão. Tadeu responde chutando as pernas dele. Perto do fim, a confusão começa: há relatos de Renzo agredido por gente de fora da grade e de Renzo acertando um torcedor. As luzes se apagam. Cadeiras voam, um tiro é disparado. A luta termina sem vencedor.",
+      "fatos": [
+        {
+          "texto": "Neto de Carlos Gracie",
+          "quando": "neto de Carlos"
+        },
+        {
+          "texto": "1997: Pentagon Combat, Tijuca Tênis Clube",
+          "quando": "Tijuca Tênis Clube"
+        },
+        {
+          "texto": "Domina no chão; Tadeu chuta as pernas",
+          "quando": "Renzo domina"
+        },
+        {
+          "texto": "Tumulto, luzes apagadas e um tiro",
+          "quando": "As luzes se apagam"
+        },
+        {
+          "texto": "Luta sem vencedor",
+          "quando": "termina sem vencedor"
+        }
+      ]
+    },
+    {
+      "id": "c07-proibicao",
+      "tipo": "mapa",
+      "ano": 1997,
+      "titulo": "Do Rio a Abu Dhabi",
+      "narracao": "As imagens da pancadaria correm o mundo. As autoridades do Rio proíbem os eventos de vale-tudo na cidade. As fontes não concordam sobre quanto tempo a proibição durou: umas falam em três anos, outras em quase dez. O certo é que o Rio, a casa do vale-tudo, fica sem ele. E o patrono do evento, o xeque Tahnoon, tira a sua conclusão em Abu Dhabi. No ano seguinte, ele cria um torneio só de luta agarrada, sem socos. É o [ADCC|A D C C], assunto de outro capítulo.",
+      "vista": {
+        "lon": -43.2,
+        "lat": -18,
+        "escala": 3
+      },
+      "ate": {
+        "lon": 8,
+        "lat": 5,
+        "escala": 1.3
+      },
+      "lugares": [
+        {
+          "nome": "Rio: vale-tudo proibido",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "As autoridades do Rio",
+          "destaque": true
+        },
+        {
+          "nome": "Abu Dhabi: nasce o ADCC",
+          "coord": [
+            54.4,
+            24.45
+          ],
+          "quando": "em Abu Dhabi"
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -43.2,
+              -22.9
+            ],
+            [
+              54.4,
+              24.45
+            ]
+          ],
+          "quando": "o xeque Tahnoon",
+          "ate": "É o ADCC"
+        }
+      ]
+    },
+    {
+      "id": "c08-balanco-jiu-jitsu",
+      "tipo": "comparacao",
+      "ano": 1997,
+      "titulo": "Balanço: o jiu-jitsu",
+      "narracao": "Passada a poeira, dá para fazer o balanço das duas escolas. Primeiro, o jiu-jitsu. O que ele tinha de melhor: a guarda, o jeito de lutar de costas no chão, com as pernas entre você e o adversário. Uma ordem clara de posições, até chegar à montada ou às costas. E uma estrutura grande, com academias, faixas e equipes. O que faltava: sem o pano para agarrar, muita técnica perdia força. As quedas recebiam menos atenção. E as chaves de perna eram malvistas, quase não se treinavam.",
+      "esquerda": {
+        "titulo": "O que tinha de melhor",
+        "tom": "bom",
+        "itens": [
+          {
+            "texto": "A guarda: lutar de costas no chão",
+            "quando": "a guarda"
+          },
+          {
+            "texto": "Ordem clara de posições até a montada",
+            "quando": "Uma ordem clara"
+          },
+          {
+            "texto": "Estrutura: academias, faixas e equipes",
+            "quando": "uma estrutura grande"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que faltava",
+        "tom": "ruim",
+        "itens": [
+          {
+            "texto": "Sem o pano, muita técnica perdia força",
+            "quando": "sem o pano"
+          },
+          {
+            "texto": "Menos atenção às quedas",
+            "quando": "As quedas recebiam"
+          },
+          {
+            "texto": "Chaves de perna malvistas e pouco treinadas",
+            "quando": "as chaves de perna"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09-balanco-luta-livre",
+      "tipo": "comparacao",
+      "ano": 1997,
+      "titulo": "Balanço: a luta livre",
+      "narracao": "Agora, a luta livre. O que ela tinha de melhor: nasceu sem kimono, então todo o seu jogo já dependia de agarrar o corpo, e não a roupa. Dava valor às quedas, herança da luta olímpica. E atacava as pernas sem cerimônia: chave de joelho, de tornozelo, de calcanhar. O que faltava: gente e estrutura. Eram poucas academias, pouca organização e pouco dinheiro. Quando o vale-tudo se profissionalizou, muitos dos seus lutadores foram treinar em equipes maiores, várias delas de jiu-jitsu.",
+      "esquerda": {
+        "titulo": "O que tinha de melhor",
+        "tom": "bom",
+        "itens": [
+          {
+            "texto": "Jogo sem kimono: agarrar o corpo",
+            "quando": "nasceu sem kimono"
+          },
+          {
+            "texto": "Valor às quedas, como na luta olímpica",
+            "quando": "Dava valor às quedas"
+          },
+          {
+            "texto": "Ataques às pernas: joelho, tornozelo, calcanhar",
+            "quando": "atacava as pernas"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que faltava",
+        "tom": "ruim",
+        "itens": [
+          {
+            "texto": "Poucas academias e pouca organização",
+            "quando": "poucas academias"
+          },
+          {
+            "texto": "Pouco dinheiro",
+            "quando": "pouco dinheiro"
+          },
+          {
+            "texto": "Lutadores migram para equipes maiores",
+            "quando": "foram treinar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10-troca",
+      "tipo": "cartao",
+      "ano": 2000,
+      "rotulo": "A herança",
+      "titulo": "O que uma tomou da outra",
+      "destaque": "Sem kimono",
+      "narracao": "Cada escola levou alguma coisa da outra. Quando os lutadores de jiu-jitsu tiraram o kimono para lutar vale-tudo, entraram num terreno em que a luta livre já vivia fazia décadas. O jeito de agarrar o corpo, as quedas, os ataques às pernas: parte da técnica do jiu-jitsu sem kimono de hoje vem dessa escola rival. A luta livre, do seu lado, foi treinar ao lado do jiu-jitsu nas grandes equipes de vale-tudo. Hoje, atletas das duas origens se enfrentam nos mesmos campeonatos de luta agarrada.",
+      "itens": [
+        {
+          "texto": "O jiu-jitsu tira o kimono para o vale-tudo",
+          "quando": "tiraram o kimono"
+        },
+        {
+          "texto": "Terreno em que a luta livre já vivia",
+          "quando": "fazia décadas"
+        },
+        {
+          "texto": "Pegadas no corpo, quedas e ataques às pernas",
+          "quando": "os ataques às pernas"
+        },
+        {
+          "texto": "Luta livre treina nas grandes equipes",
+          "quando": "nas grandes equipes"
+        },
+        {
+          "texto": "Hoje: os mesmos campeonatos",
+          "quando": "nos mesmos campeonatos"
+        }
+      ]
+    },
+    {
+      "id": "c11-legado",
+      "tipo": "linhagem",
+      "ano": 1995,
+      "titulo": "A luta livre no MMA",
+      "narracao": "E a luta livre não acabou naquela noite do Grajaú. Marco Ruas, aluno de Roberto Leitão, juntou a luta livre com o [muay thai|muai tai]. Em [1995|mil novecentos e noventa e cinco], venceu o torneio do [UFC|U F C] 7. A primeira luta, ele ganhou com uma chave de calcanhar. A última, com chutes nas pernas. O seu aluno Pedro Rizzo disputou três vezes o cinturão dos pesados do [UFC|U F C]. E a escola segue viva em equipes como a Renovação [Fight Team|Fáit Tim], de Márcio Cromado, que ainda leva lutadores de luta livre ao [MMA|eme eme á].",
+      "nos": [
+        {
+          "id": "ll",
+          "nome": "Luta livre do Rio",
+          "sub": "a escola de Tatu",
+          "quando": "a luta livre não"
+        },
+        {
+          "id": "leitao",
+          "nome": "Roberto Leitão",
+          "sub": "mestre de Ruas",
+          "pai": "ll",
+          "quando": "Roberto Leitão"
+        },
+        {
+          "id": "ruas",
+          "nome": "Marco Ruas",
+          "sub": "campeão do UFC 7, 1995",
+          "pai": "leitao",
+          "quando": "venceu o torneio"
+        },
+        {
+          "id": "rizzo",
+          "nome": "Pedro Rizzo",
+          "sub": "três disputas de cinturão no UFC",
+          "pai": "ruas",
+          "quando": "Pedro Rizzo"
+        },
+        {
+          "id": "rft",
+          "nome": "Renovação Fight Team",
+          "sub": "Márcio Cromado",
+          "pai": "ll",
+          "quando": "Renovação Fight Team"
+        }
+      ]
+    },
+    {
+      "id": "c12-volta-a-1955",
+      "tipo": "linha",
+      "ano": 1955,
+      "titulo": "De volta a 1955",
+      "narracao": "A rixa com a luta livre atravessou mais de meio século. Mas, para entender como o jiu-jitsu chegou tão forte a [1991|mil novecentos e noventa e um], é preciso voltar. Maio de [1955|mil novecentos e cinquenta e cinco]. Hélio Gracie perde para Waldemar Santana, seu ex-aluno, depois de mais de três horas de luta. Quem vai responder não é Hélio, nem Carlos. É um sobrinho de vinte e poucos anos, filho de Carlos. O nome dele é Carlson Gracie. E, com ele, o jiu-jitsu deixa de ser assunto de uma família só.",
+      "eventos": [
+        {
+          "ano": "1991",
+          "texto": "Jiu-jitsu 3 x 0 no Grajaú",
+          "quando": "chegou tão forte"
+        },
+        {
+          "ano": "1955",
+          "texto": "Hélio perde para Waldemar Santana",
+          "quando": "perde para Waldemar"
+        },
+        {
+          "ano": "1955",
+          "texto": "A resposta vem de um sobrinho",
+          "quando": "um sobrinho"
+        },
+        {
+          "ano": "Capítulo 5",
+          "texto": "Carlson Gracie entra em cena",
+          "quando": "Carlson Gracie"
+        }
+      ]
+    }
+  ]
+}

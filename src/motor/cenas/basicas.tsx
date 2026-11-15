@@ -200,6 +200,8 @@ export const Cartao: React.FC<{ cena: CenaCartao; ritmo: Ritmo }> = ({
   ritmo,
 }) => {
   const destaque = surgir(ritmo, 12);
+  // Com muitos itens, tudo encolhe um pouco para não encostar no cabeçalho.
+  const cheio = (cena.itens?.length ?? 0) > 4;
   return (
     <AbsoluteFill>
       <div
@@ -217,10 +219,16 @@ export const Cartao: React.FC<{ cena: CenaCartao; ritmo: Ritmo }> = ({
               <Rotulo>{cena.rotulo}</Rotulo>
             </div>
           ) : null}
-          <TituloCena ritmo={ritmo}>{cena.titulo}</TituloCena>
+          <TituloCena ritmo={ritmo} tamanho={cheio ? 70 : 84}>
+            {cena.titulo}
+          </TituloCena>
           {cena.itens ? (
-            <div style={{ marginTop: 60 }}>
-              <Lista itens={cena.itens} ritmo={ritmo} />
+            <div style={{ marginTop: cheio ? 40 : 60 }}>
+              <Lista
+                itens={cena.itens}
+                ritmo={ritmo}
+                tamanho={cheio ? 38 : 44}
+              />
             </div>
           ) : null}
         </div>

@@ -1,0 +1,2142 @@
+{
+  "numero": 3,
+  "titulo": "A era dos desafios",
+  "subtitulo": "Vinte e cinco anos provando o método em público, contra qualquer um",
+  "fontes": [
+    {
+      "titulo": "Hélio Gracie (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/H%C3%A9lio_Gracie"
+    },
+    {
+      "titulo": "Carlos Gracie (Wikipedia em inglês)",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Gracie"
+    },
+    {
+      "titulo": "Simon BJJ: The Steel Box (Carlos Gracie x Rufino, agressão, condenação e indulto)",
+      "url": "https://simonbjj.com/the-steel-box"
+    },
+    {
+      "titulo": "Simon BJJ: George Gracie",
+      "url": "https://simonbjj.com/george-gracie"
+    },
+    {
+      "titulo": "Simon BJJ: Mario Aleixo",
+      "url": "https://simonbjj.com/mario-aleixo"
+    },
+    {
+      "titulo": "Vale Tudo (Wikipedia em inglês): origem do termo e Heróis do Ringue",
+      "url": "https://en.wikipedia.org/wiki/Vale_Tudo"
+    },
+    {
+      "titulo": "Global Training Report (Roberto Pedreira): entrevista de Hélio Gracie sobre a luta com Fred Ebert",
+      "url": "https://www.geocities.ws/global_training_report/helio.htm"
+    },
+    {
+      "titulo": "Roberto Pedreira, Choque: The Untold Story of Jiu-Jitsu in Brazil, vol. 1 (1856-1949)",
+      "url": "https://www.global-training-report.com/myths.htm"
+    },
+    {
+      "titulo": "Wikipédia (português): Hélio Gracie",
+      "url": "https://pt.wikipedia.org/wiki/H%C3%A9lio_Gracie"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Wladek Zbyszko",
+      "url": "https://en.wikipedia.org/wiki/Wladek_Zbyszko"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Takeo Yano",
+      "url": "https://en.wikipedia.org/wiki/Takeo_Yano"
+    },
+    {
+      "titulo": "Ken Zimmerman Jr.: Wladek Zbyszko vs. Helio Gracie (cita Roberto Pedreira, Choque, vol. 1, cap. 14)",
+      "url": "https://kenzimmermanjr.com/wladek-zbyszko-vs-helio-gracie/"
+    },
+    {
+      "titulo": "Simon BJJ: Ono Brothers",
+      "url": "https://simonbjj.com/ono-brothers"
+    },
+    {
+      "titulo": "Simon BJJ: Takeo Yano",
+      "url": "https://simonbjj.com/takeo-yano"
+    },
+    {
+      "titulo": "Simon BJJ: Fake Fights",
+      "url": "https://simonbjj.com/fake-fights"
+    },
+    {
+      "titulo": "Sherdog: Vale Tudo Relics, The Life and Times of Helio Gracie",
+      "url": "https://www.sherdog.com/news/articles/2/Vale-Tudo-Relics-The-Life-and-Times-of-Helio-Gracie-93849"
+    },
+    {
+      "titulo": "SciELO / Revista Brasileira de Educação Física e Esporte (USP): As origens do judô brasileiro: a árvore genealógica dos medalhistas olímpicos",
+      "url": "https://www.scielo.br/j/rbefe/a/rsrMqNqf8TRqKZdHtRsbB4f/"
+    },
+    {
+      "titulo": "Elite Sports: The Untold Story of George Gracie (lista de lutas)",
+      "url": "https://www.elitesports.com/blogs/news/the-untold-story-of-george-gracie-the-red-cat-rebel"
+    },
+    {
+      "titulo": "Digitsu: George Gracie",
+      "url": "https://digitsu.com/people/george-gracie"
+    },
+    {
+      "titulo": "Wikipedia (en): Masahiko Kimura vs. Hélio Gracie",
+      "url": "https://en.wikipedia.org/wiki/Masahiko_Kimura_vs._H%C3%A9lio_Gracie"
+    },
+    {
+      "titulo": "Graciemag: A deep dive into the life of Helio Gracie (parte 3: academia da Rio Branco, Seleções, Joe Louis, Teresópolis)",
+      "url": "https://www.graciemag.com/?p=228804"
+    },
+    {
+      "titulo": "Graciemag: A thorough look at the most important fight in BJJ history (Kato e Kimura)",
+      "url": "https://www.graciemag.com/?p=207238"
+    },
+    {
+      "titulo": "BJJ Heroes: Helio Gracie (Caribé e Azevedo Maia)",
+      "url": "https://www.bjjheroes.com/bjj-fighters/helio-gracie"
+    },
+    {
+      "titulo": "Sherdog: Another Chapter Closes in an Enduring Legacy (público da Academia Gracie)",
+      "url": "https://www.sherdog.com/news/articles/2/Another-Chapter-Closes-in-an-Enduring-Legacy-91427"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Masahiko Kimura",
+      "url": "https://en.wikipedia.org/wiki/Masahiko_Kimura"
+    },
+    {
+      "titulo": "Sherdog: The Birth of the Kimura (Mike Whitman, 2013)",
+      "url": "https://www.sherdog.com/news/articles/The-Birth-of-the-Kimura-59559"
+    },
+    {
+      "titulo": "Judo Info: The Man Who Defeated Helio Gracie (Jim Chen e Theodore Chen)",
+      "url": "https://judoinfo.com/?p=286"
+    },
+    {
+      "titulo": "Lise, Santos e Capraro: \"A legenda dos Gracie\": uma análise da crônica de Nelson Rodrigues (Movimento, UFRGS, 2014)",
+      "url": "https://www.redalyc.org/pdf/1153/115332898005.pdf"
+    },
+    {
+      "titulo": "Wikipédia (português): Waldemar Santana",
+      "url": "https://pt.wikipedia.org/wiki/Waldemar_Santana"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Valdemar Santana",
+      "url": "https://en.wikipedia.org/wiki/Valdemar_Santana"
+    },
+    {
+      "titulo": "Wikipedia (inglês): Oswaldo Fadda",
+      "url": "https://en.wikipedia.org/wiki/Oswaldo_Fadda"
+    }
+  ],
+  "conferir": [
+    "SENSÍVEL (cena d09): a afirmação de que Hélio demitiu Waldemar Santana com insultos racistas vem de um artigo acadêmico (Lise, Santos e Capraro, 2014) que cita a biografia escrita por Reila Gracie; o livro não foi lido diretamente. Decida se mantém.",
+    "Agressão a Rufino: a data mais citada é 18 de outubro de 1932 (Simon BJJ; Wikipedia de Hélio); o texto da Wikipedia de Carlos deixa o ano ambíguo. O objeto usado (\"caixa de aço\") e o ombro deslocado com cirurgia vêm da Wikipedia; Simon BJJ fala só em hospitalização e diz que os irmãos fugiram de carro (a Wikipedia diz que tentaram fugir na prisão).",
+    "Condenação e indulto: sentença de dois anos e meio noticiada em 24 de maio de 1934, apresentação em 28 de maio, indulto em 6 de junho de 1934 após cerca de dez dias (Simon BJJ). As fontes ligam o indulto a Getúlio Vargas e à petição de Rosalina Coelho Lisboa, mas não citam o decreto: conferir no Diário Oficial ou em Pedreira (Choque, vol. 1).",
+    "Carlos x Rufino (22 de agosto de 1931): local (estádio do Fluminense), rounds de cinco minutos e proibição de golpes vêm de Simon BJJ; a Wikipedia fala em juiz advertindo golpes ilegais de Rufino. Detalhes do terceiro round (cordas, guilhotina, espera de cerca de uma hora) variam entre os relatos. 'Única luta profissional de Carlos' é afirmação da Wikipedia.",
+    "Hélio x Namiki: mês (setembro de 1932), diferença de 7 kg e o que aconteceu na luta têm fonte fraca (Wikipedia e sites de academias); não achei a notícia de jornal. Não consta local nem número de rounds.",
+    "Hélio x Ebert (6 de novembro de 1932): duração de 1h40 (tabela da Wikipedia), 'quase duas horas' (texto da Wikipedia) ou 2h10 (Rorion); 'sem limite de tempo' é da Wikipedia (outras fontes populares falam em rounds de dez minutos). Diferença de peso: 29 kg (Wikipedia) ou 98 kg contra cerca de 60 (entrevista). O título de vice-campeão mundial de 1928 é como Ebert era anunciado, não confirmado. Parada pela polícia (Hélio) ou pelo médico (Rorion).",
+    "\"Os pesquisadores não encontraram registro\" dos anúncios de jornal de Carlos chamando adversários: a base é a Wikipedia em inglês (\"no documented records of this exist\"). Conferir em Pedreira.",
+    "O termo 'vale-tudo' só se popularizar em 1959-1960 com o programa Heróis do Ringue: fonte é a Wikipedia em inglês. A expressão pode aparecer antes em jornais, de forma esporádica.",
+    "Evento jiu-jitsu contra capoeira de 3 de julho de 1931 (Coronel desclassificado por golpear George; público insatisfeito): Wikipedia de Carlos Gracie. O BJJ Heroes diz que George venceu o capoeirista Jayme Ferreira por chave de braço: não usei.",
+    "George x Mário Aleixo (3 de dezembro de 1931, Theatro República, golpes permitidos, George de kimono, chave de braço no 2º round): fonte única, Simon BJJ.",
+    "'Em geral, não havia pontos' e 'só ganhava quem fizesse o outro desistir': generalização sobre as regras da época; a luta Carlos x Rufino tinha juízes. Conferir em Pedreira.",
+    "Gancho: público do Maracanã em outubro de 1951 e a idade de Hélio (38 anos) devem bater com o bloco D. Maracanã como 'maior estádio do país' em 1951.",
+    "Última cena: 'A partir de 1934, o Rio começa a receber lutadores japoneses' deve bater com o bloco B (Miyake, Ono, Yano). George x Geo Omori (1933) não foi contado aqui: ver se o bloco B conta.",
+    "Não li 'Choque', de Roberto Pedreira, nem os livros de Drysdale ou de Marcial Serrano: tudo o que a narração atribui a Pedreira (vaias na luta com Zbyszko, lutas combinadas de Zbyszko no Brasil, George admitindo lutas combinadas) vem do artigo de Ken Zimmerman Jr., que cita o capítulo 14 de 'Choque'. Por isso a narração diz 'um relato baseado em Pedreira'. BJJ Heroes e o artigo de Cardiff (Cairus) bloquearam a leitura.",
+    "Hélio x Zbyszko (28/7/1934, Estádio Brasil): duração e regras divergem. Zimmerman/Pedreira: dois assaltos de 20 minutos, só finalização. Wikipedia em inglês: limite de 20 minutos no texto e 30:00 na tabela, com kimono. A Wikipédia em português fala em duas lutas com Zbyszko em 1934 (parece duplicação). A narração não dá a duração. Diferença de peso: 40 kg (Wikipedia) ou cerca de 36 kg (220 contra 140 libras, Zimmerman); a narração diz 'quase quarenta'.",
+    "Miyake: data 23/6/1934 só na tabela da Wikipedia em inglês; o Sherdog lista 'Myaki' em 1932. A narração diz 'naquele mesmo ano' (1934) e, portanto, antes de Zbyszko pela tabela; a ordem das cenas (Zbyszko primeiro) é de roteiro, não cronológica. A identificação com Taro Miyake viria de Mark Hewitt (2005) e a Wikipedia a contesta; um site diz que havia um Miyake na trupe dos Ono. A 'uma luta profissional, uma derrota' seria contra Roberto Ruhmann.",
+    "Hélio x Dudu (2/2/1935): 'sem kimono' é dedução de ser vale-tudo e veio do pedido; nenhuma fonte lida diz isso com essas palavras. Wikipedia: Dudu tinha ensinado luta livre (catch) a Hélio e aos irmãos, 20 kg a mais, cabeçada, dois pisões, desistência verbal (cita Serrano); a tabela fala em nocaute técnico aos 19 minutos. A revanche perdida por desclassificação aparece na Wikipedia como 'por volta de 1936', sem data. Se Dudu tinha vencido George antes (Wikipedia) ou empatado em 1934 (Elite Sports), as fontes divergem; ficou de fora.",
+    "Chegada dos Ono (12/10/1934, com outros oito judocas), o quinto grau de Yassuiti, a idade de Naoiti (cerca de 14) e o apelido 'Oninho': fonte única, Simon BJJ. O artigo da SciELO lista 'Yasuishi Ono (1932)' entre as academias de São Paulo, o que não casa com a chegada em 1934. Chegada de Yano em 1934: Simon BJJ. Não achei datas de nascimento e morte dos Ono (perfil sem 'anos' e sem 'wiki': não há artigo na Wikipedia).",
+    "Desistência de Hélio do vale-tudo com Ono em abril de 1935: só na Wikipedia, que diz que Ono desafiou depois de vencer George; mas Simon BJJ põe as lutas George x Ono em 1937. A narração não diz o motivo do desafio.",
+    "Hélio x Ono: 5/12/1935 (Simon BJJ) ou novembro de 1935 (Sherdog); revanche em 3/10/1936. 32 e 27 quedas: Wikipedia e Simon BJJ concordam. Duração diverge (20 minutos, cinco assaltos ou 1h40 conforme a fonte): ficou de fora. 'Repórteres unânimes' é afirmação de Simon BJJ sobre a primeira luta.",
+    "Hélio x Yano: 13/6/1936 (Wikipedia, artigo de Hélio) ou 1937 (Wikipedia, artigo de Yano); três assaltos de 20 minutos (Simon BJJ). Previsão de Carlos e exigência de 'sem juízes' partindo de Hélio: Wikipedia.",
+    "Massagoichi (12/9/1936): grafia varia (Massagoishi, Massgouchi). 'Comédia e farsa' é citação da imprensa trazida pela Wikipedia, traduzida do inglês; conferir o jornal original. A Federação Brasileira de Pugilismo teria suspendido o japonês.",
+    "Takeo Yano: nascimento em 1909 é 'provável' e morte em 1988 e os últimos anos em Belo Horizonte têm fonte única (Simon BJJ). Fortaleza vem da Wikipedia (aluno José Jurandir Moura); a Wikipedia também fala em Bahia, com Kazuo Yoshida, e um artigo fala em Porto Alegre nos anos 1950; ficaram de fora. 'Chave de calcanhar' introduzida por ele: a Wikipedia diz 'acredita-se'.",
+    "Linhagens (cena b10): Ono → Otávio de Almeida → Moisés Muradi (Lotus Club) e Yano → Francisco Sá → filhos (equipe SAS) vêm de Simon BJJ. 'No Ceará' para a família Sá não está nas fontes lidas: confirmar ou cortar. Moisés Muradi é pessoa viva: confirmar com a própria equipe. O nó raiz 'Judô japonês' é só recurso de desenho. O estudo da SciELO cita Ono entre os 'genearcas' japoneses dos medalhistas olímpicos; a frase da narração resume isso.",
+    "George Gracie: derrota para Zbyszko em 6/10/1934; empate com Yano em 28/9/1935; vitória sobre Yano sem kimono aos 52 minutos em 30/11/1936; derrota para Yassuiti Ono em 31/8 ou 11/9/1937 e vitória por desclassificação em 16/10/1937 (Ono deu um soco): Simon BJJ, com datas que variam. A Wikipedia diz que Yano tinha VENCIDO George em 1935. A substituição de Hélio contra três adversários numa noite (1936) está na Wikipedia; que George venceu os três só no Elite Sports, por isso a narração diz 'enfrenta'. Motivos do afastamento são hipóteses de Simon BJJ ('podem ter sido').",
+    "Lutas combinadas: a narração não afirma que nenhuma luta de Hélio foi combinada. Simon BJJ diz que Hélio era contra; a única suspeita citada é a da imprensa sobre Massagoichi. Hélio e George já morreram, mas a família é viva: manter o tom de 'o que se sabe'.",
+    "Aposentadoria: a Wikipedia diz só que Hélio se aposentou em 1937 e não lutou até 1950; não dá motivo nem data. Klausner 'principalmente boxeador', chave de braço no segundo assalto: Wikipedia; o Sherdog lista como vale-tudo e inclui ainda uma vitória sobre 'Espingarda' em 1937. 'Vinte e poucos anos' evita escolher entre 23 e 24. 'Volta em 1950' e 'treze anos': alinhar com o bloco C (que pode usar 1950 ou 1951).",
+    "Ano em que Hélio parou de lutar: Wikipedia dá 1937; a Graciemag, 1938. Nenhuma fonte consultada explica o motivo.",
+    "Academia da Praia do Flamengo (1940): só Roberto Pedreira (Global Training Report), lido por resumo de busca; a página não abriu para leitura direta.",
+    "Carlos em Fortaleza dando aula à polícia: a Wikipedia em inglês conta, mas sem data. Não foi confirmado que tenha sido nos anos 1940.",
+    "Método: aula particular de meia hora e a frase 'o aluno precisa se sentir respeitado' vêm da Graciemag e descrevem a academia da Rio Branco (anos 1950); a narração aplica ao período todo. 'Curso em sequência' é descrição geral, sem número de aulas confirmado. Nenhum nome de aluno influente foi confirmado para os anos 1940, por isso a narração não cita nomes.",
+    "Filhos: Carlson (1932), Robson (1935), Rolls (1951) e Rorion (1952) são datas correntes, mas não foram conferidas uma a uma nesta pesquisa. O pedido falava em 'muitos filhos de Hélio': até 1951 Hélio não tinha filhos.",
+    "Casa de Teresópolis comprada em 1952: só a Graciemag. É posterior ao recorte do bloco (1937–1951).",
+    "George Gracie 'ainda luta no começo da década' de 1940: baseado na luta contra Euclydes Hatem, que as fontes datam de 1940 ou 1942. O bloco/capítulo de luta livre deve confirmar.",
+    "Seleções (1943) e a proposta de enfrentar cinco boxeadores: só a Graciemag.",
+    "Joe Louis: ano de 1950 e telegrama segundo a Graciemag e a Wikipedia; as respostas atribuídas a Louis divergem (empresário aceitaria qualquer desafio x Louis propôs boxe). Um valor em dinheiro aparece em fontes fracas e ficou de fora. Conferir se Louis esteve mesmo no Brasil em 1950.",
+    "Landulfo Caribé: uma fonte dá 18 de janeiro de 1950, o Sherdog dá julho de 1950 e um blog dá 1951. 'Cerca de quatro minutos' e o desafio por anúncio de jornal vêm de uma fonte só (wiki de fãs). A idade de 36 anos vale para qualquer data até setembro de 1950.",
+    "Azevedo Maia: o Sherdog dá outubro de 1950; nada foi achado sobre quem ele era nem sobre o local da luta.",
+    "Academia da Avenida Rio Branco, 151, 17º andar: 1948 (Pedreira) ou 1952 (Graciemag; um espelho de wiki dá 18 de abril de 1952, 17º e 18º andares). A BJJ Heroes fala em anos 1960, o que parece erro.",
+    "Chegada dos japoneses: a narração diz julho de 1951 (anúncio no São Paulo Shimbun em 18 de julho; chegada ao Rio no dia 25, segundo uma fonte). A Wikipedia em inglês fala em 1949, e a Graciemag escreve '25 de outubro', o que é impossível. O mapa mostra a chegada por São Paulo: conferir o porto ou aeroporto real.",
+    "Graus: Yamaguchi 6º dan, Kato 5º dan e 22 anos (Graciemag e Wikipedia). Peso de Kato: a Wikipedia diz que era parecido com o de Hélio; a Graciemag, que Kato era uns 7 kg mais pesado. A narração não cita peso.",
+    "Revanche com Kato: a Wikipedia em inglês põe a luta no Ginásio do Ibirapuera, que só foi inaugurado em 1957; a Graciemag e as demais dizem Pacaembu. A Graciemag escreve '29 de outubro', erro evidente (a luta com Kimura foi em 23 de outubro).",
+    "Duração e final da revanche: oito minutos (Graciemag) x cerca de meia hora (Wikipedia). A crítica ao estrangulamento nas cordas vem da Wikipedia, que cita o Diário de Notícias, e de Roberto Pedreira (Choque); os irmãos Valente contestam essa versão.",
+    "Desfile com caixão e a troca de Yamaguchi por Kimura: Wikipedia em inglês. A Graciemag conta diferente: Kimura teria desafiado Hélio depois da derrota de Kato.",
+    "Pronúncias a ouvir na narração: Joe Louis, Shimbun, Masahiko Kimura, Toshio Yamaguchi, Yukio Kato.",
+    "Público de Kimura x Hélio (23/10/1951): 20 mil segundo a autobiografia de Kimura (via Sherdog e Wikipedia); 'cem mil pessoas' segundo o Última Hora de 24/10/1951 (citado por Lise, Santos e Capraro). A narração dá as duas. Presença de Getúlio Vargas: Wikipedia e Judo Info; não conferida em jornal da época.",
+    "Braço quebrado ou não: Kimura (autobiografia 'My Judo', relatada pela Wikipedia e pelo Judo Info) diz que quebrou duas vezes e que jogaram a toalha; a Graciemag diz, com base em jornais da época e numa foto, que não quebrou e que Carlos entrou no tablado e empurrou Kimura. A narração mostra as duas versões. Não consegui ler o texto original de 'My Judo': por isso não há cena de citação com palavras de Kimura.",
+    "Diferença de peso em 1951: sem pesagem oficial. Wikipedia em inglês: 10 a 15 kg; Graciemag: 139 lb x 210 lb (cerca de 32 kg); ficha da Wikipedia de Kimura: 1,70 m e 84 kg. 'Quatro anos mais novo' confere com os nascimentos (1913 e 1917).",
+    "Regras de 1951 (kimono, três rounds de 10 minutos, vitória só por desistência ou nocaute técnico): Wikipedia em inglês. A Graciemag repete a história de que Hélio seria vencedor se resistisse três minutos; a Wikipedia a trata como erro do filme 'Gracies in Action'. A narração não usa essa história.",
+    "Hélio desmaiado no 1º round: a Wikipedia diz que ele perdeu os sentidos num estrangulamento (triângulo) e o Judo Info cita uma entrevista em que Hélio admite; não li a entrevista original. 'Uns treze minutos': Sherdog e manchete citada pela Wikipedia ('13 minutos de intensa emoção').",
+    "Ditado 'ninguém antes de Kimura, ninguém depois de Kimura': muito repetido, escrito de memória; não apareceu nas páginas consultadas nesta pesquisa. Conferir ou cortar.",
+    "Nome 'kimura': a Wikipedia em inglês diz que cronistas esportivos passaram a chamar o golpe de 'kimuriana' na segunda viagem de Kimura ao Brasil, em 1959; Sherdog e Graciemag dizem apenas que o nome foi dado em homenagem, sem data.",
+    "Manchete do Última Hora 'Venceu Kimura, no 2º round' (Duarte, 24/10/1951, p. 7): citada por Lise, Santos e Capraro.",
+    "Desafio Fadda x Gracie: a Wikipedia em inglês dá 1955, com o Diário da Noite de 24/1/1955 (14 lutas: 7 vitórias Gracie, 4 empates, 3 vitórias Fadda) e diz que BJJ Heroes, Reila Gracie e Marcial Serrano dão vitória a Fadda; o BJJ Heroes costuma datar o desafio de 1951 (página não abriu nesta pesquisa: conferir). A narração não crava o ano nem o vencedor. A mesma Wikipedia fala de um segundo confronto em 1956, vencido por Fadda, que ficou de fora.",
+    "Santana: nascimento em 28/10/1929 (Wikipedias), o que dá 25 anos em maio de 1955; o Sherdog diz 23. Hélio: a narração diz 41 anos (nascido em 1/10/1913); a Wikipédia em português e o Sherdog dizem 42. Pesos de 94 kg e 67 kg: só na Wikipédia em português.",
+    "Capoeira de Santana (com Mestre Bimba, segundo a Wikipedia em inglês): fonte única; a narração diz só 'aprendeu capoeira'. Apelido 'Leopardo': Última Hora de 8/10/1955; a forma mais conhecida é 'Leopardo Negro'.",
+    "Rompimento: 'roupeiro, depois sparring, depois representante nos desafios', a luta combinada e os insultos racistas vêm de Lise, Santos e Capraro, que citam Reila Gracie (2012); não li o livro. A Graciemag conta que a luta seria no Palácio de Alumínio e que um jornalista publicou falas de Santana; a Wikipédia em português fala em 'telecatch' patrocinado pela Imperatriz das Sedas. A Graciemag não deixa claro se Santana chegou a fazer a luta combinada; o artigo acadêmico diz que sim. Frase sensível (insultos racistas): decidir se fica.",
+    "Luta de 24/5/1955: local ACM do Rio (artigo acadêmico e Wikipedias). Duração: 3h40 (Graciemag), 3h42 (resultado de busca) ou 3h45 (Wikipédia em português, artigo acadêmico, Hélio no Sherdog). 'Sem limite de tempo' e ausência de rounds: deduzidos da duração, não confirmados. Público: NÃO confirmei se houve público pagante; a Wikipédia em português fala em plateia e intervenção da Polícia Militar. A Graciemag diz que a luta estava marcada para 23/5 e foi adiada um dia pelo comandante da PM (fonte única, fora da narração).",
+    "Final da luta: Graciemag diz que Hélio foi jogado contra as cordas, demorou a levantar e levou o chute; a Wikipédia em português diz que foi erguido e jogado na lona e levou uma 'meia-lua' no rosto. A narração diz 'Santana o derruba'. Carlson carregando o tio para a enfermaria: Graciemag.",
+    "'Última luta de Hélio' e 'mais de cem alunos novos' (Hélio fala em 125, no Sherdog): conferir se Hélio não fez mais nenhuma luta oficial depois de 1955.",
+    "Citação da cena d12: Última Hora, 8/10/1955, capa do caderno 1, transcrita por Lise, Santos e Capraro (a grafia foi atualizada: o original não foi visto).",
+    "Cena d03: Maracanã 'aberto no ano anterior' (1950) e luta Hélio x Kato em São Paulo em 29/9/1951 (Wikipedia): alinhar com o bloco C."
+  ],
+  "cenas": [
+    {
+      "id": "a01-gancho",
+      "tipo": "mapa",
+      "ano": 1951,
+      "narracao": "Rio de Janeiro, outubro de [1951|mil novecentos e cinquenta e um]. Milhares de pessoas enchem o Maracanã para ver uma luta. De um lado, um campeão que veio do Japão. Do outro, um brasileiro franzino, de trinta e oito anos, de sobrenome Gracie. Como uma briga de academia chegou ao maior estádio do país? Essa história começa vinte anos antes, nas páginas dos jornais.",
+      "vista": {
+        "lon": 40,
+        "lat": 5,
+        "escala": 1
+      },
+      "ate": {
+        "lon": -44,
+        "lat": -21,
+        "escala": 4.5
+      },
+      "lugares": [
+        {
+          "nome": "Maracanã, outubro de 1951",
+          "coord": [
+            -43.23,
+            -22.91
+          ],
+          "quando": "enchem o Maracanã",
+          "destaque": true
+        },
+        {
+          "nome": "Japão",
+          "coord": [
+            138.5,
+            36.2
+          ],
+          "quando": "veio do Japão"
+        }
+      ]
+    },
+    {
+      "id": "t00-titulo",
+      "tipo": "titulo",
+      "numero": 3,
+      "titulo": "A era dos desafios",
+      "subtitulo": "Vinte e cinco anos provando o método em público, contra qualquer um",
+      "duracao": 5
+    },
+    {
+      "id": "a02-desafio",
+      "tipo": "cartao",
+      "ano": 1930,
+      "rotulo": "A ideia",
+      "titulo": "O desafio Gracie",
+      "destaque": "Contra todos",
+      "narracao": "Você já sabe o que os Gracie queriam: provar que a técnica vence a força. O jeito de provar tinha nome. Era o desafio. Funcionava assim: a família anunciava que enfrentava qualquer lutador, de qualquer estilo e de qualquer peso. A tradição conta que Carlos publicava anúncios chamando adversários. Os pesquisadores não encontraram registro desses anúncios. O que os jornais do Rio guardam, e em quantidade, são cartas abertas, provocações e respostas. Antes de ser luta, o desafio Gracie era notícia.",
+      "itens": [
+        {
+          "texto": "Provar que a técnica vence a força",
+          "quando": "a técnica vence"
+        },
+        {
+          "texto": "Qualquer lutador, qualquer estilo, qualquer peso",
+          "quando": "qualquer lutador"
+        },
+        {
+          "texto": "Tradição: anúncios chamando adversários",
+          "quando": "publicava anúncios"
+        },
+        {
+          "texto": "Pesquisadores: sem registro desses anúncios",
+          "quando": "não encontraram registro"
+        },
+        {
+          "texto": "Nos jornais: cartas, provocações e respostas",
+          "quando": "cartas abertas"
+        }
+      ]
+    },
+    {
+      "id": "a03-jornais",
+      "tipo": "comparacao",
+      "ano": 1931,
+      "titulo": "Um precisava do outro",
+      "narracao": "E os jornais adoravam. O Rio tinha diários para todos os gostos, e a página de esportes precisava de assunto todo dia. Um lutador mandava uma carta dizendo que o rival era uma fraude. No dia seguinte, o rival respondia. O público acompanhava como se fosse folhetim. Quando a luta enfim era marcada, a casa já estava vendida. Para o jornal, briga vendia papel. Para o lutador, o jornal trazia fama, alunos e bilheteria. Um precisava do outro. E os Gracie entenderam isso muito cedo.",
+      "esquerda": {
+        "titulo": "O jornal",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Página de esportes pede assunto todo dia",
+            "quando": "página de esportes"
+          },
+          {
+            "texto": "Carta e resposta viram folhetim",
+            "quando": "como se fosse folhetim"
+          },
+          {
+            "texto": "Briga vende papel",
+            "quando": "briga vendia papel"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O lutador",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Ataca o rival por carta",
+            "quando": "mandava uma carta"
+          },
+          {
+            "texto": "Luta marcada, casa vendida",
+            "quando": "a casa já"
+          },
+          {
+            "texto": "Fama, alunos e bilheteria",
+            "quando": "fama, alunos e bilheteria"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a04-lutas-mistas",
+      "tipo": "cartao",
+      "ano": 1931,
+      "rotulo": "O ambiente",
+      "titulo": "Ainda não se dizia vale-tudo",
+      "destaque": "Lutas mistas",
+      "narracao": "Que lutas eram essas? Hoje a gente chamaria de vale-tudo. Na época, quase ninguém falava assim. Segundo as fontes, a expressão só pega no fim dos anos cinquenta, com um programa de televisão do Rio, o Heróis do Ringue. Nos anos trinta, o cartaz dizia outra coisa: jiu-jitsu contra boxe, jiu-jitsu contra capoeira, jiu-jitsu contra luta livre. Eram lutas mistas, de um estilo contra outro. Aconteciam em teatros, estádios e clubes, quase sempre num ringue de boxe. E cada uma tinha um regulamento próprio, combinado antes.",
+      "itens": [
+        {
+          "texto": "\"Vale-tudo\" só pega no fim dos anos 50",
+          "quando": "a expressão só pega"
+        },
+        {
+          "texto": "Na TV do Rio: Heróis do Ringue",
+          "quando": "Heróis do Ringue"
+        },
+        {
+          "texto": "Anos 30: jiu-jitsu contra boxe, capoeira, luta livre",
+          "quando": "jiu-jitsu contra boxe"
+        },
+        {
+          "texto": "Teatros, estádios e clubes, em ringue de boxe",
+          "quando": "teatros, estádios e clubes"
+        },
+        {
+          "texto": "Cada luta com regulamento próprio",
+          "quando": "um regulamento próprio"
+        }
+      ]
+    },
+    {
+      "id": "a05-george",
+      "tipo": "linha",
+      "ano": 1931,
+      "titulo": "George abre a fila",
+      "narracao": "Quem abre a fila é George, o Gato Ruivo. Em julho de [1931|mil novecentos e trinta e um], a academia enfrenta três capoeiristas. O adversário de George, conhecido como Coronel, é desclassificado por um golpe irregular. A noite, segundo as fontes, não agrada ao público. Em dezembro vem um nome de peso: Mário Aleixo, aquele professor que ensinava jiu-jitsu no Rio desde [1913|mil novecentos e treze]. A luta é no Theatro República, e os socos são permitidos. George luta de kimono. No segundo round, encaixa uma chave de braço, e Aleixo desiste. Hélio, o caçula, ainda nem tinha estreado.",
+      "eventos": [
+        {
+          "ano": "jul. 1931",
+          "texto": "Academia Gracie contra três capoeiristas",
+          "quando": "enfrenta três capoeiristas"
+        },
+        {
+          "ano": "jul. 1931",
+          "texto": "Coronel, rival de George, é desclassificado",
+          "quando": "é desclassificado"
+        },
+        {
+          "ano": "3 dez. 1931",
+          "texto": "George contra Mário Aleixo, no Theatro República",
+          "quando": "Mário Aleixo"
+        },
+        {
+          "ano": "3 dez. 1931",
+          "texto": "Vitória por chave de braço no segundo round",
+          "quando": "No segundo round"
+        }
+      ]
+    },
+    {
+      "id": "a06-rufino",
+      "tipo": "perfil",
+      "ano": 1931,
+      "papel": "O rival da luta livre",
+      "nome": "Manoel Rufino dos Santos",
+      "anos": "Professor de luta livre no Rio",
+      "narracao": "Mas o desafio mais barulhento não é de George. É de Carlos. O adversário se chama Manoel Rufino dos Santos. Ele é da luta livre, a luta agarrada sem kimono, e ensina no Rio. Rufino critica os Gracie pelos jornais, e o caso vai parar no ringue. A data: vinte e dois de agosto de [1931|mil novecentos e trinta e um]. O lugar: o estádio do Fluminense. O combinado: rounds de cinco minutos, sem socos nem chutes. Só luta agarrada. Há quem diga que foi a única luta profissional da vida de Carlos.",
+      "fatos": [
+        {
+          "texto": "Luta livre: luta agarrada sem kimono",
+          "quando": "a luta agarrada"
+        },
+        {
+          "texto": "Critica os Gracie pelos jornais",
+          "quando": "Rufino critica"
+        },
+        {
+          "texto": "22 de agosto de 1931, estádio do Fluminense",
+          "quando": "agosto de 1931"
+        },
+        {
+          "texto": "Rounds de cinco minutos, sem socos nem chutes",
+          "quando": "rounds de cinco minutos"
+        },
+        {
+          "texto": "Única luta profissional de Carlos, dizem",
+          "quando": "a única luta profissional"
+        }
+      ]
+    },
+    {
+      "id": "a07-carlos-rufino",
+      "tipo": "comparacao",
+      "ano": 1931,
+      "titulo": "Carlos Gracie x Rufino: quem venceu?",
+      "narracao": "Rufino domina os dois primeiros rounds. No terceiro, os dois vão parar nas cordas, e o juiz manda recomeçar no centro. É aí que Carlos encaixa uma guilhotina, o estrangulamento feito pela frente, com o braço em volta do pescoço. Carlos diz que Rufino bateu, o sinal de desistência. Rufino nega. Os juízes mandam a luta continuar. Carlos se recusa: para ele, já tinha vencido. Depois de muita espera, sai o resultado oficial. Vitória de Rufino. Carlos nunca aceitou. E Rufino não ia deixar ninguém esquecer.",
+      "esquerda": {
+        "titulo": "Carlos",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Encaixa uma guilhotina no terceiro round",
+            "quando": "encaixa uma guilhotina"
+          },
+          {
+            "texto": "Diz que Rufino bateu",
+            "quando": "Rufino bateu"
+          },
+          {
+            "texto": "Recusa-se a continuar: já tinha vencido",
+            "quando": "Carlos se recusa"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Rufino e os juízes",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Rufino domina os dois primeiros rounds",
+            "quando": "Rufino domina"
+          },
+          {
+            "texto": "Rufino nega ter desistido",
+            "quando": "Rufino nega"
+          },
+          {
+            "texto": "Juízes mandam continuar",
+            "quando": "mandam a luta continuar"
+          },
+          {
+            "texto": "Resultado oficial: vitória de Rufino",
+            "quando": "Vitória de Rufino"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a08-agressao",
+      "tipo": "cartao",
+      "ano": 1932,
+      "rotulo": "18 de outubro de 1932",
+      "titulo": "A agressão a Rufino",
+      "destaque": "Três contra um",
+      "narracao": "Durante um ano, Rufino provoca. Em dezoito de outubro de [1932|mil novecentos e trinta e dois], o jornal Diário de Notícias publica uma carta dele, com treze perguntas para Carlos. A última: se ele tinha tido medo de continuar a luta. Na mesma noite, Carlos, George e Hélio esperam Rufino na porta do Tijuca Tênis Clube, onde ele dava aula. E o atacam, três contra um. Os relatos falam em socos, pontapés e golpes com uma caixa de metal. Rufino vai para o hospital, com o ombro deslocado. A polícia abre inquérito.",
+      "itens": [
+        {
+          "texto": "Um ano de provocações de Rufino",
+          "quando": "Rufino provoca"
+        },
+        {
+          "texto": "Carta no Diário de Notícias: treze perguntas",
+          "quando": "treze perguntas"
+        },
+        {
+          "texto": "Na mesma noite, na porta do Tijuca Tênis Clube",
+          "quando": "Na mesma noite"
+        },
+        {
+          "texto": "Carlos, George e Hélio atacam Rufino",
+          "quando": "E o atacam"
+        },
+        {
+          "texto": "Rufino hospitalizado; polícia abre inquérito",
+          "quando": "para o hospital"
+        }
+      ]
+    },
+    {
+      "id": "a09-indulto",
+      "tipo": "linha",
+      "ano": 1934,
+      "titulo": "Condenação e indulto",
+      "narracao": "O processo anda devagar. Em maio de [1934|mil novecentos e trinta e quatro], os jornais dão a sentença: Carlos, George e Hélio são condenados a dois anos e meio de prisão. Dias depois, eles se apresentam e são presos. Carlos e Hélio perdem o posto de instrutores de jiu-jitsu da Polícia Especial. Mas a família tem amigos. A poeta Rosalina Coelho Lisboa, que tinha sido aluna, puxa um pedido de perdão. No começo de junho, sai o indulto do presidente Getúlio Vargas. Segundo as fontes, os três ficaram cerca de dez dias presos. É um episódio pouco lembrado.",
+      "eventos": [
+        {
+          "ano": "out. 1932",
+          "texto": "Agressão e inquérito",
+          "quando": "O processo anda"
+        },
+        {
+          "ano": "maio 1934",
+          "texto": "Condenados a dois anos e meio de prisão",
+          "quando": "são condenados"
+        },
+        {
+          "ano": "maio 1934",
+          "texto": "Presos; fora da Polícia Especial",
+          "quando": "são presos"
+        },
+        {
+          "ano": "maio 1934",
+          "texto": "Rosalina Coelho Lisboa pede o perdão",
+          "quando": "Rosalina Coelho Lisboa"
+        },
+        {
+          "ano": "jun. 1934",
+          "texto": "Indulto de Getúlio Vargas, após cerca de dez dias",
+          "quando": "sai o indulto"
+        }
+      ]
+    },
+    {
+      "id": "a10-namiki",
+      "tipo": "comparacao",
+      "ano": 1932,
+      "titulo": "Hélio Gracie x Takashi Namiki",
+      "narracao": "Voltemos a [1932|mil novecentos e trinta e dois], o ano em que Hélio estreia. Você viu a primeira luta: o boxeador Antonio Portugal, vencido em menos de um minuto. A segunda é bem mais difícil. O adversário é japonês, Takashi Namiki, e a luta é de jiu-jitsu, os dois de kimono. Namiki é uns sete quilos mais pesado. As fontes falam em setembro, e divergem sobre o que se viu. Para umas, o japonês dominou. Outras dizem que Hélio atacava um braço quando o tempo acabou. No resultado, todas concordam: empate.",
+      "esquerda": {
+        "titulo": "Uma versão",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Namiki, sete quilos mais pesado",
+            "quando": "uns sete quilos"
+          },
+          {
+            "texto": "O japonês dominou a luta",
+            "quando": "o japonês dominou"
+          },
+          {
+            "texto": "Resultado: empate",
+            "quando": "todas concordam"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Outra versão",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Luta de jiu-jitsu, os dois de kimono",
+            "quando": "os dois de kimono"
+          },
+          {
+            "texto": "Hélio atacava um braço no fim",
+            "quando": "atacava um braço"
+          },
+          {
+            "texto": "Resultado: empate",
+            "quando": "todas concordam"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a11-ebert",
+      "tipo": "perfil",
+      "ano": 1932,
+      "papel": "O gigante americano",
+      "nome": "Fred Ebert",
+      "anos": "Lutador de luta livre, Estados Unidos",
+      "narracao": "Em seis de novembro de [1932|mil novecentos e trinta e dois], o adversário é um gigante. Fred Ebert é americano, lutador de luta livre, e se apresenta como vice-campeão mundial. Pesa quase trinta quilos a mais que Hélio, que acabou de fazer dezenove anos. A luta é só agarrada, sem socos, e, segundo as fontes, sem limite de tempo. Começa tarde da noite. E não acaba. Passa de uma hora. Uma fonte fala em uma hora e quarenta, outra em mais de duas horas. Ninguém desiste. Até que mandam parar.",
+      "fatos": [
+        {
+          "texto": "6 de novembro de 1932: contra Hélio Gracie",
+          "quando": "novembro de 1932"
+        },
+        {
+          "texto": "Apresentado como vice-campeão mundial",
+          "quando": "como vice-campeão mundial"
+        },
+        {
+          "texto": "Quase trinta quilos a mais que Hélio",
+          "quando": "quase trinta quilos"
+        },
+        {
+          "texto": "Só luta agarrada, sem limite de tempo",
+          "quando": "sem limite de tempo"
+        },
+        {
+          "texto": "De 1h40 a mais de duas horas",
+          "quando": "uma hora e quarenta"
+        }
+      ]
+    },
+    {
+      "id": "a12-empates",
+      "tipo": "cartao",
+      "ano": 1932,
+      "rotulo": "As regras",
+      "titulo": "Por que tanto empate?",
+      "destaque": "Sem pontos",
+      "narracao": "Quem mandou parar? Hélio contava que foi a polícia. Rorion, filho dele, dizia que foi o médico, por causa de uma febre alta. O resultado ficou sendo empate. E empate era o que mais se via. O motivo está nas regras. Cada luta tinha as suas: com kimono ou sem, com soco ou sem, em rounds ou em tempo corrido. Mas, em geral, não havia pontos. Só ganhava quem fizesse o outro desistir ou ficar sem condições de continuar. Quem sabia se defender não perdia. E Hélio sabia.",
+      "itens": [
+        {
+          "texto": "Ebert: parada pela polícia, dizia Hélio",
+          "quando": "foi a polícia"
+        },
+        {
+          "texto": "Ou pelo médico, dizia Rorion",
+          "quando": "foi o médico"
+        },
+        {
+          "texto": "Com kimono ou sem, com soco ou sem",
+          "quando": "com kimono ou sem"
+        },
+        {
+          "texto": "Rounds ou tempo corrido",
+          "quando": "em rounds"
+        },
+        {
+          "texto": "Em geral, sem pontos",
+          "quando": "não havia pontos"
+        },
+        {
+          "texto": "Vitória só por desistência ou nocaute",
+          "quando": "o outro desistir"
+        }
+      ]
+    },
+    {
+      "id": "a13-japoneses",
+      "tipo": "mapa",
+      "ano": 1934,
+      "titulo": "O próximo teste",
+      "narracao": "No fim de [1933|mil novecentos e trinta e três], o saldo é curioso. Carlos saiu do ringue com uma derrota oficial e um processo. George tem a vitória sobre Aleixo. Hélio, uma vitória rápida e dois empates suados. Não é um cartel de campeões. Mas o sobrenome está em todos os jornais. Falta o teste mais sério. A partir de [1934|mil novecentos e trinta e quatro], o Rio começa a receber lutadores japoneses, formados no judô. Para uma família que diz ensinar a verdadeira luta japonesa, não há adversário mais perigoso. Nem mais valioso.",
+      "vista": {
+        "lon": -44,
+        "lat": -21,
+        "escala": 4.5
+      },
+      "ate": {
+        "lon": 40,
+        "lat": 5,
+        "escala": 1
+      },
+      "lugares": [
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "o saldo é curioso",
+          "destaque": true
+        },
+        {
+          "nome": "Japão",
+          "coord": [
+            138.5,
+            36.2
+          ],
+          "quando": "lutadores japoneses"
+        }
+      ]
+    },
+    {
+      "id": "b01-zbyszko",
+      "tipo": "cartao",
+      "ano": 1934,
+      "rotulo": "Rio, 28 de julho de 1934",
+      "titulo": "O gigante polonês",
+      "destaque": "Quase 40 kg",
+      "narracao": "Rio de Janeiro, vinte e oito de julho de [1934|mil novecentos e trinta e quatro]. No Estádio Brasil, Hélio Gracie tem vinte anos e uns sessenta quilos. Do outro lado está [Wladek Zbyszko|Vládek Zbísco], lutador polonês de quarenta e um anos, com quase quarenta quilos a mais. Hélio luta de costas no chão, com o gigante preso entre as pernas. É a guarda. [Zbyszko|Zbísco] não consegue passar nem finalizar. Hélio também não ataca. A luta termina empatada. E o público, segundo um relato baseado no pesquisador Roberto Pedreira, vaia o tempo todo.",
+      "itens": [
+        {
+          "texto": "Hélio: 20 anos, pouco mais de 60 quilos",
+          "quando": "Hélio Gracie tem"
+        },
+        {
+          "texto": "Zbyszko: 41 anos, quase 40 quilos a mais",
+          "quando": "lutador polonês"
+        },
+        {
+          "texto": "Hélio luta de costas, na guarda",
+          "quando": "luta de costas"
+        },
+        {
+          "texto": "Ninguém finaliza: empate",
+          "quando": "termina empatada"
+        },
+        {
+          "texto": "O público vaia o tempo todo",
+          "quando": "vaia o tempo"
+        }
+      ]
+    },
+    {
+      "id": "b02-quem-era-zbyszko",
+      "tipo": "perfil",
+      "ano": 1934,
+      "papel": "O campeão de luta livre",
+      "nome": "Wladek Zbyszko",
+      "anos": "1892 – 1968",
+      "wiki": "Wladek_Zbyszko",
+      "narracao": "Quem era esse polonês? [Zbyszko|Zbísco] nasceu em Cracóvia, em [1892|mil oitocentos e noventa e dois], e fez carreira nos Estados Unidos. Em [1917|mil novecentos e dezessete], ganhou um título americano dos pesos pesados. Em [1934|mil novecentos e trinta e quatro], vem ao Brasil numa excursão de luta livre, com o irmão mais velho, Stanislaus. Aqui, segundo o mesmo relato, vence várias lutas combinadas, de espetáculo. Contra Hélio é diferente: ninguém vence. Em outubro, ele enfrenta George Gracie e ganha com uma chave de braço. É a primeira derrota registrada do Gato Ruivo.",
+      "fatos": [
+        {
+          "texto": "Nasce em Cracóvia, em 1892",
+          "quando": "nasceu em Cracóvia"
+        },
+        {
+          "texto": "1917: título americano dos pesos pesados",
+          "quando": "ganhou um título"
+        },
+        {
+          "texto": "1934: excursão ao Brasil com o irmão",
+          "quando": "vem ao Brasil"
+        },
+        {
+          "texto": "Lutas combinadas, segundo o relato",
+          "quando": "várias lutas combinadas"
+        },
+        {
+          "texto": "Outubro: vence George com chave de braço",
+          "quando": "ele enfrenta George"
+        }
+      ]
+    },
+    {
+      "id": "b03-miyake",
+      "tipo": "comparacao",
+      "ano": 1934,
+      "titulo": "Quem era Miyake?",
+      "narracao": "Naquele mesmo ano, Hélio enfrenta o primeiro japonês desta fase. O nome no cartaz é [Miyake|Miáque], anunciado como faixa preta de judô. Hélio passa vinte minutos na guarda. Depois sobe para a montada, sentado sobre o tronco do adversário, e estrangula com a gola do kimono. O japonês desmaia. Mas quem era ele? Muitos textos dizem que era Taro [Miyake|Miáque], lutador famoso na Europa. A Wikipedia em inglês duvida: a idade e o peso não batem. E esse [Miyake|Miáque] só tinha uma luta profissional conhecida, uma derrota.",
+      "esquerda": {
+        "titulo": "A luta",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Vinte minutos na guarda",
+            "quando": "vinte minutos"
+          },
+          {
+            "texto": "Montada e estrangulamento com a gola",
+            "quando": "sobe para a montada"
+          },
+          {
+            "texto": "O japonês desmaia: vitória de Hélio",
+            "quando": "O japonês desmaia"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "A dúvida",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Seria o famoso Taro Miyake?",
+            "quando": "era Taro Miyake"
+          },
+          {
+            "texto": "Idade e peso anunciados não batem",
+            "quando": "a idade e"
+          },
+          {
+            "texto": "Uma só luta profissional conhecida, uma derrota",
+            "quando": "uma luta profissional"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b04-dudu",
+      "tipo": "cartao",
+      "ano": 1935,
+      "rotulo": "2 de fevereiro de 1935",
+      "titulo": "Hélio contra Dudu",
+      "destaque": "Sem kimono",
+      "narracao": "Em fevereiro de [1935|mil novecentos e trinta e cinco], a luta é outra. Sem kimono e com soco: vale-tudo, por vinte minutos. O adversário é Orlando Américo da Silva, o Dudu, lutador de luta livre que tinha dado aulas aos próprios Gracie. Pesa uns vinte quilos a mais. Dudu derruba Hélio e quebra o nariz dele com uma cabeçada. Mas se cansa. Hélio, por baixo, acerta dois pisões, chutes de lado, na altura do baço. Dudu desiste de viva voz. Numa revanche só de agarramento, Hélio perde por desclassificação: usou um golpe proibido.",
+      "itens": [
+        {
+          "texto": "Vale-tudo, limite de vinte minutos",
+          "quando": "Sem kimono"
+        },
+        {
+          "texto": "Dudu: ex-professor de luta livre dos Gracie",
+          "quando": "o Dudu"
+        },
+        {
+          "texto": "Cabeçada quebra o nariz de Hélio",
+          "quando": "quebra o nariz"
+        },
+        {
+          "texto": "Dois pisões na altura do baço",
+          "quando": "acerta dois pisões"
+        },
+        {
+          "texto": "Dudu desiste de viva voz",
+          "quando": "Dudu desiste"
+        },
+        {
+          "texto": "Revanche: Hélio desclassificado",
+          "quando": "Numa revanche"
+        }
+      ]
+    },
+    {
+      "id": "b05-japoneses-sp",
+      "tipo": "mapa",
+      "ano": 1934,
+      "titulo": "Os japoneses de São Paulo",
+      "narracao": "Enquanto isso, São Paulo recebe reforços. Em outubro de [1934|mil novecentos e trinta e quatro], segundo o site Simon BJJ, chega à cidade um grupo de dez judocas japoneses. Entre eles, dois irmãos: [Yassuiti|Iassuíti] Ono, quinto grau de faixa preta, e [Naoiti|Naoíti], um garoto de uns catorze anos que os jornais vão chamar de Oninho. No mesmo ano chega [Takeo Yano|Taquêo Iano], que se junta a Geo Omori, o velho rival de Carlos. E logo tomam o caminho do Rio, onde os Gracie desafiam qualquer um.",
+      "vista": {
+        "lon": -50,
+        "lat": -16,
+        "escala": 3
+      },
+      "ate": {
+        "lon": -44.9,
+        "lat": -23.2,
+        "escala": 6.5
+      },
+      "lugares": [
+        {
+          "nome": "São Paulo",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "São Paulo recebe",
+          "destaque": true
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "caminho do Rio"
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -46.63,
+              -23.55
+            ],
+            [
+              -45.9,
+              -23.2
+            ],
+            [
+              -44.6,
+              -22.6
+            ],
+            [
+              -43.2,
+              -22.9
+            ]
+          ],
+          "quando": "logo tomam",
+          "ate": "desafiam qualquer um"
+        }
+      ]
+    },
+    {
+      "id": "b06-ono",
+      "tipo": "perfil",
+      "ano": 1935,
+      "papel": "O quinto grau que desafiou Hélio",
+      "nome": "Yassuiti Ono",
+      "narracao": "[Yassuiti|Iassuíti] Ono é leve como Hélio, pouco mais de sessenta quilos. E quer vale-tudo. Uma luta chega a ser marcada para abril de [1935|mil novecentos e trinta e cinco], mas, segundo as fontes, Hélio desiste. O encontro só sai em dezembro, com outras regras: jiu-jitsu de kimono, sem pontos e sem juízes. Só a finalização dá a vitória. Ono derruba Hélio trinta e duas vezes. No primeiro assalto, quase encaixa uma chave de braço. Hélio escapa de tudo, até mergulhando para fora do ringue. E o resultado oficial é empate.",
+      "fatos": [
+        {
+          "texto": "Pouco mais de 60 quilos, como Hélio",
+          "quando": "leve como Hélio"
+        },
+        {
+          "texto": "Abril de 1935: vale-tudo marcado, Hélio desiste",
+          "quando": "Hélio desiste"
+        },
+        {
+          "texto": "Dezembro: kimono, sem pontos nem juízes",
+          "quando": "sem pontos"
+        },
+        {
+          "texto": "32 quedas e uma quase chave de braço",
+          "quando": "Ono derruba Hélio"
+        },
+        {
+          "texto": "Resultado oficial: empate",
+          "quando": "o resultado oficial"
+        }
+      ]
+    },
+    {
+      "id": "b07-1936",
+      "tipo": "linha",
+      "ano": 1936,
+      "titulo": "Hélio e os japoneses, 1936",
+      "narracao": "O ano de [1936|mil novecentos e trinta e seis] repete a história. Em junho, Hélio enfrenta [Takeo Yano|Taquêo Iano]. Carlos previa que o japonês não passaria do primeiro assalto. [Yano|Iano] derruba Hélio várias vezes, Hélio ameaça um estrangulamento, e dá empate. Em setembro, Hélio finaliza [Massagoichi|Massagoíchi], apresentado como lutador de sumô, com uma chave de braço. Em outubro, a revanche com Ono: vinte e sete quedas para o japonês, nenhuma finalização, outro empate. No papel, Hélio sai invicto dos japoneses. Mas os repórteres, segundo Simon BJJ, foram unânimes: Ono dominou.",
+      "eventos": [
+        {
+          "ano": "jun. 1936",
+          "texto": "Takeo Yano: muitas quedas, empate",
+          "quando": "Hélio enfrenta Takeo Yano"
+        },
+        {
+          "ano": "set. 1936",
+          "texto": "Massagoichi: vitória por chave de braço",
+          "quando": "Hélio finaliza Massagoichi"
+        },
+        {
+          "ano": "out. 1936",
+          "texto": "Ono, a revanche: 27 quedas, empate",
+          "quando": "a revanche com Ono"
+        },
+        {
+          "ano": "saldo",
+          "texto": "No papel, invicto contra os japoneses",
+          "quando": "Hélio sai invicto"
+        },
+        {
+          "ano": "imprensa",
+          "texto": "Repórteres unânimes: Ono dominou",
+          "quando": "Ono dominou"
+        }
+      ]
+    },
+    {
+      "id": "b08-o-que-mostraram",
+      "tipo": "comparacao",
+      "ano": 1936,
+      "titulo": "O que as lutas mostraram",
+      "narracao": "O que essas lutas mostraram? Primeiro, o que funcionava. A defesa de Hélio no chão era muito difícil de furar. Nem um quinto grau do judô conseguiu finalizá-lo. Para a academia, empatar assim já era propaganda. Depois, o que faltava. Em pé, os japoneses mandavam: derrubavam quando queriam. E, por baixo, Hélio recuperava a guarda, mas não conseguia inverter a posição nem ameaçar. Havia ainda a regra. Sem juízes e sem pontos, quem dominava não levava nada. Essa exigência, dizem as fontes, vinha do lado de Hélio.",
+      "esquerda": {
+        "titulo": "O que funcionava",
+        "tom": "bom",
+        "itens": [
+          {
+            "texto": "Defesa no chão muito difícil de furar",
+            "quando": "A defesa de Hélio"
+          },
+          {
+            "texto": "Nem um quinto grau o finalizou",
+            "quando": "Nem um quinto grau"
+          },
+          {
+            "texto": "Empatar com eles já era propaganda",
+            "quando": "já era propaganda"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que faltava",
+        "tom": "ruim",
+        "itens": [
+          {
+            "texto": "Em pé, os japoneses derrubavam à vontade",
+            "quando": "os japoneses mandavam"
+          },
+          {
+            "texto": "Por baixo, sem inverter nem ameaçar",
+            "quando": "recuperava a guarda"
+          },
+          {
+            "texto": "Sem juízes nem pontos: domínio não valia",
+            "quando": "Sem juízes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b09-yano",
+      "tipo": "perfil",
+      "ano": 1936,
+      "papel": "O japonês das chaves de perna",
+      "nome": "Takeo Yano",
+      "anos": "c. 1909 – 1988",
+      "wiki": "Takeo_Yano",
+      "narracao": "[Takeo Yano|Taquêo Iano] merece uma pausa. Ele se formou em Kyoto, com um mestre conhecido pela luta de chão. No Brasil, ensina em São Paulo, no Rio e em Fortaleza. Luta até os anos cinquenta, muitas vezes contra George Gracie, de quem fica amigo. Pesquisadores atribuem a ele a difusão das chaves de perna, como a chave de calcanhar, no jiu-jitsu brasileiro. Segundo Simon BJJ, passa os últimos anos em Belo Horizonte e morre em [1988|mil novecentos e oitenta e oito]. A história oficial quase não o cita.",
+      "fatos": [
+        {
+          "texto": "Formado em Kyoto, com mestre da luta de chão",
+          "quando": "se formou em Kyoto"
+        },
+        {
+          "texto": "Ensina em São Paulo, Rio e Fortaleza",
+          "quando": "ensina em São Paulo"
+        },
+        {
+          "texto": "Luta até os anos 1950; amigo de George",
+          "quando": "Luta até os"
+        },
+        {
+          "texto": "Difunde as chaves de perna, dizem pesquisadores",
+          "quando": "a difusão das"
+        },
+        {
+          "texto": "Últimos anos em Belo Horizonte; morre em 1988",
+          "quando": "os últimos anos"
+        }
+      ]
+    },
+    {
+      "id": "b10-heranca",
+      "tipo": "linhagem",
+      "ano": 1950,
+      "titulo": "O que os japoneses deixaram",
+      "narracao": "E os irmãos Ono? Eles ensinam, sobretudo em São Paulo, até os anos cinquenta. Parte dos alunos segue para o judô. Um estudo da USP põe [Yassuiti|Iassuíti] Ono entre os mestres japoneses de quem descendem os medalhistas olímpicos brasileiros. Outra parte fica no jiu-jitsu. De Ono vem Otávio de Almeida, que forma Moisés Muradi, fundador da equipe Lotus. De [Yano|Iano] vem Francisco Sá, que ensina os filhos, no Ceará. São linhagens de jiu-jitsu que não passam por Maeda nem pelos Gracie.",
+      "nos": [
+        {
+          "id": "japao",
+          "nome": "Judô japonês",
+          "sub": "São Paulo, anos 1930",
+          "quando": "os irmãos Ono"
+        },
+        {
+          "id": "ono",
+          "nome": "Yassuiti Ono",
+          "sub": "judô e jiu-jitsu",
+          "pai": "japao",
+          "quando": "Yassuiti Ono entre"
+        },
+        {
+          "id": "almeida",
+          "nome": "Otávio de Almeida",
+          "pai": "ono",
+          "quando": "Otávio de Almeida"
+        },
+        {
+          "id": "muradi",
+          "nome": "Moisés Muradi",
+          "sub": "equipe Lotus",
+          "pai": "almeida",
+          "quando": "Moisés Muradi"
+        },
+        {
+          "id": "yano",
+          "nome": "Takeo Yano",
+          "sub": "chaves de perna",
+          "pai": "japao",
+          "quando": "De Yano vem"
+        },
+        {
+          "id": "sa",
+          "nome": "Francisco Sá",
+          "sub": "Ceará",
+          "pai": "yano",
+          "quando": "Francisco Sá"
+        },
+        {
+          "id": "filhos",
+          "nome": "Família Sá",
+          "sub": "os filhos",
+          "pai": "sa",
+          "quando": "ensina os filhos"
+        }
+      ]
+    },
+    {
+      "id": "b11-george",
+      "tipo": "linha",
+      "ano": 1937,
+      "titulo": "George, por conta própria",
+      "narracao": "E George? Nesses anos, o Gato Ruivo luta mais do que Hélio. E, ao contrário do irmão, perde e ganha. Perde para [Zbyszko|Zbísco] em [1934|mil novecentos e trinta e quatro]. Empata com [Yano|Iano] em [1935|mil novecentos e trinta e cinco] e o estrangula no ano seguinte, sem kimono. Em [1936|mil novecentos e trinta e seis], substitui Hélio e enfrenta três homens numa noite. Em [1937|mil novecentos e trinta e sete], é finalizado por [Yassuiti|Iassuíti] Ono, e semanas depois vence a revanche por desclassificação. George entra e sai da academia. Luta livre de espetáculo, treino com rivais, a dieta: motivos prováveis não faltam.",
+      "eventos": [
+        {
+          "ano": "1934",
+          "texto": "Derrota para Zbyszko, por chave de braço",
+          "quando": "Perde para Zbyszko"
+        },
+        {
+          "ano": "1935",
+          "texto": "Empate com Takeo Yano",
+          "quando": "Empata com Yano"
+        },
+        {
+          "ano": "1936",
+          "texto": "Estrangula Yano numa luta sem kimono",
+          "quando": "o estrangula"
+        },
+        {
+          "ano": "1936",
+          "texto": "No lugar de Hélio: três adversários numa noite",
+          "quando": "substitui Hélio"
+        },
+        {
+          "ano": "1937",
+          "texto": "Finalizado por Yassuiti Ono",
+          "quando": "é finalizado por"
+        },
+        {
+          "ano": "1937",
+          "texto": "Vence a revanche por desclassificação",
+          "quando": "vence a revanche"
+        }
+      ]
+    },
+    {
+      "id": "b12-marmelada",
+      "tipo": "comparacao",
+      "ano": 1936,
+      "titulo": "Luta de verdade ou marmelada?",
+      "narracao": "Agora, a parte incômoda. Luta combinada tinha nome: marmelada. E era comum, porque dava bilheteria. Um relato baseado no pesquisador Roberto Pedreira diz que George admitia aceitar lutas assim quando o cachê compensava. O site Simon BJJ aponta sobretudo os encontros dele com [Yano|Iano]. Isso teria ajudado a afastá-lo dos irmãos. E Hélio? O mesmo site diz que ele era contra e que nada o liga a combinações. Mas a imprensa chamou a luta com [Massagoichi|Massagoíchi] de comédia e farsa. Prova, de um lado ou de outro, quase nunca existe.",
+      "esquerda": {
+        "titulo": "George",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Admitia lutas combinadas por bom cachê",
+            "quando": "George admitia"
+          },
+          {
+            "texto": "Suspeita maior: os encontros com Yano",
+            "quando": "os encontros dele"
+          },
+          {
+            "texto": "Motivo de atrito com Carlos e Hélio",
+            "quando": "ajudado a afastá-lo"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Hélio",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Era contra, segundo Simon BJJ",
+            "quando": "ele era contra"
+          },
+          {
+            "texto": "Massagoichi: imprensa falou em comédia e farsa",
+            "quando": "comédia e farsa"
+          },
+          {
+            "texto": "Prova quase nunca existe",
+            "quando": "quase nunca existe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b13-aposentadoria",
+      "tipo": "cartao",
+      "ano": 1937,
+      "rotulo": "Fim da primeira fase",
+      "titulo": "Hélio sai do ringue",
+      "destaque": "1937",
+      "narracao": "Em [1937|mil novecentos e trinta e sete], Hélio ainda vence [Erwin Klausner|Érvin Cláusner], um boxeador, com uma chave de braço no segundo assalto. E para. Tem vinte e poucos anos, cinco de carreira e nenhuma derrota por finalização registrada. As fontes anotam a aposentadoria, mas não explicam direito o motivo. O certo é que ele só volta a lutar em [1950|mil novecentos e cinquenta]. George segue nos ringues. Os japoneses seguem ensinando. E o caçula dos Gracie passa treze anos fora do cartaz. O que ele faz nesse tempo é a próxima parte desta história.",
+      "itens": [
+        {
+          "texto": "1937: vence Klausner por chave de braço",
+          "quando": "ainda vence Erwin Klausner"
+        },
+        {
+          "texto": "Cinco anos de carreira, nunca finalizado",
+          "quando": "cinco de carreira"
+        },
+        {
+          "texto": "Motivo da aposentadoria: as fontes não explicam",
+          "quando": "não explicam direito"
+        },
+        {
+          "texto": "Só volta a lutar em 1950",
+          "quando": "só volta a lutar"
+        },
+        {
+          "texto": "Treze anos fora do cartaz",
+          "quando": "passa treze anos"
+        }
+      ]
+    },
+    {
+      "id": "c01-pausa",
+      "tipo": "cartao",
+      "ano": 1937,
+      "rotulo": "A pausa",
+      "titulo": "Mais de dez anos fora do ringue",
+      "destaque": "1937–1950",
+      "narracao": "Treze anos sem lutar em público. Para uma família que vivia de desafio, parece o fim da linha. Não é. Hélio tem uns vinte e cinco anos quando sai do cartaz, e a academia continua aberta, cheia, todos os dias. Nesse tempo, os Gracie fazem uma coisa menos barulhenta do que subir no ringue, e que vai durar mais do que qualquer luta: dar aula. É nesses anos de silêncio que o jiu-jitsu deles deixa de ser só espetáculo e vira ofício.",
+      "itens": [
+        {
+          "texto": "Treze anos sem lutas públicas",
+          "quando": "Treze anos"
+        },
+        {
+          "texto": "A academia continua aberta e cheia",
+          "quando": "a academia continua"
+        },
+        {
+          "texto": "Os Gracie se dedicam a ensinar",
+          "quando": "dar aula"
+        },
+        {
+          "texto": "De espetáculo a ofício",
+          "quando": "vira ofício"
+        }
+      ]
+    },
+    {
+      "id": "c02-flamengo-fortaleza",
+      "tipo": "mapa",
+      "ano": 1940,
+      "titulo": "Cada irmão num canto",
+      "vista": {
+        "lon": -44,
+        "lat": -21.5,
+        "escala": 5.5
+      },
+      "ate": {
+        "lon": -42,
+        "lat": -13,
+        "escala": 3
+      },
+      "narracao": "Segundo o pesquisador Roberto Pedreira, em [1940|mil novecentos e quarenta] Hélio monta uma academia na Praia do Flamengo, na Zona Sul do Rio. É ali que ele passa a década, de kimono, mas sem plateia. Carlos, o irmão mais velho, toma outro rumo por um tempo. Ele se muda para Fortaleza, no Ceará. Lá, dá aulas de jiu-jitsu para a polícia e aprofunda os estudos sobre alimentação, que vão dar na dieta da família. As fontes que consultamos não dizem em que ano ele foi, nem quando voltou.",
+      "lugares": [
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "Hélio monta",
+          "destaque": true
+        },
+        {
+          "nome": "Academia no Flamengo, 1940",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "Praia do Flamengo"
+        },
+        {
+          "nome": "Fortaleza",
+          "coord": [
+            -38.5,
+            -3.7
+          ],
+          "quando": "Fortaleza, no Ceará"
+        },
+        {
+          "nome": "Aulas para a polícia",
+          "coord": [
+            -38.5,
+            -3.7
+          ],
+          "quando": "para a polícia"
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              -43.2,
+              -22.9
+            ],
+            [
+              -39.5,
+              -19
+            ],
+            [
+              -38,
+              -13.5
+            ],
+            [
+              -34.9,
+              -8.05
+            ],
+            [
+              -38.5,
+              -3.7
+            ]
+          ],
+          "quando": "Ele se muda",
+          "ate": "no Ceará"
+        }
+      ]
+    },
+    {
+      "id": "c03-metodo",
+      "tipo": "cartao",
+      "ano": 1945,
+      "rotulo": "O método",
+      "titulo": "Um professor, um aluno",
+      "narracao": "O negócio dos Gracie é a aula particular. Um professor, um aluno, meia hora de cada vez. Não é treino para formar campeão. É defesa pessoal, ensinada em sequência: cada aula retoma a anterior e acrescenta um passo, até uma pessoa comum saber se soltar de um agarrão. O preço é alto. O público é de renda alta, gente de dinheiro e de influência no Rio. Anos depois, Hélio resumiu a regra da casa: o aluno precisa se sentir respeitado. Nada de humilhar quem está pagando para aprender.",
+      "itens": [
+        {
+          "texto": "Aula particular, meia hora de cada vez",
+          "quando": "a aula particular"
+        },
+        {
+          "texto": "Defesa pessoal, não treino de campeão",
+          "quando": "defesa pessoal"
+        },
+        {
+          "texto": "Curso em sequência, um passo por aula",
+          "quando": "acrescenta um passo"
+        },
+        {
+          "texto": "Preço alto, alunos de renda alta",
+          "quando": "O preço é alto"
+        },
+        {
+          "texto": "\"O aluno precisa se sentir respeitado\"",
+          "quando": "se sentir respeitado"
+        }
+      ]
+    },
+    {
+      "id": "c04-carlos",
+      "tipo": "perfil",
+      "ano": 1948,
+      "nome": "Carlos Gracie",
+      "anos": "1902 – 1994",
+      "papel": "O mentor",
+      "wiki": "Carlos_Gracie",
+      "narracao": "E Carlos? Ele já não luta desde o começo dos anos trinta. É o mentor: escolhe adversários, negocia regras, cuida da comida dos lutadores. Em [1948|mil novecentos e quarenta e oito], publica um livro, Introdução ao Jiu-Jitsu. Apesar do título, é mais um manual de alimentação e de filosofia do que de golpes. Carlos também investe em imóveis. E vai formando outra coisa, mais lenta do que qualquer academia: uma família enorme, pensada desde o berço para o tatame.",
+      "fatos": [
+        {
+          "texto": "Fora dos ringues desde os anos 1930",
+          "quando": "já não luta"
+        },
+        {
+          "texto": "Escolhe adversários e negocia regras",
+          "quando": "escolhe adversários"
+        },
+        {
+          "texto": "1948: livro Introdução ao Jiu-Jitsu",
+          "quando": "publica um livro"
+        },
+        {
+          "texto": "Mais dieta e filosofia do que golpes",
+          "quando": "manual de alimentação"
+        },
+        {
+          "texto": "Investe em imóveis",
+          "quando": "investe em imóveis"
+        }
+      ]
+    },
+    {
+      "id": "c05-familia",
+      "tipo": "linhagem",
+      "ano": 1951,
+      "titulo": "A segunda geração",
+      "narracao": "Os filhos de Gastão agora formam as suas próprias famílias. Carlos, bem antes de Hélio, e em outra escala: teve vinte e um filhos ao longo da vida. Os mais velhos são dessa época: Carlson, de [1932|mil novecentos e trinta e dois], e Robson, de [1935|mil novecentos e trinta e cinco]. Em [1951|mil novecentos e cinquenta e um] nasce Rolls, filho de Carlos que vai ser criado por Hélio. Já o primeiro filho de Hélio, Rorion, só chega em [1952|mil novecentos e cinquenta e dois]. Nesse mesmo ano, segundo a Graciemag, Carlos compra uma casa em Teresópolis, na serra, para os fins de semana. Os meninos crescem juntos, com a mesma dieta e o mesmo destino: o kimono.",
+      "nos": [
+        {
+          "id": "gastao",
+          "nome": "Gastão Gracie",
+          "sub": "o pai",
+          "quando": "filhos de Gastão"
+        },
+        {
+          "id": "carlos",
+          "nome": "Carlos Gracie",
+          "sub": "21 filhos",
+          "pai": "gastao",
+          "quando": "Carlos, bem antes"
+        },
+        {
+          "id": "helio",
+          "nome": "Hélio Gracie",
+          "pai": "gastao",
+          "quando": "antes de Hélio"
+        },
+        {
+          "id": "carlson",
+          "nome": "Carlson Gracie",
+          "sub": "1932",
+          "pai": "carlos",
+          "quando": "Carlson, de 1932"
+        },
+        {
+          "id": "robson",
+          "nome": "Robson Gracie",
+          "sub": "1935",
+          "pai": "carlos",
+          "quando": "Robson, de 1935"
+        },
+        {
+          "id": "rolls",
+          "nome": "Rolls Gracie",
+          "sub": "1951, criado por Hélio",
+          "pai": "carlos",
+          "quando": "nasce Rolls"
+        },
+        {
+          "id": "rorion",
+          "nome": "Rorion Gracie",
+          "sub": "1952",
+          "pai": "helio",
+          "quando": "Rorion, só chega"
+        }
+      ]
+    },
+    {
+      "id": "c06-anos-quarenta",
+      "tipo": "linha",
+      "ano": 1943,
+      "titulo": "Os anos quarenta",
+      "narracao": "Fora da academia, o cenário esfria. De [1939|mil novecentos e trinta e nove] a [1945|mil novecentos e quarenta e cinco], o mundo está em guerra. Nos ringues brasileiros, quem enche a casa é a luta livre, assunto do próximo capítulo. George Gracie, o irmão que nunca parou, ainda luta no começo da década. Em [1943|mil novecentos e quarenta e três], a revista Seleções publica que um boxeador tinha vencido um lutador de jiu-jitsu. Hélio responde: propõe enfrentar cinco boxeadores na mesma noite. Segundo a Graciemag, ninguém aceita. O jiu-jitsu continua vivo, mas longe das manchetes.",
+      "eventos": [
+        {
+          "ano": "1939–45",
+          "texto": "Segunda Guerra Mundial",
+          "quando": "o mundo está"
+        },
+        {
+          "ano": "Anos 1940",
+          "texto": "A luta livre enche os ginásios",
+          "quando": "a luta livre"
+        },
+        {
+          "ano": "Anos 1940",
+          "texto": "George Gracie ainda luta",
+          "quando": "George Gracie"
+        },
+        {
+          "ano": "1943",
+          "texto": "Seleções: boxeador vence o jiu-jitsu",
+          "quando": "a revista Seleções"
+        },
+        {
+          "ano": "1943",
+          "texto": "Hélio propõe enfrentar cinco boxeadores",
+          "quando": "cinco boxeadores"
+        }
+      ]
+    },
+    {
+      "id": "c07-joe-louis",
+      "tipo": "comparacao",
+      "ano": 1950,
+      "titulo": "O desafio a Joe Louis",
+      "narracao": "Em [1950|mil novecentos e cinquenta], a provocação sobe de nível. [Joe Louis|Djôu Lúis], o nome mais famoso do boxe, visita o Brasil. Hélio manda um telegrama: quer enfrentar o americano num vale-tudo, a luta em que quase todo golpe é permitido. Daí em diante, as versões mudam. A Graciemag conta que o empresário de Louis respondeu que ele aceitava qualquer desafio, mas a luta nunca foi marcada. Outra versão diz que Louis propôs uma luta de boxe, e que Hélio recusou. Nas duas, o fim é o mesmo: o encontro não acontece.",
+      "esquerda": {
+        "titulo": "Versão da Graciemag",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Hélio desafia por telegrama",
+            "quando": "manda um telegrama"
+          },
+          {
+            "texto": "Empresário: Louis aceita qualquer desafio",
+            "quando": "o empresário de Louis"
+          },
+          {
+            "texto": "A luta nunca é marcada",
+            "quando": "nunca foi marcada"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Outra versão",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Louis propõe uma luta de boxe",
+            "quando": "Louis propôs"
+          },
+          {
+            "texto": "Hélio recusa",
+            "quando": "Hélio recusou"
+          },
+          {
+            "texto": "Nas duas: o encontro não acontece",
+            "quando": "o encontro não acontece"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08-volta",
+      "tipo": "linha",
+      "ano": 1950,
+      "titulo": "1950: a volta",
+      "narracao": "Com trinta e seis anos, Hélio volta a lutar de verdade. O primeiro adversário é Landulfo Caribé, apresentado como campeão baiano de jiu-jitsu, de uma escola que não era a dos Gracie. Segundo um dos relatos, Caribé tinha desafiado Hélio por anúncio de jornal. A luta dura cerca de quatro minutos e termina num estrangulamento. Ainda em [1950|mil novecentos e cinquenta], Hélio vence Azevedo Maia do mesmo jeito. As datas exatas variam de fonte para fonte. O recado não varia: depois de mais de dez anos parado, ele ainda faz o adversário desistir.",
+      "eventos": [
+        {
+          "ano": "1950",
+          "texto": "Hélio volta, aos 36 anos",
+          "quando": "Hélio volta a lutar"
+        },
+        {
+          "ano": "1950",
+          "texto": "Landulfo Caribé, campeão baiano",
+          "quando": "Landulfo Caribé"
+        },
+        {
+          "ano": "1950",
+          "texto": "Estrangulamento em cerca de quatro minutos",
+          "quando": "cerca de quatro minutos"
+        },
+        {
+          "ano": "1950",
+          "texto": "Azevedo Maia: outro estrangulamento",
+          "quando": "vence Azevedo Maia"
+        }
+      ]
+    },
+    {
+      "id": "c09-rio-branco",
+      "tipo": "cartao",
+      "ano": 1952,
+      "rotulo": "A nova academia",
+      "titulo": "Avenida Rio Branco, 151",
+      "destaque": "17º andar",
+      "narracao": "A volta aos ringues vem com um endereço novo: Avenida Rio Branco, [151|cento e cinquenta e um], [17º|décimo sétimo] andar, no centro comercial do Rio. A data da mudança é discutida. Roberto Pedreira fala em [1948|mil novecentos e quarenta e oito]. A Graciemag, em [1952|mil novecentos e cinquenta e dois]. Sobre o tamanho, não há dúvida. Hélio descreveu a casa assim: cinco ringues, cem aulas particulares por dia, seiscentos alunos por mês. Secretárias anotam a hora de entrada. Professor que atrasa paga multa. O jiu-jitsu dos Gracie agora funciona como uma empresa.",
+      "itens": [
+        {
+          "texto": "Avenida Rio Branco, 151, no Centro do Rio",
+          "quando": "Avenida Rio Branco"
+        },
+        {
+          "texto": "Abertura: 1948 (Pedreira) ou 1952 (Graciemag)",
+          "quando": "Roberto Pedreira fala"
+        },
+        {
+          "texto": "Cinco ringues, cem aulas por dia",
+          "quando": "cinco ringues"
+        },
+        {
+          "texto": "Seiscentos alunos por mês",
+          "quando": "seiscentos alunos"
+        },
+        {
+          "texto": "Professor atrasado paga multa",
+          "quando": "paga multa"
+        }
+      ]
+    },
+    {
+      "id": "c10-japoneses",
+      "tipo": "mapa",
+      "ano": 1951,
+      "titulo": "Três judocas a caminho",
+      "vista": {
+        "lon": -150,
+        "lat": 15,
+        "escala": 1.15
+      },
+      "ate": {
+        "lon": -60,
+        "lat": -15,
+        "escala": 2.2
+      },
+      "narracao": "Em julho de [1951|mil novecentos e cinquenta e um], desembarcam no Brasil três judocas japoneses. Vêm a convite do jornal [São Paulo Shimbun|São Paulo Chimbúm], da colônia japonesa, depois de uma temporada no Havaí. O contrato é para apresentações de luta livre profissional e de judô. O chefe do grupo é [Masahiko Kimura|Massarríco Quimúra], tido como o melhor judoca do seu tempo. Com ele vêm [Toshio Yamaguchi|Tóchio Iamagúchi], sexto dan, e [Yukio Kato|Iúquio Cato], quinto dan, de vinte e dois anos. Dan é o grau da faixa preta. E os Gracie, claro, desafiam.",
+      "lugares": [
+        {
+          "nome": "São Paulo",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "desembarcam no Brasil",
+          "destaque": true
+        },
+        {
+          "nome": "Japão",
+          "coord": [
+            139.7,
+            35.7
+          ],
+          "quando": "três judocas japoneses"
+        },
+        {
+          "nome": "Havaí",
+          "coord": [
+            -157.86,
+            21.3
+          ],
+          "quando": "no Havaí"
+        },
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "os Gracie"
+        }
+      ],
+      "rotas": [
+        {
+          "pontos": [
+            [
+              139.7,
+              35.7
+            ],
+            [
+              -157.86,
+              21.3
+            ],
+            [
+              -100,
+              5
+            ],
+            [
+              -46.63,
+              -23.55
+            ]
+          ],
+          "quando": "Vêm a convite",
+          "ate": "no Havaí"
+        }
+      ]
+    },
+    {
+      "id": "c11-kato-maracana",
+      "tipo": "cartao",
+      "ano": 1951,
+      "rotulo": "6 de setembro de 1951",
+      "titulo": "Hélio contra Kato, no Maracanã",
+      "destaque": "Empate",
+      "narracao": "Hélio quer Kimura. Os japoneses respondem que antes ele precisa passar por Kato, o menos graduado dos três. Dia seis de setembro de [1951|mil novecentos e cinquenta e um], no Maracanã, no Rio. Três assaltos de dez minutos, de kimono. Kato ataca com quedas, uma atrás da outra. Mas o tablado é macio, e Hélio cai sem se machucar. No chão, quem cresce é o brasileiro. A Graciemag conta que Kato sai da área de luta para fugir dos estrangulamentos. Resultado: empate. O público reclama, e a revanche é marcada.",
+      "itens": [
+        {
+          "texto": "Antes de Kimura, Kato",
+          "quando": "passar por Kato"
+        },
+        {
+          "texto": "Três assaltos de dez minutos, de kimono",
+          "quando": "Três assaltos"
+        },
+        {
+          "texto": "Kato derruba, mas o tablado é macio",
+          "quando": "Kato ataca"
+        },
+        {
+          "texto": "No chão, Hélio cresce",
+          "quando": "No chão"
+        },
+        {
+          "texto": "Empate e revanche marcada",
+          "quando": "Resultado: empate"
+        }
+      ]
+    },
+    {
+      "id": "c12-kato-pacaembu",
+      "tipo": "comparacao",
+      "ano": 1951,
+      "titulo": "A revanche, 29 de setembro de 1951",
+      "narracao": "Vinte e nove de setembro, São Paulo, ginásio do Pacaembu. Desta vez o ringue tem cordas. Kato derruba Hélio de novo e vai para o chão tentar um estrangulamento. Hélio, por baixo, encaixa o dele primeiro. Kato desmaia. Vitória do brasileiro. Sobre o resto, as versões brigam. A Graciemag fala em oito minutos de luta. Outros relatos, em quase meia hora. E jornais da época questionaram o resultado: numa das descrições, os dois estavam enroscados nas cordas, e Kato esperava o juiz interromper.",
+      "esquerda": {
+        "titulo": "O que as fontes repetem",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "São Paulo, ginásio do Pacaembu",
+            "quando": "ginásio do Pacaembu"
+          },
+          {
+            "texto": "Kato derruba Hélio de novo",
+            "quando": "Kato derruba"
+          },
+          {
+            "texto": "Hélio estrangula por baixo",
+            "quando": "Hélio, por baixo"
+          },
+          {
+            "texto": "Kato desmaia: vitória de Hélio",
+            "quando": "Kato desmaia"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "O que se discute",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Oito minutos ou quase meia hora?",
+            "quando": "oito minutos"
+          },
+          {
+            "texto": "Jornais questionaram o resultado",
+            "quando": "jornais da época"
+          },
+          {
+            "texto": "Enroscados nas cordas, à espera do juiz",
+            "quando": "enroscados nas cordas"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c13-kimura-aceita",
+      "tipo": "cartao",
+      "ano": 1951,
+      "rotulo": "A seguir",
+      "titulo": "Agora é com o chefe",
+      "destaque": "Kimura",
+      "narracao": "Depois da luta, alunos dos Gracie desfilam com um caixão, para simbolizar a derrota do japonês. Para a trupe, o estrago é grande, sobretudo entre os imigrantes que tinham ido torcer por ela. Hélio não para. Desafia o próximo da fila, Yamaguchi. Só que quem se apresenta é o chefe. Kimura, bem mais pesado do que Hélio, toma o lugar do colega e aceita. A luta fica marcada para outubro, no Maracanã. Hélio conseguiu o que queria desde o começo. Falta saber o que isso vai custar.",
+      "itens": [
+        {
+          "texto": "Alunos dos Gracie desfilam com um caixão",
+          "quando": "com um caixão"
+        },
+        {
+          "texto": "A trupe perde prestígio na colônia",
+          "quando": "o estrago é grande"
+        },
+        {
+          "texto": "Hélio desafia Yamaguchi",
+          "quando": "Desafia o próximo"
+        },
+        {
+          "texto": "Kimura toma o lugar do colega e aceita",
+          "quando": "toma o lugar"
+        },
+        {
+          "texto": "Outubro de 1951, no Maracanã",
+          "quando": "marcada para outubro"
+        }
+      ]
+    },
+    {
+      "id": "d01-kimura",
+      "tipo": "perfil",
+      "ano": 1951,
+      "papel": "O maior judoca do seu tempo",
+      "nome": "Masahiko Kimura",
+      "anos": "Kumamoto, 1917 – Tóquio, 1993",
+      "wiki": "Masahiko_Kimura",
+      "narracao": "Hélio tinha feito Kato desmaiar. Agora queria o chefe do grupo. E o chefe era Masahiko [Kimura|Quimúra]. Nascido em [1917|mil novecentos e dezessete], em Kumamoto, ele foi campeão de todo o Japão três vezes seguidas, de [1937|mil novecentos e trinta e sete] a [1939|mil novecentos e trinta e nove]. No Japão, corre um ditado sobre ele: ninguém antes de [Kimura|Quimúra], ninguém depois de [Kimura|Quimúra]. Em [1951|mil novecentos e cinquenta e um], aos trinta e quatro anos, ele vive da luta profissional. Tem perto de um metro e setenta e, nas fichas mais citadas, oitenta e quatro quilos.",
+      "fatos": [
+        {
+          "texto": "Nascido em 1917, em Kumamoto",
+          "quando": "Nascido em 1917"
+        },
+        {
+          "texto": "Campeão do Japão em 1937, 1938 e 1939",
+          "quando": "três vezes seguidas"
+        },
+        {
+          "texto": "\"Ninguém antes, ninguém depois de Kimura\"",
+          "quando": "ninguém antes de"
+        },
+        {
+          "texto": "1951: 34 anos, lutador profissional",
+          "quando": "da luta profissional"
+        },
+        {
+          "texto": "Cerca de 1,70 m e 84 kg",
+          "quando": "oitenta e quatro quilos"
+        }
+      ]
+    },
+    {
+      "id": "d02-regras",
+      "tipo": "cartao",
+      "ano": 1951,
+      "rotulo": "O combinado",
+      "titulo": "As regras da luta",
+      "narracao": "As regras são combinadas antes. Os dois lutam de kimono. São três rounds de dez minutos. E só há um jeito de ganhar: fazer o outro desistir, ou deixá-lo sem condição de continuar. Queda não decide a luta. Imobilização também não. É o terreno de Hélio, não o do judô. Não há pesagem oficial, e por isso os números divergem. Um levantamento fala em dez a quinze quilos de diferença. A revista Graciemag fala em mais de trinta. Em qualquer conta, [Kimura|Quimúra] é mais pesado e quatro anos mais novo.",
+      "itens": [
+        {
+          "texto": "Os dois de kimono",
+          "quando": "lutam de kimono"
+        },
+        {
+          "texto": "Três rounds de dez minutos",
+          "quando": "três rounds"
+        },
+        {
+          "texto": "Vitória só por desistência ou nocaute técnico",
+          "quando": "fazer o outro desistir"
+        },
+        {
+          "texto": "Queda e imobilização não decidem",
+          "quando": "Queda não decide"
+        },
+        {
+          "texto": "Sem pesagem: de 10 a mais de 30 kg",
+          "quando": "Não há pesagem"
+        },
+        {
+          "texto": "Kimura: mais pesado e quatro anos mais novo",
+          "quando": "mais pesado"
+        }
+      ]
+    },
+    {
+      "id": "d03-maracana",
+      "tipo": "mapa",
+      "ano": 1951,
+      "titulo": "Maracanã, 23 de outubro de 1951",
+      "narracao": "Rio de Janeiro, vinte e três de outubro de [1951|mil novecentos e cinquenta e um], uma terça-feira. Menos de um mês antes, em São Paulo, Hélio tinha vencido Kato. Agora o tablado é montado no Maracanã, o estádio aberto no ano anterior para a Copa do Mundo. Chove, e as preliminares demoram. Sobre o público, as fontes não se entendem: [Kimura|Quimúra] escreveu que eram vinte mil pessoas; o jornal Última Hora falou em cem mil. Vários relatos põem o presidente Getúlio Vargas entre os espectadores.",
+      "vista": {
+        "lon": -46,
+        "lat": -22,
+        "escala": 4
+      },
+      "ate": {
+        "lon": -44,
+        "lat": -22.8,
+        "escala": 6
+      },
+      "lugares": [
+        {
+          "nome": "Rio de Janeiro",
+          "coord": [
+            -43.2,
+            -22.9
+          ],
+          "quando": "Rio de Janeiro",
+          "destaque": true
+        },
+        {
+          "nome": "São Paulo: Hélio vence Kato",
+          "coord": [
+            -46.63,
+            -23.55
+          ],
+          "quando": "em São Paulo"
+        }
+      ]
+    },
+    {
+      "id": "d04-rounds",
+      "tipo": "linha",
+      "ano": 1951,
+      "titulo": "Round a round",
+      "narracao": "No primeiro round, [Kimura|Quimúra] derruba Hélio várias vezes. Mas o piso é macio, e Hélio cai sem se machucar. No chão, o japonês passa de uma imobilização a outra e encaixa um estrangulamento. Anos depois, Hélio admitiu numa entrevista que chegou a apagar por um instante. Mesmo assim, chega ao fim do round. No segundo, nova queda. [Kimura|Quimúra] prende Hélio debaixo do seu peso. Hélio empurra para respirar e deixa o braço exposto. O japonês agarra o punho e torce o braço para trás. São uns treze minutos de luta.",
+      "eventos": [
+        {
+          "ano": "1º round",
+          "texto": "Quedas em série; o piso macio protege Hélio",
+          "quando": "derruba Hélio"
+        },
+        {
+          "ano": "1º round",
+          "texto": "Estrangulamento: Hélio admite que apagou",
+          "quando": "encaixa um estrangulamento"
+        },
+        {
+          "ano": "2º round",
+          "texto": "Nova queda e imobilização",
+          "quando": "nova queda"
+        },
+        {
+          "ano": "2º round",
+          "texto": "Hélio empurra e expõe o braço",
+          "quando": "deixa o braço exposto"
+        },
+        {
+          "ano": "13 min",
+          "texto": "Kimura torce o braço para trás",
+          "quando": "torce o braço"
+        }
+      ]
+    },
+    {
+      "id": "d05-toalha",
+      "tipo": "comparacao",
+      "ano": 1951,
+      "titulo": "Como a luta acabou",
+      "narracao": "O golpe é o [ude-garami|udê-garâmi], uma chave que torce o ombro e o cotovelo. Hélio não bate em desistência. A partir daqui, há duas versões. [Kimura|Quimúra] contou, na autobiografia, que quebrou o braço de Hélio duas vezes, e que só então jogaram a toalha. A Graciemag, apoiada nos jornais da época, diz que o braço não quebrou, e que Carlos Gracie entrou no tablado para parar a luta. Num ponto, todos concordam: quem encerrou foi Carlos, o irmão mais velho. Hélio não desistiu.",
+      "esquerda": {
+        "titulo": "Versão de Kimura",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Autobiografia: quebrou o braço duas vezes",
+            "quando": "quebrou o braço"
+          },
+          {
+            "texto": "Só então o córner jogou a toalha",
+            "quando": "jogaram a toalha"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Versão da Graciemag",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Jornais da época: o braço não quebrou",
+            "quando": "o braço não quebrou"
+          },
+          {
+            "texto": "Carlos entrou no tablado e parou a luta",
+            "quando": "entrou no tablado"
+          },
+          {
+            "texto": "Nas duas versões, Hélio não desistiu",
+            "quando": "todos concordam"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d06-nome",
+      "tipo": "cartao",
+      "ano": 1951,
+      "rotulo": "Depois da luta",
+      "titulo": "A derrota que deu fama",
+      "destaque": "kimura",
+      "narracao": "A derrota não derruba Hélio. Os jornais elogiam a coragem dele. Parte da imprensa, e a própria família, fala em vitória moral: o homem leve que não bateu para o campeão japonês. O jornal Última Hora é mais seco na manchete: venceu [Kimura|Quimúra], no segundo round. E o golpe ganha nome novo. Segundo um dos relatos, os cronistas esportivos o chamam de kimuriana quando o japonês volta ao Brasil, em [1959|mil novecentos e cinquenta e nove]. Depois, o nome encurta. Hoje, no mundo inteiro, essa chave se chama [kimura|quimúra].",
+      "itens": [
+        {
+          "texto": "Jornais elogiam a coragem de Hélio",
+          "quando": "elogiam a coragem"
+        },
+        {
+          "texto": "Imprensa e família falam em vitória moral",
+          "quando": "vitória moral"
+        },
+        {
+          "texto": "Última Hora: \"Venceu Kimura, no 2º round\"",
+          "quando": "no segundo round"
+        },
+        {
+          "texto": "1959: os cronistas dizem \"kimuriana\"",
+          "quando": "chamam de kimuriana"
+        },
+        {
+          "texto": "Hoje, no mundo inteiro: kimura",
+          "quando": "essa chave se chama"
+        }
+      ]
+    },
+    {
+      "id": "d07-fadda",
+      "tipo": "comparacao",
+      "ano": 1955,
+      "titulo": "O desafio do subúrbio",
+      "narracao": "Enquanto isso, a outra linhagem, a de Oswaldo Fadda, no subúrbio, também bate à porta. Fadda desafia a academia Gracie pelos jornais, e Hélio aceita. Os alunos se enfrentam. E aqui as fontes brigam. Para a tradição dos alunos de Fadda, e para sites como o BJJ Heroes, o subúrbio venceu, com chaves de pé que os rivais pouco treinavam. Já o Diário da Noite de janeiro de [1955|mil novecentos e cinquenta e cinco] traz outra conta: sete vitórias dos Gracie, três de Fadda e quatro empates. Até o ano muda conforme quem conta.",
+      "esquerda": {
+        "titulo": "Tradição de Fadda",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "O subúrbio venceu a academia Gracie",
+            "quando": "o subúrbio venceu"
+          },
+          {
+            "texto": "Arma: as chaves de pé",
+            "quando": "chaves de pé"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Diário da Noite, 1955",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Sete vitórias dos Gracie",
+            "quando": "sete vitórias"
+          },
+          {
+            "texto": "Três de Fadda e quatro empates",
+            "quando": "três de Fadda"
+          },
+          {
+            "texto": "O ano também diverge entre as fontes",
+            "quando": "Até o ano muda"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d08-santana",
+      "tipo": "perfil",
+      "ano": 1955,
+      "papel": "O aluno que desafiou o mestre",
+      "nome": "Waldemar Santana",
+      "anos": "Salvador, 1929 – Salvador, 1984",
+      "wiki": "Valdemar_Santana",
+      "narracao": "O golpe mais duro, porém, vem de dentro de casa. Waldemar Santana nasceu em Salvador, em [1929|mil novecentos e vinte e nove]. Na Bahia, aprendeu capoeira. No Rio, começa na academia Gracie como roupeiro: é quem cuida dos kimonos. Treina com Hélio por cerca de cinco anos. Vira parceiro de treino do mestre. Depois, passa a representar a academia nos desafios contra outras lutas. É forte, pesa mais de noventa quilos e conhece o jiu-jitsu de Hélio por dentro. Os jornais vão chamá-lo de Leopardo.",
+      "fatos": [
+        {
+          "texto": "Nascido em Salvador, em 1929",
+          "quando": "nasceu em Salvador"
+        },
+        {
+          "texto": "Roupeiro da academia Gracie",
+          "quando": "como roupeiro"
+        },
+        {
+          "texto": "Cerca de cinco anos de treino com Hélio",
+          "quando": "cinco anos"
+        },
+        {
+          "texto": "Lutava pela academia nos desafios",
+          "quando": "representar a academia"
+        },
+        {
+          "texto": "Mais de 90 kg; apelido: Leopardo",
+          "quando": "mais de noventa quilos"
+        }
+      ]
+    },
+    {
+      "id": "d09-briga",
+      "tipo": "cartao",
+      "ano": 1955,
+      "rotulo": "O rompimento",
+      "titulo": "A briga com Hélio",
+      "narracao": "A briga começa por causa de uma luta. Santana, sem dinheiro, aceita um combate num espetáculo de lutas combinadas, a chamada marmelada. Hélio proíbe: se um aluno seu luta ali, vão dizer que as lutas dos Gracie também são armadas. Santana luta mesmo assim. Hélio o demite. Segundo pesquisadores que citam a biografia escrita por Reila Gracie, a demissão vem com insultos racistas. Um jornal publica declarações de Santana contra o antigo mestre. E Santana lança o desafio em público: um vale-tudo. Hélio aceita.",
+      "itens": [
+        {
+          "texto": "Santana aceita uma luta combinada",
+          "quando": "aceita um combate"
+        },
+        {
+          "texto": "Hélio proíbe: teme pela fama das suas lutas",
+          "quando": "Hélio proíbe"
+        },
+        {
+          "texto": "Santana luta e é demitido",
+          "quando": "Hélio o demite"
+        },
+        {
+          "texto": "Biografia de Reila Gracie: insultos racistas",
+          "quando": "insultos racistas"
+        },
+        {
+          "texto": "Desafio em público: vale-tudo",
+          "quando": "lança o desafio"
+        }
+      ]
+    },
+    {
+      "id": "d10-mestre-aluno",
+      "tipo": "comparacao",
+      "ano": 1955,
+      "titulo": "24 de maio de 1955, ACM do Rio",
+      "narracao": "A luta é no dia vinte e quatro de maio de [1955|mil novecentos e cinquenta e cinco], no ginásio da Associação Cristã de Moços, a [ACM|A C M], no Rio. De um lado, Hélio: quarenta e um anos, uns sessenta e sete quilos e, segundo ele mesmo, uma infecção no ouvido. Do outro, Santana: vinte e cinco anos e mais de noventa quilos. As regras foram acertadas pelos dois lutadores e permitem socos, chutes e cabeçadas. A luta só acaba quando um deles não puder mais continuar.",
+      "esquerda": {
+        "titulo": "Hélio Gracie",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "41 anos",
+            "quando": "quarenta e um anos"
+          },
+          {
+            "texto": "Cerca de 67 kg",
+            "quando": "sessenta e sete quilos"
+          },
+          {
+            "texto": "Infecção no ouvido, segundo ele",
+            "quando": "infecção no ouvido"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Waldemar Santana",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "25 anos",
+            "quando": "vinte e cinco anos"
+          },
+          {
+            "texto": "Mais de 90 kg",
+            "quando": "mais de noventa quilos"
+          },
+          {
+            "texto": "Vale soco, chute e cabeçada",
+            "quando": "socos, chutes e cabeçadas"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d11-chute",
+      "tipo": "cartao",
+      "ano": 1955,
+      "rotulo": "Vale-tudo",
+      "titulo": "A luta mais longa de Hélio",
+      "destaque": "3h40",
+      "narracao": "E não acaba. Passa uma hora. Passam duas. Passam três. Hélio espera o contra-ataque, que é o forte dele. Santana não se arrisca. Depois, Hélio diria que o ex-aluno teve medo de atacar. As fontes dão entre três horas e quarenta e três horas e quarenta e cinco minutos de combate. No fim, Hélio está exausto. Santana o derruba. Hélio demora a se levantar. E leva um chute no rosto. Nocaute. Carlson Gracie, o sobrinho, entra no ringue e carrega o tio.",
+      "itens": [
+        {
+          "texto": "Hélio espera o contra-ataque",
+          "quando": "espera o contra-ataque"
+        },
+        {
+          "texto": "Santana não se arrisca",
+          "quando": "não se arrisca"
+        },
+        {
+          "texto": "De 3h40 a 3h45, conforme a fonte",
+          "quando": "três horas e quarenta"
+        },
+        {
+          "texto": "Hélio, exausto, é derrubado",
+          "quando": "Santana o derruba"
+        },
+        {
+          "texto": "Nocaute com um chute no rosto",
+          "quando": "um chute no rosto"
+        },
+        {
+          "texto": "Carlson carrega o tio para fora",
+          "quando": "carrega o tio"
+        }
+      ]
+    },
+    {
+      "id": "d12-pontape",
+      "tipo": "citacao",
+      "ano": 1955,
+      "texto": "Sua carreira, verdadeiramente meteórica, deve-se a um pontapé que entrou para a história do esporte nacional.",
+      "autor": "Jornal Última Hora, 8 de outubro de 1955, sobre Waldemar Santana",
+      "narracao": "Meses depois, o jornal Última Hora resume o que aconteceu com Santana: uma carreira meteórica, que se deve a um pontapé que entrou para a história do esporte nacional. Para Hélio, é a última luta. Ele já passou dos quarenta anos e não volta ao ringue. A academia, porém, não esvazia: ele contaria que ganhou mais de cem alunos novos, impressionados com um homem leve que resistiu tanto. Mas acaba ali a era em que os irmãos Gracie respondiam em pessoa aos desafiantes. A resposta da família virá de um sobrinho."
+    },
+    {
+      "id": "d13-sem-kimono",
+      "tipo": "cartao",
+      "ano": 1955,
+      "rotulo": "A seguir",
+      "titulo": "Enquanto isso, sem kimono",
+      "destaque": "Luta livre",
+      "narracao": "De [1930|mil novecentos e trinta] a [1955|mil novecentos e cinquenta e cinco], os desafios fizeram do jiu-jitsu assunto de jornal, de estádio e até de presidente. Hélio perdeu as duas lutas mais famosas da vida e, mesmo assim, saiu delas mais conhecido. Só que os Gracie nunca estiveram sozinhos no Rio. Enquanto eles lutavam de kimono, outra escola crescia na mesma cidade, sem kimono, de calção, com outros alunos e outro mestre. Ela se chamava luta livre. E as duas não iam conviver em paz. É a história do próximo capítulo.",
+      "itens": [
+        {
+          "texto": "1930–1955: o jiu-jitsu vira assunto nacional",
+          "quando": "assunto de jornal"
+        },
+        {
+          "texto": "Hélio perde para Kimura e Santana",
+          "quando": "perdeu as duas lutas"
+        },
+        {
+          "texto": "Os Gracie: de kimono",
+          "quando": "lutavam de kimono"
+        },
+        {
+          "texto": "A outra escola: sem kimono, de calção",
+          "quando": "sem kimono"
+        },
+        {
+          "texto": "Capítulo 4: jiu-jitsu contra luta livre",
+          "quando": "luta livre"
+        }
+      ]
+    }
+  ]
+}
