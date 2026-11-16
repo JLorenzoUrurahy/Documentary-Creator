@@ -342,7 +342,8 @@
           "texto": "Os melhores tiveram de escolher",
           "quando": "escolher um lado"
         }
-      ]
+      ],
+      "fundo": "Las Vegas Strip from Resorts World February 2023 HDR 1.jpg"
     },
     {
       "id": "t00-titulo",
@@ -380,7 +381,8 @@
           "texto": "Viver de lutar? Só no MMA",
           "quando": "viver de lutar"
         }
-      ]
+      ],
+      "fundo": "Megaton Dias Seminar 03.jpg"
     },
     {
       "id": "a03-world-pro",
@@ -409,7 +411,8 @@
           "texto": "Mais de 5 mil atletas, US$ 600 mil",
           "quando": "Em 2019"
         }
-      ]
+      ],
+      "fundo": "Braulio Estima vs Alexandre Ceconi.jpg"
     },
     {
       "id": "a04-grand-slam",
@@ -557,7 +560,8 @@
           "texto": "Bravo ataca a maior parte do tempo",
           "quando": "boa parte do tempo"
         }
-      ]
+      ],
+      "fundo": "Royler Gracie Teaching 03.jpg"
     },
     {
       "id": "a08-queda",
@@ -622,7 +626,8 @@
           "texto": "Empate? Vence quem escapou mais rápido",
           "quando": "escapou mais rápido"
         }
-      ]
+      ],
+      "fundo": "Los Angeles View.jpg"
     },
     {
       "id": "a10-eventos",
@@ -699,7 +704,8 @@
           "texto": "Cursos em vídeo dos campeões",
           "quando": "cursos em vídeo"
         }
-      ]
+      ],
+      "fundo": "Austin Texas skyline, December 2023 - Evening.jpg"
     },
     {
       "id": "a12-pandemia",
@@ -784,7 +790,8 @@
             "quando": "fama em rede social"
           }
         ]
-      }
+      },
+      "fundo": "Bjj no gi.jpg"
     },
     {
       "id": "b01-sedes",
@@ -862,7 +869,8 @@
           "texto": "Quatro superlutas em seis anos",
           "quando": "quatro superlutas vencidas"
         }
-      ]
+      ],
+      "fundo": "Andrea Galvao.jpg"
     },
     {
       "id": "b03-gordon-ryan",
@@ -959,7 +967,8 @@
           "pai": "bt",
           "quando": "Ethan Crelinsten"
         }
-      ]
+      ],
+      "fundo": "Skyline of Austin, Texas.jpg"
     },
     {
       "id": "b05-vegas-2022",
@@ -990,7 +999,8 @@
           "texto": "Absoluto: Yuri Simões",
           "quando": "Yuri Simões"
         }
-      ]
+      ],
+      "fundo": "Thomas & Mack Center by Gage Skidmore.jpg"
     },
     {
       "id": "b06-nomes-novos",
@@ -1186,7 +1196,8 @@
             "quando": "vence duas superlutas"
           }
         ]
-      }
+      },
+      "fundo": "T-Mobile Arena (31534778122).jpg"
     },
     {
       "id": "b11-depois",
@@ -1323,7 +1334,8 @@
             "quando": "foi cancelada"
           }
         ]
-      }
+      },
+      "fundo": "Kaynan Duarte vs Buchecha no ADCC 2019.jpg"
     },
     {
       "id": "c01-roger",
@@ -1544,7 +1556,8 @@
           "texto": "Mayssa Bastos: sétimo título",
           "quando": "Mayssa Bastos soma"
         }
-      ]
+      ],
+      "fundo": "Walter Pyramid.jpg"
     },
     {
       "id": "c07-equipes",
@@ -1635,7 +1648,8 @@
           "texto": "Mesma tabela para homens e mulheres",
           "quando": "A tabela é a mesma"
         }
-      ]
+      ],
+      "fundo": "GABRIEL VELLA vs ROMINHO 51.jpg"
     },
     {
       "id": "c09-campeonatos",
@@ -1804,7 +1818,8 @@
           "texto": "A rivalidade com a luta livre",
           "quando": "a rivalidade com"
         }
-      ]
+      ],
+      "fundo": "Jigoro Kano and Sumiyuki Kotani.jpg"
     },
     {
       "id": "c12-o-que-mudou",
@@ -1843,7 +1858,8 @@
           "texto": "Lutar vira profissão",
           "quando": "lutar vira profissão"
         }
-      ]
+      ],
+      "fundo": "Royce Gracie Seminar 2011-03.jpg"
     },
     {
       "id": "c13-fecho",
@@ -1874,7 +1890,8 @@
           "texto": "Lutar de verdade, todos os dias",
           "quando": "E continua assim"
         }
-      ]
+      ],
+      "fundo": "Jiu-Jitsu Brasileño.jpeg"
     }
   ]
 }
