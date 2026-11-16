@@ -40,7 +40,8 @@
     "narrar": "node scripts/narrar.mjs",
     "roteiro": "node scripts/roteiro.mjs",
     "juntar": "bash scripts/juntar.sh",
-    "fotos": "node scripts/fotos.mjs"
+    "fotos": "node scripts/fotos.mjs",
+    "fundos": "node scripts/fundos.mjs"
   },
   "allowScripts": {
     "esbuild": false

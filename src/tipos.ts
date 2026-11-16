@@ -26,6 +26,10 @@ type Base = {
   narracao?: string;
   // Só para cenas sem narração, em segundos.
   duracao?: number;
+  // Nome de um arquivo da Wikimedia Commons (ex.: "Belem-TeatroPaz1.jpg") para
+  // o fundo da cena. scripts/fundos.mjs baixa só os de uso livre e anota o
+  // crédito, que aparece na tela. Não vale para mapa, título e perfil.
+  fundo?: string;
 };
 
 export type CenaTitulo = Base & {

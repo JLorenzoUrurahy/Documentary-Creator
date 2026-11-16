@@ -1,6 +1,7 @@
 import React, { useMemo } from "react";
 import {
   AbsoluteFill,
+  Img,
   interpolate,
   Sequence,
   staticFile,
@@ -17,6 +18,7 @@ import {
   MARGEM,
 } from "../estilo";
 import type { AudioCapitulo, Capitulo, Cena } from "../tipos";
+import fundos from "../fundos.json";
 import {
   Cartao,
   Citacao,
@@ -82,10 +84,77 @@ const Fundo: React.FC = () => {
   );
 };
 
-const CenaNaTela: React.FC<{ trecho: Trecho; audio: AudioCapitulo }> = ({
-  trecho,
-  audio,
+type CreditoFundo = { arquivo: string; autor: string; licenca: string };
+const indiceFundos = fundos as Record<string, CreditoFundo>;
+const SEM_FUNDO: Cena["tipo"][] = ["mapa", "titulo", "perfil"];
+
+// Imagem de uso livre atrás da cena: preto e branco, escurecida, com
+// aproximação lenta. O crédito fica no canto, acima da barra de progresso.
+const FundoDaCena: React.FC<{ cena: Cena; duracao: number; indice: number }> = ({
+  cena,
+  duracao,
+  indice,
 }) => {
+  const quadro = useCurrentFrame();
+  const dados = cena.fundo ? indiceFundos[cena.fundo] : undefined;
+  if (!dados || SEM_FUNDO.includes(cena.tipo)) {
+    return null;
+  }
+  const avanco = quadro / Math.max(1, duracao);
+  // Alterna aproximar e afastar, e o lado para onde a imagem desliza.
+  const zoom = indice % 2 === 0 ? 1.06 + avanco * 0.1 : 1.16 - avanco * 0.1;
+  const desliza = (indice % 4 < 2 ? 1 : -1) * (avanco - 0.5) * 50;
+  const opacidade = interpolate(
+    quadro,
+    [0, 24, duracao - 10, duracao],
+    [0, 1, 1, 0],
+    { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
+  );
+  return (
+    <AbsoluteFill style={{ opacity: opacidade }}>
+      <Img
+        src={staticFile(dados.arquivo)}
+        style={{
+          width: LARGURA,
+          height: ALTURA,
+          objectFit: "cover",
+          filter: "grayscale(1) contrast(1.1) brightness(0.9)",
+          transform: `scale(${zoom}) translateX(${desliza}px)`,
+        }}
+      />
+      {/* Escurece à esquerda e embaixo, onde ficam o texto e a legenda. */}
+      <AbsoluteFill
+        style={{
+          background: `linear-gradient(90deg, rgba(12,13,16,0.9) 0%, rgba(12,13,16,0.62) 45%, rgba(12,13,16,0.2) 100%)`,
+        }}
+      />
+      <AbsoluteFill
+        style={{
+          background: `linear-gradient(180deg, rgba(12,13,16,0.6) 0%, rgba(12,13,16,0) 20%, rgba(12,13,16,0) 72%, rgba(12,13,16,0.85) 100%)`,
+        }}
+      />
+      <div
+        style={{
+          position: "absolute",
+          right: MARGEM,
+          top: ALTURA - 44,
+          fontFamily: FONTE_TEXTO,
+          fontSize: 20,
+          color: COR.texto,
+          opacity: 0.7,
+        }}
+      >
+        Imagem: {dados.autor} · {dados.licenca} · Wikimedia Commons
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+const CenaNaTela: React.FC<{
+  trecho: Trecho;
+  audio: AudioCapitulo;
+  indice: number;
+}> = ({ trecho, audio, indice }) => {
   const quadro = useCurrentFrame();
   const { fps } = useVideoConfig();
   const { cena, duracao } = trecho;
@@ -109,6 +178,7 @@ const CenaNaTela: React.FC<{ trecho: Trecho; audio: AudioCapitulo }> = ({
 
   return (
     <AbsoluteFill>
+      <FundoDaCena cena={cena} duracao={duracao} indice={indice} />
       <AbsoluteFill style={{ opacity: opacidade }}>
         {desenhar(cena, ritmo)}
       </AbsoluteFill>
@@ -205,13 +275,13 @@ export const CapituloVideo: React.FC<PropsCapitulo> = ({ capitulo, audio }) => {
   return (
     <AbsoluteFill>
       <Fundo />
-      {trechos.map((trecho) => (
+      {trechos.map((trecho, indice) => (
         <Sequence
           key={trecho.cena.id}
           from={trecho.inicio}
           durationInFrames={trecho.duracao}
         >
-          <CenaNaTela trecho={trecho} audio={audio} />
+          <CenaNaTela trecho={trecho} audio={audio} indice={indice} />
         </Sequence>
       ))}
       {naAbertura ? null : (
