@@ -6,7 +6,7 @@ Gerado por `scripts/roteiro.mjs`. Para mudar o texto, edite `src/capitulos/capit
 
 ## Narração, cena por cena
 
-### a01-gancho (cartao · 1998 · 23 s)
+### a01-gancho (cartao · 1998 · 24 s)
 
 Abu Dhabi, março de 1998. Num ginásio novo, erguido à beira do deserto, três tatames estão montados. Em volta deles se aquecem lutadores de jiu-jitsu, de wrestling, de sambo e de judô. Ninguém veste kimono. Ninguém vai dar um soco. E quem paga a conta é um xeque que aprendeu jiu-jitsu na Califórnia.
 
@@ -30,7 +30,7 @@ O professor da academia é um brasileiro: Nelson Monteiro, faixa-preta de Carlos
 
 Monteiro aceita. Deixa a academia com um aluno e se muda com a família para Abu Dhabi, onde fica cerca de quatro anos. Ali nasce um clube de treino: o Abu Dhabi Combat Club, o ADCC. Segundo o The National, a ideia era juntar no mesmo lugar professores de jiu-jitsu, judô, wrestling e sambo. Em 1997, o xeque e o professor tentam o vale-tudo no Rio, com o Pentagon Combat, e a noite acaba em tumulto. A lição fica. O próximo evento seria em casa. E seria um UFC sem socos.
 
-### a06-torneio (cartao · 1998 · 42 s)
+### a06-torneio (cartao · 1998 · 44 s)
 
 O torneio ganha um nome comprido: Campeonato Mundial de Submission Wrestling do ADCC. Acontece de vinte a vinte e dois de março de 1998, na arena do próprio clube. A revista Graciemag conta que o lugar tinha sido uma pista de exposição de cavalos e recebeu três tatames. São setenta e dois lutadores, de dezesseis países. Vêm do jiu-jitsu, do judô, do wrestling, do sambo e do Pancrase japonês. O formato é de mata-mata: perdeu, está fora. E o regulamento, diz a revista, foi escrito pelo próprio xeque, que também treinou os árbitros.
 
@@ -54,7 +54,7 @@ Ponha as duas regras lado a lado. Na CBJJ, que você já viu, luta-se de kimono.
 
 Cada regra tem seu preço. O kimono dá pegadas, e as pegadas criam um jogo de guarda rico e técnico. Em troca, permite lutas travadas, decididas por uma vantagem, e deixa a luta em pé em segundo plano. O ADCC premia a queda e a busca da finalização, e fica mais perto do que acontece no vale-tudo. Em troca, sem pano e com suor, é mais fácil escapar, e a força e o fôlego pesam mais. E a metade sem pontos pode virar uma longa espera em pé. São dois esportes parecidos.
 
-### a12-convite (cartao · 1998 · 41 s)
+### a12-convite (cartao · 1998 · 38 s)
 
 Para quem vinha de outras lutas, esse regulamento era um convite. O wrestler americano passou a vida derrubando: aqui a queda vale ponto, e sentar na guarda é punido. O lutador de sambo cresceu atacando pernas, e aqui a perna está liberada. O atleta da luta livre brasileira sempre lutou de calção. Ninguém precisa aprender a segurar uma gola. E há prêmio em dólar e despesa paga. Março de 1998, Abu Dhabi. Os árbitros estão a postos e os três tatames estão livres. Falta só saber quem será o primeiro campeão.
 
@@ -70,7 +70,7 @@ Mário Sperry nasceu em Porto Alegre e é faixa-preta de Carlson Gracie. O apeli
 
 Em 1999, Sperry volta como dono da primeira superluta e vence o japonês Enson Inoue. Royler Gracie ganha a categoria mais leve. Jean Jacques Machado finaliza os quatro adversários com o mesmo golpe, o mata-leão, o estrangulamento pelas costas, e sai como o lutador mais técnico do torneio. O absoluto fica com o brasileiro Roberto Traven. Mas três ouros ficam com gente de fora do jiu-jitsu: o russo Karimula Barkalaev e os americanos Jeff Monson e Mark Kerr, os dois vindos da luta olímpica.
 
-### b04-kerr (perfil · 2000 · 36 s)
+### b04-kerr (perfil · 2000 · 35 s)
 
 Mark Kerr é o aviso mais claro. Campeão universitário americano de wrestling, a luta olímpica, em 1992, ele nunca vestiu uma faixa de jiu-jitsu. Em 1999 ganha entre os mais pesados. Em 2000 repete o título e leva também o absoluto. Na final, conta o Sherdog, ele derruba Sean Alvarez, passa a guarda e monta. É o caminho que o jiu-jitsu ensina, feito por um homem que veio de outra luta. O prêmio do absoluto: quarenta mil dólares.
 
@@ -78,7 +78,7 @@ Mark Kerr é o aviso mais claro. Campeão universitário americano de wrestling,
 
 A edição de 2000 tem duas leituras. Na primeira, o jiu-jitsu vai bem: Royler é campeão de novo, Renzo volta ao topo e Saulo Ribeiro leva o ouro até oitenta e oito quilos. Na segunda, o regulamento cobra. Jean Jacques Machado perde a final para Renzo depois de puxar para a guarda, relata o Sherdog. Contra Kerr, Ricardo Almeida é punido pelo mesmo motivo. E a superluta entre Sperry e Traven, dois faixas-pretas, se decide em pé: Sperry tenta oito quedas, não consegue nenhuma e vence por decisão.
 
-### b06-arona (perfil · 2001 · 33 s)
+### b06-arona (perfil · 2001 · 34 s)
 
 A resposta brasileira se chama Ricardo Arona. Em 2000, ainda faixa-marrom, ele vence dois americanos de wrestling, Tito Ortiz e Jeff Monson, numa final de vinte minutos de disputa em pé. Recebe a faixa-preta no pódio, conta o Sherdog. Em 2001, ganha a categoria e o absoluto, batendo Jean Jacques Machado por pontos na final. O jogo dele é derrubar e pressionar por cima. A Wikipedia em inglês registra que Arona nunca cedeu um ponto no ADCC.
 
@@ -86,7 +86,7 @@ A resposta brasileira se chama Ricardo Arona. Em 2000, ainda faixa-marrom, ele v
 
 A edição de abril de 2001 tem outros nomes além de Arona. Royler Gracie vence a categoria mais leve pela terceira vez seguida. Márcio Feitosa leva a de até setenta e sete quilos. Até oitenta e oito, o ouro vai para Sanae Kikuta, judoca japonês que luta no Pancrase. Segundo o site FloGrappling, ele continua sendo o único campeão japonês da história do torneio. Na superluta, Mark Kerr vence Mário Sperry. E pela primeira vez nenhum americano ganha uma categoria de peso.
 
-### b08-sedes (mapa · 2003 · 35 s)
+### b08-sedes (mapa · 2003 · 33 s)
 
 Até aqui, tudo aconteceu no mesmo lugar. As quatro primeiras edições, de 1998 a 2001, foram em Abu Dhabi, na casa do xeque. Em 2003, o torneio deixa de ser anual e viaja pela primeira vez. A sede é São Paulo, no ginásio do Ibirapuera, em maio. O ADCC vai para o país que mais lhe deu campeões. E é diante da torcida brasileira que aparecem três nomes que quase ninguém conhecia: um mineiro e dois americanos.
 
@@ -118,7 +118,7 @@ O primeiro deles é Roger Gracie, carioca, nascido em 1981, neto de Carlos Graci
 
 Jacaré não sai de mãos vazias. Ele é o campeão até oitenta e oito quilos e o vice do absoluto. E Marcelo Garcia, a revelação de dois anos antes, confirma: é bicampeão até setenta e sete quilos. No absoluto, Marcelo enfrenta Ricco Rodriguez, ex-campeão peso pesado do UFC. O Sherdog fala em mais de quarenta quilos de diferença. Marcelo vence com uma chave de calcanhar. Depois é finalizado por Jacaré e fica com o bronze. Um lutador de setenta e sete quilos no pódio sem limite de peso: o recado estava dado.
 
-### c04-feminino (cartao · 2005 · 37 s)
+### c04-feminino (cartao · 2005 · 38 s)
 
 Long Beach tem outra novidade. Pela tabela de campeões do evento, é em 2005 que aparecem as primeiras categorias femininas. São duas, divididas nos sessenta quilos. Na mais leve, a campeã é Kyra Gracie. Segundo o Sherdog, ela estreia vencendo no caminho a favorita, Leka Vieira. Na mais pesada, e também no absoluto feminino, o ouro é de Juliana Borges. Kyra voltaria a vencer em 2007 e em 2011. Hannette Staack também somaria três títulos. O torneio do xeque já não era só dos homens.
 
@@ -134,7 +134,7 @@ Em 2009, em Barcelona, é a vez do pernambucano Braulio Estima. Ele vence a cate
 
 Nottingham guarda mais dois resultados. Até sessenta e seis quilos, Rafael Mendes é bicampeão. A prata fica com Rubens Charles, o Cobrinha. Guarde esses dois nomes: eles voltam no próximo capítulo. E até setenta e sete quilos, Marcelo Garcia vence de novo, com Leo Vieira em segundo. É o quarto título dele na mesma categoria: 2003, 2005, 2007 e 2011. Só em 2009 o ouro foi de outro, Pablo Popovitch. Quatro títulos em cinco edições, sempre no mesmo peso.
 
-### c08-mundial-sem-kimono (comparacao · 2007 · 35 s)
+### c08-mundial-sem-kimono (comparacao · 2007 · 36 s)
 
 Enquanto isso, a federação internacional, a IBJJF, cria o seu próprio torneio sem kimono. O primeiro Mundial é em dezembro de 2007, em Carson, na Califórnia, com cerca de quinhentos atletas, segundo o site ADCombat. Mas não é uma cópia do ADCC. A federação leva para a luta sem pano o regulamento que já usava de kimono: os mesmos pontos e as mesmas vantagens. E a chave de calcanhar, liberada no torneio do xeque, ali era proibida. São dois torneios parecidos, com regras diferentes.
 
@@ -150,11 +150,11 @@ Ninguém mostra essa mistura melhor que Marcelo Garcia. Mineiro de Formiga, form
 
 Vale a pena lutar sem kimono? Há ganhos claros. Sem pano para segurar, a luta fica mais rápida. As pegadas são as que funcionam no MMA: pescoço, punho, tronco. E a queda entra de vez no treino. Mas há perdas. Sem a gola e a manga, é mais difícil controlar, e quem está por baixo escapa mais. Boa parte das guardas e dos estrangulamentos do kimono simplesmente some. Talvez por isso tantos campeões fizessem as duas coisas. Roger, Jacaré, Braulio, Galvão, Rafael Mendes e Marcelo também foram campeões mundiais de kimono.
 
-### c12-fecho (cartao · 2011 · 33 s)
+### c12-fecho (cartao · 2011 · 34 s)
 
 Em treze anos, o torneio de um xeque virou a régua do jiu-jitsu sem kimono. Repare nos golpes deste capítulo. A guilhotina de Marcelo e a guarda X, que as fontes também ligam a ele. O triângulo de Braulio. As chaves de calcanhar. Nenhuma dessas posições nasceu pronta. Cada uma foi a resposta de alguém a um problema. E cada uma cobrou um preço de quem apostou nela. De onde elas vieram, o que resolveram e quanto custaram: essa é a história do próximo capítulo, a evolução da técnica.
 
-Duração aproximada: 22 min 18 s.
+Duração aproximada: 22 min 17 s.
 
 ## Conferir antes de publicar
 

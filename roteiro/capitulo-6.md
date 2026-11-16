@@ -134,7 +134,7 @@ Uma equipe de cinema acompanhou Rickson nesse segundo torneio. O resultado é o 
 
 Para entender o que vem depois, conheça Nobuhiko Takada. No Japão, a luta livre de espetáculo, o pro-wrestling, enchia estádios. Takada era uma das maiores estrelas de uma corrente que vendia suas lutas como reais. Muita gente acreditava que aqueles homens eram os lutadores mais fortes do mundo. Em dezembro de 1994, um colega dele, Yoji Anjo, vai à academia de Rickson, em Los Angeles, para desafiá-lo. Sai de lá derrotado e machucado. A honra do grupo passa a depender de Takada.
 
-### c06-pride-1 (cartao · 1997 · 36 s)
+### c06-pride-1 (cartao · 1997 · 35 s)
 
 Para essa luta nasce um evento novo: o Pride. Onze de outubro de 1997, Tokyo Dome. Mais de quarenta e sete mil pessoas vão ver o astro japonês contra o brasileiro. Só que Takada quase não tinha experiência em luta real. Rickson derruba, monta e estica o braço dele numa chave. Menos de cinco minutos. Para muitos fãs, é um choque: o herói do pro-wrestling não resiste ao jiu-jitsu. E o Pride, criado para uma noite, vai se tornar um dos maiores eventos de luta do mundo.
 
@@ -166,7 +166,7 @@ Outros Gracie seguem o mesmo caminho: os irmãos Renzo e Ralph, netos de Carlos.
 
 Em 2000, a equipe de Carlson racha. Ele passava boa parte do tempo nos Estados Unidos, e a briga, segundo as fontes, envolve dinheiro: a parte do mestre nas bolsas dos lutadores. Os relatos divergem nos detalhes. Bustamante, Sperry, Libório e Luís Roberto Duarte, o Bebeo, saem e fundam, no Rio, a Brazilian Top Team. Carlson nunca perdoa: chama os que saíram de creontes, traidores. Mas um problema maior espera todos eles. Lá fora, os adversários já tinham estudado o jiu-jitsu. E aprendido a não ser finalizados.
 
-### d01-wrestling (cartao · 1996 · 39 s)
+### d01-wrestling (cartao · 1996 · 40 s)
 
 Enquanto o jiu-jitsu comemorava, outro tipo de lutador estudava as fitas. Nos Estados Unidos, wrestling é a luta olímpica, a luta das escolas e das universidades. Ali ninguém estrangula nem torce braço. Ganha quem derruba e controla por cima. Não existe finalização, o golpe que obriga o outro a desistir. Mas existem milhares de atletas treinados desde crianças. Dan Severn, aquele que Royce finalizou, vence dois torneios em 1995. Don Frye, outro lutador de universidade, leva o UFC oito em 1996.
 
@@ -182,11 +182,11 @@ Por que isso funciona? Você lembra da guarda: o lutador de costas no chão, que
 
 E os nomes do jiu-jitsu começam a perder. Detroit, maio de 1996: Amaury Bitetti, faixa-preta de Carlson Gracie, é parado pelos socos de Don Frye. Tulsa, em outubro: Marcus Silveira, o Conan, também de Carlson, cai com um chute na cabeça de Maurice Smith. São Paulo, janeiro de 1997: Mark Kerr, outro campeão universitário, enfrenta Fábio Gurgel, um dos principais nomes do jiu-jitsu de competição. Gurgel aguenta trinta minutos por baixo, apanhando. Não desiste, mas perde na decisão dos juízes. A técnica já não bastava sozinha.
 
-### d05-maurice-smith (perfil · 1997 · 34 s)
+### d05-maurice-smith (perfil · 1997 · 36 s)
 
 A primeira resposta ao ground and pound não vem do jiu-jitsu. Vem de um trocador, o lutador que prefere lutar em pé. Maurice Smith era campeão mundial de kickboxing. Em julho de 1997, ele enfrenta Coleman como azarão. Mas treinou defesa de chão com Frank Shamrock. Derrubado, Smith fecha a guarda, se protege e espera. Depois de uns quinze minutos, Coleman está exausto. Em pé, Smith domina. E vence por decisão. Um trocador tinha usado a guarda para ganhar de um wrestler.
 
-### d06-treino-cruzado (cartao · 1997 · 37 s)
+### d06-treino-cruzado (cartao · 1997 · 36 s)
 
 A lição corre o mundo: quem sabe uma luta só, perde. Nasce o treino cruzado. O wrestler aprende a defender a chave de braço. E todo mundo vai aprender jiu-jitsu. Isso tira do jiu-jitsu a vantagem que Royce tinha: a surpresa. O melhor exemplo é o próprio Frank Shamrock, irmão adotivo de Ken. Ele finaliza, bate em pé e tem fôlego. Em dezembro de 1997, vira campeão do UFC com uma chave de braço em dezesseis segundos. Defende o cinturão quatro vezes e sai sem perdê-lo.
 
@@ -218,7 +218,7 @@ O que o jiu-jitsu ganhou com o vale-tudo? Quase tudo. Em menos de dez anos, saiu
 
 Só que essa é metade da história. Enquanto o mundo olhava para a jaula, nos Estados Unidos e no Japão, no Rio de Janeiro acontecia outra coisa, com menos barulho. O jiu-jitsu de kimono, aquele sem socos, estava virando um esporte de verdade. Com uma confederação, criada em 1994. Com regras, pontos e categorias. E com um campeonato mundial, disputado pela primeira vez em 1996, num ginásio da Tijuca. Para muita gente, o futuro da arte estava ali. No próximo capítulo: nasce o esporte organizado.
 
-Duração aproximada: 31 min 42 s.
+Duração aproximada: 31 min 44 s.
 
 ## Conferir antes de publicar
 

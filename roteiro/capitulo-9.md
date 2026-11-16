@@ -194,7 +194,7 @@ Mudou também o jeito de aprender. Antes, técnica era segredo de academia: apre
 
 O efeito aparece em qualquer academia. Um faixa-azul de hoje conhece posições que um faixa-preta de 1995 nunca viu: ou não existiam, ou não tinham saído da sala onde nasceram. Isso tem custo. Modas chegam e passam. Jovens se especializam numa posição antes de aprender a base. E o corpo paga. Numa pesquisa publicada em 2021, com mais de mil praticantes, o joelho foi o lugar mais machucado, e a maior parte das lesões veio no treino.
 
-### d11-resumo (linha · 2025 · 35 s)
+### d11-resumo (linha · 2025 · 36 s)
 
 Vale olhar o caminho inteiro. Primeiro, a guarda fechada, com as pernas trancadas em volta do adversário. Depois a meia guarda, que fez da defesa um ataque. A De la Riva e a aranha seguraram o adversário à distância. A guarda X pôs o lutador debaixo dele. O 50/50 e o berimbolo marcaram a geração seguinte. A lapela amarrou quem tentava passar. As chaves de perna mudaram a luta sem kimono. E o wrestling voltou, para pôr todo mundo de pé. Cada resposta virou a pergunta seguinte.
 
@@ -202,7 +202,7 @@ Vale olhar o caminho inteiro. Primeiro, a guarda fechada, com as pernas trancada
 
 Repare no que mudou em trinta anos. A técnica deixou de ser herança de família e virou conhecimento público: estudado, filmado e vendido. Quem cria uma posição pode ensiná-la ao mundo inteiro, e cobrar por isso. Os campeões viraram professores à distância. Faltava uma coisa: que a própria luta pagasse as contas. A partir de 2012, surgem eventos feitos para o público assistir. Toda essa técnica passou a valer dinheiro. É a era profissional, e é o nosso último capítulo.
 
-Duração aproximada: 27 min 25 s.
+Duração aproximada: 27 min 27 s.
 
 ## Conferir antes de publicar
 

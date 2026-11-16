@@ -166,7 +166,7 @@ Carlson Gracie abre a academia a quem não era da família, e Rolls traz outras 
 
 No primeiro capítulo, pedimos que você guardasse uma ideia, a de Kano: lutar de verdade, todos os dias, contra alguém que resiste. Essa ideia saiu de Tóquio na bagagem de Maeda, atravessou o oceano e desembarcou em Belém. Passou pelas academias do Rio, pelo ringue, pela jaula e pelos ginásios de Long Beach e de Abu Dhabi. Hoje, em qualquer academia do mundo, a aula termina do mesmo jeito. Alguém marca o tempo. Duas pessoas se cumprimentam. E lutam de verdade. Tudo o que você viu nesta série começou assim. E continua assim, todos os dias.
 
-Duração aproximada: 25 min 29 s.
+Duração aproximada: 25 min 28 s.
 
 ## Conferir antes de publicar
 
