@@ -313,7 +313,8 @@
           "texto": "Metade das posições ele nunca viu",
           "quando": "Metade das posições"
         }
-      ]
+      ],
+      "fundo": "Championnat national CFJJB 2026.jpg"
     },
     {
       "id": "t00-titulo",
@@ -355,7 +356,8 @@
           "texto": "Segura, mas de espera",
           "quando": "mas de espera"
         }
-      ]
+      ],
+      "fundo": "Compet JJB R Gracie Paris 1997.jpg"
     },
     {
       "id": "a03-regra",
@@ -406,7 +408,8 @@
             "quando": "sem derrubar ninguém"
           }
         ]
-      }
+      },
+      "fundo": "GABRIEL VELLA vs ROMINHO 51.jpg"
     },
     {
       "id": "a04-gordo",
@@ -488,7 +491,8 @@
             "quando": "volta a ser"
           }
         ]
-      }
+      },
+      "fundo": "BJJ-half guard.jpg"
     },
     {
       "id": "a06-de-la-riva",
@@ -523,7 +527,8 @@
           "texto": "Um caminho novo até as costas",
           "quando": "um caminho novo"
         }
-      ]
+      ],
+      "fundo": "Photo (3 of 19).jpg"
     },
     {
       "id": "a07-aranha",
@@ -609,7 +614,8 @@
             "quando": "para o regulamento"
           }
         ]
-      }
+      },
+      "fundo": "Megaton Dias Seminar 05.jpg"
     },
     {
       "id": "a09-inversoes",
@@ -723,7 +729,8 @@
             "quando": "o problema seguinte"
           }
         ]
-      }
+      },
+      "fundo": "Megaton Dias Seminar 07.jpg"
     },
     {
       "id": "a12-familia",
@@ -757,7 +764,8 @@
           "texto": "A geração seguinte leva ao extremo",
           "quando": "A geração seguinte"
         }
-      ]
+      ],
+      "fundo": "XGuard.jpg"
     },
     {
       "id": "b01-meio-a-meio",
@@ -792,7 +800,8 @@
           "texto": "Para os críticos, um nó",
           "quando": "era um nó"
         }
-      ]
+      ],
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13923006242).jpg"
     },
     {
       "id": "b02-rafael-mendes",
@@ -900,7 +909,8 @@
             "quando": "deixa de dar vantagem"
           }
         ]
-      }
+      },
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13946565094).jpg"
     },
     {
       "id": "b05-berimbolo",
@@ -935,7 +945,8 @@
           "texto": "Costas: quatro pontos",
           "quando": "quatro pontos"
         }
-      ]
+      ],
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13946544494).jpg"
     },
     {
       "id": "b06-quem-inventou",
@@ -965,7 +976,8 @@
           "pai": "mendes",
           "quando": "Paulo e João"
         }
-      ]
+      ],
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13922998452).jpg"
     },
     {
       "id": "b07-miyao",
@@ -1174,7 +1186,8 @@
             "quando": "vencer o campeonato"
           }
         ]
-      }
+      },
+      "fundo": "Championnats de France CFJJB 2013 (1).jpg"
     },
     {
       "id": "b12-o-preco",
@@ -1209,7 +1222,8 @@
           "texto": "Faltava olhar para as pernas",
           "quando": "olhar para as pernas"
         }
-      ]
+      ],
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13946107525).jpg"
     },
     {
       "id": "c01-metade-esquecida",
@@ -1244,7 +1258,8 @@
           "texto": "Se falha, acaba por baixo",
           "quando": "acaba por baixo"
         }
-      ]
+      ],
+      "fundo": "Jiu-Jitsu Brasileño.jpeg"
     },
     {
       "id": "c02-regra-kimono",
@@ -1287,7 +1302,8 @@
             "quando": "cruzar a perna"
           }
         ]
-      }
+      },
+      "fundo": "Megaton Dias Seminar 03.jpg"
     },
     {
       "id": "c03-excecoes",
@@ -1321,7 +1337,8 @@
           "texto": "\"Técnica de suburbano\"",
           "quando": "técnica de suburbano"
         }
-      ]
+      ],
+      "fundo": "Brazilian Luta Livre.jpg"
     },
     {
       "id": "c04-imanari",
@@ -1490,7 +1507,8 @@
           "texto": "Só então, o calcanhar",
           "quando": "Só então"
         }
-      ]
+      ],
+      "fundo": "Megaton Dias Seminar 11.jpg"
     },
     {
       "id": "c09-dentro-fora",
@@ -1572,7 +1590,8 @@
           "texto": "ADCC: Ryan, ouro e prata",
           "quando": "Em 2017"
         }
-      ]
+      ],
+      "fundo": "Submission Grappling - rear naked choke.jpg"
     },
     {
       "id": "c11-federacao",
@@ -1607,7 +1626,8 @@
           "texto": "No kimono, segue proibido",
           "quando": "No kimono"
         }
-      ]
+      ],
+      "fundo": "156 365 no-gi grappling (4672861418).jpg"
     },
     {
       "id": "c12-preco",
@@ -1650,7 +1670,8 @@
             "quando": "ficar por cima"
           }
         ]
-      }
+      },
+      "fundo": "Kneebar 1-Neil Melanson Seminar March 2012.jpg"
     },
     {
       "id": "d01-pressao",
@@ -1681,7 +1702,8 @@
           "texto": "Quadril preso: mais difícil chegar às pernas",
           "quando": "o quadril preso"
         }
-      ]
+      ],
+      "fundo": "Bjj no gi.jpg"
     },
     {
       "id": "d02-perto-ou-longe",
@@ -1724,7 +1746,8 @@
             "quando": "Ficar em pé"
           }
         ]
-      }
+      },
+      "fundo": "Megaton Dias Seminar 08.jpg"
     },
     {
       "id": "d03-levantar",
@@ -1790,7 +1813,8 @@
           "texto": "Guilhotina: pune quem entra de cabeça baixa",
           "quando": "A guilhotina"
         }
-      ]
+      ],
+      "fundo": "Back mount - Submission grappling at 2010 Western Canadian Martial Arts Championships.jpg"
     },
     {
       "id": "d05-demian-maia",
@@ -1889,7 +1913,8 @@
           "texto": "Passa: levantar depois de cair",
           "quando": "levantar depois"
         }
-      ]
+      ],
+      "fundo": "Mixed-martial arts fights heat up Combat Center 140620-M-ZM882-066.jpg"
     },
     {
       "id": "d08-defesa-ou-esporte",
@@ -1971,7 +1996,8 @@
           "texto": "YouTube: técnica de graça",
           "quando": "E o YouTube"
         }
-      ]
+      ],
+      "fundo": "Kick drill jiu jitsu.jpg"
     },
     {
       "id": "d10-velocidade-e-risco",
@@ -2006,7 +2032,8 @@
           "texto": "A maior parte das lesões vem no treino",
           "quando": "veio no treino"
         }
-      ]
+      ],
+      "fundo": "Jiu Jitsu.jpg"
     },
     {
       "id": "d11-resumo",
@@ -2055,7 +2082,8 @@
           "texto": "O wrestling de volta",
           "quando": "wrestling voltou"
         }
-      ]
+      ],
+      "fundo": "Brazilian Jiu-jitsu-Closed guard.jpg"
     },
     {
       "id": "d12-vale-dinheiro",
