@@ -464,7 +464,8 @@
           "texto": "Academia Gracie em Torrance",
           "quando": "Academia Gracie"
         }
-      ]
+      ],
+      "fundo": "Hollywood Sign (Zuschnitt).jpg"
     },
     {
       "id": "a06-irmaos",
@@ -507,7 +508,8 @@
           "pai": "helio",
           "quando": "Royce já estava"
         }
-      ]
+      ],
+      "fundo": "Torrance CA City Hall.jpg"
     },
     {
       "id": "a07-marca",
@@ -550,7 +552,8 @@
             "quando": "manda cancelar"
           }
         ]
-      }
+      },
+      "fundo": "Primary entrance, James R. Browning U.S. Court of Appeals Building, San Francisco, California LCCN2010719389.tif"
     },
     {
       "id": "a08-playboy",
@@ -683,7 +686,8 @@
           "texto": "Pay-per-view a 14,95 dólares",
           "quando": "Preço na televisão"
         }
-      ]
+      ],
+      "fundo": "Skyline, Denver, Colorado LCCN2011636031.tif"
     },
     {
       "id": "a12-royce-rickson",
@@ -734,7 +738,8 @@
             "quando": "aulas de sábado"
           }
         ]
-      }
+      },
+      "fundo": "Royce Gracie Seminar 2011-01.jpg"
     },
     {
       "id": "a13-vespera",
@@ -873,7 +878,8 @@
             "quando": "brasileiro de kimono"
           }
         ]
-      }
+      },
+      "fundo": "McNichols Sports Arena 1994.jpg"
     },
     {
       "id": "b03-jimmerson",
@@ -1035,7 +1041,8 @@
           "texto": "Cerca de 300 mil compras",
           "quando": "trezentas mil"
         }
-      ]
+      ],
+      "fundo": "Fillmore Auditorium Denver.jpg"
     },
     {
       "id": "b08-kimo",
@@ -1102,7 +1109,8 @@
           "texto": "Sinal cortado antes do fim",
           "quando": "cortaram o sinal"
         }
-      ]
+      ],
+      "fundo": "Pavilion at Expo Square.jpg"
     },
     {
       "id": "b10-saida",
@@ -1149,7 +1157,8 @@
             "quando": "A televisão quer"
           }
         ]
-      }
+      },
+      "fundo": "Bojangles Coliseum and The Park, Charlotte, NC - panoramio.jpg"
     },
     {
       "id": "b11-efeito",
@@ -1180,7 +1189,8 @@
           "texto": "Caratê, kung fu e taekwondo vão ao chão",
           "quando": "aulas de chão"
         }
-      ]
+      ],
+      "fundo": "Royce Gracie Seminar 2011-04.jpg"
     },
     {
       "id": "b12-mccain",
@@ -1374,7 +1384,8 @@
           "texto": "Final contra Yuki Nakai: mata-leão",
           "quando": "Yuki Nakai"
         }
-      ]
+      ],
+      "fundo": "Nippon Budokan 2010.jpg"
     },
     {
       "id": "c04-choke",
@@ -1472,7 +1483,8 @@
           "texto": "O Pride vira um gigante das lutas",
           "quando": "vai se tornar"
         }
-      ]
+      ],
+      "fundo": "Tokyo Dome 20170924 1530.jpg"
     },
     {
       "id": "c07-ultimas-lutas",
@@ -1710,7 +1722,8 @@
           "texto": "Pride 2: vitória sobre Sanae Kikuta",
           "quando": "vence na segunda"
         }
-      ]
+      ],
+      "fundo": "Renzo Gracie prepares to clinch.jpg"
     },
     {
       "id": "c13-racha",
@@ -1776,7 +1789,8 @@
           "texto": "Don Frye: campeão do UFC 8, em 1996",
           "quando": "Don Frye"
         }
-      ]
+      ],
+      "fundo": "Bryce Jordan Center Wrestling.jpg"
     },
     {
       "id": "d02-coleman",
@@ -1996,7 +2010,8 @@
           "texto": "Royce não bate e desmaia",
           "quando": "Royce não bate"
         }
-      ]
+      ],
+      "fundo": "Forte de Copacabana panorama.jpg"
     },
     {
       "id": "d08-sakuraba",
