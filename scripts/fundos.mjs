@@ -22,7 +22,7 @@ const agente = { "User-Agent": "DocumentaryCreator/1.0 (video project; node fetc
 const LARGURA_MINIMA = 500;
 
 const semHtml = (texto) =>
-  (texto ?? "").replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
+  (texto ?? "").replace(/<style[\s\S]*?<\/style>/gi, "").replace(/<[^>]+>/g, "").replace(/\.mw-parser-output[\s\S]*$/, "").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
 
 const esperar = (ms) => new Promise((ok) => setTimeout(ok, ms));
 

@@ -392,7 +392,8 @@
           "texto": "Saída: a copa da liga de Niterói",
           "quando": "lutar em Niterói"
         }
-      ]
+      ],
+      "fundo": "Vieira Souto - Lagoa Rodrigo de Freitas, seagull.jpg"
     },
     {
       "id": "a03-copas",
@@ -687,7 +688,8 @@
           "texto": "Finalização encerra a luta",
           "quando": "encerra a luta"
         }
-      ]
+      ],
+      "fundo": "Braulio Estima vs Alexandre Ceconi.jpg"
     },
     {
       "id": "a10-vantagem",
@@ -730,7 +732,8 @@
             "quando": "a desclassificação"
           }
         ]
-      }
+      },
+      "fundo": "GABRIEL VELLA vs ROMINHO 51.jpg"
     },
     {
       "id": "a11-categorias",
@@ -860,7 +863,8 @@
           "texto": "Número de atletas: as fontes não dizem",
           "quando": "Quantos atletas lutaram"
         }
-      ]
+      ],
+      "fundo": "Ginásio Tijuca Tênis Clube em 2022.jpg"
     },
     {
       "id": "b02-paises",
@@ -1073,7 +1077,8 @@
           "texto": "2006: Kyra Gracie campeã",
           "quando": "Kyra Gracie"
         }
-      ]
+      ],
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13946163993).jpg"
     },
     {
       "id": "b07-final-2004",
@@ -1278,7 +1283,8 @@
           "texto": "Brasa, nascida do racha",
           "quando": "em 2006"
         }
-      ]
+      ],
+      "fundo": "Campeonato Brasileiro Interclubes de Jiu-Jitsu 2009.jpg"
     },
     {
       "id": "b11-expansao",
@@ -1395,7 +1401,8 @@
           "texto": "Quem manda? Para onde vai?",
           "quando": "Quem manda"
         }
-      ]
+      ],
+      "fundo": "Championnats de France CFJJB 2013 (4).jpg"
     },
     {
       "id": "c01-ibjjf",
@@ -1426,7 +1433,8 @@
           "texto": "Certo: as duas andam juntas",
           "quando": "andam juntas"
         }
-      ]
+      ],
+      "fundo": "GABRIEL VELLA vs ROMINHO 51.jpg"
     },
     {
       "id": "c02-empresa",
@@ -1572,7 +1580,8 @@
             "quando": "responsabilidade do atleta"
           }
         ]
-      }
+      },
+      "fundo": "Walter Pyramid.jpg"
     },
     {
       "id": "c05-cbjjo",
@@ -1720,7 +1729,8 @@
             "quando": "O ouro rendia"
           }
         ]
-      }
+      },
+      "fundo": "XIICLD.jpg"
     },
     {
       "id": "c09-vantagem",
@@ -1751,7 +1761,8 @@
           "texto": "Chave de joelho: só marrom e preta",
           "quando": "chave de joelho"
         }
-      ]
+      ],
+      "fundo": "Brazilian Jiu-jitsu-Closed guard.jpg"
     },
     {
       "id": "c10-defesa-pessoal",
@@ -1817,7 +1828,8 @@
           "texto": "Há quem nem faça questão",
           "quando": "nem faça questão"
         }
-      ]
+      ],
+      "fundo": "Nippon Budokan 2010.jpg"
     },
     {
       "id": "c12-abu-dhabi",
