@@ -84,7 +84,12 @@ const Fundo: React.FC = () => {
   );
 };
 
-type CreditoFundo = { arquivo: string; autor: string; licenca: string };
+type CreditoFundo = {
+  arquivo: string;
+  autor: string;
+  licenca: string;
+  emPe?: boolean;
+};
 const indiceFundos = fundos as Record<string, CreditoFundo>;
 const SEM_FUNDO: Cena["tipo"][] = ["mapa", "titulo", "perfil"];
 
@@ -112,18 +117,37 @@ const FundoDaCena: React.FC<{ cena: Cena; duracao: number; indice: number }> = (
   );
   return (
     <AbsoluteFill style={{ opacity: opacidade }}>
-      <Img
-        src={staticFile(dados.arquivo)}
+      {/* Imagem em pé (retrato): ocupa a metade direita, inteira, em vez de
+          ser cortada para encher a tela. */}
+      <div
         style={{
-          width: LARGURA,
+          position: "absolute",
+          top: 0,
+          left: dados.emPe ? LARGURA * 0.5 : 0,
+          width: dados.emPe ? LARGURA * 0.5 : LARGURA,
           height: ALTURA,
-          objectFit: "cover",
-          // Retratos em pé: privilegia o alto da imagem, onde fica o rosto.
-          objectPosition: "50% 28%",
-          filter: "grayscale(1) contrast(1.1) brightness(0.8)",
-          transform: `scale(${zoom}) translateX(${desliza}px)`,
+          overflow: "hidden",
         }}
-      />
+      >
+        <Img
+          src={staticFile(dados.arquivo)}
+          style={{
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+            objectPosition: "50% 25%",
+            filter: "grayscale(1) contrast(1.1) brightness(0.8)",
+            transform: `scale(${zoom}) translateX(${dados.emPe ? 0 : desliza}px)`,
+          }}
+        />
+        {dados.emPe ? (
+          <AbsoluteFill
+            style={{
+              background: `linear-gradient(90deg, ${COR.fundo} 0%, rgba(12,13,16,0) 35%)`,
+            }}
+          />
+        ) : null}
+      </div>
       {/* Escurece à esquerda e embaixo, onde ficam o texto e a legenda. */}
       <AbsoluteFill
         style={{

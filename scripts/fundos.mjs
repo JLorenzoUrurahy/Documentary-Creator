@@ -156,7 +156,7 @@ for (const nome of nomes) {
       .slice(0, 70);
     const arquivo = `fundos/${base}.${r.png ? "png" : "jpg"}`;
     writeFileSync(join(raiz, "public", arquivo), Buffer.from(await imagem.arrayBuffer()));
-    indice[nome] = { arquivo, autor: r.autor, licenca: r.licenca, pagina: r.pagina };
+    indice[nome] = { arquivo, autor: r.autor, licenca: r.licenca, pagina: r.pagina, emPe: r.altura > r.largura * 1.1 };
     writeFileSync(arquivoIndice, JSON.stringify(indice, null, 1) + "\n");
     novas++;
     console.log(`  ok ${nome}: ${r.licenca}`);

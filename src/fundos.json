@@ -3,720 +3,840 @@
   "arquivo": "fundos/kodokan-main-building.jpg",
   "autor": "Miyuki Meinaka",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Kodokan_Main_Building.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kodokan_Main_Building.jpg",
+  "emPe": false
  },
  "Sankakujime.jpg": {
   "arquivo": "fundos/sankakujime.jpg",
   "autor": "当時の新聞社",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Sankakujime.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sankakujime.jpg",
+  "emPe": true
  },
  "Belem-TeatroPaz1.jpg": {
   "arquivo": "fundos/belem-teatropaz1.jpg",
   "autor": "Celso Roberto de Abreu Silva from Belém, Brasil",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Belem-TeatroPaz1.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Belem-TeatroPaz1.jpg",
+  "emPe": false
  },
  "Teatro da paz, em Belém do Pará.jpg": {
   "arquivo": "fundos/teatro-da-paz-em-belem-do-para.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Teatro_da_paz,_em_Bel%C3%A9m_do_Par%C3%A1.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Teatro_da_paz,_em_Bel%C3%A9m_do_Par%C3%A1.jpg",
+  "emPe": false
  },
  "Capoeira-carioca-rasteira.jpg": {
   "arquivo": "fundos/capoeira-carioca-rasteira.jpg",
   "autor": "Calixto Cordeiro",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Capoeira-carioca-rasteira.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Capoeira-carioca-rasteira.jpg",
+  "emPe": false
  },
  "Avenida nazaré com praça da república, em Belém do Pará.jpg": {
   "arquivo": "fundos/avenida-nazare-com-praca-da-republica-em-belem-do-para.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_nazar%C3%A9_com_pra%C3%A7a_da_rep%C3%BAblica,_em_Bel%C3%A9m_do_Par%C3%A1.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_nazar%C3%A9_com_pra%C3%A7a_da_rep%C3%BAblica,_em_Bel%C3%A9m_do_Par%C3%A1.jpg",
+  "emPe": false
  },
  "Avenida 16 de novembro, em Belém do Pará.jpg": {
   "arquivo": "fundos/avenida-16-de-novembro-em-belem-do-para.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_16_de_novembro,_em_Bel%C3%A9m_do_Par%C3%A1.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_16_de_novembro,_em_Bel%C3%A9m_do_Par%C3%A1.jpg",
+  "emPe": false
  },
  "Avenida da república av presidente vargas com rua da paciência atual carlos gomes, em Belém do Pará.jpg": {
   "arquivo": "fundos/avenida-da-republica-av-presidente-vargas-com-rua-da-paciencia-atual-c.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_da_rep%C3%BAblica_av_presidente_vargas_com_rua_da_paci%C3%AAncia_atual_carlos_gomes,_em_Bel%C3%A9m_do_Par%C3%A1.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_da_rep%C3%BAblica_av_presidente_vargas_com_rua_da_paci%C3%AAncia_atual_carlos_gomes,_em_Bel%C3%A9m_do_Par%C3%A1.jpg",
+  "emPe": false
  },
  "Rua Direita, esquina com rua do Ouvidor, onde se localizava a Casa Leuzinger (014GLAS109).jpg": {
   "arquivo": "fundos/rua-direita-esquina-com-rua-do-ouvidor-onde-se-localizava-a-casa-leuzi.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Rua_Direita,_esquina_com_rua_do_Ouvidor,_onde_se_localizava_a_Casa_Leuzinger_(014GLAS109).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Rua_Direita,_esquina_com_rua_do_Ouvidor,_onde_se_localizava_a_Casa_Leuzinger_(014GLAS109).jpg",
+  "emPe": false
  },
  "Recollections of an ill-fated expedition to the headwaters of the Madeira River in Brazil (1907) (14773134685).jpg": {
   "arquivo": "fundos/recollections-of-an-ill-fated-expedition-to-the-headwaters-of-the-made.jpg",
   "autor": "Internet Archive Book Images",
   "licenca": "No restrictions",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Recollections_of_an_ill-fated_expedition_to_the_headwaters_of_the_Madeira_River_in_Brazil_(1907)_(14773134685).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Recollections_of_an_ill-fated_expedition_to_the_headwaters_of_the_Madeira_River_in_Brazil_(1907)_(14773134685).jpg",
+  "emPe": false
  },
  "Ver o peso, em Belém do Pará.jpg": {
   "arquivo": "fundos/ver-o-peso-em-belem-do-para.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Ver_o_peso,_em_Bel%C3%A9m_do_Par%C3%A1.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ver_o_peso,_em_Bel%C3%A9m_do_Par%C3%A1.jpg",
+  "emPe": false
  },
  "Jiu-jitsu contra capoeira.jpg": {
   "arquivo": "fundos/jiu-jitsu-contra-capoeira.jpg",
   "autor": "Alfredo Storni",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Jiu-jitsu_contra_capoeira.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jiu-jitsu_contra_capoeira.jpg",
+  "emPe": false
  },
  "Avenida Rio Branco (007A5P4F02-016).jpg": {
   "arquivo": "fundos/avenida-rio-branco-007a5p4f02-016-.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_Rio_Branco_(007A5P4F02-016).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_Rio_Branco_(007A5P4F02-016).jpg",
+  "emPe": false
  },
  "Kasato Maru docked at warehouse 14 in Port of Santos 1908.png": {
   "arquivo": "fundos/kasato-maru-docked-at-warehouse-14-in-port-of-santos-1908.png",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Kasato_Maru_docked_at_warehouse_14_in_Port_of_Santos_1908.png"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kasato_Maru_docked_at_warehouse_14_in_Port_of_Santos_1908.png",
+  "emPe": false
  },
  "Vale do Anhangabaú 2.jpg": {
   "arquivo": "fundos/vale-do-anhangabau-2.jpg",
   "autor": "Not specified",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Vale_do_Anhangaba%C3%BA_2.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vale_do_Anhangaba%C3%BA_2.jpg",
+  "emPe": false
  },
  "Rua Paissandú (001RJ005006).jpg": {
   "arquivo": "fundos/rua-paissandu-001rj005006-.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Rua_Paissand%C3%BA_(001RJ005006).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Rua_Paissand%C3%BA_(001RJ005006).jpg",
+  "emPe": true
  },
  "Morro de Pão de Açúcar visto da Praia do Flamengo (013RJ001003).jpg": {
   "arquivo": "fundos/morro-de-pao-de-acucar-visto-da-praia-do-flamengo-013rj001003-.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Morro_de_P%C3%A3o_de_A%C3%A7%C3%BAcar_visto_da_Praia_do_Flamengo_(013RJ001003).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Morro_de_P%C3%A3o_de_A%C3%A7%C3%BAcar_visto_da_Praia_do_Flamengo_(013RJ001003).jpg",
+  "emPe": false
  },
  "Banhistas na praia do Flamengo (002080Vol01Cx0701).jpg": {
   "arquivo": "fundos/banhistas-na-praia-do-flamengo-002080vol01cx0701-.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Banhistas_na_praia_do_Flamengo_(002080Vol01Cx0701).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Banhistas_na_praia_do_Flamengo_(002080Vol01Cx0701).jpg",
+  "emPe": false
  },
  "Multidão no Palácio do Catete após a chegada de Vargas.jpg": {
   "arquivo": "fundos/multidao-no-palacio-do-catete-apos-a-chegada-de-vargas.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Multid%C3%A3o_no_Pal%C3%A1cio_do_Catete_ap%C3%B3s_a_chegada_de_Vargas.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Multid%C3%A3o_no_Pal%C3%A1cio_do_Catete_ap%C3%B3s_a_chegada_de_Vargas.jpg",
+  "emPe": false
  },
  "Jigoro Kano and Sumiyuki Kotani.jpg": {
   "arquivo": "fundos/jigoro-kano-and-sumiyuki-kotani.jpg",
   "autor": "Kodansha Ltd.",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Jigoro_Kano_and_Sumiyuki_Kotani.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jigoro_Kano_and_Sumiyuki_Kotani.jpg",
+  "emPe": false
  },
  "Hélio Gracie (1932).tif": {
   "arquivo": "fundos/helio-gracie-1932-.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:H%C3%A9lio_Gracie_(1932).tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:H%C3%A9lio_Gracie_(1932).tif",
+  "emPe": true
  },
  "Hermosa Beach Pier - 1978.jpg": {
   "arquivo": "fundos/hermosa-beach-pier-1978.jpg",
   "autor": "Tequask",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Hermosa_Beach_Pier_-_1978.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hermosa_Beach_Pier_-_1978.jpg",
+  "emPe": true
  },
  "Hollywood Sign (Zuschnitt).jpg": {
   "arquivo": "fundos/hollywood-sign-zuschnitt-.jpg",
   "autor": "Thomas Wolf, www.foto-tw.de",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg",
+  "emPe": false
  },
  "Torrance CA City Hall.jpg": {
   "arquivo": "fundos/torrance-ca-city-hall.jpg",
   "autor": "Thurifer",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Torrance_CA_City_Hall.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Torrance_CA_City_Hall.jpg",
+  "emPe": false
  },
  "Primary entrance, James R. Browning U.S. Court of Appeals Building, San Francisco, California LCCN2010719389.tif": {
   "arquivo": "fundos/primary-entrance-james-r-browning-u-s-court-of-appeals-building-san-fr.jpg",
   "autor": "James Knox Taylor",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Primary_entrance,_James_R._Browning_U.S._Court_of_Appeals_Building,_San_Francisco,_California_LCCN2010719389.tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Primary_entrance,_James_R._Browning_U.S._Court_of_Appeals_Building,_San_Francisco,_California_LCCN2010719389.tif",
+  "emPe": false
  },
  "Skyline, Denver, Colorado LCCN2011636031.tif": {
   "arquivo": "fundos/skyline-denver-colorado-lccn2011636031.jpg",
   "autor": "Carol M. Highsmith",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Skyline,_Denver,_Colorado_LCCN2011636031.tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Skyline,_Denver,_Colorado_LCCN2011636031.tif",
+  "emPe": false
  },
  "Royce Gracie Seminar 2011-01.jpg": {
   "arquivo": "fundos/royce-gracie-seminar-2011-01.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Royce_Gracie_Seminar_2011-01.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Royce_Gracie_Seminar_2011-01.jpg",
+  "emPe": false
  },
  "McNichols Sports Arena 1994.jpg": {
   "arquivo": "fundos/mcnichols-sports-arena-1994.jpg",
   "autor": "Drive-In Mike from Independence, MO, USA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:McNichols_Sports_Arena_1994.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:McNichols_Sports_Arena_1994.jpg",
+  "emPe": false
  },
  "Fillmore Auditorium Denver.jpg": {
   "arquivo": "fundos/fillmore-auditorium-denver.jpg",
   "autor": "Alan Islas",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Fillmore_Auditorium_Denver.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fillmore_Auditorium_Denver.jpg",
+  "emPe": false
  },
  "Pavilion at Expo Square.jpg": {
   "arquivo": "fundos/pavilion-at-expo-square.jpg",
   "autor": "Janice Waltzer",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Pavilion_at_Expo_Square.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pavilion_at_Expo_Square.jpg",
+  "emPe": false
  },
  "Bojangles Coliseum and The Park, Charlotte, NC - panoramio.jpg": {
   "arquivo": "fundos/bojangles-coliseum-and-the-park-charlotte-nc-panoramio.jpg",
   "autor": "James Willamor",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Bojangles_Coliseum_and_The_Park,_Charlotte,_NC_-_panoramio.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bojangles_Coliseum_and_The_Park,_Charlotte,_NC_-_panoramio.jpg",
+  "emPe": false
  },
  "Royce Gracie Seminar 2011-04.jpg": {
   "arquivo": "fundos/royce-gracie-seminar-2011-04.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Royce_Gracie_Seminar_2011-04.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Royce_Gracie_Seminar_2011-04.jpg",
+  "emPe": false
  },
  "Nippon Budokan 2010.jpg": {
   "arquivo": "fundos/nippon-budokan-2010.jpg",
   "autor": "Wiiii",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_2010.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_2010.jpg",
+  "emPe": false
  },
  "Tokyo Dome 20170924 1530.jpg": {
   "arquivo": "fundos/tokyo-dome-20170924-1530.jpg",
   "autor": "ITA-ATU",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Tokyo_Dome_20170924_1530.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Tokyo_Dome_20170924_1530.jpg",
+  "emPe": false
  },
  "Interior of Tokyo Dome.jpg": {
   "arquivo": "fundos/interior-of-tokyo-dome.jpg",
   "autor": "Koji Horaguchi",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Interior_of_Tokyo_Dome.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Interior_of_Tokyo_Dome.jpg",
+  "emPe": false
  },
  "Wanderlei Cesar Silva (2006) a.jpg": {
   "arquivo": "fundos/wanderlei-cesar-silva-2006-a.jpg",
   "autor": "LeeBrimelow",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Wanderlei_Cesar_Silva_(2006)_a.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Wanderlei_Cesar_Silva_(2006)_a.jpg",
+  "emPe": false
  },
  "Renzo Gracie prepares to clinch.jpg": {
   "arquivo": "fundos/renzo-gracie-prepares-to-clinch.jpg",
   "autor": "Akban Martial arts academy",
   "licenca": "CC BY-SA 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Renzo_Gracie_prepares_to_clinch.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Renzo_Gracie_prepares_to_clinch.jpg",
+  "emPe": false
  },
  "Bryce Jordan Center Wrestling.jpg": {
   "arquivo": "fundos/bryce-jordan-center-wrestling.jpg",
   "autor": "Noah Riffe",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Bryce_Jordan_Center_Wrestling.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bryce_Jordan_Center_Wrestling.jpg",
+  "emPe": false
  },
  "Forte de Copacabana panorama.jpg": {
   "arquivo": "fundos/forte-de-copacabana-panorama.jpg",
   "autor": "Gabriel Heusi/Brasil2016.gov.br",
   "licenca": "CC BY 3.0 br",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Forte_de_Copacabana_panorama.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Forte_de_Copacabana_panorama.jpg",
+  "emPe": false
  },
  "Vieira Souto - Lagoa Rodrigo de Freitas, seagull.jpg": {
   "arquivo": "fundos/vieira-souto-lagoa-rodrigo-de-freitas-seagull.jpg",
   "autor": "Sérgio Valle Duarte Wikidata has entry Sergio Valle Duarte (Q16269994) with data",
   "licenca": "CC BY 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Vieira_Souto_-_Lagoa_Rodrigo_de_Freitas,_seagull.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vieira_Souto_-_Lagoa_Rodrigo_de_Freitas,_seagull.jpg",
+  "emPe": false
  },
  "1984 April Rio de Janeiro (40).jpg": {
   "arquivo": "fundos/1984-april-rio-de-janeiro-40-.jpg",
   "autor": "ArtLink2Fun",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:1984_April_Rio_de_Janeiro_(40).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:1984_April_Rio_de_Janeiro_(40).jpg",
+  "emPe": false
  },
  "1984 April Rio de Janeiro (59).jpg": {
   "arquivo": "fundos/1984-april-rio-de-janeiro-59-.jpg",
   "autor": "ArtLink2Fun",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:1984_April_Rio_de_Janeiro_(59).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:1984_April_Rio_de_Janeiro_(59).jpg",
+  "emPe": false
  },
  "Braulio Estima vs Alexandre Ceconi.jpg": {
   "arquivo": "fundos/braulio-estima-vs-alexandre-ceconi.jpg",
   "autor": "Elijah Fayerman",
   "licenca": "CC BY 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Braulio_Estima_vs_Alexandre_Ceconi.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Braulio_Estima_vs_Alexandre_Ceconi.jpg",
+  "emPe": false
  },
  "GABRIEL VELLA vs ROMINHO 51.jpg": {
   "arquivo": "fundos/gabriel-vella-vs-rominho-51.jpg",
   "autor": "John Lamonica",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:GABRIEL_VELLA_vs_ROMINHO_51.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:GABRIEL_VELLA_vs_ROMINHO_51.jpg",
+  "emPe": false
  },
  "Masters seniors.jpg": {
   "arquivo": "fundos/masters-seniors.jpg",
   "autor": "Eduardofeld",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Masters_seniors.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Masters_seniors.jpg",
+  "emPe": false
  },
  "Ginásio Tijuca Tênis Clube em 2022.jpg": {
   "arquivo": "fundos/ginasio-tijuca-tenis-clube-em-2022.jpg",
   "autor": "Boaventuravinicius",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Gin%C3%A1sio_Tijuca_T%C3%AAnis_Clube_em_2022.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gin%C3%A1sio_Tijuca_T%C3%AAnis_Clube_em_2022.jpg",
+  "emPe": false
  },
  "Premier Motors - World Professional Jiu-Jitsu Championship (13946163993).jpg": {
   "arquivo": "fundos/premier-motors-world-professional-jiu-jitsu-championship-13946163993-.jpg",
   "autor": "Land Rover MENA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946163993).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946163993).jpg",
+  "emPe": false
  },
  "Campeonato Brasileiro Interclubes de Jiu-Jitsu 2009.jpg": {
   "arquivo": "fundos/campeonato-brasileiro-interclubes-de-jiu-jitsu-2009.jpg",
   "autor": "Cid Costa Neto",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Campeonato_Brasileiro_Interclubes_de_Jiu-Jitsu_2009.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Campeonato_Brasileiro_Interclubes_de_Jiu-Jitsu_2009.jpg",
+  "emPe": false
  },
  "Championnats de France CFJJB 2013 (4).jpg": {
   "arquivo": "fundos/championnats-de-france-cfjjb-2013-4-.jpg",
   "autor": "Jgui",
   "licenca": "CC0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Championnats_de_France_CFJJB_2013_(4).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Championnats_de_France_CFJJB_2013_(4).jpg",
+  "emPe": false
  },
  "Walter Pyramid.jpg": {
   "arquivo": "fundos/walter-pyramid.jpg",
   "autor": "Summum",
   "licenca": "CC BY-SA 2.5",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Walter_Pyramid.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Walter_Pyramid.jpg",
+  "emPe": false
  },
  "Hilton Leão e Célio Caneca, 2009.jpg": {
   "arquivo": "fundos/hilton-leao-e-celio-caneca-2009.jpg",
   "autor": "Cid Costa Neto",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Hilton_Le%C3%A3o_e_C%C3%A9lio_Caneca,_2009.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hilton_Le%C3%A3o_e_C%C3%A9lio_Caneca,_2009.jpg",
+  "emPe": false
  },
  "XIICLD.jpg": {
   "arquivo": "fundos/xiicld.jpg",
   "autor": "Cid Costa Neto",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:XIICLD.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:XIICLD.jpg",
+  "emPe": false
  },
  "Brazilian Jiu-jitsu-Closed guard.jpg": {
   "arquivo": "fundos/brazilian-jiu-jitsu-closed-guard.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Brazilian_Jiu-jitsu-Closed_guard.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Brazilian_Jiu-jitsu-Closed_guard.jpg",
+  "emPe": false
  },
  "Las Vegas Strip from Resorts World February 2023 HDR 1.jpg": {
   "arquivo": "fundos/las-vegas-strip-from-resorts-world-february-2023-hdr-1.jpg",
   "autor": "King of Hearts",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Strip_from_Resorts_World_February_2023_HDR_1.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Strip_from_Resorts_World_February_2023_HDR_1.jpg",
+  "emPe": false
  },
  "Megaton Dias Seminar 03.jpg": {
   "arquivo": "fundos/megaton-dias-seminar-03.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_03.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_03.jpg",
+  "emPe": false
  },
  "Royler Gracie Teaching 03.jpg": {
   "arquivo": "fundos/royler-gracie-teaching-03.jpg",
   "autor": "Kelly Bailey",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Royler_Gracie_Teaching_03.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Royler_Gracie_Teaching_03.jpg",
+  "emPe": false
  },
  "Los Angeles View.jpg": {
   "arquivo": "fundos/los-angeles-view.jpg",
   "autor": "Gabe Shore",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Los_Angeles_View.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Los_Angeles_View.jpg",
+  "emPe": false
  },
  "Austin Texas skyline, December 2023 - Evening.jpg": {
   "arquivo": "fundos/austin-texas-skyline-december-2023-evening.jpg",
   "autor": "Steve",
   "licenca": "CC BY-SA 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Austin_Texas_skyline,_December_2023_-_Evening.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Austin_Texas_skyline,_December_2023_-_Evening.jpg",
+  "emPe": false
  },
  "Wno wnx finale 7.14.2022-201.jpg": {
   "arquivo": "fundos/wno-wnx-finale-7-14-2022-201.jpg",
   "autor": "Mikerakshan",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Wno_wnx_finale_7.14.2022-201.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Wno_wnx_finale_7.14.2022-201.jpg",
+  "emPe": false
  },
  "Bjj no gi.jpg": {
   "arquivo": "fundos/bjj-no-gi.jpg",
   "autor": "Oleslava",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Bjj_no_gi.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bjj_no_gi.jpg",
+  "emPe": false
  },
  "Andrea Galvao.jpg": {
   "arquivo": "fundos/andrea-galvao.jpg",
   "autor": "John Lamonica",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Andrea_Galvao.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Andrea_Galvao.jpg",
+  "emPe": false
  },
  "Skyline of Austin, Texas.jpg": {
   "arquivo": "fundos/skyline-of-austin-texas.jpg",
   "autor": "Quintin Soloviev",
   "licenca": "CC BY 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Skyline_of_Austin,_Texas.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Skyline_of_Austin,_Texas.jpg",
+  "emPe": false
  },
  "Thomas & Mack Center by Gage Skidmore.jpg": {
   "arquivo": "fundos/thomas-mack-center-by-gage-skidmore.jpg",
   "autor": "Gage Skidmore",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Thomas_%26_Mack_Center_by_Gage_Skidmore.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Thomas_%26_Mack_Center_by_Gage_Skidmore.jpg",
+  "emPe": false
  },
  "Podium-Adcc-2009.jpg": {
   "arquivo": "fundos/podium-adcc-2009.jpg",
   "autor": "Popovitch4 (talk)",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Podium-Adcc-2009.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Podium-Adcc-2009.jpg",
+  "emPe": false
  },
  "T-Mobile Arena (31534778122).jpg": {
   "arquivo": "fundos/t-mobile-arena-31534778122-.jpg",
   "autor": "Prayitno / Thank you for (12 millions +) view from Los Angeles, USA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:T-Mobile_Arena_(31534778122).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:T-Mobile_Arena_(31534778122).jpg",
+  "emPe": false
  },
  "Kaynan Duarte vs Buchecha no ADCC 2019.jpg": {
   "arquivo": "fundos/kaynan-duarte-vs-buchecha-no-adcc-2019.jpg",
   "autor": "Mayara Munhos",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Kaynan_Duarte_vs_Buchecha_no_ADCC_2019.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kaynan_Duarte_vs_Buchecha_no_ADCC_2019.jpg",
+  "emPe": false
  },
  "2015-03-03 - Tijuca Tênis Clube.JPG": {
   "arquivo": "fundos/2015-03-03-tijuca-tenis-clube.jpg",
   "autor": "Leandro Rocha",
   "licenca": "CC BY 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:2015-03-03_-_Tijuca_T%C3%AAnis_Clube.JPG"
+  "pagina": "https://commons.wikimedia.org/wiki/File:2015-03-03_-_Tijuca_T%C3%AAnis_Clube.JPG",
+  "emPe": false
  },
  "Royce Gracie Seminar 2011-03.jpg": {
   "arquivo": "fundos/royce-gracie-seminar-2011-03.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Royce_Gracie_Seminar_2011-03.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Royce_Gracie_Seminar_2011-03.jpg",
+  "emPe": false
  },
  "Jiu-Jitsu Brasileño.jpeg": {
   "arquivo": "fundos/jiu-jitsu-brasileno.jpg",
   "autor": "Gabribatu",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Jiu-Jitsu_Brasile%C3%B1o.jpeg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jiu-Jitsu_Brasile%C3%B1o.jpeg",
+  "emPe": false
  },
  "Championnat national CFJJB 2026.jpg": {
   "arquivo": "fundos/championnat-national-cfjjb-2026.jpg",
   "autor": "Jgui",
   "licenca": "CC0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Championnat_national_CFJJB_2026.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Championnat_national_CFJJB_2026.jpg",
+  "emPe": false
  },
  "Compet JJB R Gracie Paris 1997.jpg": {
   "arquivo": "fundos/compet-jjb-r-gracie-paris-1997.jpg",
   "autor": "Grook Da Oger",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Compet_JJB_R_Gracie_Paris_1997.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Compet_JJB_R_Gracie_Paris_1997.jpg",
+  "emPe": false
  },
  "BJJ-half guard.jpg": {
   "arquivo": "fundos/bjj-half-guard.jpg",
   "autor": "parhessiastes",
   "licenca": "CC BY-SA 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:BJJ-half_guard.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:BJJ-half_guard.jpg",
+  "emPe": false
  },
  "Photo (3 of 19).jpg": {
   "arquivo": "fundos/photo-3-of-19-.jpg",
   "autor": "Oleslava",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Photo_(3_of_19).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Photo_(3_of_19).jpg",
+  "emPe": false
  },
  "Megaton Dias Seminar 05.jpg": {
   "arquivo": "fundos/megaton-dias-seminar-05.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_05.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_05.jpg",
+  "emPe": false
  },
  "Megaton Dias Seminar 07.jpg": {
   "arquivo": "fundos/megaton-dias-seminar-07.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_07.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_07.jpg",
+  "emPe": false
  },
  "XGuard.jpg": {
   "arquivo": "fundos/xguard.jpg",
   "autor": "Matthew Walsh",
   "licenca": "CC BY-SA 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:XGuard.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:XGuard.jpg",
+  "emPe": false
  },
  "Premier Motors - World Professional Jiu-Jitsu Championship (13923006242).jpg": {
   "arquivo": "fundos/premier-motors-world-professional-jiu-jitsu-championship-13923006242-.jpg",
   "autor": "Land Rover MENA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13923006242).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13923006242).jpg",
+  "emPe": false
  },
  "Premier Motors - World Professional Jiu-Jitsu Championship (13946565094).jpg": {
   "arquivo": "fundos/premier-motors-world-professional-jiu-jitsu-championship-13946565094-.jpg",
   "autor": "Land Rover MENA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946565094).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946565094).jpg",
+  "emPe": false
  },
  "Premier Motors - World Professional Jiu-Jitsu Championship (13946544494).jpg": {
   "arquivo": "fundos/premier-motors-world-professional-jiu-jitsu-championship-13946544494-.jpg",
   "autor": "Land Rover MENA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946544494).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946544494).jpg",
+  "emPe": false
  },
  "Premier Motors - World Professional Jiu-Jitsu Championship (13922998452).jpg": {
   "arquivo": "fundos/premier-motors-world-professional-jiu-jitsu-championship-13922998452-.jpg",
   "autor": "Land Rover MENA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13922998452).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13922998452).jpg",
+  "emPe": false
  },
  "Premier Motors - World Professional Jiu-Jitsu Championship (13946091865).jpg": {
   "arquivo": "fundos/premier-motors-world-professional-jiu-jitsu-championship-13946091865-.jpg",
   "autor": "Land Rover MENA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946091865).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946091865).jpg",
+  "emPe": false
  },
  "Championnats de France CFJJB 2013 (1).jpg": {
   "arquivo": "fundos/championnats-de-france-cfjjb-2013-1-.jpg",
   "autor": "Jgui",
   "licenca": "CC0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Championnats_de_France_CFJJB_2013_(1).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Championnats_de_France_CFJJB_2013_(1).jpg",
+  "emPe": false
  },
  "Premier Motors - World Professional Jiu-Jitsu Championship (13946107525).jpg": {
   "arquivo": "fundos/premier-motors-world-professional-jiu-jitsu-championship-13946107525-.jpg",
   "autor": "Land Rover MENA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946107525).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Premier_Motors_-_World_Professional_Jiu-Jitsu_Championship_(13946107525).jpg",
+  "emPe": false
  },
  "Brazilian Luta Livre.jpg": {
   "arquivo": "fundos/brazilian-luta-livre.jpg",
   "autor": "Gisella Mariana",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Brazilian_Luta_Livre.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Brazilian_Luta_Livre.jpg",
+  "emPe": false
  },
  "Renzo Gracie BJJ Academy.jpg": {
   "arquivo": "fundos/renzo-gracie-bjj-academy.jpg",
   "autor": "cisc1970",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Renzo_Gracie_BJJ_Academy.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Renzo_Gracie_BJJ_Academy.jpg",
+  "emPe": false
  },
  "Megaton Dias Seminar 11.jpg": {
   "arquivo": "fundos/megaton-dias-seminar-11.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_11.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_11.jpg",
+  "emPe": false
  },
  "Submission Grappling - rear naked choke.jpg": {
   "arquivo": "fundos/submission-grappling-rear-naked-choke.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Submission_Grappling_-_rear_naked_choke.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Submission_Grappling_-_rear_naked_choke.jpg",
+  "emPe": false
  },
  "156 365 no-gi grappling (4672861418).jpg": {
   "arquivo": "fundos/156-365-no-gi-grappling-4672861418-.jpg",
   "autor": "Mark Bonica from Durham, NH, USA",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:156_365_no-gi_grappling_(4672861418).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:156_365_no-gi_grappling_(4672861418).jpg",
+  "emPe": false
  },
  "Kneebar 1-Neil Melanson Seminar March 2012.jpg": {
   "arquivo": "fundos/kneebar-1-neil-melanson-seminar-march-2012.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Kneebar_1-Neil_Melanson_Seminar_March_2012.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kneebar_1-Neil_Melanson_Seminar_March_2012.jpg",
+  "emPe": false
  },
  "Megaton Dias Seminar 08.jpg": {
   "arquivo": "fundos/megaton-dias-seminar-08.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_08.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Megaton_Dias_Seminar_08.jpg",
+  "emPe": false
  },
  "Back mount - Submission grappling at 2010 Western Canadian Martial Arts Championships.jpg": {
   "arquivo": "fundos/back-mount-submission-grappling-at-2010-western-canadian-martial-arts-.jpg",
   "autor": "MartialArtsNomad.com",
   "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Back_mount_-_Submission_grappling_at_2010_Western_Canadian_Martial_Arts_Championships.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Back_mount_-_Submission_grappling_at_2010_Western_Canadian_Martial_Arts_Championships.jpg",
+  "emPe": false
  },
  "Mixed-martial arts fights heat up Combat Center 140620-M-ZM882-066.jpg": {
   "arquivo": "fundos/mixed-martial-arts-fights-heat-up-combat-center-140620-m-zm882-066.jpg",
   "autor": "Lance Cpl. Paul S. Martinez",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Mixed-martial_arts_fights_heat_up_Combat_Center_140620-M-ZM882-066.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Mixed-martial_arts_fights_heat_up_Combat_Center_140620-M-ZM882-066.jpg",
+  "emPe": false
  },
  "Kick drill jiu jitsu.jpg": {
   "arquivo": "fundos/kick-drill-jiu-jitsu.jpg",
   "autor": "United States Air Force",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Kick_drill_jiu_jitsu.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kick_drill_jiu_jitsu.jpg",
+  "emPe": false
  },
  "Jiu Jitsu.jpg": {
   "arquivo": "fundos/jiu-jitsu.jpg",
   "autor": "Gabribatu",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Jiu_Jitsu.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jiu_Jitsu.jpg",
+  "emPe": false
  },
  "北斎漫画の柔術.png": {
   "arquivo": "fundos/-.png",
   "autor": "葛飾北斎",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%96%8E%E6%BC%AB%E7%94%BB%E3%81%AE%E6%9F%94%E8%A1%93.png"
+  "pagina": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%96%8E%E6%BC%AB%E7%94%BB%E3%81%AE%E6%9F%94%E8%A1%93.png",
+  "emPe": false
  },
  "Belém (PA).tif": {
   "arquivo": "fundos/belem-pa-.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9m_(PA).tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9m_(PA).tif",
+  "emPe": false
  },
  "Avenida Rio Branco (007A5P3F04-045).jpg": {
   "arquivo": "fundos/avenida-rio-branco-007a5p3f04-045-.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_Rio_Branco_(007A5P3F04-045).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_Rio_Branco_(007A5P3F04-045).jpg",
+  "emPe": false
  },
  "Avenida Rio Branco; edifícios do Jornal do Comércio e da Companhia Adriática de Seguros (037SL03060).jpg": {
   "arquivo": "fundos/avenida-rio-branco-edificios-do-jornal-do-comercio-e-da-companhia-adri.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_Rio_Branco;_edif%C3%ADcios_do_Jornal_do_Com%C3%A9rcio_e_da_Companhia_Adri%C3%A1tica_de_Seguros_(037SL03060).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Avenida_Rio_Branco;_edif%C3%ADcios_do_Jornal_do_Com%C3%A9rcio_e_da_Companhia_Adri%C3%A1tica_de_Seguros_(037SL03060).jpg",
+  "emPe": true
  },
  "Stanisław i Władysław Cyganiewiczowie w Krakowie (1911)c.jpg": {
   "arquivo": "fundos/stanis-aw-i-w-adys-aw-cyganiewiczowie-w-krakowie-1911-c.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_i_W%C5%82adys%C5%82aw_Cyganiewiczowie_w_Krakowie_(1911)c.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_i_W%C5%82adys%C5%82aw_Cyganiewiczowie_w_Krakowie_(1911)c.jpg",
+  "emPe": false
  },
  "Morro do Pão de Açúcar visto da Praia do Flamengo (013RJ002003).jpg": {
   "arquivo": "fundos/morro-do-pao-de-acucar-visto-da-praia-do-flamengo-013rj002003-.jpg",
   "autor": "Núcleo de digitalização / IMS",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Morro_do_P%C3%A3o_de_A%C3%A7%C3%BAcar_visto_da_Praia_do_Flamengo_(013RJ002003).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Morro_do_P%C3%A3o_de_A%C3%A7%C3%BAcar_visto_da_Praia_do_Flamengo_(013RJ002003).jpg",
+  "emPe": false
  },
  "Carlos Gracie (1951).tif": {
   "arquivo": "fundos/carlos-gracie-1951-.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Carlos_Gracie_(1951).tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Carlos_Gracie_(1951).tif",
+  "emPe": true
  },
  "Força Expedicionária Brasileira - Entrega de Bandeira do Brasil ao Corpo Expedicionário oferecida pelo Tijuca Tênis Clube, Rio de Janeiro, RJ. (1).jpg": {
   "arquivo": "fundos/forca-expedicionaria-brasileira-entrega-de-bandeira-do-brasil-ao-corpo.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:For%C3%A7a_Expedicion%C3%A1ria_Brasileira_-_Entrega_de_Bandeira_do_Brasil_ao_Corpo_Expedicion%C3%A1rio_oferecida_pelo_Tijuca_T%C3%AAnis_Clube,_Rio_de_Janeiro,_RJ._(1).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:For%C3%A7a_Expedicion%C3%A1ria_Brasileira_-_Entrega_de_Bandeira_do_Brasil_ao_Corpo_Expedicion%C3%A1rio_oferecida_pelo_Tijuca_T%C3%AAnis_Clube,_Rio_de_Janeiro,_RJ._(1).jpg",
+  "emPe": false
  },
  "Joe Louis vs. Ezzard Charles 1950.jpg": {
   "arquivo": "fundos/joe-louis-vs-ezzard-charles-1950.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Joe_Louis_vs._Ezzard_Charles_1950.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Joe_Louis_vs._Ezzard_Charles_1950.jpg",
+  "emPe": false
  },
  "Hélio Gracie (1952).tif": {
   "arquivo": "fundos/helio-gracie-1952-.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:H%C3%A9lio_Gracie_(1952).tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:H%C3%A9lio_Gracie_(1952).tif",
+  "emPe": true
  },
  "Correio da Manhã AN 110.jpg": {
   "arquivo": "fundos/correio-da-manha-an-110.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Correio_da_Manh%C3%A3_AN_110.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Correio_da_Manh%C3%A3_AN_110.jpg",
+  "emPe": false
  },
  "Jogo no Estádio do Maracanã, antes da Copa do Mundo de 1950.tif": {
   "arquivo": "fundos/jogo-no-estadio-do-maracana-antes-da-copa-do-mundo-de-1950.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Jogo_no_Est%C3%A1dio_do_Maracan%C3%A3,_antes_da_Copa_do_Mundo_de_1950.tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jogo_no_Est%C3%A1dio_do_Maracan%C3%A3,_antes_da_Copa_do_Mundo_de_1950.tif",
+  "emPe": false
  },
  "Tatuguma Ushijima Kimura Masahiko.JPG": {
   "arquivo": "fundos/tatuguma-ushijima-kimura-masahiko.jpg",
   "autor": "Внук-Татугма",
   "licenca": "CC BY-SA 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Tatuguma_Ushijima_Kimura_Masahiko.JPG"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Tatuguma_Ushijima_Kimura_Masahiko.JPG",
+  "emPe": false
  },
  "Geral do Maracanã na copa de 1950.jpg": {
   "arquivo": "fundos/geral-do-maracana-na-copa-de-1950.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Geral_do_Maracan%C3%A3_na_copa_de_1950.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Geral_do_Maracan%C3%A3_na_copa_de_1950.jpg",
+  "emPe": false
  },
  "Valdemar Santana.jpg": {
   "arquivo": "fundos/valdemar-santana.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Valdemar_Santana.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Valdemar_Santana.jpg",
+  "emPe": false
  },
  "Alunos do Programa Forças no Esporte (PROFESP) 2022 em treinamento esportivo (Jiu-Jitsu) - Centro de Educação Física Almirante Adalberto Nunes (CEFAN). (52118194247).jpg": {
   "arquivo": "fundos/alunos-do-programa-forcas-no-esporte-profesp-2022-em-treinamento-espor.jpg",
   "autor": "Marinha do Brasil",
   "licenca": "CC BY-SA 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Alunos_do_Programa_For%C3%A7as_no_Esporte_(PROFESP)_2022_em_treinamento_esportivo_(Jiu-Jitsu)_-_Centro_de_Educa%C3%A7%C3%A3o_F%C3%ADsica_Almirante_Adalberto_Nunes_(CEFAN)._(52118194247).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Alunos_do_Programa_For%C3%A7as_no_Esporte_(PROFESP)_2022_em_treinamento_esportivo_(Jiu-Jitsu)_-_Centro_de_Educa%C3%A7%C3%A3o_F%C3%ADsica_Almirante_Adalberto_Nunes_(CEFAN)._(52118194247).jpg",
+  "emPe": false
  },
  "Praça Shimon Peres 02.jpg": {
   "arquivo": "fundos/praca-shimon-peres-02.jpg",
   "autor": "Edvaldo Reis / Prefeitura da Cidade do Rio de Janeiro",
   "licenca": "CC BY 3.0 br",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Shimon_Peres_02.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Shimon_Peres_02.jpg",
+  "emPe": false
  },
  "Robson Gracie, sem data.tif": {
   "arquivo": "fundos/robson-gracie-sem-data.jpg",
   "autor": "autor desconhecido",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Robson_Gracie,_sem_data.tif"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Robson_Gracie,_sem_data.tif",
+  "emPe": false
  },
  "BJJStripeBelt.jpg": {
   "arquivo": "fundos/bjjstripebelt.jpg",
   "autor": "Buddy23Lee",
   "licenca": "CC BY 3.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:BJJStripeBelt.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:BJJStripeBelt.jpg",
+  "emPe": false
  },
  "Veteran Coral Belt “Papa John” Coaches 173rd Airborne Paratroopers in Jiu-Jitsu (9400837).jpg": {
   "arquivo": "fundos/veteran-coral-belt-papa-john-coaches-173rd-airborne-paratroopers-in-ji.jpg",
   "autor": "U.S. Army photo by Sgt. Jose Lora",
   "licenca": "domínio público",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Veteran_Coral_Belt_%E2%80%9CPapa_John%E2%80%9D_Coaches_173rd_Airborne_Paratroopers_in_Jiu-Jitsu_(9400837).jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Veteran_Coral_Belt_%E2%80%9CPapa_John%E2%80%9D_Coaches_173rd_Airborne_Paratroopers_in_Jiu-Jitsu_(9400837).jpg",
+  "emPe": false
  },
  "Judo, Nederland tegen Engeland te Den Haag., Brian Jack (l) in duel met A. van P, Bestanddeelnr 920-1694.jpg": {
   "arquivo": "fundos/judo-nederland-tegen-engeland-te-den-haag-brian-jack-l-in-duel-met-a-v.jpg",
   "autor": "Eric Koch for Anefo",
   "licenca": "CC0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Judo,_Nederland_tegen_Engeland_te_Den_Haag.,_Brian_Jack_(l)_in_duel_met_A._van_P,_Bestanddeelnr_920-1694.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Judo,_Nederland_tegen_Engeland_te_Den_Haag.,_Brian_Jack_(l)_in_duel_met_A._van_P,_Bestanddeelnr_920-1694.jpg",
+  "emPe": false
  },
  "Looking for the takedown.jpg": {
   "arquivo": "fundos/looking-for-the-takedown.jpg",
   "autor": "parhessiastes",
   "licenca": "CC BY-SA 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Looking_for_the_takedown.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Looking_for_the_takedown.jpg",
+  "emPe": true
  },
  "Bundesarchiv Bild 183-L0319-0004, Wolfgang Freund, Fritz Westphal.jpg": {
   "arquivo": "fundos/bundesarchiv-bild-183-l0319-0004-wolfgang-freund-fritz-westphal.jpg",
   "autor": "Liebers, Peter",
   "licenca": "CC BY-SA 3.0 de",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-L0319-0004,_Wolfgang_Freund,_Fritz_Westphal.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-L0319-0004,_Wolfgang_Freund,_Fritz_Westphal.jpg",
+  "emPe": false
  },
  "Triangle choke.jpeg": {
   "arquivo": "fundos/triangle-choke.jpg",
   "autor": "Zoran.jerkovic",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Triangle_choke.jpeg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Triangle_choke.jpeg",
+  "emPe": false
  },
  "Zesdaagse Amsterdam, judo Wim Ruska brengt tegenstander naar de grond met een ar, Bestanddeelnr 920-9193.jpg": {
   "arquivo": "fundos/zesdaagse-amsterdam-judo-wim-ruska-brengt-tegenstander-naar-de-grond-m.jpg",
   "autor": "Jack de Nijs for Anefo / Anefo",
   "licenca": "CC0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Zesdaagse_Amsterdam,_judo_Wim_Ruska_brengt_tegenstander_naar_de_grond_met_een_ar,_Bestanddeelnr_920-9193.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Zesdaagse_Amsterdam,_judo_Wim_Ruska_brengt_tegenstander_naar_de_grond_met_een_ar,_Bestanddeelnr_920-9193.jpg",
+  "emPe": false
  },
  "Vista de Visconde de Mauá, RJ.jpg": {
   "arquivo": "fundos/vista-de-visconde-de-maua-rj.jpg",
   "autor": "Carlos Siqueira",
   "licenca": "CC BY-SA 4.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Vista_de_Visconde_de_Mau%C3%A1,_RJ.jpg"
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vista_de_Visconde_de_Mau%C3%A1,_RJ.jpg",
+  "emPe": false
  }
 }
