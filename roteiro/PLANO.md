@@ -16,8 +16,8 @@ Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os en
 | 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 32 | 4 | pronto |
 | 7 | Nasce o esporte organizado | 1967 – 2007 | 24 | 3 | pronto |
 | 8 | ADCC e o encontro com o wrestling | 1998 – 2011 | 23 | 3 | pronto |
-| 9 | A evolução da técnica | 1990 – hoje | 28 | 4 | narrado, em render |
-| 10 | A era profissional e o no-gi | 2012 – hoje | 25 | 3 | narrado, em render |
+| 9 | A evolução da técnica | 1990 – hoje | 28 | 4 | pronto |
+| 10 | A era profissional e o no-gi | 2012 – hoje | 26 | 3 | pronto |
 
 Os minutos são meta: se a pesquisa render mais história boa, o capítulo cresce; se render menos, encolhe. Cada bloco tem de 11 a 13 cenas e de 900 a 1.100 palavras de narração (cerca de 7 minutos). As regras para escrever um bloco estão em `roteiro/BRIEFING-BLOCO.md`.
 
