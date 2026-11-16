@@ -265,7 +265,8 @@
           "texto": "Nos jornais: cartas, provocações e respostas",
           "quando": "cartas abertas"
         }
-      ]
+      ],
+      "fundo": "Avenida Rio Branco (007A5P3F04-045).jpg"
     },
     {
       "id": "a03-jornais",
@@ -339,7 +340,8 @@
           "texto": "Cada luta com regulamento próprio",
           "quando": "um regulamento próprio"
         }
-      ]
+      ],
+      "fundo": "Jiu-jitsu contra capoeira.jpg"
     },
     {
       "id": "a05-george",
@@ -554,7 +556,8 @@
             "quando": "todas concordam"
           }
         ]
-      }
+      },
+      "fundo": "Hélio Gracie (1932).tif"
     },
     {
       "id": "a11-ebert",
@@ -687,7 +690,8 @@
           "texto": "O público vaia o tempo todo",
           "quando": "vaia o tempo"
         }
-      ]
+      ],
+      "fundo": "Stanisław i Władysław Cyganiewiczowie w Krakowie (1911)c.jpg"
     },
     {
       "id": "b02-quem-era-zbyszko",
@@ -1302,7 +1306,8 @@
           "texto": "\"O aluno precisa se sentir respeitado\"",
           "quando": "se sentir respeitado"
         }
-      ]
+      ],
+      "fundo": "Morro do Pão de Açúcar visto da Praia do Flamengo (013RJ002003).jpg"
     },
     {
       "id": "c04-carlos",
@@ -1390,7 +1395,8 @@
           "pai": "helio",
           "quando": "Rorion, só chega"
         }
-      ]
+      ],
+      "fundo": "Carlos Gracie (1951).tif"
     },
     {
       "id": "c06-anos-quarenta",
@@ -1467,7 +1473,8 @@
             "quando": "o encontro não acontece"
           }
         ]
-      }
+      },
+      "fundo": "Joe Louis vs. Ezzard Charles 1950.jpg"
     },
     {
       "id": "c08-volta",
@@ -1496,7 +1503,8 @@
           "texto": "Azevedo Maia: outro estrangulamento",
           "quando": "vence Azevedo Maia"
         }
-      ]
+      ],
+      "fundo": "Hélio Gracie (1952).tif"
     },
     {
       "id": "c09-rio-branco",
@@ -1527,7 +1535,8 @@
           "texto": "Professor atrasado paga multa",
           "quando": "paga multa"
         }
-      ]
+      ],
+      "fundo": "Correio da Manhã AN 110.jpg"
     },
     {
       "id": "c10-japoneses",
@@ -1634,7 +1643,8 @@
           "texto": "Empate e revanche marcada",
           "quando": "Resultado: empate"
         }
-      ]
+      ],
+      "fundo": "Jogo no Estádio do Maracanã, antes da Copa do Mundo de 1950.tif"
     },
     {
       "id": "c12-kato-pacaembu",
@@ -1712,7 +1722,8 @@
           "texto": "Outubro de 1951, no Maracanã",
           "quando": "marcada para outubro"
         }
-      ]
+      ],
+      "fundo": "Tatuguma Ushijima Kimura Masahiko.JPG"
     },
     {
       "id": "d01-kimura",
@@ -1848,7 +1859,8 @@
           "texto": "Kimura torce o braço para trás",
           "quando": "torce o braço"
         }
-      ]
+      ],
+      "fundo": "Geral do Maracanã na copa de 1950.jpg"
     },
     {
       "id": "d05-toalha",
@@ -1918,7 +1930,8 @@
           "texto": "Hoje, no mundo inteiro: kimura",
           "quando": "essa chave se chama"
         }
-      ]
+      ],
+      "fundo": "Hélio Gracie (1952).tif"
     },
     {
       "id": "d07-fadda",
@@ -2062,7 +2075,8 @@
             "quando": "socos, chutes e cabeçadas"
           }
         ]
-      }
+      },
+      "fundo": "Valdemar Santana.jpg"
     },
     {
       "id": "d11-chute",
@@ -2105,7 +2119,8 @@
       "ano": 1955,
       "texto": "Sua carreira, verdadeiramente meteórica, deve-se a um pontapé que entrou para a história do esporte nacional.",
       "autor": "Jornal Última Hora, 8 de outubro de 1955, sobre Waldemar Santana",
-      "narracao": "Meses depois, o jornal Última Hora resume o que aconteceu com Santana: uma carreira meteórica, que se deve a um pontapé que entrou para a história do esporte nacional. Para Hélio, é a última luta. Ele já passou dos quarenta anos e não volta ao ringue. A academia, porém, não esvazia: ele contaria que ganhou mais de cem alunos novos, impressionados com um homem leve que resistiu tanto. Mas acaba ali a era em que os irmãos Gracie respondiam em pessoa aos desafiantes. A resposta da família virá de um sobrinho."
+      "narracao": "Meses depois, o jornal Última Hora resume o que aconteceu com Santana: uma carreira meteórica, que se deve a um pontapé que entrou para a história do esporte nacional. Para Hélio, é a última luta. Ele já passou dos quarenta anos e não volta ao ringue. A academia, porém, não esvazia: ele contaria que ganhou mais de cem alunos novos, impressionados com um homem leve que resistiu tanto. Mas acaba ali a era em que os irmãos Gracie respondiam em pessoa aos desafiantes. A resposta da família virá de um sobrinho.",
+      "fundo": "Valdemar Santana.jpg"
     },
     {
       "id": "d13-sem-kimono",

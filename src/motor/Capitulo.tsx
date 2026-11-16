@@ -118,6 +118,8 @@ const FundoDaCena: React.FC<{ cena: Cena; duracao: number; indice: number }> = (
           width: LARGURA,
           height: ALTURA,
           objectFit: "cover",
+          // Retratos em pé: privilegia o alto da imagem, onde fica o rosto.
+          objectPosition: "50% 28%",
           filter: "grayscale(1) contrast(1.1) brightness(0.8)",
           transform: `scale(${zoom}) translateX(${desliza}px)`,
         }}

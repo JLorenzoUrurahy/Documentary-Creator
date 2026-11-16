@@ -161,7 +161,8 @@
           "texto": "1868: o Japão se moderniza e as escolas entram em declínio",
           "quando": "o Japão se abre"
         }
-      ]
+      ],
+      "fundo": "北斎漫画の柔術.png"
     },
     {
       "id": "c04-kano",
@@ -232,7 +233,8 @@
             "quando": "Esse treino livre"
           }
         ]
-      }
+      },
+      "fundo": "Jigoro Kano and Sumiyuki Kotani.jpg"
     },
     {
       "id": "c06-chao",
@@ -562,7 +564,8 @@
           "quando": "chamado Carlos",
           "incerto": true
         }
-      ]
+      ],
+      "fundo": "Belém (PA).tif"
     }
   ]
 }
