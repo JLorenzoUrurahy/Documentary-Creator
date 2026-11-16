@@ -118,14 +118,14 @@ const FundoDaCena: React.FC<{ cena: Cena; duracao: number; indice: number }> = (
           width: LARGURA,
           height: ALTURA,
           objectFit: "cover",
-          filter: "grayscale(1) contrast(1.1) brightness(0.9)",
+          filter: "grayscale(1) contrast(1.1) brightness(0.8)",
           transform: `scale(${zoom}) translateX(${desliza}px)`,
         }}
       />
       {/* Escurece à esquerda e embaixo, onde ficam o texto e a legenda. */}
       <AbsoluteFill
         style={{
-          background: `linear-gradient(90deg, rgba(12,13,16,0.9) 0%, rgba(12,13,16,0.62) 45%, rgba(12,13,16,0.2) 100%)`,
+          background: `linear-gradient(90deg, rgba(12,13,16,0.92) 0%, rgba(12,13,16,0.74) 50%, rgba(12,13,16,0.3) 100%)`,
         }}
       />
       <AbsoluteFill

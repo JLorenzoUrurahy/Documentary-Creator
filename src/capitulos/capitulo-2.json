@@ -293,7 +293,8 @@
           "texto": "Teatros de pé, à procura de atrações",
           "quando": "os teatros continuam"
         }
-      ]
+      ],
+      "fundo": "Teatro da paz, em Belém do Pará.jpg"
     },
     {
       "id": "a03-trupe",
@@ -440,7 +441,8 @@
             "quando": "Outras fontes contam"
           }
         ]
-      }
+      },
+      "fundo": "Capoeira-carioca-rasteira.jpg"
     },
     {
       "id": "a05-manaus",
@@ -467,7 +469,7 @@
             ],
             [
               -50.6,
-              -1.0
+              -1
             ],
             [
               -52.6,
@@ -598,7 +600,8 @@
           "texto": "1928: \"nunca dei uma faixa preta no Brasil\"",
           "quando": "nunca tinha dado"
         }
-      ]
+      ],
+      "fundo": "Avenida nazaré com praça da república, em Belém do Pará.jpg"
     },
     {
       "id": "a08-ferro",
@@ -679,7 +682,8 @@
           "pai": "maeda",
           "quando": "e Jacyntho Ferro"
         }
-      ]
+      ],
+      "fundo": "Avenida 16 de novembro, em Belém do Pará.jpg"
     },
     {
       "id": "a10-ultimas-lutas",
@@ -842,7 +846,8 @@
           "texto": "O que a família aprendeu, e com quem?",
           "quando": "com quem"
         }
-      ]
+      ],
+      "fundo": "Avenida da república av presidente vargas com rua da paciência atual carlos gomes, em Belém do Pará.jpg"
     },
     {
       "id": "b01-escocia",
@@ -943,7 +948,8 @@
           "pai": "pedro",
           "quando": "nasce o neto"
         }
-      ]
+      ],
+      "fundo": "Rua Direita, esquina com rua do Ouvidor, onde se localizava a Casa Leuzinger (014GLAS109).jpg"
     },
     {
       "id": "b03-gastao",
@@ -1106,7 +1112,8 @@
           "texto": "Depois, Carlos ensina os irmãos",
           "quando": "ensina tudo"
         }
-      ]
+      ],
+      "fundo": "Recollections of an ill-fated expedition to the headwaters of the Madeira River in Brazil (1907) (14773134685).jpg"
     },
     {
       "id": "b08-jornais",
@@ -1268,7 +1275,8 @@
           "texto": "Nenhum documento da época o mostra como aluno direto",
           "quando": "nenhum documento"
         }
-      ]
+      ],
+      "fundo": "Ver o peso, em Belém do Pará.jpg"
     },
     {
       "id": "b13-rumo-ao-rio",
@@ -1430,7 +1438,8 @@
           "texto": "Jornais esportivos vivem de rivalidade",
           "quando": "Os jornais esportivos"
         }
-      ]
+      ],
+      "fundo": "Jiu-jitsu contra capoeira.jpg"
     },
     {
       "id": "c03-anos-dificeis",
@@ -1456,7 +1465,8 @@
           "texto": "Título de boxe amador: sem registro",
           "quando": "não acharam registro"
         }
-      ]
+      ],
+      "fundo": "Avenida Rio Branco (007A5P4F02-016).jpg"
     },
     {
       "id": "c04-donato",
@@ -1576,7 +1586,8 @@
           "texto": "1928: Circo Queirolo lotado, japonês contra capoeirista",
           "quando": "o Circo Queirolo"
         }
-      ]
+      ],
+      "fundo": "Kasato Maru docked at warehouse 14 in Port of Santos 1908.png"
     },
     {
       "id": "c07-omori",
@@ -1651,7 +1662,8 @@
             "quando": "pagou para"
           }
         ]
-      }
+      },
+      "fundo": "Vale do Anhangabaú 2.jpg"
     },
     {
       "id": "c09-volta-ao-rio",
@@ -1678,7 +1690,7 @@
             ],
             [
               -45.4,
-              -23.0
+              -23
             ],
             [
               -44.3,
@@ -1750,7 +1762,8 @@
           "texto": "O nome ainda não é Gracie",
           "quando": "ainda não é Gracie"
         }
-      ]
+      ],
+      "fundo": "Rua Paissandú (001RJ005006).jpg"
     },
     {
       "id": "c11-saida-donato",
@@ -1784,7 +1797,8 @@
           "texto": "Os jornais anunciam a Academia Gracie",
           "quando": "Academia Gracie"
         }
-      ]
+      ],
+      "fundo": "Morro de Pão de Açúcar visto da Praia do Flamengo (013RJ001003).jpg"
     },
     {
       "id": "c12-1925-ou-1930",
@@ -1870,7 +1884,8 @@
           "pai": "carlos",
           "quando": "irmãos mais novos"
         }
-      ]
+      ],
+      "fundo": "Banhistas na praia do Flamengo (002080Vol01Cx0701).jpg"
     },
     {
       "id": "d01-irmaos",
@@ -2156,7 +2171,8 @@
             "quando": "a Polícia Especial"
           }
         ]
-      }
+      },
+      "fundo": "Multidão no Palácio do Catete após a chegada de Vargas.jpg"
     },
     {
       "id": "d09-franca",
@@ -2375,7 +2391,8 @@
           "pai": "franca",
           "quando": "sai Oswaldo Fadda"
         }
-      ]
+      ],
+      "fundo": "Jigoro Kano and Sumiyuki Kotani.jpg"
     },
     {
       "id": "d13-desafio",
