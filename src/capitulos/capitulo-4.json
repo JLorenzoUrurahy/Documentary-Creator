@@ -233,7 +233,8 @@
             "quando": "passam décadas brigando"
           }
         ]
-      }
+      },
+      "fundo": "Posto de salvamento na Praia de Copacabana.tif"
     },
     {
       "id": "t00-titulo",
@@ -270,7 +271,8 @@
           "texto": "Manoel Rufino x lutador de cruzador americano",
           "quando": "o brasileiro Manoel Rufino"
         }
-      ]
+      ],
+      "fundo": "Teatro Lírico (007A5P4F02-010).jpg"
     },
     {
       "id": "a03-nome",
@@ -297,7 +299,8 @@
           "texto": "Parte disputa, parte espetáculo combinado",
           "quando": "tem duas caras"
         }
-      ]
+      ],
+      "fundo": "Wrestling - Sikeston, MO 1938 - 1.jpg"
     },
     {
       "id": "a04-tatu",
@@ -525,7 +528,8 @@
           "texto": "Apelido entre praticantes: luta de calção",
           "quando": "luta de calção"
         }
-      ]
+      ],
+      "fundo": "Billy Meeske demonstrating toehold, 1924.png"
     },
     {
       "id": "a10-classe",
@@ -555,7 +559,8 @@
           "texto": "Estereótipo: Fadda ensinava jiu-jitsu no subúrbio",
           "quando": "com Oswaldo Fadda"
         }
-      ]
+      ],
+      "fundo": "Edifício da Associção Cristã de Moços, Acervo do Instituto Moreira Salles.jpg"
     },
     {
       "id": "a11-pros-contras",
@@ -606,7 +611,8 @@
             "quando": "a força pesa"
           }
         ]
-      }
+      },
+      "fundo": "Brazilian Jiu-Jitsu Gi Competition-Armbar.jpg"
     },
     {
       "id": "a12-geracao-seguinte",
@@ -633,7 +639,8 @@
           "texto": "A geração seguinte herda a disputa",
           "quando": "A geração seguinte"
         }
-      ]
+      ],
+      "fundo": "Hélio Gracie (1952).tif"
     },
     {
       "id": "b01-segunda-geracao",
@@ -830,7 +837,8 @@
             "quando": "fez um acordo"
           }
         ]
-      }
+      },
+      "fundo": "Recife, Fundo Correio da Manhã.tif"
     },
     {
       "id": "b06-ruas",
@@ -934,7 +942,8 @@
           "texto": "Jiu-jitsu contra os demais estilos",
           "quando": "os demais estilos"
         }
-      ]
+      ],
+      "fundo": "Maracanãzinho.jpg"
     },
     {
       "id": "b09-maracanazinho",
@@ -965,7 +974,8 @@
           "texto": "Jiu-jitsu vence outras duas lutas",
           "quando": "vence outras duas"
         }
-      ]
+      ],
+      "fundo": "Maracanazinho (44725116).jpeg"
     },
     {
       "id": "b10-boqueirao",
@@ -1047,7 +1057,8 @@
             "quando": "areia jogada"
           }
         ]
-      }
+      },
+      "fundo": "Barra da Tijuca Beach.jpg"
     },
     {
       "id": "b12-humaita",
@@ -1086,7 +1097,8 @@
           "texto": "A rixa procura um ringue",
           "quando": "achar um ringue"
         }
-      ]
+      ],
+      "fundo": "Humaitá Rio de Janeiro Brazil.jpg"
     },
     {
       "id": "c01-provocacao",
@@ -1377,7 +1389,8 @@
             "quando": "as chaves de perna"
           }
         ]
-      }
+      },
+      "fundo": "Brazilian Jiu-jitsu-Closed guard.jpg"
     },
     {
       "id": "c09-balanco-luta-livre",
@@ -1420,7 +1433,8 @@
             "quando": "foram treinar"
           }
         ]
-      }
+      },
+      "fundo": "Brazilian Luta Livre.jpg"
     },
     {
       "id": "c10-troca",
@@ -1523,7 +1537,8 @@
           "texto": "Carlson Gracie entra em cena",
           "quando": "Carlson Gracie"
         }
-      ]
+      ],
+      "fundo": "Valdemar Santana.jpg"
     }
   ]
 }
