@@ -275,7 +275,8 @@
           "texto": "Um xeque paga a conta",
           "quando": "paga a conta"
         }
-      ]
+      ],
+      "fundo": "Abu Dhabi from Space-ISS006-E-32079-March 2003.JPG"
     },
     {
       "id": "t00-titulo",
@@ -497,7 +498,8 @@
           "texto": "Regras escritas pelo xeque",
           "quando": "escrito pelo próprio"
         }
-      ]
+      ],
+      "fundo": "USMC-110124-M-2306T-163.jpg"
     },
     {
       "id": "a07-duas-metades",
@@ -531,7 +533,8 @@
           "texto": "Queda ou raspagem além da guarda",
           "quando": "além da guarda"
         }
-      ]
+      ],
+      "fundo": "USMC-111029-M-NS272-550.jpg"
     },
     {
       "id": "a08-ponto-negativo",
@@ -566,7 +569,8 @@
           "texto": "Detalhes mudam a cada edição",
           "quando": "Os detalhes mudaram"
         }
-      ]
+      ],
+      "fundo": "Submission wrestling takes down deployment worries DVIDS82955.jpg"
     },
     {
       "id": "a09-categorias",
@@ -660,7 +664,8 @@
             "quando": "a perna inteira"
           }
         ]
-      }
+      },
+      "fundo": "Hawaiian State Grappling Championships.jpg"
     },
     {
       "id": "a11-pros-contras",
@@ -707,7 +712,8 @@
             "quando": "longa espera"
           }
         ]
-      }
+      },
+      "fundo": "Submission wrestling.jpg"
     },
     {
       "id": "a12-convite",
@@ -773,7 +779,8 @@
           "texto": "Mário Sperry: categoria e absoluto",
           "quando": "Mário Sperry ganha"
         }
-      ]
+      ],
+      "fundo": "Abu Dhabi from Space-ISS006-E-32079-March 2003.JPG"
     },
     {
       "id": "b02-sperry",
@@ -848,7 +855,8 @@
           "texto": "Jeff Monson e Mark Kerr (EUA)",
           "quando": "Jeff Monson"
         }
-      ]
+      ],
+      "fundo": "Submission Grappling - rear naked choke.jpg"
     },
     {
       "id": "b04-kerr",
@@ -1130,7 +1138,8 @@
           "texto": "10th Planet: escola só sem kimono",
           "quando": "ninguém treina de"
         }
-      ]
+      ],
+      "fundo": "Ginásio Estadual Geraldo J. Almeida.jpg"
     },
     {
       "id": "b11-absoluto",
@@ -1195,7 +1204,8 @@
           "texto": "Próxima parada: 2005, Estados Unidos",
           "quando": "é em 2005"
         }
-      ]
+      ],
+      "fundo": "USMC-110122-M-9595T-369.jpg"
     },
     {
       "id": "c01-sedes",
@@ -1318,7 +1328,8 @@
           "texto": "Bronze no absoluto",
           "quando": "com o bronze"
         }
-      ]
+      ],
+      "fundo": "Walter Pyramid.jpg"
     },
     {
       "id": "c04-feminino",
@@ -1446,7 +1457,8 @@
           "texto": "2009: ouro de Pablo Popovitch",
           "quando": "foi de outro"
         }
-      ]
+      ],
+      "fundo": "Nottingham Ice Arena - geograph-678668.jpg"
     },
     {
       "id": "c08-mundial-sem-kimono",
@@ -1516,7 +1528,8 @@
           "texto": "Preparo físico vira parte do treino",
           "quando": "O preparo físico"
         }
-      ]
+      ],
+      "fundo": "Takedown.jpg"
     },
     {
       "id": "c10-marcelo-ny",
@@ -1668,7 +1681,8 @@
           "texto": "Capítulo 9: a evolução da técnica",
           "quando": "a evolução da técnica"
         }
-      ]
+      ],
+      "fundo": "Triangle choke attempt in grappling tournament at Joint Base Balad, Iraq, 2011.jpg"
     }
   ]
 }
