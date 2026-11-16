@@ -12,6 +12,8 @@ Ferramentas (rode da raiz do projeto):
 - `node scripts/fundos.mjs --conferir "Nome exato.jpg"` confere um arquivo.
 - Para achar bons arquivos, vale ler a categoria do Commons ou o artigo da Wikipedia do assunto (API: `https://commons.wikimedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:...&cmtype=file&cmlimit=50&format=json`, com `curl -s -A "DocumentaryCreator/1.0"`).
 
+Acervos que costumam ter boa foto livre: Arquivo Nacional (Fundo Correio da Manhã: fotos de imprensa brasileira dos anos 1930 a 1970, inclusive de lutadores), Instituto Moreira Salles (IMS), Biblioteca Nacional, e as categorias do Commons de cada pessoa, ginásio, cidade e evento (por exemplo `Category:Hélio Gracie`, `Category:Brazilian jiu-jitsu`, `Category:Ultimate Fighting Championship`). Arquivos TIFF também servem.
+
 Se o Commons responder 429, espere alguns segundos e continue. Não faça mais de umas 3 chamadas por segundo.
 
 ## O que escolher

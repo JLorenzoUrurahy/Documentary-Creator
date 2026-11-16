@@ -61,7 +61,8 @@ export const conferir = async (nome) => {
   if (!livre) {
     return { serve: false, motivo: `licença não aceita: ${licenca || "sem licença"}`, ...base };
   }
-  if (!/^image\/(jpeg|png)$/.test(info.mime)) {
+  // TIFF serve: o Commons entrega a miniatura em JPEG.
+  if (!/^image\/(jpeg|png|tiff)$/.test(info.mime) || !/\.(jpe?g|png)$/i.test((info.thumburl ?? info.url).split("?")[0])) {
     return { serve: false, motivo: `formato ${info.mime}`, ...base };
   }
   if (info.width < LARGURA_MINIMA) {
