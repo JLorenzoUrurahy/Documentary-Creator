@@ -822,14 +822,14 @@
       "titulo": "Os japoneses a caminho do Rio",
       "narracao": "Enquanto isso, São Paulo forma seus mestres. Dois irmãos se destacam: [Yassuiti|Iassuíti] Ono, quinto grau de faixa preta, e [Naoiti|Naoíti], o mais novo, que os jornais vão chamar de Oninho. Quando chegaram ao Brasil? O historiador José Cairus diz fim dos anos vinte. Um estudo publicado em revista da USP registra [1932|mil novecentos e trinta e dois]. O site Simon BJJ, outubro de [1934|mil novecentos e trinta e quatro]. Já [Takeo Yano|Taquêo Iano] vem do Norte. Está no Brasil desde [1931|mil novecentos e trinta e um] e foi assistente de Maeda, o Conde Koma, no Pará. Em [1934|mil novecentos e trinta e quatro], chega ao Rio, onde dá aula a cadetes da Marinha. Os Ono logo tomam o mesmo rumo, para a cidade onde os Gracie desafiam qualquer um.",
       "vista": {
-        "lon": -48,
-        "lat": -13,
-        "escala": 3
+        "lon": -34,
+        "lat": -11,
+        "escala": 2.6
       },
       "ate": {
-        "lon": -46,
-        "lat": -15,
-        "escala": 3.6
+        "lon": -32,
+        "lat": -11,
+        "escala": 3
       },
       "lugares": [
         {
@@ -1206,17 +1206,17 @@
         },
         {
           "ano": "set. 1937",
-          "texto": "Ono: derrota por estrangulamento",
+          "texto": "Estrangulado por Ono",
           "quando": "George é estrangulado"
         },
         {
           "ano": "out. 1937",
-          "texto": "Chave de braço no 6º round, filmada pela Cinédia",
+          "texto": "Chave de braço no 6º round; a Cinédia filma",
           "quando": "vence por chave"
         },
         {
           "ano": "out. 1937",
-          "texto": "Vitória por desclassificação: soco do rival",
+          "texto": "Rival desclassificado por soco",
           "quando": "vence por desclassificação"
         },
         {
