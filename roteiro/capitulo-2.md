@@ -130,9 +130,9 @@ O Rio dessa época gosta de luta. Nos circos e nos teatros, homens da luta roman
 
 Na verdade, a luta japonesa chega ao Rio bem antes, e pela porta da frente. Em 1905, o Japão vence a Rússia na guerra e vira modelo de país moderno. No mesmo ano, dois oficiais da Marinha, Santos Porto e Radler de Aquino, traduzem um manual americano de jiu-jitsu. Para Santos Porto, a capoeira tinha se perdido, e o método japonês ia fortalecer os jovens brasileiros. A Marinha também contrata um japonês, Sada Miako, para ensinar os seus oficiais. E em 1909, Miako sobe ao palco.
 
-### c02c-cyriaco (comparacao · 1909 · 43 s)
+### c02c-cyriaco (comparacao · 1909 · 47 s)
 
-Primeiro de maio de 1909, Concerto Avenida, no centro do Rio. Contra Miako sobe Francisco Cyríaco, capoeirista negro de trinta e oito anos, que carrega sacas de café na cidade. Estudantes de medicina o apoiam. A capoeira é crime desde 1890, e a luta só sai depois de muita insistência. Cyríaco evita o agarrão. Ginga, ameaça, e acerta um rabo de arraia na cabeça do japonês. Miako cai e, segundo o capoeirista, não quis continuar. A plateia carrega o vencedor pelas ruas, e ele vira herói nacional. É nessa cidade, com essa rivalidade, que Carlos Gracie vai tentar a sorte.
+Primeiro de maio de 1909, Concerto Avenida, no centro do Rio. Contra Miako sobe Francisco Cyríaco, capoeirista negro de trinta e oito anos, que carrega sacas de café na cidade. Estudantes de medicina o apoiam. A capoeira é crime desde 1890, e a luta só sai depois de muita insistência. Cyríaco evita o agarrão. Ginga, ameaça, e acerta um rabo de arraia na cabeça do japonês. Miako cai. Uma versão fala em nocaute; a do capoeirista, que o japonês não quis continuar. A plateia carrega o vencedor pelas ruas, e ele vira herói nacional. É nessa cidade, com essa rivalidade, que Carlos Gracie vai tentar a sorte.
 
 ### c03-anos-dificeis (cartao · 1926 · 28 s)
 
@@ -230,7 +230,7 @@ Por que isso importa? Porque o jiu-jitsu brasileiro não tem uma origem só. De 
 
 No começo dos anos trinta, as peças estão no lugar. Uma academia no Rio. Um mentor, Carlos. Dois lutadores jovens, George e Hélio. Uma dieta, uma filosofia e um sobrenome que já é marca. Falta uma coisa: prova. Dizer que o fraco vence o forte é fácil. Mostrar é outra conversa. Então os Gracie fazem o que Maeda fazia. Desafiam. Boxeadores, capoeiristas, lutadores de luta livre, judocas japoneses. Em público, contra qualquer um. É a era dos desafios. E ela começa no próximo capítulo.
 
-Duração aproximada: 32 min 32 s.
+Duração aproximada: 32 min 35 s.
 
 ## Conferir antes de publicar
 
