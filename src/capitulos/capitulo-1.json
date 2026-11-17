@@ -42,6 +42,10 @@
     {
       "titulo": "Sobre a pesquisa de Robert Drysdale: Carlos Gracie e Maeda (BJJ Doc)",
       "url": "https://bjjdoc.com/?p=18025"
+    },
+    {
+      "titulo": "José Cairus, Modernization, nationalism and the elite: the genesis of Brazilian jiu-jitsu, 1905-1920 (Tempo e Argumento, UDESC, 2011)",
+      "url": "https://revistas.udesc.br/index.php/tempo/article/download/2315/1910"
     }
   ],
   "conferir": [
@@ -49,7 +53,7 @@
     "Episódio da Fusen-ryu contra o Kodokan: as fontes dão datas diferentes (entre 1891 e 1905) e parte dos historiadores trata o relato como tradição oral.",
     "Chegada de Maeda ao Brasil: as fontes variam entre setembro e novembro de 1914, por São Paulo ou por Porto Alegre. A narração só afirma o ano.",
     "Roteiro desenhado no mapa pela América do Sul (Peru, Chile, Argentina, Porto Alegre): segue a Wikipedia; a ordem exata das paradas não está confirmada.",
-    "Volta definitiva de Maeda a Belém: 'por volta de 1917'; a academia própria aparece nas fontes só em 1921.",
+    "Volta de Maeda a Belém: a narração diz fevereiro de 1916, seguindo José Cairus (volta de Manaus em fevereiro de 1916; escola anunciada na Folha do Norte em 18/1/1916), como o capítulo 2. A Wikipedia diz que ele embarcou para Liverpool em janeiro de 1916 e só voltou ao Brasil em 1917; a academia própria aparece em outras fontes só em 1921. Mesmo depois de 1916 ele ainda viajou (Nova York e Cuba em 1921-1922).",
     "Gastão Gracie como 'empresário': as fontes o descrevem como homem de negócios ligado a circo e comércio em Belém."
   ],
   "cenas": [
@@ -438,7 +442,7 @@
       "tipo": "mapa",
       "ano": 1914,
       "titulo": "A chegada ao Brasil",
-      "narracao": "Em [1914|mil novecentos e catorze], depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em outubro de [1915|mil novecentos e quinze], eles se apresentam em Belém do Pará. Em dezembro, sobem o rio Amazonas até Manaus. Satake fica por lá. Maeda ainda viaja, e volta para Belém por volta de [1917|mil novecentos e dezessete]. Dessa vez, para ficar.",
+      "narracao": "Em [1914|mil novecentos e catorze], depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em outubro de [1915|mil novecentos e quinze], eles se apresentam em Belém do Pará. Em dezembro, sobem o rio Amazonas até Manaus. Satake fica por lá. Maeda volta para Belém em fevereiro de [1916|mil novecentos e dezesseis]. Dessa vez, para ficar.",
       "vista": {
         "lon": -62,
         "lat": -14,
@@ -532,8 +536,8 @@
     {
       "id": "c11-belem",
       "tipo": "linhagem",
-      "ano": 1917,
-      "titulo": "Belém do Pará, 1917",
+      "ano": 1916,
+      "titulo": "Belém do Pará, 1916",
       "narracao": "Belém vivia o fim do ciclo da borracha. Ainda era uma cidade rica, cheia de estrangeiros, circos e teatros. Maeda ensina, luta e, mais tarde, ajuda imigrantes japoneses a se instalarem na Amazônia. Entre as pessoas do seu círculo está um empresário chamado Gastão Gracie. E Gastão tem um filho adolescente, inquieto e brigão, chamado Carlos. A história oficial diz que Carlos foi aluno direto de Maeda. Historiadores mais recentes discordam. Quem tem razão? É o que a gente vai ver no próximo capítulo.",
       "nos": [
         {

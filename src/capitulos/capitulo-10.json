@@ -266,6 +266,10 @@
     {
       "titulo": "BJJ statistics: estimativas de praticantes, sem fonte primária (BJJ More)",
       "url": "https://bjjmore.com/bjj-statistics/"
+    },
+    {
+      "titulo": "José Cairus, Modernization, nationalism and the elite: the genesis of Brazilian jiu-jitsu, 1905-1920 (Tempo e Argumento, UDESC, 2011)",
+      "url": "https://revistas.udesc.br/index.php/tempo/article/download/2315/1910"
     }
   ],
   "conferir": [
@@ -314,7 +318,8 @@
     "Praticantes no mundo: não há número confiável. As estimativas de 3 a 11 milhões vêm de sites sem fonte primária.",
     "Estrangeiros no topo: americanos de 2026 são Cole Abate e Jalen Fonacier; Canadá, Lillian Marchand; Marrocos, Seif-Eddine Houmine (a IBJJF diz só 'nascido na África'; a Wikipedia diz Marrocos). 'Australianos em finais' se apoia em Nicholas Maglicic (final do pesado em 2026; nacionalidade pela Wikipedia) e, sem kimono, em Craig Jones (finais do ADCC em 2019 e 2022) e Levi Jones-Leary (final do CJI em 2024): conferir com o bloco B.",
     "Equipes de Austin: New Wave (John Danaher) e B-Team, ambas instaladas em 2021; conferir com o bloco B se alguma mudou de cidade ou de formação até 2026. A Atos tem sede em San Diego e a Art of Jiu Jitsu em Costa Mesa.",
-    "Kanji do cartão final: 乱取り (randori). Conferir se a fonte do projeto desenha esses caracteres, como desenhou 柔術 e 寝技 no capítulo 1."
+    "Kanji do cartão final: 乱取り (randori). Conferir se a fonte do projeto desenha esses caracteres, como desenhou 柔術 e 寝技 no capítulo 1.",
+    "Cena c11-caminho: 'Em 1916, ele se fixa em Belém' segue José Cairus (volta de Manaus em fevereiro de 1916), como os capítulos 1 e 2. A Wikipedia fala em volta ao Brasil em 1917."
   ],
   "cenas": [
     {
@@ -1786,7 +1791,7 @@
       "tipo": "linha",
       "ano": 1955,
       "titulo": "O caminho inteiro: de Kano à luta livre",
-      "narracao": "Vale olhar o caminho inteiro. Em [1882|mil oitocentos e oitenta e dois], em Tóquio, Jigoro Kano cria o judô e o randori, o treino livre. Em [1904|mil novecentos e quatro], Mitsuyo Maeda sai do Japão e roda o mundo aceitando desafios. Por volta de [1917|mil novecentos e dezessete], ele se fixa em Belém, e ali se formam os primeiros brasileiros. No Rio, os Gracie fazem do jiu-jitsu um nome de família, enquanto Luiz França e Oswaldo Fadda ensinam no subúrbio. Vêm os desafios: Hélio contra Kimura, em [1951|mil novecentos e cinquenta e um], no Maracanã. E vem a rivalidade com a luta livre.",
+      "narracao": "Vale olhar o caminho inteiro. Em [1882|mil oitocentos e oitenta e dois], em Tóquio, Jigoro Kano cria o judô e o randori, o treino livre. Em [1904|mil novecentos e quatro], Mitsuyo Maeda sai do Japão e roda o mundo aceitando desafios. Em [1916|mil novecentos e dezesseis], ele se fixa em Belém, e ali se formam os primeiros brasileiros. No Rio, os Gracie fazem do jiu-jitsu um nome de família, enquanto Luiz França e Oswaldo Fadda ensinam no subúrbio. Vêm os desafios: Hélio contra Kimura, em [1951|mil novecentos e cinquenta e um], no Maracanã. E vem a rivalidade com a luta livre.",
       "eventos": [
         {
           "ano": "1882",
@@ -1799,7 +1804,7 @@
           "quando": "Mitsuyo Maeda sai"
         },
         {
-          "ano": "1917",
+          "ano": "1916",
           "texto": "Belém: os primeiros brasileiros",
           "quando": "em Belém"
         },

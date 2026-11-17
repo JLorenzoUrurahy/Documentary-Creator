@@ -158,6 +158,10 @@
     {
       "titulo": "Primórdios do jiu-jitsu e dos confrontos intermodalidades no Brasil: contestando uma memória consolidada (RBCE, SciELO)",
       "url": "https://www.scielo.br/j/rbce/a/hsWF8YZRffJBdgPhf8DtQ8B/"
+    },
+    {
+      "titulo": "Ben Penglase, The Invisibility of Race in Brazilian Jiu-Jitsu: The Gracies versus Capoeira and Judo (Martial Arts Studies 17, 2025)",
+      "url": "https://doi.org/10.18573/mas.281"
     }
   ],
   "conferir": [
@@ -219,7 +223,11 @@
     "Nova União e GFTeam com 'raízes' na linhagem França-Fadda: aparece em resumos de fontes secundárias; conferir antes de publicar.",
     "Na árvore de d12, Luiz França aparece ligado a Maeda com linha tracejada; a tradição também o liga a Satake e a Geo Omori (o formato da árvore só aceita um 'pai' por nó). George e Hélio aparecem como alunos de Carlos.",
     "Frase atribuída a Hélio Gracie sobre Fadda ('É preciso existir um Fadda...') não foi usada: a seção da Wikipédia que a traz está marcada como sem fontes.",
-    "Capítulo montado a partir de quatro blocos; os livros de Roberto Pedreira ('Choque') e de Robert Drysdale não foram lidos diretamente, só por fontes que os citam (Wikipedia, Simon BJJ, entrevistas)."
+    "Capítulo montado a partir de quatro blocos; os livros de Roberto Pedreira ('Choque') e de Robert Drysdale não foram lidos diretamente, só por fontes que os citam (Wikipedia, Simon BJJ, entrevistas).",
+    "Cenas c02b e c02c (o jiu-jitsu no Rio antes de Maeda): tudo vem de José Cairus (2011); Ben Penglase (2025) confirma só o essencial (luta de 1909, Cyríaco vence com um chute giratório e é saudado como herói nacional) e cita Cairus. Cairus não diz em que ano a Marinha contratou Sada Miako; a narração não dá data.",
+    "Grafias: Cairus escreve 'Sada Miako' e Penglase 'Sada Miyako'; a narração usa Miako. O tenente aparece em Cairus como 'Radler de Aquino' (duas vezes e na nota 24) e uma vez como 'Adler de Aquino'; usei Radler. O manual traduzido em 1905 é 'Japanese Physical Training', do americano H. Irving Hancock ('Educação Physica Japoneza').",
+    "Fim da luta de 1909: no relato do próprio Cyríaco, citado por Cairus, o japonês 'se recusou a continuar'; Penglase fala em nocaute. A narração diz 'cai e, segundo o capoeirista, não quis continuar'. A idade (38 anos) vem de 'nascido 38 anos antes' em Cairus. Cairus conta também que Cyríaco teve de lutar de kimono e que a plateia gritava 'A Ásia se curvou ao Brasil': não entrou por ser tradução de tradução.",
+    "Cena b11b (jiu-jitsu ou judô): a explicação é de Cairus, fonte única. A regra do Kodokan contra lutar por ganho pessoal aparece em Cairus numa resposta de 1916 sobre outro lutador (Tokugoro Ito) e numa fala de Jigoro Kano, não num texto sobre Maeda. Quinto dan em 1912 no México e 'última promoção por dezessete anos': Cairus; sexto dan em junho de 1929. Livro de 1935: 'Jiudo: Uma Arte de Cultura Physica Japoneza' (Belém, Livraria Escolar). O ano '1915' no item da tela marca a chegada da trupe a Belém; Cairus diz só que 1912 foi a última vez nos anos 1910 em que Maeda usou o nome 'judô'."
   ],
   "cenas": [
     {
@@ -1252,6 +1260,35 @@
       ]
     },
     {
+      "id": "b11b-nome",
+      "tipo": "linha",
+      "ano": 1912,
+      "titulo": "Por que jiu-jitsu, e não judô?",
+      "narracao": "Mas por que jiu-jitsu, se era judô? O historiador José Cairus tem uma explicação. O Kodokan não aceitava que seus alunos lutassem em público por dinheiro. E era disso que Maeda vivia. Em [1912|mil novecentos e doze], no México, ele chega ao quinto dan. Depois, a graduação trava. Nos anos de lutador profissional, segundo Cairus, Maeda usa o rótulo genérico: jiu-jitsu. A promoção seguinte demora dezessete anos, e só sai em [1929|mil novecentos e vinte e nove]. Em [1935|mil novecentos e trinta e cinco], ele publica o seu livro em Belém. E ali o nome volta a ser judô.",
+      "eventos": [
+        {
+          "ano": "1912",
+          "texto": "Quinto dan do Kodokan, no México",
+          "quando": "ele chega ao quinto"
+        },
+        {
+          "ano": "1915",
+          "texto": "Nos palcos do Brasil, o nome é jiu-jitsu",
+          "quando": "o rótulo genérico"
+        },
+        {
+          "ano": "1929",
+          "texto": "Sexto dan, dezessete anos depois",
+          "quando": "só sai em"
+        },
+        {
+          "ano": "1935",
+          "texto": "No livro, o nome volta a ser judô",
+          "quando": "ele publica"
+        }
+      ]
+    },
+    {
       "id": "b12-seguro",
       "tipo": "cartao",
       "ano": 1921,
@@ -1440,6 +1477,73 @@
         }
       ],
       "fundo": "Jiu-jitsu contra capoeira.jpg"
+    },
+    {
+      "id": "c02b-marinha",
+      "tipo": "linha",
+      "ano": 1905,
+      "titulo": "Antes de Maeda: o jiu-jitsu da Marinha",
+      "narracao": "Na verdade, a luta japonesa chega ao Rio bem antes, e pela porta da frente. Em [1905|mil novecentos e cinco], o Japão vence a Rússia na guerra e vira modelo de país moderno. No mesmo ano, dois oficiais da Marinha, Santos Porto e [Radler|Rádler] de Aquino, traduzem um manual americano de jiu-jitsu. Para Santos Porto, a capoeira tinha se perdido, e o método japonês ia fortalecer os jovens brasileiros. A Marinha também contrata um japonês, Sada Miako, para ensinar os seus oficiais. E em [1909|mil novecentos e nove], Miako sobe ao palco.",
+      "eventos": [
+        {
+          "ano": "1905",
+          "texto": "O Japão vence a Rússia e vira modelo",
+          "quando": "o Japão vence"
+        },
+        {
+          "ano": "1905",
+          "texto": "Oficiais da Marinha traduzem um manual de jiu-jitsu",
+          "quando": "traduzem um manual"
+        },
+        {
+          "ano": "1909",
+          "texto": "Sada Miako, professor da Marinha, sobe ao palco",
+          "quando": "Miako sobe"
+        }
+      ]
+    },
+    {
+      "id": "c02c-cyriaco",
+      "tipo": "comparacao",
+      "ano": 1909,
+      "titulo": "Rio, 1º de maio de 1909: jiu-jitsu contra capoeira",
+      "narracao": "Primeiro de maio de [1909|mil novecentos e nove], Concerto Avenida, no centro do Rio. Contra Miako sobe Francisco [Cyríaco|Ciríaco], capoeirista negro de trinta e oito anos, que carrega sacas de café na cidade. Estudantes de medicina o apoiam. A capoeira é crime desde [1890|mil oitocentos e noventa], e a luta só sai depois de muita insistência. [Cyríaco|Ciríaco] evita o agarrão. Ginga, ameaça, e acerta um rabo de arraia na cabeça do japonês. Miako cai e, segundo o capoeirista, não quis continuar. A plateia carrega o vencedor pelas ruas, e ele vira herói nacional. É nessa cidade, com essa rivalidade, que Carlos Gracie vai tentar a sorte.",
+      "esquerda": {
+        "titulo": "Sada Miako",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Professor de jiu-jitsu da Marinha",
+            "quando": "Contra Miako"
+          },
+          {
+            "texto": "Cai com um rabo de arraia na cabeça",
+            "quando": "Miako cai"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Francisco Cyríaco",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Capoeirista, 38 anos, carregador de café",
+            "quando": "capoeirista negro"
+          },
+          {
+            "texto": "Apoiado por estudantes de medicina",
+            "quando": "Estudantes de medicina"
+          },
+          {
+            "texto": "Capoeira: crime desde 1890",
+            "quando": "A capoeira é crime"
+          },
+          {
+            "texto": "Carregado pelas ruas, vira herói nacional",
+            "quando": "vira herói nacional"
+          }
+        ]
+      }
     },
     {
       "id": "c03-anos-dificeis",
