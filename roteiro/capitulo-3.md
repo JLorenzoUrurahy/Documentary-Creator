@@ -214,9 +214,9 @@ Enquanto isso, a outra linhagem, a de Oswaldo Fadda, no subúrbio, também bate 
 
 O golpe mais duro, porém, vem de dentro de casa. Waldemar Santana nasceu em Salvador, em 1929. Na Bahia, aprendeu capoeira. No Rio, começa na academia Gracie como roupeiro: é quem cuida dos kimonos. Treina com Hélio por cerca de cinco anos. Vira parceiro de treino do mestre. Depois, passa a representar a academia nos desafios contra outras lutas. É forte, pesa mais de noventa quilos e conhece o jiu-jitsu de Hélio por dentro. Os jornais vão chamá-lo de Leopardo.
 
-### d09-briga (cartao · 1955 · 36 s)
+### d09-briga (cartao · 1955 · 48 s)
 
-A briga começa por causa de uma luta. Santana, sem dinheiro, aceita um combate num espetáculo de lutas combinadas, a chamada marmelada. Hélio proíbe: se um aluno seu luta ali, vão dizer que as lutas dos Gracie também são armadas. Santana luta mesmo assim. Hélio o demite. Segundo pesquisadores que citam a biografia escrita por Reila Gracie, a demissão vem com insultos racistas. Um jornal publica declarações de Santana contra o antigo mestre. E Santana lança o desafio em público: um vale-tudo. Hélio aceita.
+A briga começa por causa de uma luta. Santana, sem dinheiro, aceita um combate num espetáculo de lutas combinadas, a chamada marmelada. Hélio proíbe: se um aluno seu luta ali, vão dizer que as lutas dos Gracie também são armadas. Santana luta mesmo assim. Hélio o demite. Um artigo acadêmico, que cita a biografia escrita por Reila Gracie, afirma que a demissão veio com insultos racistas. Nenhuma outra fonte que consultamos confirma. É uma acusação séria, e por isso fica a ressalva: registramos o que o estudo diz, não um fato comprovado. Um jornal publica declarações de Santana contra o antigo mestre. E Santana lança o desafio em público: um vale-tudo. Hélio aceita.
 
 ### d10-mestre-aluno (comparacao · 1955 · 34 s)
 
@@ -234,11 +234,11 @@ Meses depois, o jornal Última Hora resume o que aconteceu com Santana: uma carr
 
 De 1930 a 1955, os desafios fizeram do jiu-jitsu assunto de jornal, de estádio e até de presidente. Hélio perdeu as duas lutas mais famosas da vida e, mesmo assim, saiu delas mais conhecido. Só que os Gracie nunca estiveram sozinhos no Rio. Enquanto eles lutavam de kimono, outra escola crescia na mesma cidade, sem kimono, de calção, com outros alunos e outro mestre. Ela se chamava luta livre. E as duas não iam conviver em paz. É a história do próximo capítulo.
 
-Duração aproximada: 35 min 25 s.
+Duração aproximada: 35 min 37 s.
 
 ## Conferir antes de publicar
 
-- [CONFERIR] SENSÍVEL (cena d09): a afirmação de que Hélio demitiu Waldemar Santana com insultos racistas vem de um artigo acadêmico (Lise, Santos e Capraro, 2014) que cita a biografia escrita por Reila Gracie; o livro não foi lido diretamente. Decida se mantém.
+- [CONFERIR] SENSÍVEL (cena d09): a afirmação de que Hélio demitiu Waldemar Santana com insultos racistas vem de um artigo acadêmico (Lise, Santos e Capraro, 2014) que cita a biografia escrita por Reila Gracie; o livro não foi lido diretamente e nenhuma outra fonte consultada confirma. Por decisão do dono, a narração mantém a informação com ressalva explícita.
 - [CONFERIR] Agressão a Rufino: a data mais citada é 18 de outubro de 1932 (Simon BJJ; Wikipedia de Hélio); o texto da Wikipedia de Carlos deixa o ano ambíguo. O objeto usado ("caixa de aço") e o ombro deslocado com cirurgia vêm da Wikipedia; Simon BJJ fala só em hospitalização e diz que os irmãos fugiram de carro (a Wikipedia diz que tentaram fugir na prisão).
 - [CONFERIR] Condenação e indulto: sentença de dois anos e meio noticiada em 24 de maio de 1934, apresentação em 28 de maio, indulto em 6 de junho de 1934 após cerca de dez dias (Simon BJJ). As fontes ligam o indulto a Getúlio Vargas e à petição de Rosalina Coelho Lisboa, mas não citam o decreto: conferir no Diário Oficial ou em Pedreira (Choque, vol. 1).
 - [CONFERIR] Carlos x Rufino (22 de agosto de 1931): local (estádio do Fluminense), rounds de cinco minutos e proibição de golpes vêm de Simon BJJ; a Wikipedia fala em juiz advertindo golpes ilegais de Rufino. Detalhes do terceiro round (cordas, guilhotina, espera de cerca de uma hora) variam entre os relatos. 'Única luta profissional de Carlos' é afirmação da Wikipedia.
