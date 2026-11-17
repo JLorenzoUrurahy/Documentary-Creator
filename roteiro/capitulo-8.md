@@ -62,7 +62,7 @@ Para quem vinha de outras lutas, esse regulamento era um convite. O wrestler ame
 
 Março de 1998, Abu Dhabi. O primeiro ADCC termina com o Brasil na frente. Alexandre Freitas, o Soca, vence a categoria mais leve. Renzo Gracie leva a de até setenta e sete quilos, e o primo Rodrigo Gracie, a de cima. Entre os mais pesados, o ouro fica com o americano Ricco Rodriguez. E um nome aparece duas vezes na lista: o gaúcho Mário Sperry ganha a sua categoria e depois o absoluto, a chave sem limite de peso.
 
-### b02-sperry (perfil · 1998 · 34 s)
+### b02-sperry (perfil · 1998 · 33 s)
 
 Mário Sperry nasceu em Porto Alegre e é faixa-preta de Carlson Gracie. O apelido diz muito: Zen Machine, a máquina zen. Em 1998, na contagem de um site de resultados, ele vence sete lutas em Abu Dhabi. E o jeito importa tanto quanto o resultado. Sperry gosta de ficar por cima, e não na guarda, a posição de quem luta de costas no chão. Segundo o Sherdog, atravessou as três primeiras edições sem ceder um ponto sequer.
 

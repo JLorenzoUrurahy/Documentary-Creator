@@ -146,15 +146,15 @@ Um ano depois, no mesmo dia onze de outubro, vem a revanche, no Pride quatro. Ta
 
 Rickson ficou conhecido por um número: mais de quatrocentas lutas, nenhuma derrota. Ele dizia somar lutas de jiu-jitsu, de vale-tudo, desafios de academia e brigas de rua. O registro oficial é bem menor: onze lutas de vale-tudo, onze vitórias. O pai, Hélio, contestou a conta. Disse que o filho somava treinos e lutas amadoras e que, por esse critério, ele mesmo teria mais de um milhão. E há uma derrota registrada: em 1993, num campeonato americano de sambo, a luta russa, para Ron Tripp. Rickson contesta esse resultado.
 
-### c09-brasil (mapa · 1997 · 36 s)
+### c09-brasil (mapa · 1997 · 34 s)
 
 E no Brasil? Nos anos noventa, o vale-tudo volta a crescer. Em 1996, o produtor Frederico Lapenda cria o WVC, que estreia no Japão e depois chega a São Paulo. Em 1997, Sérgio Batarelli, ex-sócio dele, lança em São Paulo o IVC: um round só, de até trinta minutos, e no começo valia até cabeçada. No Rio, a academia mais temida é a de Carlson Gracie, em Copacabana. E em Curitiba cresce uma escola de muay thai, a Chute Boxe.
 
-### c10-equipe-carlson (linhagem · 1997 · 39 s)
+### c10-equipe-carlson (linhagem · 1997 · 37 s)
 
 Carlson, você lembra, é o sobrinho de Hélio que abriu a própria academia. Nos anos noventa, a equipe dele vira uma fábrica de lutadores de vale-tudo. Murilo Bustamante e Mário Sperry, campeões de jiu-jitsu. Wallid Ismail, que tinha vencido no kimono mais de um Gracie. Amaury Bitetti e Ricardo Libório. E o caçula, Vitor Belfort, que une o chão da academia a um boxe muito rápido. Em fevereiro de 1997, aos dezenove anos, Belfort vence um torneio de pesos pesados do UFC, nos Estados Unidos.
 
-### c11-chute-boxe (cartao · 1998 · 41 s)
+### c11-chute-boxe (cartao · 1998 · 44 s)
 
 A Chute Boxe nasceu em 1978, fundada por Rudimar Fedrigo, como academia de muay thai, a luta tailandesa de socos, chutes e joelhadas. Nos anos noventa, passa a treinar também quedas e chão. No IVC, seus lutadores ficam com três dos quatro cinturões. Os nomes: Wanderlei Silva, José Landi-Jons, o Pelé, e Rafael Cordeiro. O encontro com a equipe de Carlson vem em outubro de 1998, no UFC Brasil. Belfort vence Wanderlei por nocaute técnico em quarenta e quatro segundos. A rivalidade só estava começando.
 
@@ -162,7 +162,7 @@ A Chute Boxe nasceu em 1978, fundada por Rudimar Fedrigo, como academia de muay 
 
 Outros Gracie seguem o mesmo caminho: os irmãos Renzo e Ralph, netos de Carlos. Ralph, apelidado de Pitbull, vence três lutas seguidas num evento americano, entre 1995 e 1996, todas em menos de dois minutos. Renzo ganha um torneio de três lutas na Carolina do Norte, em 1995. No ano seguinte, nocauteia o russo Oleg Taktarov com um chute dado do chão. Depois vai ao Japão: empata na primeira noite do Pride e vence na segunda edição. Os dois passam a ensinar nos Estados Unidos.
 
-### c13-racha (cartao · 2000 · 39 s)
+### c13-racha (cartao · 2000 · 38 s)
 
 Em 2000, a equipe de Carlson racha. Ele passava boa parte do tempo nos Estados Unidos, e a briga, segundo as fontes, envolve dinheiro: a parte do mestre nas bolsas dos lutadores. Os relatos divergem nos detalhes. Bustamante, Sperry, Libório e Luís Roberto Duarte, o Bebeo, saem e fundam, no Rio, a Brazilian Top Team. Carlson nunca perdoa: chama os que saíram de creontes, traidores. Mas um problema maior espera todos eles. Lá fora, os adversários já tinham estudado o jiu-jitsu. E aprendido a não ser finalizados.
 
@@ -178,7 +178,7 @@ O mais assustador chega em julho de 1996. Mark Coleman foi campeão universitár
 
 Por que isso funciona? Você lembra da guarda: o lutador de costas no chão, que controla o outro com as pernas e ataca dali. Era a grande arma do jiu-jitsu. O wrestler aprende uma resposta simples. Ele não tenta passar a guarda. Fica dentro dela, com a postura fechada. Não estica o braço, não entrega o pescoço. E bate: socos curtos, cotoveladas e, naquela época, até cabeçadas. Quem está por baixo cansa e se machuca. E, com limite de tempo, quem ficou por cima leva a decisão.
 
-### d04-primeiras-derrotas (mapa · 1997 · 44 s)
+### d04-primeiras-derrotas (mapa · 1997 · 46 s)
 
 E os nomes do jiu-jitsu começam a perder. Detroit, maio de 1996: Amaury Bitetti, faixa-preta de Carlson Gracie, é parado pelos socos de Don Frye. Tulsa, em outubro: Marcus Silveira, o Conan, também de Carlson, cai com um chute na cabeça de Maurice Smith. São Paulo, janeiro de 1997: Mark Kerr, outro campeão universitário, enfrenta Fábio Gurgel, um dos principais nomes do jiu-jitsu de competição. Gurgel aguenta trinta minutos por baixo, apanhando. Não desiste, mas perde na decisão dos juízes. A técnica já não bastava sozinha.
 
@@ -190,7 +190,7 @@ A primeira resposta ao ground and pound não vem do jiu-jitsu. Vem de um trocado
 
 A lição corre o mundo: quem sabe uma luta só, perde. Nasce o treino cruzado. O wrestler aprende a defender a chave de braço. E todo mundo vai aprender jiu-jitsu. Isso tira do jiu-jitsu a vantagem que Royce tinha: a surpresa. O melhor exemplo é o próprio Frank Shamrock, irmão adotivo de Ken. Ele finaliza, bate em pé e tem fôlego. Em dezembro de 1997, vira campeão do UFC com uma chave de braço em dezesseis segundos. Defende o cinturão quatro vezes e sai sem perdê-lo.
 
-### d07-wallid-royce (cartao · 1998 · 39 s)
+### d07-wallid-royce (cartao · 1998 · 40 s)
 
 E a notícia ruim não vem só da jaula. Rio, dezessete de dezembro de 1998. Royce aceita uma luta de jiu-jitsu, de kimono, em Copacabana. Segundo as fontes, é ele quem pede as regras: sem pontos e sem limite de tempo. Só vale finalização. Do outro lado está Wallid Ismail, aquele aluno de Carlson que já vencera outros Gracie. Em menos de cinco minutos, Wallid encaixa o relógio, um estrangulamento feito com a gola do kimono. Royce não bate. Desmaia. O campeão do UFC perdeu dentro do próprio jiu-jitsu.
 

@@ -14,19 +14,19 @@ Rio de Janeiro, maio de 1955. Hélio Gracie está caído na lona, nocauteado por
 
 *Sem narração.*
 
-### a02-carlson (perfil · 1953 · 35 s)
+### a02-carlson (perfil · 1953 · 37 s)
 
 O sobrinho se chama Carlson Gracie. É o filho mais velho de Carlos, o fundador da academia. Nasceu no Rio, num treze de agosto. O ano muda com a fonte: 1932 para umas, 1933 para outras. Cresceu dentro da academia e estreou no vale-tudo em março de 1953, vencendo o capoeirista Luiz Aguiar, o Cirandinha. No mesmo ano empatou com Wilson Oliveira, o Passarito, e no ano seguinte venceu a revanche. Quando Hélio cai, Carlson já não é um novato.
 
-### a03-primeira-luta (cartao · 1955 · 35 s)
+### a03-primeira-luta (cartao · 1955 · 34 s)
 
 A primeira luta é em oito de outubro de 1955, no Maracanãzinho. Mas não é vale-tudo. Segundo o site Sherdog, depois da violência da luta de maio, a polícia do Rio tinha proibido esse tipo de combate. Carlson e Waldemar Santana lutam de kimono, com regras de jiu-jitsu. Carlson contava que quinze mil pessoas entraram no ginásio e que outras milhares ficaram do lado de fora. Ele controla a luta, mas não consegue finalizar. O resultado é empate. A resposta da família ainda não veio.
 
-### a04-vitoria-1956 (comparacao · 1956 · 36 s)
+### a04-vitoria-1956 (comparacao · 1956 · 37 s)
 
 A resposta vem em 1956, de novo no Maracanãzinho. Agora é vale-tudo, com socos permitidos. O combinado, segundo o Sherdog, são seis assaltos de dez minutos. A luta dura trinta e nove. Carlson vence. Sobre o final, as versões mudam. Carlson contava que Santana caiu para fora do ringue, já machucado, e não quis voltar. Outras fontes dizem que o córner jogou a toalha. A data também varia: julho para umas, agosto pela conta de outras. O que ninguém discute é o vencedor.
 
-### a05-quantas-lutas (linha · 1957 · 40 s)
+### a05-quantas-lutas (linha · 1957 · 38 s)
 
 E não parou aí. Carlson e Santana voltaram a se enfrentar várias vezes, e aqui as fontes se perdem. A Wikipedia em inglês fala em seis lutas num trecho e lista sete em outro. O Sherdog também se contradiz. O que se repete é isto: empate em 1955, vitória de Carlson em 1956, novos encontros em 1957 e um empate em 1959. Algumas listas dão a Carlson uma segunda vitória, por pontos. Nenhuma registra vitória de Santana. Contra o homem que derrubou Hélio, Carlson nunca perdeu.
 
@@ -38,11 +38,11 @@ Santana é só uma parte da carreira. Em 1958, no Maracanãzinho, Carlson finali
 
 Enquanto luta, Carlson ensina na academia da família. E é ali que nasce o atrito com o tio. As fontes não dão uma data para o rompimento, só os motivos. Carlson contava assim: cada equipe só podia inscrever dois lutadores nas competições, e os alunos dele ganhavam tudo. Não havia lugar para as duas turmas. Do lado de Hélio, a queixa era outra: Carlson e os alunos usavam força demais e traíam a ideia da técnica acima da força. Era uma briga de estilo. E era também uma briga de negócio.
 
-### a08-copacabana (cartao · 1964 · 37 s)
+### a08-copacabana (cartao · 1964 · 40 s)
 
 Carlson vai para Copacabana. O endereço fica famoso: Rua Figueiredo Magalhães. Sobre o começo, as fontes divergem. A equipe conta a história a partir de 1964, quando Carlson se associa a Ivan Gomes, aquele paraibano do empate no Recife. Ivan entra com o dinheiro, Carlson com o nome. Segundo um relato, essa primeira academia fecha em cerca de um ano, e Carlson abre depois a dele. Já a Wikipedia põe a academia só depois de 1970. Certo é o que vem em seguida: a sala enche, e de um público novo.
 
-### a09-modelo (comparacao · 1965 · 36 s)
+### a09-modelo (comparacao · 1965 · 35 s)
 
 O que muda é o modelo. Na academia de Hélio, você viu, a aula era particular, um professor para um aluno. Custava caro, e o curso era de defesa pessoal. Carlson faz o contrário. Dá aula em grupo, muita gente no mesmo tatame, treinando uns contra os outros. Com isso o preço cai. Quem não podia pagar treinava com desconto, ou de graça. Em troca, Carlson pedia dedicação total e presença nos campeonatos. O aluno já não precisava ser rico, nem ser Gracie. Precisava querer competir.
 
@@ -50,15 +50,15 @@ O que muda é o modelo. Na academia de Hélio, você viu, a aula era particular,
 
 Muda também o jogo. Hélio ensinava a sobreviver: ficar por baixo, na guarda, com o adversário preso entre as pernas, e esperar o erro. Carlson prepara o aluno para ficar por cima. Derrubar, passar a guarda, que é vencer as pernas de quem está por baixo, e pressionar até finalizar. As vantagens: um jogo que procura decidir a luta, com preparo físico e treino duro entre os próprios colegas. O preço: pede força e fôlego que nem todo aluno tem. E, para Hélio, deixa de lado a promessa de que o fraco vence o forte.
 
-### a11-equipe (linhagem · 1975 · 46 s)
+### a11-equipe (linhagem · 1975 · 47 s)
 
 O resultado é uma equipe. Nos anos setenta sai a primeira geração de faixas-pretas: Sérgio Íris, apontado como o primeiro deles, Fernando Pinduka, Cássio Cardoso, Otávio Peixotinho. Nos anos oitenta e noventa vêm Ricardo De la Riva, Murilo Bustamante, Wallid Ismail, Mário Sperry, Ricardo Libório, Amaury Bitetti. Nenhum deles tem o sobrenome Gracie. Segundo o Sherdog, de 1975 a 1994 a equipe de Carlson ganha os principais torneios, em todas as faixas. E De la Riva mostra que dali não saía só jogo por cima: ele dá nome a uma guarda que você vai conhecer mais adiante.
 
-### a12-legado (linha · 2006 · 38 s)
+### a12-legado (linha · 2006 · 41 s)
 
 O legado vai além dos troféus. Você viu, em 1991, alunos de Carlson vencendo o desafio contra a luta livre. Nos anos noventa, ele leva a equipe para o vale-tudo e apresenta o jiu-jitsu a um garoto chamado Vitor Belfort. Em 2000, parte dos principais alunos sai e funda a Brazilian Top Team. Carlson chama quem troca de equipe de creonte, nome de um vilão de novela. O apelido se espalha pelo jiu-jitsu. Ele morre em Chicago, em 2006. Em 2019, ganha uma estátua em Copacabana, perto da antiga academia.
 
-### a13-ponte (cartao · 1967 · 38 s)
+### a13-ponte (cartao · 1967 · 36 s)
 
 Só que a academia de Carlson cria um problema novo. Quando o jiu-jitsu era aula particular e desafio de ringue, bastava a palavra do professor. Agora há alunos de academias diferentes querendo se medir, sem soco e sem nocaute. Quem decide quem ganhou, se ninguém desistiu? Quanto vale uma queda, ou uma passagem de guarda? Quem pode dar uma faixa, e com que critério? Falta alguém acima das academias. Falta uma regra escrita. É dessa necessidade que nasce o passo seguinte: organizar o jiu-jitsu como esporte.
 
@@ -70,7 +70,7 @@ Antes de 1967, quem entrava numa academia de jiu-jitsu no Rio via poucas cores n
 
 Primeiro, o nome. Em 1960, a capital do país vai para Brasília, e a cidade do Rio vira um estado sozinha: a Guanabara. É ali que, em vinte e cinco de abril de 1967, nasce a Federação de Jiu-Jitsu da Guanabara. Segundo as fontes, ela é criada por cinco academias, com autorização do órgão nacional de desportos. Por anos, será a única federação de jiu-jitsu do país. A arte dos desafios ganha um endereço oficial, um estatuto e gente encarregada de dizer o que vale.
 
-### b03-cargos (linhagem · 1967 · 35 s)
+### b03-cargos (linhagem · 1967 · 36 s)
 
 E quem manda? A lista dos cargos conta a história. O presidente é Hélio Gracie. Carlos, o irmão mais velho, preside o conselho consultivo. Carlson, filho de Carlos, dirige o departamento técnico. Os vices dele são Oswaldo Fadda e Orlando Barradas. No departamento de ensino fica João Alberto Barreto, aquele da chave de braço na televisão, com Robson Gracie de vice. Entre os fundadores, as fontes citam ainda Álvaro Barreto e Hélcio Leal Binda. É uma federação com a cara da família. Mas não só da família.
 
@@ -94,7 +94,7 @@ Com as faixas vêm as regras de luta. As primeiras são simples. Vale um ponto a
 
 Só que regra no papel não é campeonato. Em junho de 1973, o jiu-jitsu é reconhecido por lei como esporte no Brasil. Em dezembro do mesmo ano, a federação faz o seu primeiro torneio oficial, num clube do Rio, a Associação Atlética Banco do Brasil. O nome é ambicioso: Primeiro Torneio Oficial de Jiu-Jítsu do Brasil. Em 1975, a Guanabara se junta ao estado do Rio de Janeiro, e a entidade passa a se chamar Federação de Jiu-Jitsu do Estado do Rio de Janeiro. No mesmo ano, as regras mudam.
 
-### b09-regra-de-1975 (comparacao · 1975 · 37 s)
+### b09-regra-de-1975 (comparacao · 1975 · 39 s)
 
 A mudança de 1975 é a que fica. Quem conta é o pesquisador Robert Drysdale. Segundo ele, em agosto daquele ano a queda passa a valer dois pontos. A montada e as costas, quatro. A passagem de guarda, que é vencer as pernas de quem luta por baixo, também entra no placar. Compare com o judô. Lá, uma queda perfeita encerra a luta. Aqui, ela rende dois pontos, e a luta segue no chão. Para Drysdale, que atribui o regulamento a Carlson Gracie, é aí que o jiu-jitsu se separa de vez do judô.
 
@@ -118,7 +118,7 @@ Mas uma regra nova muda mais do que o placar. Ela muda o que vale a pena treinar
 
 Enquanto Carlson enchia a academia de Copacabana, um irmão dele, quase vinte anos mais novo, crescia em outra casa. Rolls Gracie nasce no Rio, em março de 1951. É filho de Carlos, o patriarca. Quem cria o menino é o tio Hélio. Rolls cresce com os primos Rorion e Rickson, como irmão deles. A mãe trabalha numa companhia aérea, e por isso ele viaja desde cedo, para os Estados Unidos e para a Europa. Mas é no tatame do tio que aprende a lutar.
 
-### c02-formacao (linha · 1973 · 39 s)
+### c02-formacao (linha · 1973 · 37 s)
 
 A formação de Rolls passa por duas escolas. Primeiro, a de Hélio, no centro do Rio. Segundo a Wikipédia, aos doze anos ele já ajuda o tio nas aulas. Depois, a de Carlson, em Copacabana, onde dá aula por alguns anos. Hélio ensinava a se defender e a cansar o adversário. Carlson, a atacar. Rolls fica com as duas coisas. Em 1973, vence o absoluto, a categoria sem limite de peso, no campeonato da Guanabara. E ele nunca passou dos setenta quilos. Nos anos setenta, é o grande campeão da família.
 
@@ -154,7 +154,7 @@ E há um aluno que não precisou receber a faixa de Rolls para ser discípulo de
 
 Brasília, vinte e cinco de abril de 1980. Rickson, com vinte anos, estreia no vale-tudo. O adversário é Casemiro Martins, o Rei Zulu, maranhense de São Luís, criado na tarracá, a luta agarrada popular do Maranhão. Zulu anunciava mais de cem vitórias sem derrota. Tem mais de vinte quilos de vantagem. Rickson contou que foi a luta mais dura da vida dele. Num intervalo, diz ao pai que não aguenta mais. Rolls, no córner, despeja um balde de água gelada na cabeça dele. Rickson volta e finaliza com um mata-leão.
 
-### c11-morte (cartao · 1982 · 34 s)
+### c11-morte (cartao · 1982 · 33 s)
 
 Em 1982, Rolls tem trinta e um anos, mulher, dois filhos pequenos e um plano. A academia dele divide um prédio pequeno com a de Carlson, e já não cabe tanta gente. Ele prepara a mudança para um espaço novo, com os alunos mais graduados. Fora do tatame, gosta de surfe e de asa-delta. No dia seis de junho, em Visconde de Mauá, na serra do estado do Rio, decola num dia de pouco vento. A asa perde altura e cai sobre as árvores. Rolls Gracie morre no acidente.
 
@@ -162,11 +162,11 @@ Em 1982, Rolls tem trinta e um anos, mulher, dois filhos pequenos e um plano. A 
 
 A morte de Rolls deixa um vazio. Segundo Maurício Gomes, os alunos ficam perdidos, e alguns param de treinar. Carlinhos assume a academia do irmão, em Copacabana. Em 1986, leva o trabalho para a Barra da Tijuca: nasce a Gracie Barra. Jacaré abre a própria academia e, em 1993, funda a Alliance. Nos desafios, o posto de campeão da família passa para Rickson. E o jeito de treinar de Rolls, aberto a outras lutas, fica. Royler Gracie resume assim: há uma era antes e outra depois de Rolls.
 
-### c13-fecho (mapa · 1982 · 36 s)
+### c13-fecho (mapa · 1982 · 35 s)
 
 Vinte e sete anos separam a derrota de Hélio para Waldemar Santana da morte de Rolls. Nesse tempo, o jiu-jitsu deixou de ser assunto de uma família só. Ganhou alunos de fora com Carlson. Ganhou federação, faixas e pontos. Ganhou, com Rolls, quedas, guarda de ataque e a coragem de aprender com os outros. Mas continuava uma luta do Rio de Janeiro, pouco conhecida fora do Brasil. Enquanto isso, um primo de Rolls tinha se mudado para a Califórnia, com uma ideia na cabeça. Uma ideia que ia mudar as lutas no mundo inteiro.
 
-Duração aproximada: 23 min 30 s.
+Duração aproximada: 23 min 29 s.
 
 ## Conferir antes de publicar
 

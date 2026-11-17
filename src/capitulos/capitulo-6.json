@@ -1568,7 +1568,7 @@
       "tipo": "mapa",
       "ano": 1997,
       "titulo": "O vale-tudo no Brasil dos anos 1990",
-      "narracao": "E no Brasil? Nos anos noventa, o vale-tudo volta a crescer. Em [1996|mil novecentos e noventa e seis], o produtor Frederico Lapenda cria o [WVC|dábliu V C], que estreia no Japão e depois chega a São Paulo. Em [1997|mil novecentos e noventa e sete], Sérgio Batarelli, ex-sócio dele, lança em São Paulo o [IVC|I V C]: um round só, de até trinta minutos, e no começo valia até cabeçada. No Rio, a academia mais temida é a de Carlson Gracie, em Copacabana. E em Curitiba cresce uma escola de [muay thai|muai tai], a Chute Boxe.",
+      "narracao": "E no Brasil? Nos anos noventa, o vale-tudo volta a crescer. Em [1996|mil novecentos e noventa e seis], o produtor Frederico Lapenda cria o [WVC|dábliu V C], que estreia no Japão e depois chega a São Paulo. Em [1997|mil novecentos e noventa e sete], Sérgio Batarelli, ex-sócio dele, lança em São Paulo o [IVC|I V C]: um round só, de até trinta minutos, e no começo valia até cabeçada. No Rio, a academia mais temida é a de [Carlson|Cárson] Gracie, em Copacabana. E em Curitiba cresce uma escola de [muay thai|muai tai], a Chute Boxe.",
       "vista": {
         "lon": -52,
         "lat": -15,
@@ -1612,7 +1612,7 @@
       "tipo": "linhagem",
       "ano": 1997,
       "titulo": "A equipe de Carlson Gracie",
-      "narracao": "Carlson, você lembra, é o sobrinho de Hélio que abriu a própria academia. Nos anos noventa, a equipe dele vira uma fábrica de lutadores de vale-tudo. Murilo Bustamante e Mário Sperry, campeões de jiu-jitsu. Wallid Ismail, que tinha vencido no kimono mais de um Gracie. Amaury Bitetti e Ricardo Libório. E o caçula, Vitor Belfort, que une o chão da academia a um boxe muito rápido. Em fevereiro de [1997|mil novecentos e noventa e sete], aos dezenove anos, Belfort vence um torneio de pesos pesados do [UFC|U F C], nos Estados Unidos.",
+      "narracao": "[Carlson|Cárson], você lembra, é o sobrinho de Hélio que abriu a própria academia. Nos anos noventa, a equipe dele vira uma fábrica de lutadores de vale-tudo. Murilo Bustamante e Mário Sperry, campeões de jiu-jitsu. Wallid Ismail, que tinha vencido no kimono mais de um Gracie. Amaury Bitetti e Ricardo Libório. E o caçula, Vitor Belfort, que une o chão da academia a um boxe muito rápido. Em fevereiro de [1997|mil novecentos e noventa e sete], aos dezenove anos, Belfort vence um torneio de pesos pesados do [UFC|U F C], nos Estados Unidos.",
       "nos": [
         {
           "id": "carlson",
@@ -1666,7 +1666,7 @@
       "rotulo": "Curitiba",
       "titulo": "A Chute Boxe",
       "destaque": "Muay thai",
-      "narracao": "A Chute Boxe nasceu em [1978|mil novecentos e setenta e oito], fundada por Rudimar Fedrigo, como academia de [muay thai|muai tai], a luta tailandesa de socos, chutes e joelhadas. Nos anos noventa, passa a treinar também quedas e chão. No [IVC|I V C], seus lutadores ficam com três dos quatro cinturões. Os nomes: Wanderlei Silva, José Landi-Jons, o Pelé, e Rafael Cordeiro. O encontro com a equipe de Carlson vem em outubro de [1998|mil novecentos e noventa e oito], no [UFC|U F C] Brasil. Belfort vence Wanderlei por nocaute técnico em quarenta e quatro segundos. A rivalidade só estava começando.",
+      "narracao": "A Chute Boxe nasceu em [1978|mil novecentos e setenta e oito], fundada por Rudimar Fedrigo, como academia de [muay thai|muai tai], a luta tailandesa de socos, chutes e joelhadas. Nos anos noventa, passa a treinar também quedas e chão. No [IVC|I V C], seus lutadores ficam com três dos quatro cinturões. Os nomes: Wanderlei Silva, José Landi-Jons, o Pelé, e Rafael Cordeiro. O encontro com a equipe de [Carlson|Cárson] vem em outubro de [1998|mil novecentos e noventa e oito], no [UFC|U F C] Brasil. Belfort vence Wanderlei por nocaute técnico em quarenta e quatro segundos. A rivalidade só estava começando.",
       "itens": [
         {
           "texto": "Fundada em 1978 por Rudimar Fedrigo",
@@ -1732,7 +1732,7 @@
       "rotulo": "Rio de Janeiro, 2000",
       "titulo": "O racha e a Brazilian Top Team",
       "destaque": "Creontes",
-      "narracao": "Em [2000|dois mil], a equipe de Carlson racha. Ele passava boa parte do tempo nos Estados Unidos, e a briga, segundo as fontes, envolve dinheiro: a parte do mestre nas bolsas dos lutadores. Os relatos divergem nos detalhes. Bustamante, Sperry, Libório e Luís Roberto Duarte, o Bebeo, saem e fundam, no Rio, a [Brazilian Top Team|Brazílian Tóp Tim]. Carlson nunca perdoa: chama os que saíram de creontes, traidores. Mas um problema maior espera todos eles. Lá fora, os adversários já tinham estudado o jiu-jitsu. E aprendido a não ser finalizados.",
+      "narracao": "Em [2000|dois mil], a equipe de [Carlson|Cárson] racha. Ele passava boa parte do tempo nos Estados Unidos, e a briga, segundo as fontes, envolve dinheiro: a parte do mestre nas bolsas dos lutadores. Os relatos divergem nos detalhes. Bustamante, Sperry, Libório e Luís Roberto Duarte, o Bebeo, saem e fundam, no Rio, a [Brazilian Top Team|Brazílian Tóp Tim]. [Carlson|Cárson] nunca perdoa: chama os que saíram de creontes, traidores. Mas um problema maior espera todos eles. Lá fora, os adversários já tinham estudado o jiu-jitsu. E aprendido a não ser finalizados.",
       "itens": [
         {
           "texto": "2000: a equipe de Carlson racha",
@@ -1880,7 +1880,7 @@
       "tipo": "mapa",
       "ano": 1997,
       "titulo": "As primeiras derrotas",
-      "narracao": "E os nomes do jiu-jitsu começam a perder. Detroit, maio de [1996|mil novecentos e noventa e seis]: Amaury Bitetti, faixa-preta de Carlson Gracie, é parado pelos socos de Don Frye. Tulsa, em outubro: Marcus Silveira, o Conan, também de Carlson, cai com um chute na cabeça de Maurice Smith. São Paulo, janeiro de [1997|mil novecentos e noventa e sete]: Mark Kerr, outro campeão universitário, enfrenta Fábio Gurgel, um dos principais nomes do jiu-jitsu de competição. Gurgel aguenta trinta minutos por baixo, apanhando. Não desiste, mas perde na decisão dos juízes. A técnica já não bastava sozinha.",
+      "narracao": "E os nomes do jiu-jitsu começam a perder. Detroit, maio de [1996|mil novecentos e noventa e seis]: Amaury Bitetti, faixa-preta de [Carlson|Cárson] Gracie, é parado pelos socos de Don Frye. Tulsa, em outubro: Marcus Silveira, o Conan, também de [Carlson|Cárson], cai com um chute na cabeça de Maurice Smith. São Paulo, janeiro de [1997|mil novecentos e noventa e sete]: Mark Kerr, outro campeão universitário, enfrenta Fábio Gurgel, um dos principais nomes do jiu-jitsu de competição. Gurgel aguenta trinta minutos por baixo, apanhando. Não desiste, mas perde na decisão dos juízes. A técnica já não bastava sozinha.",
       "vista": {
         "lon": -72,
         "lat": 10,
@@ -1988,7 +1988,7 @@
       "rotulo": "17 de dezembro de 1998",
       "titulo": "Wallid Ismail x Royce Gracie",
       "destaque": "O relógio",
-      "narracao": "E a notícia ruim não vem só da jaula. Rio, dezessete de dezembro de [1998|mil novecentos e noventa e oito]. Royce aceita uma luta de jiu-jitsu, de kimono, em Copacabana. Segundo as fontes, é ele quem pede as regras: sem pontos e sem limite de tempo. Só vale finalização. Do outro lado está Wallid Ismail, aquele aluno de Carlson que já vencera outros Gracie. Em menos de cinco minutos, Wallid encaixa o relógio, um estrangulamento feito com a gola do kimono. Royce não bate. Desmaia. O campeão do [UFC|U F C] perdeu dentro do próprio jiu-jitsu.",
+      "narracao": "E a notícia ruim não vem só da jaula. Rio, dezessete de dezembro de [1998|mil novecentos e noventa e oito]. Royce aceita uma luta de jiu-jitsu, de kimono, em Copacabana. Segundo as fontes, é ele quem pede as regras: sem pontos e sem limite de tempo. Só vale finalização. Do outro lado está Wallid Ismail, aquele aluno de [Carlson|Cárson] que já vencera outros Gracie. Em menos de cinco minutos, Wallid encaixa o relógio, um estrangulamento feito com a gola do kimono. Royce não bate. Desmaia. O campeão do [UFC|U F C] perdeu dentro do próprio jiu-jitsu.",
       "itens": [
         {
           "texto": "Luta de jiu-jitsu, de kimono, em Copacabana",

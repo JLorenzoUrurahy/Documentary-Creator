@@ -158,7 +158,7 @@ E de que tamanho é o jiu-jitsu hoje? Ninguém sabe ao certo. Não há uma entid
 
 Vale olhar o caminho inteiro. Em 1882, em Tóquio, Jigoro Kano cria o judô e o randori, o treino livre. Em 1904, Mitsuyo Maeda sai do Japão e roda o mundo aceitando desafios. Por volta de 1917, ele se fixa em Belém, e ali se formam os primeiros brasileiros. No Rio, os Gracie fazem do jiu-jitsu um nome de família, enquanto Luiz França e Oswaldo Fadda ensinam no subúrbio. Vêm os desafios: Hélio contra Kimura, em 1951, no Maracanã. E vem a rivalidade com a luta livre.
 
-### c12-o-que-mudou (linha · 2026 · 45 s)
+### c12-o-que-mudou (linha · 2026 · 48 s)
 
 Carlson Gracie abre a academia a quem não era da família, e Rolls traz outras lutas para o treino. Em 1993, Royce vence o primeiro UFC, e o mundo descobre a luta de chão. Em 1994 nasce a confederação, e em 1996, o Mundial. Em 1998, em Abu Dhabi, o ADCC põe o jiu-jitsu diante do wrestling. A técnica muda, da guarda fechada ao berimbolo e ao ataque às pernas. E, por fim, lutar vira profissão. Mudou a roupa. Mudaram as regras, o dinheiro e o endereço. Mas uma coisa atravessou tudo isso sem mudar.
 
@@ -166,7 +166,7 @@ Carlson Gracie abre a academia a quem não era da família, e Rolls traz outras 
 
 No primeiro capítulo, pedimos que você guardasse uma ideia, a de Kano: lutar de verdade, todos os dias, contra alguém que resiste. Essa ideia saiu de Tóquio na bagagem de Maeda, atravessou o oceano e desembarcou em Belém. Passou pelas academias do Rio, pelo ringue, pela jaula e pelos ginásios de Long Beach e de Abu Dhabi. Hoje, em qualquer academia do mundo, a aula termina do mesmo jeito. Alguém marca o tempo. Duas pessoas se cumprimentam. E lutam de verdade. Tudo o que você viu nesta série começou assim. E continua assim, todos os dias.
 
-Duração aproximada: 25 min 28 s.
+Duração aproximada: 25 min 31 s.
 
 ## Conferir antes de publicar
 

@@ -130,7 +130,7 @@ O negócio dos Gracie é a aula particular. Um professor, um aluno, meia hora de
 
 E Carlos? Ele já não luta desde o começo dos anos trinta. É o mentor: escolhe adversários, negocia regras, cuida da comida dos lutadores. Em 1948, publica um livro, Introdução ao Jiu-Jitsu. Apesar do título, é mais um manual de alimentação e de filosofia do que de golpes. Carlos também investe em imóveis. E vai formando outra coisa, mais lenta do que qualquer academia: uma família enorme, pensada desde o berço para o tatame.
 
-### c05-familia (linhagem · 1951 · 46 s)
+### c05-familia (linhagem · 1951 · 45 s)
 
 Os filhos de Gastão agora formam as suas próprias famílias. Carlos, bem antes de Hélio, e em outra escala: teve vinte e um filhos ao longo da vida. Os mais velhos são dessa época: Carlson, de 1932, e Robson, de 1935. Em 1951 nasce Rolls, filho de Carlos que vai ser criado por Hélio. Já o primeiro filho de Hélio, Rorion, só chega em 1952. Nesse mesmo ano, segundo a Graciemag, Carlos compra uma casa em Teresópolis, na serra, para os fins de semana. Os meninos crescem juntos, com a mesma dieta e o mesmo destino: o kimono.
 
@@ -206,7 +206,7 @@ A briga começa por causa de uma luta. Santana, sem dinheiro, aceita um combate 
 
 A luta é no dia vinte e quatro de maio de 1955, no ginásio da Associação Cristã de Moços, a ACM, no Rio. De um lado, Hélio: quarenta e um anos, uns sessenta e sete quilos e, segundo ele mesmo, uma infecção no ouvido. Do outro, Santana: vinte e cinco anos e mais de noventa quilos. As regras foram acertadas pelos dois lutadores e permitem socos, chutes e cabeçadas. A luta só acaba quando um deles não puder mais continuar.
 
-### d11-chute (cartao · 1955 · 33 s)
+### d11-chute (cartao · 1955 · 35 s)
 
 E não acaba. Passa uma hora. Passam duas. Passam três. Hélio espera o contra-ataque, que é o forte dele. Santana não se arrisca. Depois, Hélio diria que o ex-aluno teve medo de atacar. As fontes dão entre três horas e quarenta e três horas e quarenta e cinco minutos de combate. No fim, Hélio está exausto. Santana o derruba. Hélio demora a se levantar. E leva um chute no rosto. Nocaute. Carlson Gracie, o sobrinho, entra no ringue e carrega o tio.
 
@@ -218,7 +218,7 @@ Meses depois, o jornal Última Hora resume o que aconteceu com Santana: uma carr
 
 De 1930 a 1955, os desafios fizeram do jiu-jitsu assunto de jornal, de estádio e até de presidente. Hélio perdeu as duas lutas mais famosas da vida e, mesmo assim, saiu delas mais conhecido. Só que os Gracie nunca estiveram sozinhos no Rio. Enquanto eles lutavam de kimono, outra escola crescia na mesma cidade, sem kimono, de calção, com outros alunos e outro mestre. Ela se chamava luta livre. E as duas não iam conviver em paz. É a história do próximo capítulo.
 
-Duração aproximada: 31 min 48 s.
+Duração aproximada: 31 min 49 s.
 
 ## Conferir antes de publicar
 

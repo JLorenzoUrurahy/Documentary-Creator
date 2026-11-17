@@ -70,7 +70,7 @@ Roberto Leitão é catarinense, nascido em 1937. É engenheiro mecânico e profe
 
 Antes disso, a rivalidade já tinha passado pela televisão. Em 1959, a TV Continental, do Rio, estreia o programa Heróis do Ringue. São lutas de estilo contra estilo, com os Gracie entre organizadores e comentaristas. É ali que a expressão vale-tudo cai na boca do povo. Numa das lutas, João Alberto Barreto, da academia Gracie, aplica uma chave de braço num lutador de luta livre. O adversário não desiste. O braço quebra. O programa sai do ar pouco depois; as fontes divergem sobre o ano.
 
-### b04-nordeste (mapa · 1963 · 40 s)
+### b04-nordeste (mapa · 1963 · 41 s)
 
 Sem a televisão do Rio, o vale-tudo segue forte no Nordeste. E é lá que Carlson Gracie encontra dois problemas. O primeiro, em dezembro de 1963, no Recife: o paraibano Ivan Gomes, bem mais pesado. Ivan derruba Carlson várias vezes, mas não consegue finalizar. Empate. O segundo, em setembro de 1968, em Salvador: o potiguar Euclides Pereira. São seis assaltos de cinco minutos. Carlson chega a ameaçar um estrangulamento. Euclides escapa, acerta o nariz dele e vence por decisão dos jurados.
 
@@ -90,7 +90,7 @@ Por trás da rixa de tatame existe uma diferença de endereço. Estudos acadêmi
 
 A primeira invasão famosa nem é contra a luta livre. No começo dos anos oitenta, lutadores de jiu-jitsu entram na academia Naja, de Flávio Molina, e desafiam o pessoal do muay thai. A resposta é uma aliança: o boxe tailandês se junta à luta livre. O acerto de contas fica marcado para o ringue. Em trinta de novembro de 1984, no Maracanãzinho, acontece a Noite das Artes Marciais. De um lado, o jiu-jitsu. Do outro, os demais estilos. Duas lutas interessam a esta história.
 
-### b09-maracanazinho (cartao · 1984 · 33 s)
+### b09-maracanazinho (cartao · 1984 · 36 s)
 
 Na primeira, Eugênio Tadeu enfrenta Renan Pitanguy, da academia Gracie. Depois de cinco minutos, o córner de Renan interrompe a luta. Vitória de Eugênio. Na segunda, Marco Ruas encara Fernando Pinduka, aluno de Carlson. Ruas usa a luta livre para anular o jogo de chão de Pinduka, e os dois chegam ao fim dos vinte minutos. Empate. O jiu-jitsu ainda vence outras duas lutas naquela noite. Mas o recado está dado: um lutador sem kimono, bem treinado, consegue parar o jiu-jitsu.
 
@@ -122,7 +122,7 @@ A luta mais longa é a de Wallid contra Eugênio Tadeu. Em pé, Tadeu leva vanta
 
 As outras duas lutas são mais curtas. Murilo Bustamante domina Marcelo Mendes em pé e no chão. Em menos de cinco minutos, Mendes abandona. Na luta principal, Denilson Maia começa melhor: derruba Fábio Gurgel e acerta chutes. Gurgel reage, leva a luta para o chão e chega à montada, sentado sobre o peito do adversário. Dali, bate até Maia desistir, com pouco menos de dez minutos. Placar final: três a zero para o jiu-jitsu.
 
-### c05-significado (cartao · 1991 · 36 s)
+### c05-significado (cartao · 1991 · 35 s)
 
 Na televisão, o resultado ganha um peso que nenhuma briga de praia teve. Para o jiu-jitsu, é a vitória pública que a escola buscava. E os três vencedores nem Gracie eram de sobrenome: Wallid e Bustamante eram alunos de Carlson, e Gurgel, de Romero Cavalcanti, o Jacaré. Para a luta livre, é um golpe duro. Sai dali com fama de derrotada e sem revanche. Só que três lutas não medem uma arte inteira. E os seus dois nomes mais conhecidos, Hugo Duarte e Marco Ruas, não tinham lutado.
 
@@ -150,11 +150,11 @@ Cada escola levou alguma coisa da outra. Quando os lutadores de jiu-jitsu tirara
 
 E a luta livre não acabou naquela noite do Grajaú. Marco Ruas, aluno de Roberto Leitão, juntou a luta livre com o muay thai. Em 1995, venceu o torneio do UFC 7. A primeira luta, ele ganhou com uma chave de calcanhar. A última, com chutes nas pernas. O seu aluno Pedro Rizzo disputou três vezes o cinturão dos pesados do UFC. E a escola segue viva em equipes como a Renovação Fight Team, de Márcio Cromado, que ainda leva lutadores de luta livre ao MMA.
 
-### c12-volta-a-1955 (linha · 1955 · 33 s)
+### c12-volta-a-1955 (linha · 1955 · 32 s)
 
 A rixa com a luta livre atravessou mais de meio século. Mas, para entender como o jiu-jitsu chegou tão forte a 1991, é preciso voltar. Maio de 1955. Hélio Gracie perde para Waldemar Santana, seu ex-aluno, depois de mais de três horas de luta. Quem vai responder não é Hélio, nem Carlos. É um sobrinho de vinte e poucos anos, filho de Carlos. O nome dele é Carlson Gracie. E, com ele, o jiu-jitsu deixa de ser assunto de uma família só.
 
-Duração aproximada: 21 min 22 s.
+Duração aproximada: 21 min 23 s.
 
 ## Conferir antes de publicar
 

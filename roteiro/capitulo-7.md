@@ -22,11 +22,11 @@ No começo dos anos oitenta, quem luta jiu-jitsu de competição mora no Rio de 
 
 Quem preenche o vazio são as copas com nome de marca. Copa Company. Copa Cantão. Copa Lightning Bolt. São marcas de roupa e de surfe, de olho no mesmo público: o jovem da zona sul do Rio, da praia e da academia. Os registros são poucos, espalhados por biografias de lutadores. Em 1984, aparece um campeão da Copa Lightning Bolt. Em 1985, um vice-campeão de faixa preta na Copa Company. Em 1986, a Company já está na terceira edição. Não achamos arquivo oficial desses torneios.
 
-### a04-rivais (comparacao · 1986 · 42 s)
+### a04-rivais (comparacao · 1986 · 41 s)
 
 Nessas copas, o que enche a arquibancada é a rivalidade entre academias. De um lado, a academia de Hélio Gracie, com os filhos Rickson e Royler. Rickson é o nome a ser batido. Royler vence entre os mais leves. Do outro lado, a academia de Carlson, em Copacabana, com Ricardo de la Riva e Murilo Bustamante. E há casas novas. Carlinhos tem alunos como Rigan Machado, que enfrenta Rickson na Copa Company de 1986. Em Ipanema, Jacaré forma Fábio Gurgel, faixa preta em 1989. E Sérgio Penha fica na história por uma luta dura contra Rickson.
 
-### a05-delariva (perfil · 1986 · 40 s)
+### a05-delariva (perfil · 1986 · 39 s)
 
 A luta mais lembrada da década é de um aluno de Carlson. Ricardo de la Riva treina com ele desde 1980. Desenvolve um jeito próprio de lutar por baixo: enrosca uma perna por fora da perna do adversário e tira o equilíbrio dele. Na Copa Cantão, enfrenta Royler Gracie. E vence. Uma biografia fala em decisão dos árbitros. As fontes não se entendem sobre o ano: 1985, 1986 ou 1987. Sobre o efeito, concordam. A posição passa a ser chamada pelo nome dele: guarda De la Riva. Dela, falaremos em outro capítulo.
 
@@ -38,7 +38,7 @@ Enquanto isso, o jiu-jitsu de competição começa a sair do Rio. O caminho mais
 
 Carlinhos, o irmão de Rolls que fundou a Gracie Barra, pensa o contrário. O que falta não é lutador. É organização. Um estadual que não acontece todo ano não segura um esporte. A resposta é uma entidade nacional, com campeonato brasileiro, regra única e data marcada. Em 1994, ele funda a Confederação Brasileira de Jiu-Jitsu, a CBJJ, com sede no Rio, e assume a presidência. É o ano que a maioria das fontes dá. Fábio Gurgel, que viveu a época, escreve 1993. A federação do Rio continua existindo, com o seu estadual.
 
-### a08-brasileiro (linha · 1994 · 43 s)
+### a08-brasileiro (linha · 1994 · 44 s)
 
 No mesmo ano, a confederação faz o primeiro Campeonato Brasileiro. Segundo a Graciemag, a sede é uma academia, a Akxe, na Barra da Tijuca. Vêm atletas de outros estados, até de Manaus, contou Carlinhos. Um vídeo da época mostra um faixa azul que passa a guarda, monta e estrangula, com Carlson Gracie dando instruções: é Vitor Belfort. Em 1995, vem o primeiro campeonato por equipes. E, em 1996, o Brasileiro está no ginásio do Tijuca Tênis Clube. É dali que algumas listas, como a da Wikipedia, começam a contar as edições.
 
@@ -66,7 +66,7 @@ Rio de Janeiro, três e quatro de fevereiro de 1996. No ginásio do Tijuca Têni
 
 A Wikipedia em inglês lista nove países naquele primeiro Mundial. O Brasil, claro. Os Estados Unidos e Cuba. Da Europa, França, Holanda, Suíça e Itália. E, mais longe, os Emirados Árabes e o Japão. São poucos atletas de cada lugar. Entre os dois primeiros de cada categoria de faixa preta, só um nome não é brasileiro: um suíço, no peso galo. O mundo ainda cabe num ginásio da Tijuca. Mas a ideia está lançada. Quem quiser ser campeão mundial de jiu-jitsu tem de vir lutar no Rio.
 
-### b03-bitetti (perfil · 1996 · 43 s)
+### b03-bitetti (perfil · 1996 · 40 s)
 
 O título mais cobiçado é o absoluto, a categoria sem limite de peso, em que o leve pode cruzar com o pesado. O primeiro campeão é Amaury Bitetti, faixa-preta de Carlson Gracie, um dos nomes daquela equipe de Copacabana. As fontes concordam no campeão e discordam no adversário da final. A Wikipedia aponta Ricardo Libório, colega de equipe de Bitetti. A Graciemag fala em Fábio Gurgel, da Alliance. Em 1997, Bitetti ganha o absoluto de novo. É o primeiro bicampeão da categoria que, dali em diante, define quem é o melhor do ano.
 
@@ -86,7 +86,7 @@ E as mulheres? Nos dois primeiros Mundiais, não há categoria feminina. Elas en
 
 A luta mais lembrada dessa fase é a final do absoluto de 2004. De um lado, Ronaldo Souza, o Jacaré. Do outro, Roger Gracie, da Gracie Barra. Segundo a Graciemag, Jacaré pega as costas e abre quatro a zero. Roger encaixa uma chave de braço, o golpe que força o cotovelo ao contrário. Jacaré não bate, ou seja, não desiste. Escapa com o cotovelo esquerdo deslocado e evita o combate até o tempo acabar. Roger reclama que o rival fugiu. Jacaré é campeão, e repete o título em 2005. Naquele mesmo Mundial, Marcelo Garcia, da Alliance, ganha o primeiro dos seus cinco títulos no peso médio.
 
-### b08-equipes (linhagem · 1996 · 44 s)
+### b08-equipes (linhagem · 1996 · 45 s)
 
 Por trás dos campeões estão as equipes, e você já conhece a origem de quase todas. Dos alunos de Rolls Gracie saem a Gracie Barra, de Carlinhos, e a Alliance, de Jacaré Cavalcanti, Fábio Gurgel e Alexandre Paiva. A academia de Hélio vira a Gracie Humaitá, comandada por Royler. De Carlson vem a equipe que leva o nome dele. E há a linhagem de Oswaldo Fadda: nela se formou Wendell Alexander, que em 1995 se junta a André Pederneiras, faixa-preta de Carlson, e cria a Nova União. Em 2002, a Alliance racha. Dali saem a TT e a Master, que mais tarde dá origem à Brasa.
 
@@ -154,7 +154,7 @@ E os Jogos Olímpicos? O judô estreou lá em 1964. O jiu-jitsu brasileiro nunca
 
 O esporte chega a 2007 assim: uma regra, um calendário, um Mundial na Califórnia e uma discussão que não terminou. Mas tudo isso é jiu-jitsu de kimono, entre gente de jiu-jitsu. Só que, em 1998, longe do Rio, um xeque de Abu Dhabi tinha criado outro torneio. Outro regulamento. Sem kimono. Com dinheiro para o campeão. E com a porta aberta para quem viesse do wrestling, a luta olímpica. O nome dele era ADCC. É lá, no próximo capítulo, que o jiu-jitsu vai descobrir o que ainda não sabia.
 
-Duração aproximada: 23 min 38 s.
+Duração aproximada: 23 min 36 s.
 
 ## Conferir antes de publicar
 
