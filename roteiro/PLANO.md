@@ -1,6 +1,6 @@
 # Brazilian Jiu-Jitsu: The Full Story, from Maeda to the Present Day
 
-Série documental em 10 partes, cerca de 4 horas. Narração em português do Brasil, voz do ElevenLabs.
+Série documental em 10 partes, 4 horas e 14 minutos. Narração em português do Brasil, voz do ElevenLabs.
 
 Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os encontros com a luta livre, o vale-tudo, o wrestling e o no-gi; as evoluções técnicas com prós e contras; as confederações; os campeonatos que importavam antes e os que importam hoje. Contar toda a história, com o tempo necessário e sem encher.
 
@@ -9,9 +9,9 @@ Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os en
 | Nº | Título | Período | Minutos | Blocos | Situação |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Antes do Brasil (abertura) | 1868 – 1917 | 5 | 1 | pronto |
-| 2 | Belém e os Gracie | 1915 – 1937 | 31 | 4 | pronto |
-| 3 | A era dos desafios | 1930 – 1955 | 32 | 4 | pronto |
-| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 22 | 3 | pronto |
+| 2 | Belém e os Gracie | 1915 – 1937 | 33 | 4 | pronto |
+| 3 | A era dos desafios | 1930 – 1955 | 36 | 4 | pronto |
+| 4 | Jiu-jitsu contra luta livre | 1930 – 1991 | 23 | 3 | pronto |
 | 5 | Carlson, Rolls e a modernização | 1955 – 1982 | 24 | 3 | pronto |
 | 6 | O vale-tudo conquista o mundo | 1978 – 2000 | 32 | 4 | pronto |
 | 7 | Nasce o esporte organizado | 1967 – 2007 | 24 | 3 | pronto |
@@ -39,6 +39,7 @@ Os minutos são meta: se a pesquisa render mais história boa, o capítulo cresc
 - Fundo "tatame à noite": quase preto, com grade discreta. Texto bege, destaques em vermelho de faixa e dourado.
 - Títulos em Oswald, texto em Inter.
 - Tudo desenhado em código: mapas, linhas do tempo, árvores de linhagem, perfis, comparações de prós e contras, citações.
+- Fundos de cena com imagens de uso livre da Wikimedia Commons (lugares, eventos, objetos), em preto e branco, escurecidas, com movimento lento e crédito na tela.
 - Fotos das pessoas só de uso livre (domínio público ou Creative Commons), buscadas na Wikimedia Commons, em preto e branco e com crédito na tela. Sem foto livre, o perfil mostra as iniciais.
 - Ano no canto superior direito, legenda sincronizada com a fala embaixo, barra de progresso do capítulo.
 - Ligações históricas contestadas aparecem tracejadas e com ponto de interrogação.
