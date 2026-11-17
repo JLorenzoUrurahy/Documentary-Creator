@@ -42,9 +42,9 @@ Rufino domina os dois primeiros rounds. No terceiro, os dois vão parar nas cord
 
 Durante um ano, Rufino provoca. Em dezoito de outubro de 1932, o jornal Diário de Notícias publica uma carta dele, com treze perguntas para Carlos. A última: se ele tinha tido medo de continuar a luta. Na mesma noite, Carlos, George e Hélio esperam Rufino na porta do Tijuca Tênis Clube, onde ele dava aula. E o atacam, três contra um. Os relatos falam em socos, pontapés e golpes com uma caixa de metal. Rufino vai para o hospital, com o ombro deslocado. A polícia abre inquérito.
 
-### a09-indulto (linha · 1934 · 38 s)
+### a09-indulto (linha · 1934 · 45 s)
 
-O processo anda devagar. Em maio de 1934, os jornais dão a sentença: Carlos, George e Hélio são condenados a dois anos e meio de prisão. Dias depois, eles se apresentam e são presos. Carlos e Hélio perdem o posto de instrutores de jiu-jitsu da Polícia Especial. Mas a família tem amigos. A poeta Rosalina Coelho Lisboa, que tinha sido aluna, puxa um pedido de perdão. No começo de junho, sai o indulto do presidente Getúlio Vargas. Segundo as fontes, os três ficaram cerca de dez dias presos. É um episódio pouco lembrado.
+O processo anda devagar. Em maio de 1934, os jornais dão a sentença: Carlos, George e Hélio são condenados a dois anos e meio de prisão. Dias depois, eles se apresentam e são presos. Carlos e Hélio perdem o posto de instrutores de jiu-jitsu da Polícia Especial. Só o historiador José Cairus ainda os chama de instrutores em 1935. Mas a família tem amigos. A poeta Rosalina Coelho Lisboa, que tinha sido aluna, puxa um pedido de perdão. No começo de junho, sai o indulto do presidente Getúlio Vargas. Segundo as fontes, os três ficaram cerca de dez dias presos. É um episódio pouco lembrado.
 
 ### a10-namiki (comparacao · 1932 · 36 s)
 
@@ -90,9 +90,9 @@ Essas lutas tinham padrinhos. Cairus foi aos jornais da época e mostra quem era
 
 Yassuiti Ono é leve como Hélio, pouco mais de sessenta quilos. E quer vale-tudo. Uma luta chega a ser marcada para abril de 1935, mas, segundo as fontes, Hélio desiste. O encontro só sai em dezembro, e é jiu-jitsu de kimono. Desde agosto, a Confederação Brasileira de Pugilismo já previa decisão por pontos nessas lutas. Ono derruba Hélio trinta e duas vezes. No primeiro assalto, quase encaixa uma chave de braço. Hélio escapa de tudo, até mergulhando para fora do ringue. E, mesmo assim, o resultado oficial é empate.
 
-### b07-1936 (linha · 1936 · 42 s)
+### b07-1936 (linha · 1936 · 48 s)
 
-O ano de 1936 repete a história. Em junho, Hélio enfrenta Takeo Yano. Carlos previa que o japonês não passaria do primeiro assalto. Yano derruba Hélio várias vezes, Hélio ameaça um estrangulamento, e dá empate. Em setembro, Hélio finaliza Massagoichi, apresentado como lutador de sumô, com uma chave de braço. Em outubro, a revanche com Ono: vinte e sete quedas para o japonês, nenhuma finalização, outro empate. No papel, Hélio sai invicto dos japoneses. Mas os repórteres, segundo Simon BJJ, foram unânimes: Ono dominou.
+O ano de 1936 repete a história. Em junho, Hélio enfrenta Takeo Yano. Carlos previa que o japonês não passaria do primeiro assalto. Yano derruba Hélio várias vezes, Hélio ameaça um estrangulamento, e dá empate. Em setembro, Hélio finaliza Massagoichi, apresentado como lutador de sumô, com uma chave de braço. Em outubro, a revanche com Ono: vinte e sete quedas para o japonês, nenhuma finalização, outro empate. Cairus chama esse adversário de Naoiti, mas troca os nomes dos irmãos ao longo do próprio artigo. No papel, Hélio sai invicto dos japoneses. Mas os repórteres, segundo Simon BJJ, foram unânimes: Ono dominou.
 
 ### b08-o-que-mostraram (comparacao · 1936 · 41 s)
 
@@ -234,7 +234,7 @@ Meses depois, o jornal Última Hora resume o que aconteceu com Santana: uma carr
 
 De 1930 a 1955, os desafios fizeram do jiu-jitsu assunto de jornal, de estádio e até de presidente. Hélio perdeu as duas lutas mais famosas da vida e, mesmo assim, saiu delas mais conhecido. Só que os Gracie nunca estiveram sozinhos no Rio. Enquanto eles lutavam de kimono, outra escola crescia na mesma cidade, sem kimono, de calção, com outros alunos e outro mestre. Ela se chamava luta livre. E as duas não iam conviver em paz. É a história do próximo capítulo.
 
-Duração aproximada: 35 min 12 s.
+Duração aproximada: 35 min 25 s.
 
 ## Conferir antes de publicar
 
