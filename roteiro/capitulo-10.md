@@ -154,9 +154,9 @@ Então, quais campeonatos importam? Antes, a régua era o Rio de Janeiro. Primei
 
 E de que tamanho é o jiu-jitsu hoje? Ninguém sabe ao certo. Não há uma entidade única que conte os praticantes, e as estimativas vão de três a onze milhões, sem estudo que as sustente. O que dá para medir é o pódio. O Brasil continua sendo a maior fábrica de campeões. Mas, no Mundial de 2026, há campeões faixa-preta dos Estados Unidos, do Canadá e do Marrocos. O polonês Adam Wardziński venceu em 2024 e 2025. A galesa Ffion Davies, em 2023. E há australianos em finais, com e sem kimono.
 
-### c11-caminho (linha · 1955 · 39 s)
+### c11-caminho (linha · 1955 · 41 s)
 
-Vale olhar o caminho inteiro. Em 1882, em Tóquio, Jigoro Kano cria o judô e o randori, o treino livre. Em 1904, Mitsuyo Maeda sai do Japão e roda o mundo aceitando desafios. Por volta de 1917, ele se fixa em Belém, e ali se formam os primeiros brasileiros. No Rio, os Gracie fazem do jiu-jitsu um nome de família, enquanto Luiz França e Oswaldo Fadda ensinam no subúrbio. Vêm os desafios: Hélio contra Kimura, em 1951, no Maracanã. E vem a rivalidade com a luta livre.
+Vale olhar o caminho inteiro. Em 1882, em Tóquio, Jigoro Kano cria o judô e o randori, o treino livre. Em 1904, Mitsuyo Maeda sai do Japão e roda o mundo aceitando desafios. Em 1916, ele se fixa em Belém, e ali se formam os primeiros brasileiros. No Rio, os Gracie fazem do jiu-jitsu um nome de família, enquanto Luiz França e Oswaldo Fadda ensinam no subúrbio. Vêm os desafios: Hélio contra Kimura, em 1951, no Maracanã. E vem a rivalidade com a luta livre.
 
 ### c12-o-que-mudou (linha · 2026 · 48 s)
 
@@ -166,7 +166,7 @@ Carlson Gracie abre a academia a quem não era da família, e Rolls traz outras 
 
 No primeiro capítulo, pedimos que você guardasse uma ideia, a de Kano: lutar de verdade, todos os dias, contra alguém que resiste. Essa ideia saiu de Tóquio na bagagem de Maeda, atravessou o oceano e desembarcou em Belém. Passou pelas academias do Rio, pelo ringue, pela jaula e pelos ginásios de Long Beach e de Abu Dhabi. Hoje, em qualquer academia do mundo, a aula termina do mesmo jeito. Alguém marca o tempo. Duas pessoas se cumprimentam. E lutam de verdade. Tudo o que você viu nesta série começou assim. E continua assim, todos os dias.
 
-Duração aproximada: 25 min 31 s.
+Duração aproximada: 25 min 33 s.
 
 ## Conferir antes de publicar
 
@@ -216,6 +216,7 @@ Duração aproximada: 25 min 31 s.
 - [CONFERIR] Estrangeiros no topo: americanos de 2026 são Cole Abate e Jalen Fonacier; Canadá, Lillian Marchand; Marrocos, Seif-Eddine Houmine (a IBJJF diz só 'nascido na África'; a Wikipedia diz Marrocos). 'Australianos em finais' se apoia em Nicholas Maglicic (final do pesado em 2026; nacionalidade pela Wikipedia) e, sem kimono, em Craig Jones (finais do ADCC em 2019 e 2022) e Levi Jones-Leary (final do CJI em 2024): conferir com o bloco B.
 - [CONFERIR] Equipes de Austin: New Wave (John Danaher) e B-Team, ambas instaladas em 2021; conferir com o bloco B se alguma mudou de cidade ou de formação até 2026. A Atos tem sede em San Diego e a Art of Jiu Jitsu em Costa Mesa.
 - [CONFERIR] Kanji do cartão final: 乱取り (randori). Conferir se a fonte do projeto desenha esses caracteres, como desenhou 柔術 e 寝技 no capítulo 1.
+- [CONFERIR] Cena c11-caminho: 'Em 1916, ele se fixa em Belém' segue José Cairus (volta de Manaus em fevereiro de 1916), como os capítulos 1 e 2. A Wikipedia fala em volta ao Brasil em 1917.
 
 ## Fontes
 
@@ -285,6 +286,7 @@ Duração aproximada: 25 min 31 s.
 - [Adam Wardziński, 1st European male black belt world champion (BJJ Eastern Europe)](https://www.bjjee.com/articles/polands-adam-wardzinski-makes-history-1st-european-male-to-become-black-belt-bjj-world-champion/)
 - [Adam Wardzinski retires after second consecutive Worlds title, 2025 (FloGrappling)](https://www.flograppling.com/articles/14258146-adam-wardzinski-retires-after-winning-second-consecutive-ibjjf-worlds-title)
 - [BJJ statistics: estimativas de praticantes, sem fonte primária (BJJ More)](https://bjjmore.com/bjj-statistics/)
+- [José Cairus, Modernization, nationalism and the elite: the genesis of Brazilian jiu-jitsu, 1905-1920 (Tempo e Argumento, UDESC, 2011)](https://revistas.udesc.br/index.php/tempo/article/download/2315/1910)
 
 ## Créditos das fotos
 

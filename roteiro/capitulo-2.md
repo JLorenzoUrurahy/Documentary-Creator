@@ -106,6 +106,10 @@ De um lado, a família. Carlos sempre disse que aprendeu com o próprio Conde Ko
 
 No alto, Mitsuyo Maeda. Logo abaixo, Jacyntho Ferro, o aluno mais graduado de Belém. Abaixo de Ferro, segundo o jornal de 1921, Donato Pires dos Reis. E Carlos Gracie? A linha dele até Maeda fica tracejada. Pode ter sido direta, como diz a família. Pode ter passado por Ferro, como dizem os historiadores. Mas repare: nos dois desenhos, a origem é a mesma. O que Carlos aprendeu em Belém era o judô de Maeda, com o nome de jiu-jitsu. A dúvida é só quem estava na frente dele no tatame.
 
+### b11b-nome (linha · 1912 · 38 s)
+
+Mas por que jiu-jitsu, se era judô? O historiador José Cairus tem uma explicação. O Kodokan não aceitava que seus alunos lutassem em público por dinheiro. E era disso que Maeda vivia. Em 1912, no México, ele chega ao quinto dan. Depois, a graduação trava. Nos anos de lutador profissional, segundo Cairus, Maeda usa o rótulo genérico: jiu-jitsu. A promoção seguinte demora dezessete anos, e só sai em 1929. Em 1935, ele publica o seu livro em Belém. E ali o nome volta a ser judô.
+
 ### b12-seguro (cartao · 1921 · 39 s)
 
 O que dá para afirmar com segurança? Primeira: Gastão Gracie e Maeda se conheciam, e trabalhavam no mesmo meio. Segunda: Carlos teve contato com o jiu-jitsu em Belém ainda adolescente. Terceira: esse aprendizado foi curto, de poucos anos, e não há registro de diploma nem de graduação. O próprio Maeda, aliás, teria dito anos depois que jamais deu uma faixa preta no Brasil. Quarta: não apareceu até hoje nenhum documento da época que mostre Carlos como aluno direto. Isso não prova que ele não foi. Mas pede cuidado.
@@ -121,6 +125,14 @@ Nos anos vinte, o Rio de Janeiro é a capital da República. Tem mais de um milh
 ### c02-ringues-do-rio (cartao · 1925 · 33 s)
 
 O Rio dessa época gosta de luta. Nos circos e nos teatros, homens da luta romana e do boxe aceitam desafios diante da plateia. Nas ruas e nos clubes, a capoeira tenta deixar de ser caso de polícia e virar ginástica nacional. E o jiu-jitsu não é novidade: Mário Aleixo, um professor carioca, ensina a luta japonesa na cidade desde 1913. Os jornais esportivos cobrem tudo, e vivem de rivalidade. Quem quiser um lugar nesse mundo vai ter que aparecer no jornal.
+
+### c02b-marinha (linha · 1905 · 37 s)
+
+Na verdade, a luta japonesa chega ao Rio bem antes, e pela porta da frente. Em 1905, o Japão vence a Rússia na guerra e vira modelo de país moderno. No mesmo ano, dois oficiais da Marinha, Santos Porto e Radler de Aquino, traduzem um manual americano de jiu-jitsu. Para Santos Porto, a capoeira tinha se perdido, e o método japonês ia fortalecer os jovens brasileiros. A Marinha também contrata um japonês, Sada Miako, para ensinar os seus oficiais. E em 1909, Miako sobe ao palco.
+
+### c02c-cyriaco (comparacao · 1909 · 43 s)
+
+Primeiro de maio de 1909, Concerto Avenida, no centro do Rio. Contra Miako sobe Francisco Cyríaco, capoeirista negro de trinta e oito anos, que carrega sacas de café na cidade. Estudantes de medicina o apoiam. A capoeira é crime desde 1890, e a luta só sai depois de muita insistência. Cyríaco evita o agarrão. Ginga, ameaça, e acerta um rabo de arraia na cabeça do japonês. Miako cai e, segundo o capoeirista, não quis continuar. A plateia carrega o vencedor pelas ruas, e ele vira herói nacional. É nessa cidade, com essa rivalidade, que Carlos Gracie vai tentar a sorte.
 
 ### c03-anos-dificeis (cartao · 1926 · 28 s)
 
@@ -218,7 +230,7 @@ Por que isso importa? Porque o jiu-jitsu brasileiro não tem uma origem só. De 
 
 No começo dos anos trinta, as peças estão no lugar. Uma academia no Rio. Um mentor, Carlos. Dois lutadores jovens, George e Hélio. Uma dieta, uma filosofia e um sobrenome que já é marca. Falta uma coisa: prova. Dizer que o fraco vence o forte é fácil. Mostrar é outra conversa. Então os Gracie fazem o que Maeda fazia. Desafiam. Boxeadores, capoeiristas, lutadores de luta livre, judocas japoneses. Em público, contra qualquer um. É a era dos desafios. E ela começa no próximo capítulo.
 
-Duração aproximada: 30 min 33 s.
+Duração aproximada: 32 min 32 s.
 
 ## Conferir antes de publicar
 
@@ -281,6 +293,10 @@ Duração aproximada: 30 min 33 s.
 - [CONFERIR] Na árvore de d12, Luiz França aparece ligado a Maeda com linha tracejada; a tradição também o liga a Satake e a Geo Omori (o formato da árvore só aceita um 'pai' por nó). George e Hélio aparecem como alunos de Carlos.
 - [CONFERIR] Frase atribuída a Hélio Gracie sobre Fadda ('É preciso existir um Fadda...') não foi usada: a seção da Wikipédia que a traz está marcada como sem fontes.
 - [CONFERIR] Capítulo montado a partir de quatro blocos; os livros de Roberto Pedreira ('Choque') e de Robert Drysdale não foram lidos diretamente, só por fontes que os citam (Wikipedia, Simon BJJ, entrevistas).
+- [CONFERIR] Cenas c02b e c02c (o jiu-jitsu no Rio antes de Maeda): tudo vem de José Cairus (2011); Ben Penglase (2025) confirma só o essencial (luta de 1909, Cyríaco vence com um chute giratório e é saudado como herói nacional) e cita Cairus. Cairus não diz em que ano a Marinha contratou Sada Miako; a narração não dá data.
+- [CONFERIR] Grafias: Cairus escreve 'Sada Miako' e Penglase 'Sada Miyako'; a narração usa Miako. O tenente aparece em Cairus como 'Radler de Aquino' (duas vezes e na nota 24) e uma vez como 'Adler de Aquino'; usei Radler. O manual traduzido em 1905 é 'Japanese Physical Training', do americano H. Irving Hancock ('Educação Physica Japoneza').
+- [CONFERIR] Fim da luta de 1909: no relato do próprio Cyríaco, citado por Cairus, o japonês 'se recusou a continuar'; Penglase fala em nocaute. A narração diz 'cai e, segundo o capoeirista, não quis continuar'. A idade (38 anos) vem de 'nascido 38 anos antes' em Cairus. Cairus conta também que Cyríaco teve de lutar de kimono e que a plateia gritava 'A Ásia se curvou ao Brasil': não entrou por ser tradução de tradução.
+- [CONFERIR] Cena b11b (jiu-jitsu ou judô): a explicação é de Cairus, fonte única. A regra do Kodokan contra lutar por ganho pessoal aparece em Cairus numa resposta de 1916 sobre outro lutador (Tokugoro Ito) e numa fala de Jigoro Kano, não num texto sobre Maeda. Quinto dan em 1912 no México e 'última promoção por dezessete anos': Cairus; sexto dan em junho de 1929. Livro de 1935: 'Jiudo: Uma Arte de Cultura Physica Japoneza' (Belém, Livraria Escolar). O ano '1915' no item da tela marca a chegada da trupe a Belém; Cairus diz só que 1912 foi a última vez nos anos 1910 em que Maeda usou o nome 'judô'.
 
 ## Fontes
 
@@ -323,6 +339,7 @@ Duração aproximada: 30 min 33 s.
 - [José Cairus: Nationalism, Immigration and Identity: The Gracies and the Making of Brazilian Jiu-Jitsu, 1934-1943 (Kung Fu Tea)](https://chinesemartialstudies.com/2020/04/05/nationalism-immigration-and-identity-the-gracies-and-the-making-of-brazilian-jiu-jitsu-1934-1943/)
 - [A verdade sobre os Gracie: a narrativa da introdução do jiu-jitsu no Brasil (João Júlio Gomes dos Santos Júnior, revista Anos 90, UFRGS)](https://www.redalyc.org/journal/5740/574081716026/574081716026.pdf)
 - [Primórdios do jiu-jitsu e dos confrontos intermodalidades no Brasil: contestando uma memória consolidada (RBCE, SciELO)](https://www.scielo.br/j/rbce/a/hsWF8YZRffJBdgPhf8DtQ8B/)
+- [Ben Penglase, The Invisibility of Race in Brazilian Jiu-Jitsu: The Gracies versus Capoeira and Judo (Martial Arts Studies 17, 2025)](https://doi.org/10.18573/mas.281)
 
 ## Créditos das fotos
 

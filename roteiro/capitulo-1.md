@@ -42,15 +42,15 @@ Em 1904, Maeda embarca para os Estados Unidos com o professor Tsunejiro Tomita, 
 
 Essas lutas ensinam uma coisa a Maeda. Contra um homem maior, que soca e que não veste kimono, o caminho mais seguro é encurtar a distância, derrubar e resolver no chão. É judô, mas adaptado para a luta real. Décadas antes de a palavra existir, aquilo já tinha cara de vale-tudo.
 
-### c10-brasil (mapa · 1914 · 35 s)
+### c10-brasil (mapa · 1914 · 33 s)
 
-Em 1914, depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em outubro de 1915, eles se apresentam em Belém do Pará. Em dezembro, sobem o rio Amazonas até Manaus. Satake fica por lá. Maeda ainda viaja, e volta para Belém por volta de 1917. Dessa vez, para ficar.
+Em 1914, depois de descer pela América do Sul, Maeda chega ao Brasil com o colega Soshihiro Satake. As fontes dão datas diferentes, mas o caminho é conhecido: primeiro o sul do país, depois o norte. Em outubro de 1915, eles se apresentam em Belém do Pará. Em dezembro, sobem o rio Amazonas até Manaus. Satake fica por lá. Maeda volta para Belém em fevereiro de 1916. Dessa vez, para ficar.
 
-### c11-belem (linhagem · 1917 · 35 s)
+### c11-belem (linhagem · 1916 · 35 s)
 
 Belém vivia o fim do ciclo da borracha. Ainda era uma cidade rica, cheia de estrangeiros, circos e teatros. Maeda ensina, luta e, mais tarde, ajuda imigrantes japoneses a se instalarem na Amazônia. Entre as pessoas do seu círculo está um empresário chamado Gastão Gracie. E Gastão tem um filho adolescente, inquieto e brigão, chamado Carlos. A história oficial diz que Carlos foi aluno direto de Maeda. Historiadores mais recentes discordam. Quem tem razão? É o que a gente vai ver no próximo capítulo.
 
-Duração aproximada: 4 min 36 s.
+Duração aproximada: 4 min 34 s.
 
 ## Conferir antes de publicar
 
@@ -58,7 +58,7 @@ Duração aproximada: 4 min 36 s.
 - [CONFERIR] Episódio da Fusen-ryu contra o Kodokan: as fontes dão datas diferentes (entre 1891 e 1905) e parte dos historiadores trata o relato como tradição oral.
 - [CONFERIR] Chegada de Maeda ao Brasil: as fontes variam entre setembro e novembro de 1914, por São Paulo ou por Porto Alegre. A narração só afirma o ano.
 - [CONFERIR] Roteiro desenhado no mapa pela América do Sul (Peru, Chile, Argentina, Porto Alegre): segue a Wikipedia; a ordem exata das paradas não está confirmada.
-- [CONFERIR] Volta definitiva de Maeda a Belém: 'por volta de 1917'; a academia própria aparece nas fontes só em 1921.
+- [CONFERIR] Volta de Maeda a Belém: a narração diz fevereiro de 1916, seguindo José Cairus (volta de Manaus em fevereiro de 1916; escola anunciada na Folha do Norte em 18/1/1916), como o capítulo 2. A Wikipedia diz que ele embarcou para Liverpool em janeiro de 1916 e só voltou ao Brasil em 1917; a academia própria aparece em outras fontes só em 1921. Mesmo depois de 1916 ele ainda viajou (Nova York e Cuba em 1921-1922).
 - [CONFERIR] Gastão Gracie como 'empresário': as fontes o descrevem como homem de negócios ligado a circo e comércio em Belém.
 
 ## Fontes
@@ -73,6 +73,7 @@ Duração aproximada: 4 min 36 s.
 - [The Seeds of Mitsuyo Maeda (BJJ Heroes)](https://bjjheroes.com/?p=4290)
 - [As origens do judô brasileiro (Revista Brasileira de Educação Física e Esporte, SciELO)](https://www.scielo.br/j/rbefe/a/rsrMqNqf8TRqKZdHtRsbB4f/)
 - [Sobre a pesquisa de Robert Drysdale: Carlos Gracie e Maeda (BJJ Doc)](https://bjjdoc.com/?p=18025)
+- [José Cairus, Modernization, nationalism and the elite: the genesis of Brazilian jiu-jitsu, 1905-1920 (Tempo e Argumento, UDESC, 2011)](https://revistas.udesc.br/index.php/tempo/article/download/2315/1910)
 
 ## Créditos das fotos
 
