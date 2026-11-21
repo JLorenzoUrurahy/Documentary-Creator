@@ -106,6 +106,18 @@ Agosto de 2024, Las Vegas, dois torneios. O CJI ocupa o Thomas & Mack, com uma �
 
 O que veio depois? Em Singapura, o ONE Championship já tinha cinturões de luta agarrada desde 2022. Em junho de 2025, é o UFC que estreia um evento só de jiu-jitsu sem kimono, com uma área de luta em forma de tigela. Em agosto, o segundo CJI troca as chaves individuais por um torneio de equipes: a B-Team vence e leva um milhão de dólares. E para 2026, em Cracóvia, na Polônia, o ADCC dobra o prêmio das categorias masculinas, para vinte mil dólares. O das mulheres segue em dez mil.
 
+### b14-cracovia (cartao · 2026 · 45 s)
+
+E Cracóvia? O torneio acontece em setembro de 2026, na Tauron Arena. Gordon Ryan, aposentado, não defende a superluta. O posto vago fica com Yuri Simões, que vence Kaynan Duarte na prorrogação. No absoluto, Felipe Pena finaliza Roosevelt Sousa e se torna o primeiro a vencer a categoria duas vezes. Até sessenta e seis quilos, ganha Kennedy Maciel, filho de Rubens Charles, o Cobrinha: segundo a imprensa, é o primeiro caso de pai e filho campeões. O polonês Paweł Jaworski vence em casa. E a americana Helena Crevar, de dezenove anos, finaliza todas as adversárias.
+
+### b15-musumeci (perfil · 2026 · 52 s)
+
+E os cinturões novos, o do ONE e o do UFC? Os dois passam pelo mesmo homem: Mikey Musumeci. Nascido em 1996 em Nova Jersey, como Gordon Ryan, ele recebe a faixa-preta aos dezoito anos. De kimono, vence quatro Mundiais nas categorias mais leves; segundo a Wikipedia, é o primeiro americano com mais de um título na faixa-preta. Em 2022, ganha o primeiro cinturão de luta agarrada do ONE. Em 2025, na estreia da liga do UFC, finaliza Rerisson Gabriel com uma chave de calcanhar e fica com o título. Defende três vezes. Em outubro de 2026, aos trinta anos, abre mão do cinturão: quer lutar MMA.
+
+### b16-liga-ufc (linha · 2026 · 32 s)
+
+A liga do UFC tem formato próprio: três rounds de cinco minutos e, se ninguém finaliza, decisão dos juízes. Entre junho de 2025 e outubro de 2026, são treze eventos, todos em Las Vegas. O americano Andrew Tackett é campeão dos meio-médios desde a primeira noite. A carioca Cassia Moura tem dois cinturões. E o título que Musumeci deixou vai, em outubro, para Jalen Fonacier, que meses antes tinha vencido o Mundial de kimono pela segunda vez.
+
 ### b12-doping (comparacao · 2022 · 46 s)
 
 Falta um assunto: o doping. A federação de kimono, a IBJJF, testa campeões desde 2013, por meio da agência antidoping dos Estados Unidos. Começou pelo Pan e chegou ao Mundial. Houve títulos mundiais cassados em casos oficiais, como os de Braulio Estima em 2014, Kaynan Duarte em 2019 e Micael Galvão em 2022. Já o ADCC, segundo o organizador da época, nunca tinha testado. E os atletas falam disso abertamente. Em 2024, num vídeo, Gordon Ryan contou quando começou a usar esteroides, e disse que eles não eram proibidos nos torneios em que lutava.
@@ -138,9 +150,9 @@ O Mundial feminino também mudou de tamanho. Você viu que as mulheres entraram 
 
 E a geração de agora? No absoluto masculino, vencem Nicholas Meregali, em 2022, Victor Hugo, em 2023, e Erich Munis, em 2024. Em 2026, no trigésimo Mundial da história, Munis vence de novo e, segundo a federação, chega a sete títulos. No mesmo torneio, Tainan Dalpra ganha o peso médio pela quarta vez, com quatro finalizações. Diego Oliveira, o Pato, leva o quinto título no peso pluma e se despede do kimono. Mayssa Bastos soma o sétimo, no peso galo.
 
-### c07-equipes (mapa · 2026 · 43 s)
+### c07-equipes (mapa · 2026 · 48 s)
 
-Por trás dos campeões continuam as equipes. A Alliance, de São Paulo, é a maior vencedora do Mundial. Pela tabela da Wikipedia, desde 2008 ela só perdeu o título três vezes: em 2017, para a Atos, de André Galvão; em 2021, para a Checkmat; e em 2023, para a Dream Art. Em 2025, a vice é a Art of Jiu Jitsu, dos irmãos Mendes, na Califórnia. A Gracie Barra, nascida no Rio, foi campeã em 2007. E em Austin, no Texas, duas equipes se dedicam ao sem kimono: a New Wave e o B-Team.
+Por trás dos campeões continuam as equipes. A Alliance, de São Paulo, é a maior vencedora do Mundial. Pela tabela da Wikipedia, desde 2008 ela só perdeu o título três vezes: em 2017, para a Atos, de André Galvão; em 2021, para a Checkmat; e em 2023, para a Dream Art. Em 2025, a vice é a Art of Jiu Jitsu, dos irmãos Mendes, na Califórnia. A Gracie Barra, nascida no Rio, foi campeã em 2007. E em Austin, no Texas, seguem as duas academias do sem kimono, desde 2025 com outros nomes: Kingsway e Simple Man.
 
 ### c08-premios (cartao · 2019 · 34 s)
 
@@ -166,7 +178,7 @@ Carlson Gracie abre a academia a quem não era da família, e Rolls traz outras 
 
 No primeiro capítulo, pedimos que você guardasse uma ideia, a de Kano: lutar de verdade, todos os dias, contra alguém que resiste. Essa ideia saiu de Tóquio na bagagem de Maeda, atravessou o oceano e desembarcou em Belém. Passou pelas academias do Rio, pelo ringue, pela jaula e pelos ginásios de Long Beach e de Abu Dhabi. Hoje, em qualquer academia do mundo, a aula termina do mesmo jeito. Alguém marca o tempo. Duas pessoas se cumprimentam. E lutam de verdade. Tudo o que você viu nesta série começou assim. E continua assim, todos os dias.
 
-Duração aproximada: 25 min 33 s.
+Duração aproximada: 27 min 47 s.
 
 ## Conferir antes de publicar
 
@@ -217,6 +229,14 @@ Duração aproximada: 25 min 33 s.
 - [CONFERIR] Equipes de Austin: New Wave (John Danaher) e B-Team, ambas instaladas em 2021; conferir com o bloco B se alguma mudou de cidade ou de formação até 2026. A Atos tem sede em San Diego e a Art of Jiu Jitsu em Costa Mesa.
 - [CONFERIR] Kanji do cartão final: 乱取り (randori). Conferir se a fonte do projeto desenha esses caracteres, como desenhou 柔術 e 寝技 no capítulo 1.
 - [CONFERIR] Cena c11-caminho: 'Em 1916, ele se fixa em Belém' segue José Cairus (volta de Manaus em fevereiro de 1916), como os capítulos 1 e 2. A Wikipedia fala em volta ao Brasil em 1917.
+- [CONFERIR] ATUALIZAÇÃO de 21/11/2026 (cenas novas b14, b15, b16 e ajuste em c07). O que foi reconferido e continua valendo sem mudança: aposentadoria de Gordon Ryan em fevereiro de 2026 (BJJDoc: ele diz que não treina forte desde janeiro de 2024 por problemas de estômago e escreveu 'por ora, acabou', deixando a porta aberta; não achei notícia de volta até novembro de 2026); CJI 3 cancelado (BJJDoc, 26/05/2026: 'cancelled. Decided to keep the money'; não houve terceira edição em 2026 nas buscas); Mundial de 2026 (resumo oficial da IBJJF confere com a cena c06: Munis 7º título, Dalpra 4º com quatro finalizações, Pato 5º e despedida, Mayssa 7º).
+- [CONFERIR] b14 (ADCC 2026): 12 e 13 de setembro de 2026, Tauron Arena, Cracóvia. Campeões conferidos em quatro fontes (FloSports/Yahoo, Combat Press, Elite Sports, Wikipedia): 66 kg Kennedy Maciel; 77 kg Magomed Dzharbaev (uma chamada da FloGrappling o chama de Ruslan); 88 kg Pawel Jaworski; 99 kg Luke Griffith; +99 kg Victor Hugo; absoluto Felipe Pena (mata-leão em Roosevelt Sousa, 10:03); feminino Jasmine Rocha (a categoria aparece como 55 kg em três fontes e 60 kg na Combat Press), Ana Carolina Vieira (65 kg) e Helena Crevar (+65 kg). Superluta: Yuri Simões vence Kaynan Duarte aos 22:26, na prorrogação; a FloSports registra finalização e diz que Duarte pareceu machucar o ombro (ficou fora da narração). 'Primeiro pai e filho campeões' (Cobrinha e Kennedy) é da Combat Press; 'primeiro polonês campeão' é da MMA Sucka e a narração só diz 'vence em casa'. Não achei número de público. Não conferi no site oficial do ADCC (adcombat.com).
+- [CONFERIR] b14/b06: Helena Crevar. A MMA Sucka diz 'mais jovem campeã/campeão da história do ADCC'; a Combat Press diz 'mais jovem campeã' (entre as mulheres). A cena b06 já afirma, 'segundo as fontes', que o recorde de idade passou de Kade Ruotolo para ela: os dois venceram com 19 anos, conferir as idades em dias. 'Finaliza todas as adversárias': três lutas, três finalizações (MMA Sucka; Combat Press diz que foi a primeira campeã a vencer todas por finalização).
+- [CONFERIR] b11: a frase 'para 2026, em Cracóvia, o ADCC dobra o prêmio' ficou como estava (o prêmio dobrado é fato anunciado em fevereiro de 2026 e a cena seguinte, b14, conta o torneio). Não achei fonte posterior ao evento confirmando os valores pagos.
+- [CONFERIR] b15 (Mikey Musumeci, pessoa viva): nascido em 7/7/1996 em Marlboro, Nova Jersey; faixa-preta em 2015, aos 18, por Gilbert Burns; Mundiais de kimono em 2017, 2018, 2019 e 2021 mais um Mundial sem kimono em 2016; 'primeiro americano com mais de um título mundial na faixa-preta' é frase da Wikipedia. ONE: cinturão peso-mosca de luta agarrada em 1º/10/2022 (decisão sobre Cleber Sousa), o primeiro da organização segundo o site do ONE; saiu do ONE em novembro de 2024. UFC BJJ 1 (25/06/2025): chave de calcanhar em Rerisson Gabriel no terceiro round, título peso-galo; defesas contra Keven Carrasco (out. 2025), Shay Montague (fev. 2026) e Kevin Dantzler (maio 2026); em 24/09/2026 venceu por decisão o lutador de MMA Bryce Mitchell, sem título em jogo (fora da narração). Anunciou em 8/10/2026 que deixava o cinturão para treinar MMA (título declarado vago em 29/10). Em setembro falava em estrear em novembro ou dezembro, no peso-mosca, sem organização definida; até 21/11/2026 não achei estreia marcada. A página dele na Wikipedia ainda o chama de 'campeão atual': está desatualizada em relação à página do UFC BJJ. 'Os dois cinturões passam pelo mesmo homem': no UFC BJJ 1, Andrew Tackett também ganhou cinturão na mesma noite.
+- [CONFERIR] b16 (UFC BJJ): tudo vem da Wikipedia em inglês (página 'UFC BJJ', editada em 19/11/2026, e 'UFC BJJ 13'), não do site do UFC. Treze eventos de 25/06/2025 a 29/10/2026 (UFC Apex/Meta Apex, Las Vegas) e o 14º marcado para 3/12/2026: se o vídeo sair depois dessa data, trocar 'há mais um marcado para dezembro'. Campeões na data: Mason Fowler (meio-pesado), William Tackett (médio), Andrew Tackett (meio-médio, desde 25/06/2025, 4 defesas), Renato Canuto (leve), Jalen Fonacier (galo, desde 29/10/2026, decisão sobre Kleber Barbosa/Barboza), Brianna Ste-Marie (pena feminino), Cassia Moura (galo e mosca femininos). Cassia Moura 'carioca': UFC.com a chama de natural do Rio de Janeiro. Fonacier 'bicampeão mundial da IBJJF' (Wikipedia) bate com o resumo oficial do Mundial de 2026 (galo, segundo título seguido). Ficaram fora: a polêmica sobre números de audiência e comentários de robôs (acusação de Craig Jones, fonte única BJJDoc) e a decisão dividida contestada de Moura sobre Adele Fornarino.
+- [CONFERIR] c07 (alterada): em abril de 2025 a New Wave passou a se chamar Kingsway Jiu-Jitsu (Wikipedia, citando a Jits Magazine de 27/04/2025). Depois do CJI 2 (30 e 31/08/2025), segundo a Wikipedia, Craig Jones fechou a academia B-Team, que mudou de dono e passou a se chamar Simple Man Martial Arts, com Nicky Ryan como treinador (a BJJEE noticiou a troca de nome; não abri a matéria). As cenas b04 e b11 continuam usando New Wave e B-Team porque contam fatos de 2021 e de agosto de 2025, quando os nomes eram esses. Se preferir não regravar c07, basta desfazer a troca: a frase antiga era 'duas equipes se dedicam ao sem kimono: a New Wave e o B-Team'.
+- [CONFERIR] Pronúncias a ouvir (cenas novas): Mikey Musumeci (escrevi 'Máiqui Mussuméssi', como falam os locutores americanos; a origem italiana daria 'Mussumétchi'), Paweł Jaworski ('Pável Iavórski'), Tackett ('Táquet'), Fonacier ('Fonassír', incerto), Kingsway, Simple Man, Tauron, Rerisson Gabriel, Roosevelt Sousa.
 
 ## Fontes
 
@@ -287,10 +307,23 @@ Duração aproximada: 25 min 33 s.
 - [Adam Wardzinski retires after second consecutive Worlds title, 2025 (FloGrappling)](https://www.flograppling.com/articles/14258146-adam-wardzinski-retires-after-winning-second-consecutive-ibjjf-worlds-title)
 - [BJJ statistics: estimativas de praticantes, sem fonte primária (BJJ More)](https://bjjmore.com/bjj-statistics/)
 - [José Cairus, Modernization, nationalism and the elite: the genesis of Brazilian jiu-jitsu, 1905-1920 (Tempo e Argumento, UDESC, 2011)](https://revistas.udesc.br/index.php/tempo/article/download/2315/1910)
+- [FloSports / Yahoo Sports (23/09/2026): ADCC 2026 Results, Full Brackets, Champions And Medal Winners](https://sports.yahoo.com/articles/adcc-2026-results-full-brackets-120154902.html)
+- [Combat Press (set. 2026): 2026 ADCC World Championships Results](https://combatpress.com/2026/09/2026-adcc-world-championships-how-to-watch-superfight-top-grapplers/)
+- [MMA Sucka (15/09/2026): Helena Crevar e Pawel Jaworski campeões do ADCC 2026](https://mmasucka.com/news/one-championship-stars-helena-crevar-and-pawel-jaworski-win-gold-at-2026-adcc-worlds/)
+- [Elite Sports (22/09/2026): BJJ Competition in 2026, ADCC Results](https://www.elitesports.com/blogs/news/bjj-competition-2026)
+- [Wikipedia (en): Mikey Musumeci](https://en.wikipedia.org/wiki/Mikey_Musumeci)
+- [MMA Sucka (09/10/2026): Mikey Musumeci abre mão do cinturão do UFC BJJ para treinar MMA](https://mmasucka.com/news/mikey-musumeci-relinquishes-his-ufc-bjj-belt-to-prioritise-his-training-for-mma/)
+- [MMA Sucka (26/09/2026): Musumeci fala em estrear no MMA em novembro ou dezembro](https://mmasucka.com/news/mikey-musumeci-reveals-expected-date-and-weight-class-for-mma-debut/)
+- [Wikipedia (en): UFC BJJ 13](https://en.wikipedia.org/wiki/UFC_BJJ_13)
+- [UFC.com (11/03/2026): perfil de Cassia Moura antes do UFC BJJ 6](https://www.ufc.com/news/cassia-moura-aiming-make-most-championship-opportunity-ufc-bjj)
+- [Wikipedia (en): Kingsway Jiu-Jitsu](https://en.wikipedia.org/wiki/Kingsway_Jiu-Jitsu)
+- [BJJDoc (18/02/2026): Gordon Ryan anuncia a aposentadoria](https://bjjdoc.com/?p=25694)
+- [BJJDoc (26/05/2026): Craig Jones confirma que o CJI 3 foi cancelado](https://bjjdoc.com/?p=27937)
 
 ## Créditos das fotos
 
 - Ralek Gracie: Oregon Martial Arts from Tigard, OR, USA, CC BY 2.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anibal_Lobo_%26_Relson_Gracie_1_(4936501126).jpg)
 - Gordon Ryan: Derek Moneyberg, CC BY 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ADCC_King_Gordon_Ryan_Gritty_Path_To_Glory_-_YouTube_-_10_12_(cropped).jpg)
+- Mikey Musumeci: Mass Communication Specialist 1st Class Brandon Parker, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mikey_Musumeci_2022.jpg)
 - Roger Gracie: Iwtbf42, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RogerGracie.JPG)
 - Leandro Lo: Lu'nivers Athletics, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leandro_Lo_Worlds_IBJJF_2022.jpg)

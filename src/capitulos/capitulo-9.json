@@ -238,6 +238,22 @@
     {
       "titulo": "Orthopaedic Journal of Sports Medicine (2021): lesões no jiu-jitsu brasileiro, pesquisa com 1.140 praticantes",
       "url": "https://journals.sagepub.com/doi/full/10.1177/23259671211062568"
+    },
+    {
+      "titulo": "Graciemag: ADCC Classics, a campanha de André Galvão em 2011 e a final com Toquinho",
+      "url": "https://www.graciemag.com/?p=141584"
+    },
+    {
+      "titulo": "Graciemag (25/09/2011): ADCC 2011, resultados das finais por peso",
+      "url": "https://www.graciemag.com/?p=37237"
+    },
+    {
+      "titulo": "Wikipedia (en): Rousimar Palhares",
+      "url": "https://en.wikipedia.org/wiki/Rousimar_Palhares"
+    },
+    {
+      "titulo": "FloGrappling (26/08/2026): ADCC World Championships 2011, what happened",
+      "url": "https://www.flograppling.com/articles/16142148-adcc-world-championships-2011-what-happened"
     }
   ],
   "conferir": [
@@ -285,7 +301,11 @@
     "d09: Gracie University Online: 2009 segundo a Wikipedia (outra fonte diz 'depois da morte de Hélio', também 2009). A faixa-azul por vídeo e o recuo: Rickson afirma ter convencido Rener a parar (BJJ Eastern Europe; não consegui abrir o artigo, só o resumo da busca); a versão da academia é que criou uma 'faixa Combatives' separada e a faixa-azul passou a exigir avaliação presencial. Não achei a data dessa mudança. MGinAction: a Graciemag de 23/03/2010 diz que o site tinha sido lançado 'recentemente'. BJJ Fanatics: fundada por Bernardo Faria e Michael Zenga; NÃO achei o ano de fundação (a narração diz 'segunda metade da década'; o rótulo '2015+' na tela é aproximação). O curso de chaves de perna de Danaher saiu em 2018 segundo resenhas e sites de notícias.",
     "d10: pesquisa de 2021 (Orthopaedic Journal of Sports Medicine, 1.140 praticantes): joelho 27,1% das lesões, 77,6% em treino (sparring); lida pelo resumo do PubMed. O estudo NÃO liga as lesões a chaves de calcanhar nem às aulas gravadas: a narração só põe os dois fatos lado a lado. A comparação faixa-azul de hoje x faixa-preta de 1995 é generalização pedida no roteiro, sem fonte.",
     "d11: a linha de resumo usa números de ordem (1 a 8) em vez de anos, para não contradizer as datas dos blocos A, B e C; na montagem, vale trocar por décadas coerentes com eles e conferir se as descrições de meia frase batem com o que os outros blocos disseram.",
-    "d12: 'a partir de 2012' e 'eventos feitos para o público assistir' antecipam o capítulo 10 (Metamoris, 2012, lutas só por finalização): conferir com o texto final do capítulo 10."
+    "d12: 'a partir de 2012' e 'eventos feitos para o público assistir' antecipam o capítulo 10 (Metamoris, 2012, lutas só por finalização): conferir com o texto final do capítulo 10.",
+    "c13/c14 (cenas novas, nov. 2026): Toquinho no ADCC 2011. As três finalizações por chave de calcanhar (Dan Schon, David Avellan, Rafael Lovato Jr.) vêm da Graciemag e da Wikipedia; os nomes ficaram fora da narração. O relato da final é o do próprio Galvão à Graciemag (girou para o lado errado, ficou parado, Toquinho tentou mais duas vezes e cansou); a Graciemag de 25/09/2011 fala em 'costas para Galvão e queda para Toquinho' e reclamações dos dois lados. PLACAR: Graciemag diz 8 a 3; Wikipedia (e o resumo do BJJ Heroes, página que não abriu) diz 9 a 4. A narração cita os dois. 'Eleita a melhor luta do torneio' é da Graciemag.",
+    "c13 (pessoa viva): a saída de Palhares do UFC em outubro de 2013 (depois da luta com Mike Pierce; o UFC falou em conduta antidesportiva por manter a chave depois da intervenção do árbitro) vem da Wikipedia. Houve também suspensão de 90 dias em 2010 (Tomasz Drwal) e perda do cinturão do WSOF em 2015 (Jake Shields): ficaram fora da narração. 'Quatro vitórias por chave de calcanhar no UFC' é contagem da tabela da Wikipedia (Linhares 2009, Drwal 2010, Massenzio 2012, Pierce 2013). 'O homem que mais assusta com esse golpe' é frase do roteiro, não de fonte: suavizar se preferir.",
+    "c14: a frase final ('tinha parado num defensor paciente. Faltava alguma coisa.') é leitura do roteiro para ligar com Danaher (c08, controlar antes de finalizar), não afirmação de fonte. A cena conta 2011 antes da visita de Lister (anos 2000), que vem logo depois: a ordem é temática, não cronológica.",
+    "Pronúncias a ouvir (cenas novas): Dores do Indaiá, Nottingham, Graciemag."
   ],
   "cenas": [
     {
@@ -1424,6 +1444,77 @@
         {
           "texto": "Data de criação: fontes divergem",
           "quando": "não combinam"
+        }
+      ]
+    },
+    {
+      "id": "c13-toquinho",
+      "tipo": "perfil",
+      "ano": 2011,
+      "nome": "Rousimar Palhares, o Toquinho",
+      "anos": "n. 1980",
+      "papel": "A chave de calcanhar que vinha do Brasil",
+      "wiki": "Rousimar_Palhares",
+      "narracao": "E no Brasil? Um dos nomes mais temidos nesse golpe vem das lutas de [MMA|eme eme á]. Rousimar Palhares, o Toquinho, mineiro de Dores do Indaiá, é faixa-preta de jiu-jitsu de Murilo Bustamante e também de luta livre. No [UFC|U F C], vence quatro lutas com a chave de calcanhar. Em [2013|dois mil e treze], é dispensado: a organização diz que ele segurou o golpe depois de o árbitro interromper a luta. Antes disso, em [2011|dois mil e onze], Toquinho vai ao [ADCC|A D C C] de [Nottingham|Nótingam]. Até oitenta e oito quilos, finaliza três adversários seguidos, todos pelo calcanhar. Na final, espera por ele André Galvão.",
+      "fatos": [
+        {
+          "texto": "Mineiro de Dores do Indaiá",
+          "quando": "Dores do Indaiá"
+        },
+        {
+          "texto": "Faixa-preta de jiu-jitsu e de luta livre",
+          "quando": "de luta livre"
+        },
+        {
+          "texto": "UFC: quatro vitórias pelo calcanhar",
+          "quando": "vence quatro lutas"
+        },
+        {
+          "texto": "2013: dispensado por segurar o golpe",
+          "quando": "é dispensado"
+        },
+        {
+          "texto": "ADCC 2011, Nottingham, até 88 quilos",
+          "quando": "de Nottingham"
+        },
+        {
+          "texto": "Três finalizações seguidas pelo calcanhar",
+          "quando": "finaliza três adversários"
+        }
+      ]
+    },
+    {
+      "id": "c14-final-nottingham",
+      "tipo": "cartao",
+      "ano": 2011,
+      "rotulo": "ADCC 2011, final até 88 quilos",
+      "titulo": "Toquinho contra Galvão",
+      "destaque": "Por pontos",
+      "narracao": "Na final, Toquinho faz o que fez o torneio inteiro: vai na perna. Galvão contou depois à revista Graciemag que começou a girar para o lado errado, percebeu e decidiu ficar parado, até anular a chave. Toquinho tenta mais duas vezes e, no relato do adversário, vai cansando. Galvão chega às costas e vence por pontos: oito a três, na conta da Graciemag; nove a quatro, na tabela da Wikipedia. Segundo a revista, foi eleita a melhor luta do torneio. O golpe mais temido de Nottingham tinha parado num defensor paciente. Faltava alguma coisa.",
+      "itens": [
+        {
+          "texto": "Toquinho ataca a perna",
+          "quando": "vai na perna"
+        },
+        {
+          "texto": "Galvão para de girar e anula a chave",
+          "quando": "decidiu ficar parado"
+        },
+        {
+          "texto": "Mais duas tentativas",
+          "quando": "mais duas vezes"
+        },
+        {
+          "texto": "Galvão chega às costas",
+          "quando": "chega às costas"
+        },
+        {
+          "texto": "Placar: 8 a 3 ou 9 a 4, conforme a fonte",
+          "quando": "oito a três"
+        },
+        {
+          "texto": "Eleita a melhor luta do torneio",
+          "quando": "a melhor luta"
         }
       ]
     },

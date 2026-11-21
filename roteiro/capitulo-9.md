@@ -122,6 +122,14 @@ Mas a perna nunca foi esquecida por todos. A luta livre brasileira, sem kimono, 
 
 No Japão, a história era outra. Lá, as lutas profissionais dos anos noventa já aceitavam a chave de calcanhar. Desse ambiente sai Masakazu Imanari, lutador de MMA que ganhou o apelido de Ashikan Judan, algo como grande mestre das chaves de perna. O golpe que leva o nome dele é uma entrada. Em pé, de frente para o adversário, ele mergulha, rola por baixo e já chega enroscado numa perna. As fontes não combinam sobre quando ele criou o movimento. O nome, esse ficou: rolamento Imanari.
 
+### c13-toquinho (perfil · 2011 · 43 s)
+
+E no Brasil? Um dos nomes mais temidos nesse golpe vem das lutas de MMA. Rousimar Palhares, o Toquinho, mineiro de Dores do Indaiá, é faixa-preta de jiu-jitsu de Murilo Bustamante e também de luta livre. No UFC, vence quatro lutas com a chave de calcanhar. Em 2013, é dispensado: a organização diz que ele segurou o golpe depois de o árbitro interromper a luta. Antes disso, em 2011, Toquinho vai ao ADCC de Nottingham. Até oitenta e oito quilos, finaliza três adversários seguidos, todos pelo calcanhar. Na final, espera por ele André Galvão.
+
+### c14-final-nottingham (cartao · 2011 · 41 s)
+
+Na final, Toquinho faz o que fez o torneio inteiro: vai na perna. Galvão contou depois à revista Graciemag que começou a girar para o lado errado, percebeu e decidiu ficar parado, até anular a chave. Toquinho tenta mais duas vezes e, no relato do adversário, vai cansando. Galvão chega às costas e vence por pontos: oito a três, na conta da Graciemag; nove a quatro, na tabela da Wikipedia. Segundo a revista, foi eleita a melhor luta do torneio. O golpe mais temido de Nottingham tinha parado num defensor paciente. Faltava alguma coisa.
+
 ### c05-lister-visita (mapa · 2000 · 32 s)
 
 Nos Estados Unidos, a mudança começa com uma visita. Dean Lister, de San Diego, você já viu: o campeão do absoluto de Abu Dhabi que finalizava pelas pernas. No começo dos anos dois mil, antes desse título, ele passa uns dias treinando em Nova York, na academia de Renzo Gracie, em Manhattan. Lister tinha vindo do sambo e gostava de atacar o pé e o calcanhar. Ali ele conhece um instrutor da casa que, pelo relato dos dois, não treinava chave de perna: John Danaher.
@@ -202,7 +210,7 @@ Vale olhar o caminho inteiro. Primeiro, a guarda fechada, com as pernas trancada
 
 Repare no que mudou em trinta anos. A técnica deixou de ser herança de família e virou conhecimento público: estudado, filmado e vendido. Quem cria uma posição pode ensiná-la ao mundo inteiro, e cobrar por isso. Os campeões viraram professores à distância. Faltava uma coisa: que a própria luta pagasse as contas. A partir de 2012, surgem eventos feitos para o público assistir. Toda essa técnica passou a valer dinheiro. É a era profissional, e é o nosso último capítulo.
 
-Duração aproximada: 27 min 27 s.
+Duração aproximada: 28 min 51 s.
 
 ## Conferir antes de publicar
 
@@ -251,6 +259,10 @@ Duração aproximada: 27 min 27 s.
 - [CONFERIR] d10: pesquisa de 2021 (Orthopaedic Journal of Sports Medicine, 1.140 praticantes): joelho 27,1% das lesões, 77,6% em treino (sparring); lida pelo resumo do PubMed. O estudo NÃO liga as lesões a chaves de calcanhar nem às aulas gravadas: a narração só põe os dois fatos lado a lado. A comparação faixa-azul de hoje x faixa-preta de 1995 é generalização pedida no roteiro, sem fonte.
 - [CONFERIR] d11: a linha de resumo usa números de ordem (1 a 8) em vez de anos, para não contradizer as datas dos blocos A, B e C; na montagem, vale trocar por décadas coerentes com eles e conferir se as descrições de meia frase batem com o que os outros blocos disseram.
 - [CONFERIR] d12: 'a partir de 2012' e 'eventos feitos para o público assistir' antecipam o capítulo 10 (Metamoris, 2012, lutas só por finalização): conferir com o texto final do capítulo 10.
+- [CONFERIR] c13/c14 (cenas novas, nov. 2026): Toquinho no ADCC 2011. As três finalizações por chave de calcanhar (Dan Schon, David Avellan, Rafael Lovato Jr.) vêm da Graciemag e da Wikipedia; os nomes ficaram fora da narração. O relato da final é o do próprio Galvão à Graciemag (girou para o lado errado, ficou parado, Toquinho tentou mais duas vezes e cansou); a Graciemag de 25/09/2011 fala em 'costas para Galvão e queda para Toquinho' e reclamações dos dois lados. PLACAR: Graciemag diz 8 a 3; Wikipedia (e o resumo do BJJ Heroes, página que não abriu) diz 9 a 4. A narração cita os dois. 'Eleita a melhor luta do torneio' é da Graciemag.
+- [CONFERIR] c13 (pessoa viva): a saída de Palhares do UFC em outubro de 2013 (depois da luta com Mike Pierce; o UFC falou em conduta antidesportiva por manter a chave depois da intervenção do árbitro) vem da Wikipedia. Houve também suspensão de 90 dias em 2010 (Tomasz Drwal) e perda do cinturão do WSOF em 2015 (Jake Shields): ficaram fora da narração. 'Quatro vitórias por chave de calcanhar no UFC' é contagem da tabela da Wikipedia (Linhares 2009, Drwal 2010, Massenzio 2012, Pierce 2013). 'O homem que mais assusta com esse golpe' é frase do roteiro, não de fonte: suavizar se preferir.
+- [CONFERIR] c14: a frase final ('tinha parado num defensor paciente. Faltava alguma coisa.') é leitura do roteiro para ligar com Danaher (c08, controlar antes de finalizar), não afirmação de fonte. A cena conta 2011 antes da visita de Lister (anos 2000), que vem logo depois: a ordem é temática, não cronológica.
+- [CONFERIR] Pronúncias a ouvir (cenas novas): Dores do Indaiá, Nottingham, Graciemag.
 
 ## Fontes
 
@@ -313,10 +325,15 @@ Duração aproximada: 27 min 27 s.
 - [Graciemag (23/03/2010): Marcelo Garcia lança o MG In Action](https://www.graciemag.com/?p=4083)
 - [BJJ Fanatics: About](https://bjjfanatics.com/pages/about-bjj-fanatics)
 - [Orthopaedic Journal of Sports Medicine (2021): lesões no jiu-jitsu brasileiro, pesquisa com 1.140 praticantes](https://journals.sagepub.com/doi/full/10.1177/23259671211062568)
+- [Graciemag: ADCC Classics, a campanha de André Galvão em 2011 e a final com Toquinho](https://www.graciemag.com/?p=141584)
+- [Graciemag (25/09/2011): ADCC 2011, resultados das finais por peso](https://www.graciemag.com/?p=37237)
+- [Wikipedia (en): Rousimar Palhares](https://en.wikipedia.org/wiki/Rousimar_Palhares)
+- [FloGrappling (26/08/2026): ADCC World Championships 2011, what happened](https://www.flograppling.com/articles/16142148-adcc-world-championships-2011-what-happened)
 
 ## Créditos das fotos
 
 - Marcelo Garcia: WilliamBKH, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marcelo_garcia.jpg)
 - Masakazu Imanari: Werda66, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Masakuze_Imanari.jpg)
+- Rousimar Palhares, o Toquinho: Rhdesantana, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rousimar_Toquinho.jpg)
 - Demian Maia: Peter Gordon, CC BY 2.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Demian_Maia.jpg)
 - Charles Oliveira: Renan Silva, CC0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charles_do_Bronxs_(cropped).jpg)
