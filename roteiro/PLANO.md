@@ -1,6 +1,6 @@
 # Brazilian Jiu-Jitsu: The Full Story, from Maeda to the Present Day
 
-Série documental em 10 partes, 4 horas e 14 minutos. Narração em português do Brasil, voz do ElevenLabs.
+Série documental em 11 partes, cerca de 4 horas e 20 minutos. Narração em português do Brasil, voz do ElevenLabs.
 
 Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os encontros com a luta livre, o vale-tudo, o wrestling e o no-gi; as evoluções técnicas com prós e contras; as confederações; os campeonatos que importavam antes e os que importam hoje. Contar toda a história, com o tempo necessário e sem encher.
 
@@ -17,7 +17,8 @@ Pedido original: a história do jiu-jitsu brasileiro do início até hoje; os en
 | 7 | Nasce o esporte organizado | 1967 – 2007 | 24 | 3 | pronto |
 | 8 | ADCC e o encontro com o wrestling | 1998 – 2011 | 23 | 3 | pronto |
 | 9 | A evolução da técnica | 1990 – hoje | 28 | 4 | pronto |
-| 10 | A era profissional e o no-gi | 2012 – hoje | 26 | 3 | pronto |
+| 10 | A era profissional e o no-gi | 2008 – 2021 | 15 | 2 | pronto |
+| 11 | Hoje | 2022 – 2026 | 14 | 2 | pronto |
 
 Os minutos são meta: se a pesquisa render mais história boa, o capítulo cresce; se render menos, encolhe. Cada bloco tem de 11 a 13 cenas e de 900 a 1.100 palavras de narração (cerca de 7 minutos). As regras para escrever um bloco estão em `roteiro/BRIEFING-BLOCO.md`.
 
@@ -32,7 +33,8 @@ Os minutos são meta: se a pesquisa render mais história boa, o capítulo cresc
 7. **Nasce o esporte organizado.** A CBJJ (1994) e Carlos Gracie Jr., o primeiro Mundial (1996, Tijuca), o Pan, a IBJJF, a ida do Mundial para a Califórnia (2007); CBJJO, CBJJE e outras federações; regras, faixas e as críticas ao jogo por vantagem.
 8. **ADCC e o encontro com o wrestling.** Abu Dhabi, 1998: o xeque Tahnoon e um torneio sem kimono com regras próprias; lutadores de wrestling, sambo e jiu-jitsu no mesmo tatame; os nomes que definiram o evento; o Mundial sem kimono da IBJJF (2007).
 9. **A evolução da técnica.** Da guarda fechada à meia guarda, De la Riva, aranha, guarda X, 50/50, berimbolo, guardas de lapela e o ataque às pernas. Para cada uma: quem criou ou popularizou, o que resolveu e o preço que cobrou. A crítica de quem puxa para a guarda e a resposta do wrestling.
-10. **A era profissional e o no-gi.** Metamoris, EBI, Polaris, os eventos por assinatura, o circuito de Abu Dhabi (AJP), ADCC e CJI em 2024, o dinheiro, o antidoping e as regras de chave de calcanhar. Quais campeonatos importam hoje, com e sem kimono, e para onde a arte está indo.
+10. **A era profissional e o no-gi.** Abu Dhabi World Pro e o circuito dos Emirados, Metamoris, EBI, Polaris, os eventos por assinatura, a pandemia e a superluta, Gordon Ryan e o racha da equipe de Danaher; no kimono, Roger, Buchecha e Leandro Lo.
+11. **Hoje.** De 2022 a 2026: o ADCC que enche uma arena, o dinheiro, o CJI, Cracóvia 2026, Musumeci e a liga de jiu-jitsu do UFC, o doping, a geração atual do kimono, as equipes, quais campeonatos importam e o fecho da série. É o capítulo a atualizar quando a história andar.
 
 ## Estilo visual (aprovado? ver capítulo 1)
 

@@ -78,57 +78,9 @@ O aluno de Danaher é Gordon Ryan. Nascido em 1995 em Nova Jersey, ele começa a
 
 Em 2020, a equipe de Danaher troca Nova York por Porto Rico. Dura pouco. Em julho de 2021, Danaher anuncia o fim do grupo como equipe única de treino e de competição. Os motivos, cada lado conta do seu jeito. O resultado é que nascem duas academias na mesma cidade: Austin, no Texas. De um lado, a New Wave, com Danaher, Gordon Ryan e Garry Tonon. Do outro, a B-Team, fundada pelo australiano Craig Jones com Nick Rodriguez, Nicky Ryan, irmão de Gordon, e Ethan Crelinsten.
 
-### b05-vegas-2022 (cartao · 2022 · 40 s)
+### c01-roger (perfil · 2009 · 40 s)
 
-A pandemia adia o ADCC seguinte para setembro de 2022. O palco é o ginásio Thomas & Mack, em Las Vegas. Registros públicos obtidos pelo site MuckRock indicam mais de dez mil ingressos vendidos; outras fontes falam em treze mil pessoas. De um jeito ou de outro, é público de arena para um torneio de luta agarrada. Gordon Ryan vence a categoria mais pesada. Na superluta, encerra a série de André Galvão: finaliza com um mata-leão, o estrangulamento pelas costas, aos dezesseis minutos. O absoluto fica com Yuri Simões.
-
-### b06-nomes-novos (linha · 2022 · 42 s)
-
-Las Vegas também apresenta uma geração. Até setenta e sete quilos, o campeão é o californiano Kade Ruotolo, de dezenove anos. Ele se torna, naquele momento, o mais jovem campeão da história do torneio. Até oitenta e oito quilos, vence o americano Giancarlo Bodoni. Diogo Reis ganha entre os mais leves, e Kaynan Duarte, até noventa e nove quilos. Entre as mulheres, a galesa Ffion Davies vence até sessenta quilos, e a americana Amy Campo, acima disso. Em 2026, segundo as fontes, o recorde de idade passaria para outra americana, Helena Crevar.
-
-### b07-gordon-negocio (cartao · 2023 · 40 s)
-
-Gordon Ryan muda também o jeito de viver da luta. No tatame, as fontes o descrevem como um finalizador: no absoluto de 2017, só não finalizou o adversário da final. Fora dele, vende cursos em vídeo, publica um livro e, em janeiro de 2023, assina com a FloSports um contrato que a imprensa especializada noticiou como de sete dígitos. Ao mesmo tempo, relata em público um problema crônico de estômago. Em 2021, chega a anunciar uma pausa. E em fevereiro de 2026, aos trinta anos, anuncia a aposentadoria das competições.
-
-### b08-dinheiro (cartao · 2023 · 37 s)
-
-E quanto ganha quem vence o maior torneio sem kimono do mundo? Dez mil dólares por categoria. Segundo o organizador da época, Mo Jassim, o valor era o mesmo desde 1998. Quem perdia na primeira luta voltava para casa sem nada: não havia cachê por participar. Craig Jones, duas vezes vice-campeão do ADCC, passa a dizer isso em público, e lembra que, com a inflação, dez mil dólares valiam cada vez menos. Do outro lado, segundo relatos da imprensa, Jassim afirma que o evento nunca deu lucro.
-
-### b09-cji (perfil · 2024 · 38 s)
-
-Em 2024, Craig Jones, nascido em Adelaide, na Austrália, faz mais do que reclamar. Anuncia um torneio próprio, o Craig Jones Invitational, ou CJI, no mesmo fim de semana do ADCC e na mesma cidade. Diz ter três milhões de dólares de um doador que não identifica. A proposta: um milhão de dólares para o campeão de cada uma das duas categorias, e dez mil e um dólares para cada convidado, só por participar. É um dólar a mais que o prêmio do campeão do torneio rival. A transmissão é gratuita.
-
-### b10-fim-de-semana (comparacao · 2024 · 42 s)
-
-Agosto de 2024, Las Vegas, dois torneios. O CJI ocupa o Thomas & Mack, com uma área de luta de paredes inclinadas. Kade Ruotolo vence até oitenta quilos, e Nick Rodriguez, acima disso. Cada um leva um milhão. O ADCC vai para a T-Mobile Arena e, pela primeira vez, paga cachê: no mínimo dois mil e quinhentos dólares por atleta. Kaynan Duarte ganha o peso e o absoluto. A australiana Adele Fornarino faz o mesmo entre as mulheres. E Gordon Ryan vence duas superlutas, contra Felipe Pena e Yuri Simões.
-
-### b11-depois (linha · 2025 · 42 s)
-
-O que veio depois? Em Singapura, o ONE Championship já tinha cinturões de luta agarrada desde 2022. Em junho de 2025, é o UFC que estreia um evento só de jiu-jitsu sem kimono, com uma área de luta em forma de tigela. Em agosto, o segundo CJI troca as chaves individuais por um torneio de equipes: a B-Team vence e leva um milhão de dólares. E para 2026, em Cracóvia, na Polônia, o ADCC dobra o prêmio das categorias masculinas, para vinte mil dólares. O das mulheres segue em dez mil.
-
-### b14-cracovia (cartao · 2026 · 45 s)
-
-E Cracóvia? O torneio acontece em setembro de 2026, na Tauron Arena. Gordon Ryan, aposentado, não defende a superluta. O posto vago fica com Yuri Simões, que vence Kaynan Duarte na prorrogação. No absoluto, Felipe Pena finaliza Roosevelt Sousa e se torna o primeiro a vencer a categoria duas vezes. Até sessenta e seis quilos, ganha Kennedy Maciel, filho de Rubens Charles, o Cobrinha: segundo a imprensa, é o primeiro caso de pai e filho campeões. O polonês Paweł Jaworski vence em casa. E a americana Helena Crevar, de dezenove anos, finaliza todas as adversárias.
-
-### b15-musumeci (perfil · 2026 · 52 s)
-
-E os cinturões novos, o do ONE e o do UFC? Os dois passam pelo mesmo homem: Mikey Musumeci. Nascido em 1996 em Nova Jersey, como Gordon Ryan, ele recebe a faixa-preta aos dezoito anos. De kimono, vence quatro Mundiais nas categorias mais leves; segundo a Wikipedia, é o primeiro americano com mais de um título na faixa-preta. Em 2022, ganha o primeiro cinturão de luta agarrada do ONE. Em 2025, na estreia da liga do UFC, finaliza Rerisson Gabriel com uma chave de calcanhar e fica com o título. Defende três vezes. Em outubro de 2026, aos trinta anos, abre mão do cinturão: quer lutar MMA.
-
-### b16-liga-ufc (linha · 2026 · 32 s)
-
-A liga do UFC tem formato próprio: três rounds de cinco minutos e, se ninguém finaliza, decisão dos juízes. Entre junho de 2025 e outubro de 2026, são treze eventos, todos em Las Vegas. O americano Andrew Tackett é campeão dos meio-médios desde a primeira noite. A carioca Cassia Moura tem dois cinturões. E o título que Musumeci deixou vai, em outubro, para Jalen Fonacier, que meses antes tinha vencido o Mundial de kimono pela segunda vez.
-
-### b12-doping (comparacao · 2022 · 46 s)
-
-Falta um assunto: o doping. A federação de kimono, a IBJJF, testa campeões desde 2013, por meio da agência antidoping dos Estados Unidos. Começou pelo Pan e chegou ao Mundial. Houve títulos mundiais cassados em casos oficiais, como os de Braulio Estima em 2014, Kaynan Duarte em 2019 e Micael Galvão em 2022. Já o ADCC, segundo o organizador da época, nunca tinha testado. E os atletas falam disso abertamente. Em 2024, num vídeo, Gordon Ryan contou quando começou a usar esteroides, e disse que eles não eram proibidos nos torneios em que lutava.
-
-### b13-dois-modelos (comparacao · 2025 · 42 s)
-
-Dois modelos, então. O do ADCC tem a história, desde 1998, e as seletivas em vários continentes: quem vence a seletiva está dentro. Em troca, paga bem menos. O do CJI paga como nenhum outro e transmite de graça. Em troca, só entra quem é convidado, e tudo depende de um doador anônimo e da decisão de um homem só: a terceira edição, segundo sites especializados, foi cancelada pelo próprio Jones. E enquanto o jiu-jitsu sem kimono discutia dinheiro, o Mundial de kimono continuou, na Califórnia. É para lá que vamos agora.
-
-### c01-roger (perfil · 2009 · 34 s)
-
-Em 2007, o Mundial de kimono se muda para a Califórnia. E os primeiros anos em Long Beach têm dono: Roger Gracie, que você já conhece. Pela contagem da Wikipedia, ele soma dez títulos mundiais na faixa preta, entre 2004 e 2010. Três são no absoluto. Em 2009, finaliza todos os adversários, no peso e no absoluto. Na final, usa um golpe que se aprende na faixa branca: o estrangulamento com a gola, feito da montada.
+Enquanto o sem kimono virava espetáculo, o kimono seguia o seu próprio caminho. Em 2007, o Mundial de kimono se muda para a Califórnia. E os primeiros anos em Long Beach têm dono: Roger Gracie, que você já conhece. Pela contagem da Wikipedia, ele soma dez títulos mundiais na faixa preta, entre 2004 e 2010. Três são no absoluto. Em 2009, finaliza todos os adversários, no peso e no absoluto. Na final, usa um golpe que se aprende na faixa branca: o estrangulamento com a gola, feito da montada.
 
 ### c02-buchecha (perfil · 2014 · 41 s)
 
@@ -142,43 +94,15 @@ Faltava o encontro entre os dois. Em outubro de 2012, na Califórnia, o evento M
 
 Na mesma época cresce outro campeão. Leandro Lo, paulistano, nascido em 1989, é formado por Cícero Costha num projeto social de São Paulo. Entre 2012 e 2022, vence oito Mundiais, do peso leve ao absoluto: cinco categorias diferentes. Na madrugada de sete de agosto de 2022, Lo é baleado na cabeça num clube de São Paulo. Morre aos trinta e três anos. Um policial militar é preso e acusado. Em novembro de 2025, o júri o absolve, aceitando a tese de legítima defesa. Até outubro de 2026, o recurso da acusação não tinha sido julgado.
 
-### c05-campeas (cartao · 2026 · 44 s)
-
-O Mundial feminino também mudou de tamanho. Você viu que as mulheres entraram em 1998, com duas categorias e as faixas misturadas. Hoje, a faixa-preta feminina tem oito pesos e o absoluto. Michelle Nicolini soma oito títulos, segundo a Wikipedia. Gabi Garcia vence o absoluto em 2011 e 2012. Beatriz Mesquita chega a dez títulos. Mackenzie Dern, campeã em 2015 e 2016, vai para o MMA e, em 2025, conquista o cinturão do UFC. E em 2026, segundo a federação, Gabrieli Pessanha passa Mesquita e iguala os seis absolutos de Buchecha.
-
-### c06-geracao (linha · 2026 · 40 s)
-
-E a geração de agora? No absoluto masculino, vencem Nicholas Meregali, em 2022, Victor Hugo, em 2023, e Erich Munis, em 2024. Em 2026, no trigésimo Mundial da história, Munis vence de novo e, segundo a federação, chega a sete títulos. No mesmo torneio, Tainan Dalpra ganha o peso médio pela quarta vez, com quatro finalizações. Diego Oliveira, o Pato, leva o quinto título no peso pluma e se despede do kimono. Mayssa Bastos soma o sétimo, no peso galo.
-
-### c07-equipes (mapa · 2026 · 48 s)
-
-Por trás dos campeões continuam as equipes. A Alliance, de São Paulo, é a maior vencedora do Mundial. Pela tabela da Wikipedia, desde 2008 ela só perdeu o título três vezes: em 2017, para a Atos, de André Galvão; em 2021, para a Checkmat; e em 2023, para a Dream Art. Em 2025, a vice é a Art of Jiu Jitsu, dos irmãos Mendes, na Califórnia. A Gracie Barra, nascida no Rio, foi campeã em 2007. E em Austin, no Texas, seguem as duas academias do sem kimono, desde 2025 com outros nomes: Kingsway e Simple Man.
-
 ### c08-premios (cartao · 2019 · 34 s)
 
 E o dinheiro? O Mundial não pagava nada, e esse foi um dos motivos do racha de 2002. Por mais de vinte anos, o campeão mundial de kimono levou para casa uma medalha. Isso muda em 2019. A federação anuncia prêmio para os campeões faixa-preta: de quatro mil a sete mil dólares por categoria, conforme o número de inscritos, e dez mil para o absoluto. A tabela é a mesma para homens e mulheres. É pouco perto do que o sem kimono passou a pagar. Mas, pela primeira vez, a medalha vem com cheque.
 
-### c09-campeonatos (comparacao · 2026 · 41 s)
+### c14-proximo (cartao · 2021 · 41 s)
 
-Então, quais campeonatos importam? Antes, a régua era o Rio de Janeiro. Primeiro, os desafios, academia contra academia. Depois, o estadual do Rio e as copas dos anos oitenta. A partir de 1994, o Brasileiro. E, de 1996 em diante, o Mundial na Tijuca. Hoje a lista é maior e se divide em duas. De kimono: o Mundial, o Pan, o Europeu e o Brasileiro, mais o World Pro de Abu Dhabi. Sem kimono: o ADCC, o Mundial sem kimono, o CJI e os eventos de superluta.
+É aqui que este capítulo para. Em pouco mais de dez anos, lutar jiu-jitsu virou profissão: circuitos pagos, superlutas por assinatura, cursos em vídeo e campeões que são também uma marca. No kimono, Roger e Buchecha fecharam uma era. No sem kimono, a equipe mais forte do mundo se partiu em duas, em Austin, no Texas. O que vem depois é o presente. Um torneio que enche uma arena. Outro que promete um milhão de dólares. Uma liga com a marca do UFC. E uma geração nova, com kimono e sem. É o último capítulo desta história: hoje.
 
-### c10-mundo (mapa · 2026 · 42 s)
-
-E de que tamanho é o jiu-jitsu hoje? Ninguém sabe ao certo. Não há uma entidade única que conte os praticantes, e as estimativas vão de três a onze milhões, sem estudo que as sustente. O que dá para medir é o pódio. O Brasil continua sendo a maior fábrica de campeões. Mas, no Mundial de 2026, há campeões faixa-preta dos Estados Unidos, do Canadá e do Marrocos. O polonês Adam Wardziński venceu em 2024 e 2025. A galesa Ffion Davies, em 2023. E há australianos em finais, com e sem kimono.
-
-### c11-caminho (linha · 1955 · 41 s)
-
-Vale olhar o caminho inteiro. Em 1882, em Tóquio, Jigoro Kano cria o judô e o randori, o treino livre. Em 1904, Mitsuyo Maeda sai do Japão e roda o mundo aceitando desafios. Em 1916, ele se fixa em Belém, e ali se formam os primeiros brasileiros. No Rio, os Gracie fazem do jiu-jitsu um nome de família, enquanto Luiz França e Oswaldo Fadda ensinam no subúrbio. Vêm os desafios: Hélio contra Kimura, em 1951, no Maracanã. E vem a rivalidade com a luta livre.
-
-### c12-o-que-mudou (linha · 2026 · 48 s)
-
-Carlson Gracie abre a academia a quem não era da família, e Rolls traz outras lutas para o treino. Em 1993, Royce vence o primeiro UFC, e o mundo descobre a luta de chão. Em 1994 nasce a confederação, e em 1996, o Mundial. Em 1998, em Abu Dhabi, o ADCC põe o jiu-jitsu diante do wrestling. A técnica muda, da guarda fechada ao berimbolo e ao ataque às pernas. E, por fim, lutar vira profissão. Mudou a roupa. Mudaram as regras, o dinheiro e o endereço. Mas uma coisa atravessou tudo isso sem mudar.
-
-### c13-fecho (cartao · 2026 · 40 s)
-
-No primeiro capítulo, pedimos que você guardasse uma ideia, a de Kano: lutar de verdade, todos os dias, contra alguém que resiste. Essa ideia saiu de Tóquio na bagagem de Maeda, atravessou o oceano e desembarcou em Belém. Passou pelas academias do Rio, pelo ringue, pela jaula e pelos ginásios de Long Beach e de Abu Dhabi. Hoje, em qualquer academia do mundo, a aula termina do mesmo jeito. Alguém marca o tempo. Duas pessoas se cumprimentam. E lutam de verdade. Tudo o que você viu nesta série começou assim. E continua assim, todos os dias.
-
-Duração aproximada: 27 min 47 s.
+Duração aproximada: 14 min 34 s.
 
 ## Conferir antes de publicar
 
@@ -324,6 +248,5 @@ Duração aproximada: 27 min 47 s.
 
 - Ralek Gracie: Oregon Martial Arts from Tigard, OR, USA, CC BY 2.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anibal_Lobo_%26_Relson_Gracie_1_(4936501126).jpg)
 - Gordon Ryan: Derek Moneyberg, CC BY 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ADCC_King_Gordon_Ryan_Gritty_Path_To_Glory_-_YouTube_-_10_12_(cropped).jpg)
-- Mikey Musumeci: Mass Communication Specialist 1st Class Brandon Parker, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mikey_Musumeci_2022.jpg)
 - Roger Gracie: Iwtbf42, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RogerGracie.JPG)
 - Leandro Lo: Lu'nivers Athletics, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leandro_Lo_Worlds_IBJJF_2022.jpg)
