@@ -1356,6 +1356,12 @@
           "quando": "o xeque Tahnoon",
           "ate": "É o ADCC"
         }
+      ],
+      "logos": [
+        {
+          "id": "adcc",
+          "quando": "ADCC"
+        }
       ]
     },
     {

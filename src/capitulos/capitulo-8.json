@@ -352,6 +352,12 @@
           ],
           "quando": "em Denver"
         }
+      ],
+      "logos": [
+        {
+          "id": "gracie-barra",
+          "quando": "Gracie Barra"
+        }
       ]
     },
     {
@@ -463,6 +469,12 @@
           "quando": "tentam o vale-tudo",
           "ate": "acaba em tumulto"
         }
+      ],
+      "logos": [
+        {
+          "id": "adcc",
+          "quando": "ADCC"
+        }
       ]
     },
     {
@@ -499,7 +511,17 @@
           "quando": "escrito pelo próprio"
         }
       ],
-      "fundo": "USMC-110124-M-2306T-163.jpg"
+      "fundo": "USMC-110124-M-2306T-163.jpg",
+      "logos": [
+        {
+          "id": "pancrase",
+          "quando": "Pancrase"
+        },
+        {
+          "id": "graciemag",
+          "quando": "Graciemag"
+        }
+      ]
     },
     {
       "id": "a07-duas-metades",
@@ -665,7 +687,13 @@
           }
         ]
       },
-      "fundo": "Hawaiian State Grappling Championships.jpg"
+      "fundo": "Hawaiian State Grappling Championships.jpg",
+      "logos": [
+        {
+          "id": "cbjj",
+          "quando": "CBJJ"
+        }
+      ]
     },
     {
       "id": "a11-pros-contras",
@@ -1006,6 +1034,12 @@
           "texto": "Nenhum ouro americano nas categorias",
           "quando": "nenhum americano"
         }
+      ],
+      "logos": [
+        {
+          "id": "flosports",
+          "quando": "FloGrappling"
+        }
       ]
     },
     {
@@ -1139,7 +1173,13 @@
           "quando": "ninguém treina de"
         }
       ],
-      "fundo": "Ginásio Estadual Geraldo J. Almeida.jpg"
+      "fundo": "Ginásio Estadual Geraldo J. Almeida.jpg",
+      "logos": [
+        {
+          "id": "10th-planet",
+          "quando": "10th Planet"
+        }
+      ]
     },
     {
       "id": "b11-absoluto",
@@ -1501,7 +1541,13 @@
             "quando": "liberada no torneio"
           }
         ]
-      }
+      },
+      "logos": [
+        {
+          "id": "ibjjf",
+          "quando": "IBJJF"
+        }
+      ]
     },
     {
       "id": "c09-wrestling",

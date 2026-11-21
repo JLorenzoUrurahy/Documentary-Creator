@@ -63,6 +63,7 @@ capitulo.cenas.forEach((cena, n) => {
     ...(cena.lugares ?? []),
     ...(cena.rotas ?? []),
     ...(cena.nos ?? []),
+    ...(cena.logos ?? []),
     ...(cena.esquerda?.itens ?? []),
     ...(cena.direita?.itens ?? []),
   ];

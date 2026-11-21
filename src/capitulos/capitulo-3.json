@@ -1298,6 +1298,12 @@
           "texto": "Treze anos fora do cartaz",
           "quando": "passa treze anos"
         }
+      ],
+      "logos": [
+        {
+          "id": "graciemag",
+          "quando": "Graciemag"
+        }
       ]
     },
     {

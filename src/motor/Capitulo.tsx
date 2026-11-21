@@ -19,6 +19,7 @@ import {
 } from "../estilo";
 import type { AudioCapitulo, Capitulo, Cena } from "../tipos";
 import fundos from "../fundos.json";
+import logos from "../logos.json";
 import {
   Cartao,
   Citacao,
@@ -34,6 +35,7 @@ import {
   montarLegendas,
   montarLinhaDoTempo,
   palavrasDaCena,
+  surgir,
   type Ritmo,
   type Trecho,
 } from "./tempo";
@@ -176,6 +178,61 @@ const FundoDaCena: React.FC<{ cena: Cena; duracao: number; indice: number }> = (
   );
 };
 
+const indiceLogos = logos as Record<string, { arquivo: string; placa: string }>;
+
+// Logos das organizações citadas na cena, em plaquinhas no canto direito,
+// abaixo do ano. Cada um entra quando o nome é falado.
+const LogosDaCena: React.FC<{ cena: Cena; ritmo: Ritmo }> = ({ cena, ritmo }) => {
+  const lista = (cena.logos ?? []).filter((l) => indiceLogos[l.id]);
+  if (lista.length === 0) {
+    return null;
+  }
+  return (
+    <div
+      style={{
+        position: "absolute",
+        // No mapa, o canto de cima tem rótulos de lugares: vai para baixo, à esquerda.
+        ...(cena.tipo === "mapa"
+          ? { left: MARGEM, top: 730 }
+          : { right: MARGEM, top: 150 }),
+        display: "flex",
+        // No perfil, empilha para não encostar no nome da pessoa.
+        flexDirection: cena.tipo === "perfil" ? "column" : "row",
+        gap: 16,
+      }}
+    >
+      {lista.map((logo, n) => {
+        const dados = indiceLogos[logo.id];
+        const p = surgir(ritmo, ritmo.entra(logo.quando, n, lista.length));
+        return (
+          <div
+            key={logo.id}
+            style={{
+              width: 230,
+              height: 150,
+              padding: 16,
+              boxSizing: "border-box",
+              backgroundColor: dados.placa,
+              border: `1px solid ${COR.borda}`,
+              borderRadius: 6,
+              opacity: p,
+              transform: `translateY(${(1 - p) * 12}px)`,
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <Img
+              src={staticFile(dados.arquivo)}
+              style={{ maxWidth: "100%", maxHeight: "100%", objectFit: "contain" }}
+            />
+          </div>
+        );
+      })}
+    </div>
+  );
+};
+
 const CenaNaTela: React.FC<{
   trecho: Trecho;
   audio: AudioCapitulo;
@@ -207,6 +264,7 @@ const CenaNaTela: React.FC<{
       <FundoDaCena cena={cena} duracao={duracao} indice={indice} />
       <AbsoluteFill style={{ opacity: opacidade }}>
         {desenhar(cena, ritmo)}
+        <LogosDaCena cena={cena} ritmo={ritmo} />
       </AbsoluteFill>
       {gravado ? <Audio src={staticFile(gravado.arquivo)} /> : null}
       {legenda ? (

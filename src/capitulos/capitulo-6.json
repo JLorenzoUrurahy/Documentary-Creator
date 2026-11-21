@@ -1350,6 +1350,12 @@
           "quando": "viaja de Los Angeles",
           "ate": "jiu-jitsu da família"
         }
+      ],
+      "logos": [
+        {
+          "id": "shooto",
+          "quando": "Shooto"
+        }
       ]
     },
     {
@@ -1484,7 +1490,13 @@
           "quando": "vai se tornar"
         }
       ],
-      "fundo": "Tokyo Dome 20170924 1530.jpg"
+      "fundo": "Tokyo Dome 20170924 1530.jpg",
+      "logos": [
+        {
+          "id": "pride",
+          "quando": "Pride"
+        }
+      ]
     },
     {
       "id": "c07-ultimas-lutas",
@@ -1517,6 +1529,12 @@
           "ano": "2000–2001",
           "texto": "Morre o filho Rockson; fim da carreira",
           "quando": "perde o filho"
+        }
+      ],
+      "logos": [
+        {
+          "id": "pancrase",
+          "quando": "Pancrase"
         }
       ]
     },
@@ -1604,6 +1622,16 @@
             -25.43
           ],
           "quando": "em Curitiba cresce"
+        }
+      ],
+      "logos": [
+        {
+          "id": "ivc",
+          "quando": "IVC"
+        },
+        {
+          "id": "chute-boxe",
+          "quando": "Chute Boxe"
         }
       ]
     },
@@ -1757,6 +1785,12 @@
         {
           "texto": "Adversários aprenderam a não ser finalizados",
           "quando": "a não ser finalizados"
+        }
+      ],
+      "logos": [
+        {
+          "id": "btt",
+          "quando": "Brazilian Top Team"
         }
       ]
     },

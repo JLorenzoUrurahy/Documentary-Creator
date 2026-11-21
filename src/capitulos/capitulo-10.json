@@ -387,7 +387,13 @@
           "quando": "viver de lutar"
         }
       ],
-      "fundo": "Megaton Dias Seminar 03.jpg"
+      "fundo": "Megaton Dias Seminar 03.jpg",
+      "logos": [
+        {
+          "id": "ibjjf",
+          "quando": "IBJJF"
+        }
+      ]
     },
     {
       "id": "a03-world-pro",
@@ -472,6 +478,12 @@
           ],
           "quando": "por Londres"
         }
+      ],
+      "logos": [
+        {
+          "id": "ajp",
+          "quando": "AJP"
+        }
       ]
     },
     {
@@ -534,6 +546,12 @@
           "texto": "Quem ganhou?",
           "quando": "quem ganhou"
         }
+      ],
+      "logos": [
+        {
+          "id": "adcc",
+          "quando": "ADCC"
+        }
       ]
     },
     {
@@ -566,7 +584,13 @@
           "quando": "boa parte do tempo"
         }
       ],
-      "fundo": "Royler Gracie Teaching 03.jpg"
+      "fundo": "Royler Gracie Teaching 03.jpg",
+      "logos": [
+        {
+          "id": "10th-planet",
+          "quando": "10th Planet"
+        }
+      ]
     },
     {
       "id": "a08-queda",
@@ -599,6 +623,12 @@
           "ano": "2017",
           "texto": "Última edição listada",
           "quando": "novembro de 2017"
+        }
+      ],
+      "logos": [
+        {
+          "id": "flosports",
+          "quando": "FloGrappling"
         }
       ]
     },
@@ -678,6 +708,16 @@
             39.74
           ],
           "quando": "em Denver"
+        }
+      ],
+      "logos": [
+        {
+          "id": "polaris",
+          "quando": "Polaris"
+        },
+        {
+          "id": "fight-to-win",
+          "quando": "Fight to Win"
         }
       ]
     },
@@ -973,7 +1013,13 @@
           "quando": "Ethan Crelinsten"
         }
       ],
-      "fundo": "Skyline of Austin, Texas.jpg"
+      "fundo": "Skyline of Austin, Texas.jpg",
+      "logos": [
+        {
+          "id": "b-team",
+          "quando": "B-Team"
+        }
+      ]
     },
     {
       "id": "b05-vegas-2022",
@@ -1241,6 +1287,12 @@
           "texto": "Prêmio feminino segue em 10 mil",
           "quando": "O das mulheres"
         }
+      ],
+      "logos": [
+        {
+          "id": "one",
+          "quando": "ONE Championship"
+        }
       ]
     },
     {
@@ -1407,6 +1459,12 @@
         {
           "texto": "2021: estreia no MMA",
           "quando": "Buchecha estreia"
+        }
+      ],
+      "logos": [
+        {
+          "id": "checkmat",
+          "quando": "Checkmat"
         }
       ]
     },
@@ -1621,6 +1679,16 @@
             30.27
           ],
           "quando": "em Austin"
+        }
+      ],
+      "logos": [
+        {
+          "id": "gracie-barra",
+          "quando": "Gracie Barra"
+        },
+        {
+          "id": "alliance",
+          "quando": "Alliance"
         }
       ]
     },

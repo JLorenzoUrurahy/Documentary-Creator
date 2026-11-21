@@ -731,6 +731,12 @@
           "texto": "Estátua em Copacabana",
           "quando": "ganha uma estátua"
         }
+      ],
+      "logos": [
+        {
+          "id": "btt",
+          "quando": "Brazilian Top Team"
+        }
       ]
     },
     {
@@ -1038,6 +1044,12 @@
         {
           "texto": "Graciemag: regras ainda primitivas",
           "quando": "regras de primitivas"
+        }
+      ],
+      "logos": [
+        {
+          "id": "graciemag",
+          "quando": "Graciemag"
         }
       ]
     },
@@ -1613,6 +1625,16 @@
           "sub": "1993",
           "pai": "jacare",
           "quando": "a Alliance"
+        }
+      ],
+      "logos": [
+        {
+          "id": "gracie-barra",
+          "quando": "Gracie Barra"
+        },
+        {
+          "id": "alliance",
+          "quando": "Alliance"
         }
       ]
     },

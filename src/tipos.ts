@@ -30,6 +30,10 @@ type Base = {
   // o fundo da cena. scripts/fundos.mjs baixa só os de uso livre e anota o
   // crédito, que aparece na tela. Não vale para mapa, título e perfil.
   fundo?: string;
+  // Logos de src/logos.json (arquivos fornecidos pelo usuário em
+  // public/cedidas/logos). Cada um entra quando o trecho é falado.
+  // scripts/logos.mjs marca a primeira citação de cada organização no capítulo.
+  logos?: { id: string; quando?: string }[];
 };
 
 export type CenaTitulo = Base & {

@@ -444,6 +444,12 @@
           "texto": "Não gosta do título de inventor",
           "quando": "chamado de inventor"
         }
+      ],
+      "logos": [
+        {
+          "id": "gracie-barra",
+          "quando": "Gracie Barra"
+        }
       ]
     },
     {
@@ -492,7 +498,13 @@
           }
         ]
       },
-      "fundo": "BJJ-half guard.jpg"
+      "fundo": "BJJ-half guard.jpg",
+      "logos": [
+        {
+          "id": "graciemag",
+          "quando": "Graciemag"
+        }
+      ]
     },
     {
       "id": "a06-de-la-riva",
@@ -682,6 +694,16 @@
           "texto": "Mais de raspar que de finalizar",
           "quando": "guarda de raspar"
         }
+      ],
+      "logos": [
+        {
+          "id": "adcc",
+          "quando": "ADCC"
+        },
+        {
+          "id": "alliance",
+          "quando": "Alliance"
+        }
       ]
     },
     {
@@ -801,7 +823,13 @@
           "quando": "era um nó"
         }
       ],
-      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13923006242).jpg"
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13923006242).jpg",
+      "logos": [
+        {
+          "id": "atos",
+          "quando": "Atos"
+        }
+      ]
     },
     {
       "id": "b02-rafael-mendes",
@@ -910,7 +938,13 @@
           }
         ]
       },
-      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13946565094).jpg"
+      "fundo": "Premier Motors - World Professional Jiu-Jitsu Championship (13946565094).jpg",
+      "logos": [
+        {
+          "id": "ibjjf",
+          "quando": "IBJJF"
+        }
+      ]
     },
     {
       "id": "b05-berimbolo",
@@ -1087,6 +1121,12 @@
           "texto": "Copa Pódio anuncia punição",
           "quando": "anuncia punição"
         }
+      ],
+      "logos": [
+        {
+          "id": "copa-podio",
+          "quando": "Copa Pódio"
+        }
       ]
     },
     {
@@ -1143,6 +1183,12 @@
           "quando": "abrem a",
           "ate": "na Califórnia"
         }
+      ],
+      "logos": [
+        {
+          "id": "aoj",
+          "quando": "Art of Jiu Jitsu"
+        }
       ]
     },
     {
@@ -1187,7 +1233,13 @@
           }
         ]
       },
-      "fundo": "Championnats de France CFJJB 2013 (1).jpg"
+      "fundo": "Championnats de France CFJJB 2013 (1).jpg",
+      "logos": [
+        {
+          "id": "tatame",
+          "quando": "revista Tatame"
+        }
+      ]
     },
     {
       "id": "b12-o-preco",
@@ -1814,7 +1866,13 @@
           "quando": "A guilhotina"
         }
       ],
-      "fundo": "Back mount - Submission grappling at 2010 Western Canadian Martial Arts Championships.jpg"
+      "fundo": "Back mount - Submission grappling at 2010 Western Canadian Martial Arts Championships.jpg",
+      "logos": [
+        {
+          "id": "flosports",
+          "quando": "FloGrappling"
+        }
+      ]
     },
     {
       "id": "d05-demian-maia",

@@ -393,7 +393,13 @@
           "quando": "lutar em Niterói"
         }
       ],
-      "fundo": "Vieira Souto - Lagoa Rodrigo de Freitas, seagull.jpg"
+      "fundo": "Vieira Souto - Lagoa Rodrigo de Freitas, seagull.jpg",
+      "logos": [
+        {
+          "id": "graciemag",
+          "quando": "Graciemag"
+        }
+      ]
     },
     {
       "id": "a03-copas",
@@ -609,6 +615,16 @@
         {
           "texto": "A federação do Rio continua",
           "quando": "A federação do Rio"
+        }
+      ],
+      "logos": [
+        {
+          "id": "cbjj",
+          "quando": "CBJJ"
+        },
+        {
+          "id": "gracie-barra",
+          "quando": "Gracie Barra"
         }
       ]
     },
@@ -963,6 +979,12 @@
           "texto": "Primeiro bicampeão do absoluto",
           "quando": "o primeiro bicampeão"
         }
+      ],
+      "logos": [
+        {
+          "id": "alliance",
+          "quando": "Alliance"
+        }
       ]
     },
     {
@@ -1041,6 +1063,12 @@
         {
           "texto": "Ressalva: João Roque, de Angola, em 1997",
           "quando": "João Roque"
+        }
+      ],
+      "logos": [
+        {
+          "id": "nova-uniao",
+          "quando": "Nova União"
         }
       ]
     },
@@ -1434,7 +1462,13 @@
           "quando": "andam juntas"
         }
       ],
-      "fundo": "GABRIEL VELLA vs ROMINHO 51.jpg"
+      "fundo": "GABRIEL VELLA vs ROMINHO 51.jpg",
+      "logos": [
+        {
+          "id": "ibjjf",
+          "quando": "IBJJF"
+        }
+      ]
     },
     {
       "id": "c02-empresa",
@@ -1616,6 +1650,12 @@
           "texto": "Última Copa: Teresópolis, 2007",
           "quando": "em Teresópolis"
         }
+      ],
+      "logos": [
+        {
+          "id": "cbjjo",
+          "quando": "CBJJO"
+        }
       ]
     },
     {
@@ -1649,6 +1689,16 @@
           "ano": "hoje",
           "texto": "Mais de um campeão mundial por ano",
           "quando": "mais de um campeão"
+        }
+      ],
+      "logos": [
+        {
+          "id": "cbjje",
+          "quando": "CBJJE"
+        },
+        {
+          "id": "sjjif",
+          "quando": "SJJIF"
         }
       ]
     },
@@ -1892,6 +1942,12 @@
           ],
           "quando": "longe do Rio",
           "ate": "outro torneio"
+        }
+      ],
+      "logos": [
+        {
+          "id": "adcc",
+          "quando": "ADCC"
         }
       ]
     }
