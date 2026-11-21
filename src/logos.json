@@ -1,31 +1,147 @@
 {
-  "ibjjf": { "arquivo": "cedidas/logos/ibjjf.png", "placa": "#ece7dc", "padrao": "\\bIBJJF\\b" },
-  "cbjj": { "arquivo": "cedidas/logos/cbjj.jpg", "placa": "#ffffff", "padrao": "\\bCBJJ\\b" },
-  "cbjjo": { "arquivo": "cedidas/logos/cbjjo.png", "placa": "#ece7dc", "padrao": "\\bCBJJO\\b" },
-  "cbjje": { "arquivo": "cedidas/logos/cbjje.jpg", "placa": "#222222", "padrao": "\\bCBJJE\\b" },
-  "sjjif": { "arquivo": "cedidas/logos/sjjif.png", "placa": "#ece7dc", "padrao": "\\bSJJIF\\b" },
-  "adcc": { "arquivo": "cedidas/logos/adcc.png", "placa": "#ece7dc", "padrao": "\\bADCC\\b" },
-  "polaris": { "arquivo": "cedidas/logos/polaris.png", "placa": "#ece7dc", "padrao": "\\bPolaris\\b" },
-  "fight-to-win": { "arquivo": "cedidas/logos/fight-to-win.png", "placa": "#14161b", "padrao": "Fight to Win" },
-  "one": { "arquivo": "cedidas/logos/one.png", "placa": "#000000", "padrao": "ONE Championship" },
-  "ajp": { "arquivo": "cedidas/logos/ajp.png", "placa": "#14161b", "padrao": "\\bAJP\\b" },
-  "flosports": { "arquivo": "cedidas/logos/flosports.png", "placa": "#ece7dc", "padrao": "FloGrappling" },
-  "copa-podio": { "arquivo": "cedidas/logos/copa-podio.png", "placa": "#14161b", "padrao": "Copa Pódio" },
-  "pride": { "arquivo": "cedidas/logos/pride.jpg", "placa": "#ffffff", "padrao": "\\bPride\\b" },
-  "pancrase": { "arquivo": "cedidas/logos/pancrase.png", "placa": "#ece7dc", "padrao": "\\bPancrase\\b" },
-  "shooto": { "arquivo": "cedidas/logos/shooto.png", "placa": "#ffffff", "padrao": "\\bShooto\\b" },
-  "ivc": { "arquivo": "cedidas/logos/ivc.jpg", "placa": "#ffffff", "padrao": "\\bIVC\\b" },
-  "gracie-barra": { "arquivo": "cedidas/logos/gracie-barra.png", "placa": "#14161b", "padrao": "Gracie Barra" },
-  "alliance": { "arquivo": "cedidas/logos/alliance.png", "placa": "#ece7dc", "padrao": "\\bAlliance\\b" },
-  "atos": { "arquivo": "cedidas/logos/atos.png", "placa": "#ece7dc", "padrao": "\\bAtos\\b" },
-  "nova-uniao": { "arquivo": "cedidas/logos/nova-uniao.png", "placa": "#ece7dc", "padrao": "Nova União" },
-  "checkmat": { "arquivo": "cedidas/logos/checkmat.png", "placa": "#ece7dc", "padrao": "Check[Mm]at" },
-  "btt": { "arquivo": "cedidas/logos/btt.jpg", "placa": "#ffffff", "padrao": "Brazilian Top Team" },
-  "chute-boxe": { "arquivo": "cedidas/logos/chute-boxe.png", "placa": "#ece7dc", "padrao": "Chute Boxe" },
-  "10th-planet": { "arquivo": "cedidas/logos/10th-planet.jpg", "placa": "#000000", "padrao": "10th Planet" },
-  "aoj": { "arquivo": "cedidas/logos/aoj.jpg", "placa": "#000000", "padrao": "Art of Jiu.Jitsu" },
-  "b-team": { "arquivo": "cedidas/logos/b-team.png", "placa": "#ffffff", "padrao": "B-Team" },
-  "graciemag": { "arquivo": "cedidas/logos/graciemag.png", "placa": "#14161b", "padrao": "Graciemag" },
-  "tatame": { "arquivo": "cedidas/logos/tatame.png", "placa": "#14161b", "padrao": "revista Tatame|site Tatame" },
-  "black-belt": { "arquivo": "cedidas/logos/black-belt.png", "placa": "#000000", "padrao": "revista Black Belt|Black Belt Magazine" }
+  "ibjjf": {
+    "arquivo": "cedidas/logos/ibjjf.png",
+    "placa": "#ece7dc",
+    "padrao": "\\bIBJJF\\b"
+  },
+  "cbjj": {
+    "arquivo": "cedidas/logos/cbjj.jpg",
+    "placa": "#ffffff",
+    "padrao": "\\bCBJJ\\b"
+  },
+  "cbjjo": {
+    "arquivo": "cedidas/logos/cbjjo.png",
+    "placa": "#ffffff",
+    "padrao": "\\bCBJJO\\b"
+  },
+  "cbjje": {
+    "arquivo": "cedidas/logos/cbjje.jpg",
+    "placa": "#222222",
+    "padrao": "\\bCBJJE\\b"
+  },
+  "sjjif": {
+    "arquivo": "cedidas/logos/sjjif.png",
+    "placa": "#ece7dc",
+    "padrao": "\\bSJJIF\\b"
+  },
+  "adcc": {
+    "arquivo": "cedidas/logos/adcc.png",
+    "placa": "#ece7dc",
+    "padrao": "\\bADCC\\b"
+  },
+  "polaris": {
+    "arquivo": "cedidas/logos/polaris.png",
+    "placa": "#ece7dc",
+    "padrao": "\\bPolaris\\b"
+  },
+  "fight-to-win": {
+    "arquivo": "cedidas/logos/fight-to-win.png",
+    "placa": "#14161b",
+    "padrao": "Fight to Win"
+  },
+  "one": {
+    "arquivo": "cedidas/logos/one.png",
+    "placa": "#000000",
+    "padrao": "ONE Championship"
+  },
+  "ajp": {
+    "arquivo": "cedidas/logos/ajp.png",
+    "placa": "#14161b",
+    "padrao": "\\bAJP\\b"
+  },
+  "flosports": {
+    "arquivo": "cedidas/logos/flosports.png",
+    "placa": "#ece7dc",
+    "padrao": "FloGrappling"
+  },
+  "copa-podio": {
+    "arquivo": "cedidas/logos/copa-podio.png",
+    "placa": "#14161b",
+    "padrao": "Copa Pódio"
+  },
+  "pride": {
+    "arquivo": "cedidas/logos/pride.jpg",
+    "placa": "#ffffff",
+    "padrao": "\\bPride\\b"
+  },
+  "pancrase": {
+    "arquivo": "cedidas/logos/pancrase.png",
+    "placa": "#ece7dc",
+    "padrao": "\\bPancrase\\b"
+  },
+  "shooto": {
+    "arquivo": "cedidas/logos/shooto.png",
+    "placa": "#ffffff",
+    "padrao": "\\bShooto\\b"
+  },
+  "ivc": {
+    "arquivo": "cedidas/logos/ivc.jpg",
+    "placa": "#ffffff",
+    "padrao": "\\bIVC\\b"
+  },
+  "gracie-barra": {
+    "arquivo": "cedidas/logos/gracie-barra.png",
+    "placa": "#14161b",
+    "padrao": "Gracie Barra"
+  },
+  "alliance": {
+    "arquivo": "cedidas/logos/alliance.png",
+    "placa": "#ece7dc",
+    "padrao": "\\bAlliance\\b"
+  },
+  "atos": {
+    "arquivo": "cedidas/logos/atos.png",
+    "placa": "#ece7dc",
+    "padrao": "\\bAtos\\b"
+  },
+  "nova-uniao": {
+    "arquivo": "cedidas/logos/nova-uniao.png",
+    "placa": "#ece7dc",
+    "padrao": "Nova União"
+  },
+  "checkmat": {
+    "arquivo": "cedidas/logos/checkmat.png",
+    "placa": "#ece7dc",
+    "padrao": "Check[Mm]at"
+  },
+  "btt": {
+    "arquivo": "cedidas/logos/btt.jpg",
+    "placa": "#ffffff",
+    "padrao": "Brazilian Top Team"
+  },
+  "chute-boxe": {
+    "arquivo": "cedidas/logos/chute-boxe.png",
+    "placa": "#ece7dc",
+    "padrao": "Chute Boxe"
+  },
+  "10th-planet": {
+    "arquivo": "cedidas/logos/10th-planet.jpg",
+    "placa": "#000000",
+    "padrao": "10th Planet"
+  },
+  "aoj": {
+    "arquivo": "cedidas/logos/aoj.jpg",
+    "placa": "#000000",
+    "padrao": "Art of Jiu.Jitsu"
+  },
+  "b-team": {
+    "arquivo": "cedidas/logos/b-team.png",
+    "placa": "#ffffff",
+    "padrao": "B-Team"
+  },
+  "graciemag": {
+    "arquivo": "cedidas/logos/graciemag.png",
+    "placa": "#14161b",
+    "padrao": "Graciemag"
+  },
+  "tatame": {
+    "arquivo": "cedidas/logos/tatame-capa.jpg",
+    "placa": "#000000",
+    "padrao": "revista Tatame|site Tatame"
+  },
+  "black-belt": {
+    "arquivo": "cedidas/logos/black-belt.png",
+    "placa": "#000000",
+    "padrao": "revista Black Belt|Black Belt Magazine"
+  }
 }
