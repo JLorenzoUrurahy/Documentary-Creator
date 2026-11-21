@@ -130,7 +130,7 @@ Na televisão, o resultado ganha um peso que nenhuma briga de praia teve. Para o
 
 A revanche demora seis anos. Em 27 de setembro de 1997, o Pentagon Combat leva ao Tijuca Tênis Clube a luta que faltava: Renzo Gracie, neto de Carlos, contra Eugênio Tadeu. Renzo domina o começo no chão. Tadeu responde chutando as pernas dele. Perto do fim, a confusão começa: há relatos de Renzo agredido por gente de fora da grade e de Renzo acertando um torcedor. As luzes se apagam. Cadeiras voam, uma arma é disparada. A luta termina sem vencedor.
 
-### c07-proibicao (mapa · 1997 · 32 s)
+### c07-proibicao (mapa · 1997 · 33 s)
 
 As imagens da pancadaria correm o mundo. A prefeitura do Rio proíbe os eventos de vale-tudo na cidade. As fontes não concordam sobre quanto tempo a proibição durou: umas falam em três anos, outras em quase dez. O certo é que o Rio, a casa do vale-tudo, fica sem ele. E o patrono do evento, o xeque Tahnoon, tira a sua conclusão em Abu Dhabi. No ano seguinte, ele cria um torneio só de luta agarrada, sem socos. É o ADCC, assunto de outro capítulo.
 
@@ -162,7 +162,7 @@ E a luta livre não acabou naquela noite do Grajaú. Marco Ruas, aluno de Robert
 
 A rixa com a luta livre atravessou mais de meio século. Mas, para entender como o jiu-jitsu chegou tão forte a 1991, é preciso voltar. Maio de 1955. Hélio Gracie perde para Waldemar Santana, seu ex-aluno, depois de mais de três horas de luta. Quem vai responder não é Hélio, nem Carlos. É um sobrinho de vinte e poucos anos, filho de Carlos. O nome dele é Carlson Gracie. E, com ele, o jiu-jitsu deixa de ser assunto de uma família só.
 
-Duração aproximada: 22 min 46 s.
+Duração aproximada: 22 min 48 s.
 
 ## Conferir antes de publicar
 

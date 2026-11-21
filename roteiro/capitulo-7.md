@@ -78,7 +78,7 @@ Os primeiros anos criam os ídolos do esporte. Royler Gracie, filho de Hélio, g
 
 Em 2000, o Mundial leva um susto. Um havaiano de vinte e um anos, BJ Penn, chega ao Rio com a faixa preta recém-amarrada. Tinha começado a treinar aos dezessete e recebeu a preta de André Pederneiras, da Nova União, em cerca de três anos. Semanas depois, vence o peso pena. Na final, segundo a Graciemag, bate o brasileiro Edson Diniz. Ele costuma ser lembrado como o primeiro campeão mundial faixa-preta de fora do Brasil. Com uma ressalva: nas tabelas da Wikipedia, João Roque, campeão em 1997, aparece com a bandeira de Angola.
 
-### b06-mulheres (cartao · 1998 · 47 s)
+### b06-mulheres (cartao · 1998 · 48 s)
 
 E as mulheres? Nos dois primeiros Mundiais, não há categoria feminina. Elas entram em 1998, com só duas categorias de peso e as faixas misturadas, da azul à preta. Uma das campeãs daquele ano é Rosângela Conceição, ainda faixa-roxa. Em 1999, Alessandra Vieira, a Leka, vence já de faixa preta e fica conhecida como a primeira campeã mundial nessa faixa. Depois vêm Hannette Staack, com o primeiro título em 2002, e Kyra Gracie, campeã em 2006, apontada como a primeira mulher da família a competir de forma regular. Aos poucos, as chaves femininas crescem.
 
@@ -154,7 +154,7 @@ E os Jogos Olímpicos? O judô estreou lá em 1964. O jiu-jitsu brasileiro nunca
 
 O esporte chega a 2007 assim: uma regra, um calendário, um Mundial na Califórnia e uma discussão que não terminou. Mas tudo isso é jiu-jitsu de kimono, entre gente de jiu-jitsu. Só que, em 1998, longe do Rio, um xeque de Abu Dhabi tinha criado outro torneio. Outro regulamento. Sem kimono. Com dinheiro para o campeão. E com a porta aberta para quem viesse do wrestling, a luta olímpica. O nome dele era ADCC. É lá, no próximo capítulo, que o jiu-jitsu vai descobrir o que ainda não sabia.
 
-Duração aproximada: 23 min 36 s.
+Duração aproximada: 23 min 37 s.
 
 ## Conferir antes de publicar
 

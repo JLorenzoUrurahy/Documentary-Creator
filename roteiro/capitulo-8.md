@@ -118,7 +118,7 @@ O primeiro deles é Roger Gracie, carioca, nascido em 1981, neto de Carlos Graci
 
 Jacaré não sai de mãos vazias. Ele é o campeão até oitenta e oito quilos e o vice do absoluto. E Marcelo Garcia, a revelação de dois anos antes, confirma: é bicampeão até setenta e sete quilos. No absoluto, Marcelo enfrenta Ricco Rodriguez, ex-campeão peso pesado do UFC. O Sherdog fala em mais de quarenta quilos de diferença. Marcelo vence com uma chave de calcanhar. Depois é finalizado por Jacaré e fica com o bronze. Um lutador de setenta e sete quilos no pódio sem limite de peso: o recado estava dado.
 
-### c04-feminino (cartao · 2005 · 38 s)
+### c04-feminino (cartao · 2005 · 37 s)
 
 Long Beach tem outra novidade. Pela tabela de campeões do evento, é em 2005 que aparecem as primeiras categorias femininas. São duas, divididas nos sessenta quilos. Na mais leve, a campeã é Kyra Gracie. Segundo o Sherdog, ela estreia vencendo no caminho a favorita, Leka Vieira. Na mais pesada, e também no absoluto feminino, o ouro é de Juliana Borges. Kyra voltaria a vencer em 2007 e em 2011. Hannette Staack também somaria três títulos. O torneio do xeque já não era só dos homens.
 
@@ -154,7 +154,7 @@ Vale a pena lutar sem kimono? Há ganhos claros. Sem pano para segurar, a luta f
 
 Em treze anos, o torneio de um xeque virou a régua do jiu-jitsu sem kimono. Repare nos golpes deste capítulo. A guilhotina de Marcelo e a guarda X, que as fontes também ligam a ele. O triângulo de Braulio. As chaves de calcanhar. Nenhuma dessas posições nasceu pronta. Cada uma foi a resposta de alguém a um problema. E cada uma cobrou um preço de quem apostou nela. De onde elas vieram, o que resolveram e quanto custaram: essa é a história do próximo capítulo, a evolução da técnica.
 
-Duração aproximada: 22 min 17 s.
+Duração aproximada: 22 min 16 s.
 
 ## Conferir antes de publicar
 
