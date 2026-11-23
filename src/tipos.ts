@@ -82,7 +82,8 @@ export type CenaMapa = Base & {
   vista: Vista;
   // Se existir, a câmera viaja de "vista" até aqui ao longo da cena.
   ate?: Vista;
-  lugares?: { nome: string; coord: Coord; quando?: string; destaque?: boolean }[];
+  // "sobe": desloca o rótulo na vertical (px, negativo sobe) quando dois pontos próximos se cobrem.
+  lugares?: { nome: string; coord: Coord; quando?: string; destaque?: boolean; sobe?: number }[];
   rotas?: { pontos: Coord[]; quando?: string; ate?: string }[];
 };
 

@@ -126,7 +126,7 @@ export const Mapa: React.FC<{ cena: CenaMapa; ritmo: Ritmo }> = ({
             const o = projecao(outro.coord);
             return o && Math.abs(o[0] - xy[0]) < 300 && Math.abs(o[1] - xy[1]) < 50;
           }).length;
-          const descer = vizinhos * 46;
+          const descer = vizinhos * 46 + (lugar.sobe ?? 0);
           const cor = lugar.destaque ? COR.dourado : COR.texto;
           // Rótulo para a esquerda quando o ponto está perto da borda direita.
           const esquerda = xy[0] > LARGURA - 420;
