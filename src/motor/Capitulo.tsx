@@ -191,13 +191,13 @@ const LogosDaCena: React.FC<{ cena: Cena; ritmo: Ritmo }> = ({ cena, ritmo }) =>
     <div
       style={{
         position: "absolute",
-        // No mapa, o canto de cima tem rótulos de lugares: vai para baixo, à esquerda.
-        ...(cena.tipo === "mapa"
-          ? { left: MARGEM, top: 730 }
+        // No mapa, o canto de cima tem rótulos de lugares; no perfil, o nome da
+        // pessoa: nos dois, vai para baixo, à esquerda (no perfil, sob o retrato).
+        ...(cena.tipo === "mapa" || cena.tipo === "perfil"
+          ? { left: MARGEM, top: cena.tipo === "perfil" ? 748 : 730 }
           : { right: MARGEM, top: 150 }),
         display: "flex",
-        // No perfil, empilha para não encostar no nome da pessoa.
-        flexDirection: cena.tipo === "perfil" ? "column" : "row",
+        flexDirection: "row",
         gap: 16,
       }}
     >

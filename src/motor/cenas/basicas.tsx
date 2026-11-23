@@ -328,7 +328,7 @@ export const Comparacao: React.FC<{ cena: CenaComparacao; ritmo: Ritmo }> = ({
   </AbsoluteFill>
 );
 
-type Foto = { arquivo: string; autor: string; licenca: string };
+type Foto = { arquivo: string; autor: string; licenca: string; credito?: string };
 const fotos = indiceDeFotos as Record<string, Foto>;
 
 export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
@@ -371,7 +371,7 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
                   height: 380,
                   borderRadius: 190,
                   objectFit: "cover",
-                  objectPosition: "50% 20%",
+                  objectPosition: foto.credito ? "50% 50%" : "50% 20%",
                   // Preto e branco para todas as fotos terem a mesma cara.
                   filter: "grayscale(1) contrast(1.08)",
                   opacity: p,
@@ -421,7 +421,8 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
                 opacity: p * 0.8,
               }}
             >
-              Foto: {foto.autor.slice(0, 60)} · {foto.licenca} · Wikimedia Commons
+              {foto.credito ??
+                `Foto: ${foto.autor.slice(0, 60)} · ${foto.licenca} · Wikimedia Commons`}
             </div>
           ) : null}
         </div>

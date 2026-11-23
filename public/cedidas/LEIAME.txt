@@ -17,3 +17,8 @@ Baixa resolução: CBJJO (70x40), Tatame (119x24), ADCC (258x120).
 Atualização de 21/11/2026, arquivos enviados pelo dono na conversa: ADCC (516x239) e
 CBJJO (600x600) em tamanho maior, e a capa da revista Tatame nº 77 (julho de 2002),
 usada no lugar do logo pequeno da revista.
+
+retratos/: ilustrações feitas e cedidas pelo autor do documentário (crédito na
+tela: "Ilustração original"). Entram no índice src/fotos.json com o campo
+"credito". Aplicados: Euclydes Hatem, Ricardo Arona, Roberto Correa (Gordo),
+Nelson Monteiro, Rafael Mendes, irmãos Miyao e Keenan Cornelius.
