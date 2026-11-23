@@ -2497,7 +2497,13 @@
           "quando": "sai Oswaldo Fadda"
         }
       ],
-      "fundo": "Jigoro Kano and Sumiyuki Kotani.jpg"
+      "fundo": "Jigoro Kano and Sumiyuki Kotani.jpg",
+      "logos": [
+        {
+          "id": "nova-uniao",
+          "quando": "Nova União"
+        }
+      ]
     },
     {
       "id": "d13-desafio",
