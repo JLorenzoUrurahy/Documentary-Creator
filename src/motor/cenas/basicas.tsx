@@ -335,11 +335,6 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
   cena,
   ritmo,
 }) => {
-  const iniciais = cena.nome
-    .split(/\s+/)
-    .map((parte) => parte[0])
-    .slice(0, 2)
-    .join("");
   const anel = suave(ritmo.quadro, 0, 40);
   const raio = 190;
   const volta = 2 * Math.PI * raio;
@@ -358,9 +353,10 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
           gap: 100,
         }}
       >
+        {/* Sem foto de uso livre nem ilustração: só o texto, sem círculo. */}
+        {foto ? (
         <div style={{ width: 440, flexShrink: 0 }}>
           <div style={{ position: "relative", width: 440, height: 440 }}>
-            {foto ? (
               <Img
                 src={staticFile(foto.arquivo)}
                 style={{
@@ -377,11 +373,7 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
                   opacity: p,
                 }}
               />
-            ) : null}
             <svg width={440} height={440} style={{ position: "absolute" }}>
-              {foto ? null : (
-                <circle cx={220} cy={220} r={raio} fill={COR.painel} />
-              )}
               <circle
                 cx={220}
                 cy={220}
@@ -393,23 +385,8 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
                 strokeDashoffset={volta * (1 - anel)}
                 transform="rotate(-90 220 220)"
               />
-              {foto ? null : (
-                <text
-                  x={220}
-                  y={270}
-                  textAnchor="middle"
-                  fontFamily={FONTE_TITULO}
-                  fontWeight={700}
-                  fontSize={150}
-                  fill={COR.texto}
-                  opacity={p}
-                >
-                  {iniciais}
-                </text>
-              )}
             </svg>
           </div>
-          {foto ? (
             <div
               style={{
                 fontFamily: FONTE_TEXTO,
@@ -424,8 +401,8 @@ export const Perfil: React.FC<{ cena: CenaPerfil; ritmo: Ritmo }> = ({
               {foto.credito ??
                 `Foto: ${foto.autor.slice(0, 60)} · ${foto.licenca} · Wikimedia Commons`}
             </div>
-          ) : null}
         </div>
+        ) : null}
         <div style={{ flex: 1 }}>
           {cena.papel ? (
             <div style={{ opacity: surgir(ritmo, 0), marginBottom: 16 }}>

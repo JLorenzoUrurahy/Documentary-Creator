@@ -20,6 +20,7 @@ import {
 import type { AudioCapitulo, Capitulo, Cena } from "../tipos";
 import fundos from "../fundos.json";
 import logos from "../logos.json";
+import fotos from "../fotos.json";
 import {
   Cartao,
   Citacao,
@@ -193,7 +194,9 @@ const LogosDaCena: React.FC<{ cena: Cena; ritmo: Ritmo }> = ({ cena, ritmo }) =>
         position: "absolute",
         // No mapa, o canto de cima tem rótulos de lugares; no perfil, o nome da
         // pessoa: nos dois, vai para baixo, à esquerda (no perfil, sob o retrato).
-        ...(cena.tipo === "mapa" || cena.tipo === "perfil"
+        // Perfil sem retrato: o texto ocupa a esquerda, a logo volta para o canto.
+        ...(cena.tipo === "mapa" ||
+        (cena.tipo === "perfil" && cena.wiki && cena.wiki in fotos)
           ? { left: MARGEM, top: cena.tipo === "perfil" ? 748 : 730 }
           : { right: MARGEM, top: 150 }),
         display: "flex",
