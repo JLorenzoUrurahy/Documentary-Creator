@@ -18,9 +18,9 @@ Denver, Colorado, doze de novembro de 1993. Num ginásio, montaram uma jaula de 
 
 Para entender como aquele kimono chegou a Denver, é preciso voltar mais de vinte anos. Rorion Gracie nasce no Rio em 1952. É o filho mais velho de Hélio, e aprende a ensinar jiu-jitsu ainda garoto, na academia do pai. Em dezembro de 1969, aos dezessete anos, viaja de férias para os Estados Unidos. Acaba ficando um ano, e só volta no fim de 1970. No Rio, forma-se em direito pela universidade federal. Mas não esquece a América.
 
-### a03-california (mapa · 1978 · 30 s)
+### a03-california (mapa · 1978 · 44 s)
 
-Em 1978, Rorion se muda de vez. Tem vinte e seis anos e escolhe o sul da Califórnia, na região de Los Angeles. Ali, ninguém conhece o jiu-jitsu da família. Para pagar as contas, ele trabalha como figurante no cinema e em séries de televisão, como Casal Vinte. E monta a primeira academia onde dá: na garagem de casa, em Hermosa Beach, uma cidade de praia. Estende tatames no chão e convida quem aparece para experimentar.
+Em 1978, Rorion se muda de vez. Tem vinte e seis anos e escolhe o sul da Califórnia, na região de Los Angeles. Ali, ninguém conhece o jiu-jitsu da família. Para pagar as contas, ele trabalha como figurante no cinema e em séries de televisão, como Casal Vinte. E monta a primeira academia onde dá: na garagem de casa, em Hermosa Beach, uma cidade de praia. Estende tatames no chão e convida quem aparece para experimentar. Do outro lado do país, segundo nota do livro de Robert Drysdale, o primo Reylson Gracie abre academia em Miami em 1982.
 
 ### a04-desafio (cartao · 1985 · 39 s)
 
@@ -162,9 +162,13 @@ A Chute Boxe nasceu em 1978, fundada por Rudimar Fedrigo, como academia de muay 
 
 Outros Gracie seguem o mesmo caminho: os irmãos Renzo e Ralph, netos de Carlos. Ralph, apelidado de Pitbull, vence três lutas seguidas num evento americano, entre 1995 e 1996, todas em menos de dois minutos. Renzo ganha um torneio de três lutas na Carolina do Norte, em 1995. No ano seguinte, nocauteia o russo Oleg Taktarov com um chute dado do chão. Depois vai ao Japão: empata na primeira noite do Pride e vence na segunda edição. Os dois passam a ensinar nos Estados Unidos.
 
-### c13-racha (cartao · 2000 · 38 s)
+### c13-racha (cartao · 2000 · 42 s)
 
-Em 2000, a equipe de Carlson racha. Ele passava boa parte do tempo nos Estados Unidos, e a briga, segundo as fontes, envolve dinheiro: a parte do mestre nas bolsas dos lutadores. Os relatos divergem nos detalhes. Bustamante, Sperry, Libório e Luís Roberto Duarte, o Bebeo, saem e fundam, no Rio, a Brazilian Top Team. Carlson nunca perdoa: chama os que saíram de creontes, traidores. Mas um problema maior espera todos eles. Lá fora, os adversários já tinham estudado o jiu-jitsu. E aprendido a não ser finalizados.
+Em 2000, a equipe de Carlson racha. Ele morava nos Estados Unidos, e os lutadores treinavam no Rio. No centro da briga está um contrato: vinte por cento das bolsas e dos patrocínios para o mestre. Murilo Bustamante conta, em entrevista a Robert Drysdale, que todos já pagavam essa parte. O problema, diz ele, era o texto não obrigar Carlson a treinar ninguém. Bustamante afirma que propôs reescrever, que ninguém assinou e que foi expulso da equipe pela internet. Os outros, segundo ele, o seguiram. Com Sperry, Libório e Luís Roberto Duarte, o Bebeo, ele funda a Brazilian Top Team.
+
+### c13b-dois-lados (comparacao · 2000 · 46 s)
+
+O outro lado conta diferente. Carlson Gracie Júnior, filho do mestre, diz a Drysdale que um patrocínio destinado a reformar a academia da Figueiredo de Magalhães foi para outra academia, na Lagoa, e que os lutadores foram treinar lá sem avisar. Só depois, segundo ele, o pai exigiu o contrato. Wallid Ismail ficou: diz que pagou Carlson até a última luta. Para Drysdale, vinte por cento está acima do padrão das lutas, de cinco a dez, mas ninguém estava errado: pesaram a distância e a falta de conversa. Carlson nunca perdoa e chama os que saíram de creontes, traidores. Lá fora, os adversários já tinham aprendido a não ser finalizados.
 
 ### d01-wrestling (cartao · 1996 · 40 s)
 
@@ -222,7 +226,7 @@ O que o jiu-jitsu ganhou com o vale-tudo? Quase tudo. Em menos de dez anos, saiu
 
 Só que essa é metade da história. Enquanto o mundo olhava para a jaula, nos Estados Unidos e no Japão, no Rio de Janeiro acontecia outra coisa, com menos barulho. O jiu-jitsu de kimono, aquele sem socos, estava virando um esporte de verdade. Com uma confederação, criada em 1994. Com regras, pontos e categorias. E com um campeonato mundial, disputado pela primeira vez em 1996, num ginásio da Tijuca. Para muita gente, o futuro da arte estava ali. No próximo capítulo: nasce o esporte organizado.
 
-Duração aproximada: 32 min 17 s.
+Duração aproximada: 33 min 21 s.
 
 ## Conferir antes de publicar
 
@@ -272,7 +276,8 @@ Duração aproximada: 32 min 17 s.
 - [CONFERIR] c10: a lista de alunos vem da Wikipedia de Carlson, que não diz quem lutou vale-tudo nos anos 1990. 'Wallid venceu no kimono mais de um Gracie' (Ralph, Renzo e Royce) e 'Bustamante e Sperry campeões de jiu-jitsu' foram escritos de memória. Belfort: UFC 12, 7/2/1997, aos 19 anos (Wikipedia). O bloco D pode contar Belfort x Couture: alinhar.
 - [CONFERIR] c11: Chute Boxe fundada em 1978 por Rudimar Fedrigo; grappling a partir de 1991; três dos quatro cinturões do IVC (Wikipedia). Belfort x Wanderlei: UFC Brasil, 16/10/1998, São Paulo, nocaute técnico aos 0:44. Chamar essa luta de começo da rivalidade Carlson x Chute Boxe é leitura minha; a Wikipedia situa a rivalidade forte já na fase BTT x Chute Boxe, no Pride (anos 2000).
 - [CONFERIR] c12: Ralph: Extreme Fighting 1, 2 e 3 (nov. 1995 a out. 1996; a segunda edição foi em Montreal, Canadá). Renzo: WCC 1 (17/10/1995, Charlotte), Taktarov (22/11/1996, nocaute com chute dado do chão), Pride 1 (empate com Akira Shoji), Pride 2 (guilhotina em Sanae Kikuta). As datas em que cada um se mudou e abriu academia nos EUA não estão nas fontes lidas.
-- [CONFERIR] c13: BTT fundada em abril de 2000 por Bustamante, Libório, Sperry e Luís Roberto Duarte (apelido 'Bebeo' de memória: conferir). Motivo do racha: a Wikipedia fala só em 'disputas'; sites de fãs falam em contrato e percentual das bolsas com Carlson morando nos EUA; Libório (Jiu-Jitsu Style) conta outra versão, ligada ao pouco envolvimento de Carlson nos treinos. Não há fonte primária lida. 'Creonte' vem de um personagem de novela; Carlson e os fundadores da BTT: tratar com cuidado (pessoas vivas e família).
+- [CONFERIR] c13: BTT fundada em abril de 2000 por Bustamante, Libório, Sperry e Luís Roberto Duarte (apelido 'Bebeo' de memória: conferir). O contrato de 20% das bolsas e patrocínios, a proposta de reescrever, a recusa de todos em assinar e a expulsão 'pela internet' vêm só da entrevista de Murilo Bustamante a Robert Drysdale (versão de parte, pessoa viva). Libório (Jiu-Jitsu Style) liga o racha ao pouco envolvimento de Carlson nos treinos. 'Creonte' vem de um personagem de novela.
+- [CONFERIR] c13b: patrocínio da AABB em 1999 para reformar a academia da Figueiredo de Magalhães, que teria ido para uma academia na AABB Lagoa: só a entrevista de Carlson Gracie Jr. a Drysdale (a narração não cita a AABB nem diz quem desviou). Bustamante dá outra razão para a mudança de local: treinavam na academia dele, no Leblon, por ser mais fácil de chegar e estacionar. 'Paguei até a última luta': só a entrevista de Wallid Ismail. O padrão de 5% a 10% é dito por Drysdale numa pergunta de entrevista, por experiência própria, sem dado de mercado. Ficaram de fora, de propósito, as afirmações de bolsas declaradas a menor e de documentos sumidos.
 - [CONFERIR] Pronúncias a ouvir: Shooto, Sayama, Nishi, Yamamoto, Koichiro Kimura, Nakai, Budokan, Choke, Takada, Anjo, Pride, Tokyo Dome, Colosseum, Funaki, Pancrase, WVC, muay thai, Brazilian Top Team, Taktarov.
 - [CONFERIR] d11: Regras Unificadas. Nova Jersey passou a sancionar eventos em setembro de 2000 (IFC) e o UFC 28 (novembro de 2000) já seguiu o regulamento do estado, mas a reunião que fechou o texto das 'Regras Unificadas' foi em 3 de abril de 2001, e o nome oficial só foi adotado pela associação das comissões em 2009. A narração diz 'em 2000 [...] um regulamento que fica conhecido como Regras Unificadas'.
 - [CONFERIR] d08: 'um Gracie perdeu no vale-tudo'. A página do Pride 8 na Wikipedia diz que foi a primeira derrota de um Gracie no MMA; isso ignora derrotas antigas (Hélio x Waldemar Santana, 1955) e a retirada de Royce no UFC 3. A narração não afirma 'primeira'. Conferir também a diferença de peso Sakuraba x Royler (fonte: cerca de 30 libras, uns 13,6 kg).
@@ -287,6 +292,8 @@ Duração aproximada: 32 min 17 s.
 - [CONFERIR] Pronúncias a ouvir na narração: Coleman, Shamrock, Kazushi Sakuraba, ground and pound, wrestler, kickboxing, Kerr, Frye, Severn, Royce, Ryan.
 - [CONFERIR] Fotos: conferir se há imagem livre na Commons para Mark_Coleman, Maurice_Smith_(fighter) e Kazushi_Sakuraba.
 - [CONFERIR] d10b: perfil novo de Ryan Gracie. A causa da morte não entrou na narração (só uma fonte a detalha). O dia do nascimento diverge (13 ou 14 de agosto), por isso só o ano.
+- [CONFERIR] a03: Reylson Gracie com academia em Miami em 1982 vem de uma nota de rodapé de Drysdale, que cita Pedreira (2015) e a chama de 'oficialmente a primeira academia de BJJ nos EUA'; isso convive mal com a garagem de Rorion em 1978 (informal). A narração só registra a data. Reylson é filho de Carlos, portanto primo de Rorion: conferir.
+- [CONFERIR] Pronúncias a ouvir: Reylson, Figueiredo de Magalhães.
 
 ## Fontes
 
@@ -346,6 +353,7 @@ Duração aproximada: 32 min 17 s.
 - [Wikipedia (en): Ryan Gracie](https://en.wikipedia.org/wiki/Ryan_Gracie)
 - [Sherdog: Ryan Gracie Found Dead at 33](https://www.sherdog.com/news/news/Ryan-Gracie-Found-Dead-at-33-10400)
 - [Tapology: Ryan Gracie](https://www.tapology.com/fightcenter/fighters/ryan-gracie)
+- [Robert Drysdale, The Rise and Evolution of Brazilian Jiu-Jitsu (2023)](https://www.amazon.com/dp/B0BW2GFRLV)
 
 ## Créditos das fotos
 

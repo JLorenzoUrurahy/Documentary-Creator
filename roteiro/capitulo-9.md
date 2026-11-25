@@ -78,9 +78,9 @@ O que a 50/50 resolveu? Para o lutador mais leve, ela anula a passagem de guarda
 
 Você já conhece a guarda De la Riva: quem está por baixo engancha o pé por fora da perna do adversário. Na versão invertida, o gancho entra por dentro, e o lutador aprende a girar de cabeça para baixo. Dessa família de ganchos e giros nasce o berimbolo. Em vez de derrubar, quem está sentado rola sobre os ombros, passa por baixo do quadril do outro e aparece atrás dele. O alvo são as costas, a posição que mais vale na regra: quatro pontos.
 
-### b06-quem-inventou (linhagem · 2010 · 37 s)
+### b06-quem-inventou (linhagem · 2010 · 48 s)
 
-Quem inventou? Samuel Braga, campeão mundial de 2005, reivindica a autoria: disse à Graciemag que criou o movimento em 2003, ainda faixa-roxa. Ele mesmo conta ao site BJJ Heroes que brasileiro não batizava posição, e que o nome berimbolo pegou nos Estados Unidos, por volta de 2010, quando os irmãos Mendes passaram a vencer com ele. A origem da palavra, as fontes não esclarecem. Depois vêm os gêmeos Paulo e João Miyao, que, segundo Braga, modernizam o golpe.
+Quem inventou? Samuel Braga, campeão mundial de 2005, reivindica a autoria: disse à Graciemag que criou o movimento em 2003, ainda faixa-roxa. Ele mesmo conta ao site BJJ Heroes que brasileiro não batizava posição, e que o nome berimbolo pegou nos Estados Unidos, por volta de 2010, quando os irmãos Mendes passaram a vencer com ele. A origem da palavra, as fontes não esclarecem. Depois vêm os gêmeos Paulo e João Miyao, que, segundo Braga, modernizam o golpe. Para Robert Drysdale, novidade é modo de dizer: guarda X, borboleta e até berimbolo já eram praticados no judô kosen, no Japão, na primeira metade do século vinte.
 
 ### b07-miyao (perfil · 2012 · 33 s)
 
@@ -98,9 +98,9 @@ O passo seguinte vem de um americano, Keenan Cornelius, então na equipe Atos. E
 
 Essa geração muda também a academia. Em julho de 2012, Rafael e Guilherme Mendes, criados em Rio Claro, abrem a Art of Jiu Jitsu em Costa Mesa, na Califórnia, com apoio do patrocinador Pat Tenore. O modelo chama atenção: tatame e paredes brancas, turmas de crianças tratadas como equipe de base, técnica gravada e vendida em vídeo pela internet. Dali vão sair campeões mundiais formados desde pequenos. O jiu-jitsu de competição passa a ter método e escola de formação.
 
-### b11-moderno-raiz (comparacao · 2014 · 34 s)
+### b11-moderno-raiz (comparacao · 2014 · 45 s)
 
-Tudo isso ganha um apelido: jiu-jitsu moderno. Do outro lado, o jiu-jitsu raiz. Kron Gracie, filho de Rickson, disse à revista Tatame que o berimbolo é um jeito de trapacear para fazer ponto. O argumento: role de costas no chão numa briga, ou no MMA, e você leva um soco no rosto. Robert Drysdale, campeão e pesquisador, responde que isso vale para muitas técnicas aceitas. Dentro daquela regra, a posição resolve um problema real. E vencer o campeonato é o trabalho do atleta.
+Tudo isso ganha um apelido: jiu-jitsu moderno. Do outro lado, o jiu-jitsu raiz. Kron Gracie, filho de Rickson, disse à revista Tatame que o berimbolo é um jeito de trapacear para fazer ponto: no MMA, quem rola assim leva um soco no rosto. Em 2017, respondendo a críticas de Rickson, Robert Drysdale escreveu que, numa briga, o berimbolo não difere de muitas técnicas que o próprio Rickson ensina, como o estrangulamento de gola. No livro de 2023, porém, ele põe berimbolo e guarda de lapela entre as novidades que se afastam da luta real, e pede regras que barrem esse desvio.
 
 ### b12-o-preco (cartao · 2016 · 38 s)
 
@@ -114,9 +114,9 @@ Durante décadas, uma academia tradicional de jiu-jitsu ensinava a atacar o pesc
 
 Havia também o medo. A chave reta de pé força o tornozelo, e a dor avisa antes do estrago. A chave de calcanhar é diferente: prende a perna, gira o pé, e quem cede são os ligamentos do joelho, muitas vezes sem aviso. Por isso a regra de kimono permite a chave reta de pé e, para as faixas marrom e preta, a chave de joelho. Mas proíbe a de calcanhar. E proíbe cruzar a perna por fora do joelho do adversário, o gesto que trava a perna para a torção.
 
-### c03-excecoes (linha · 1955 · 31 s)
+### c03-excecoes (linha · 1955 · 43 s)
 
-Mas a perna nunca foi esquecida por todos. A luta livre brasileira, sem kimono, sempre atacou pés e joelhos. O sambo soviético fez da chave de perna uma especialidade, ainda que suas regras só aceitem as chaves retas. No Brasil, pesquisadores atribuem a Takeo Yano a difusão desses golpes. E os alunos de Oswaldo Fadda, no subúrbio do Rio, ficaram com a fama de vencer com chaves de pé. Segundo o livro de Reila Gracie, Hélio respondeu chamando aquilo de técnica de suburbano.
+Mas a perna nunca foi esquecida por todos. A luta livre brasileira, sem kimono, sempre atacou pés e joelhos. O sambo soviético fez da chave de perna uma especialidade, ainda que suas regras só aceitem as chaves retas. No Brasil, pesquisadores atribuem a Takeo Yano a difusão desses golpes. E os alunos de Oswaldo Fadda, no subúrbio do Rio, ficaram com a fama de vencer com chaves de pé. Segundo o livro de Reila Gracie, Hélio respondeu chamando aquilo de técnica de suburbano. E, já na regra de kimono, lembra Robert Drysdale, Rodrigo Comprido venceu o absoluto do Mundial de 1999 com uma chave de pé sobre Roleta.
 
 ### c04-imanari (perfil · 2000 · 37 s)
 
@@ -210,7 +210,7 @@ Vale olhar o caminho inteiro. Primeiro, a guarda fechada, com as pernas trancada
 
 Repare no que mudou em trinta anos. A técnica deixou de ser herança de família e virou conhecimento público: estudado, filmado e vendido. Quem cria uma posição pode ensiná-la ao mundo inteiro, e cobrar por isso. Os campeões viraram professores à distância. Faltava uma coisa: que a própria luta pagasse as contas. A partir de 2012, surgem eventos feitos para o público assistir. Toda essa técnica passou a valer dinheiro. É a era profissional, e é o nosso último capítulo.
 
-Duração aproximada: 28 min 51 s.
+Duração aproximada: 29 min 24 s.
 
 ## Conferir antes de publicar
 
@@ -233,7 +233,9 @@ Duração aproximada: 28 min 51 s.
 - [CONFERIR] b04: a frase de Rodolfo Vieira ('preferia perder a ganhar com a 50/50') vem do título de uma matéria do BJJ Eastern Europe que não abriu; conferir o contexto e a data.
 - [CONFERIR] b09: estreia da worm guard: a maioria das fontes dá o Pan de 2014 (contra Murilo Santana); o Grapplearts fala no Mundial de 2014. 'Então na equipe Atos' é de memória do pesquisador: conferir. A Copa Pódio anunciou a punição em julho de 2014, sem dizer qual seria; não confirmei se foi aplicada. A IBJJF nunca proibiu a guarda de lapela; a única restrição que achei é a de 2024 (b12).
 - [CONFERIR] b10: detalhes do modelo da Art of Jiu Jitsu (tatame e paredes brancas, programa infantil, vídeos pela internet, campeões formados desde crianças) são de conhecimento geral, não de uma fonte aberta nesta pesquisa: conferir no site da academia. Abertura em julho de 2012 em Costa Mesa com Pat Tenore: Wikipedia.
-- [CONFERIR] b11: a fala de Kron Gracie à Tatame e a defesa de Robert Drysdale vêm do resumo de busca de uma matéria do BJJ Eastern Europe (a página não abriu). Estão parafraseadas, não citadas; conferir o original antes de publicar. 'Campeão e pesquisador' para Drysdale: campeão do ADCC 2007 e autor de pesquisa sobre a história do jiu-jitsu.
+- [CONFERIR] b11: a fala de Kron Gracie à Tatame vem da matéria do BJJ Eastern Europe de 10/09/2014 (página aberta e lida; a data da entrevista à Tatame não aparece, por isso a narração não dá o ano). A matéria NÃO traz resposta de Drysdale: a defesa que narrávamos vinha de um resumo de busca. O que existe é um texto de Drysdale ao Global Training Report, reproduzido pelo BJJ Eastern Europe em 08/07/2017, respondendo a Rickson (não a Kron): na situação real, o berimbolo não difere de muitas técnicas que Rickson ensina, como as golas. As frases 'dentro da regra resolve um problema real' e 'vencer é o trabalho do atleta' não tinham fonte e saíram. A posição crítica é do livro de 2023 (berimbolo e guardas de lapela citados como sofisticação longe da luta real; pede regras voltadas à realidade do combate, barrando o que se afasta dela). O livro não pede o banimento do berimbolo pelo nome: a narração diz 'regras que barrem esse desvio'.
+- [CONFERIR] b06: a frase sobre o judô kosen é tese de Drysdale no livro de 2023 (guarda X, borboleta, De la Riva e 'até berimbolos' já conhecidos no kosen na primeira metade do século vinte, só usados no jiu-jitsu muito depois); ele não mostra ali a fonte japonesa e o glossário do livro diz que não há ligação direta entre o kosen e o jiu-jitsu brasileiro. 'Kosen' está sem marcação de pronúncia: conferir como a voz lê.
+- [CONFERIR] c03: Comprido vencer o absoluto do Mundial de 1999 sobre Roleta com chave de pé vem do livro de Drysdale, que diz 'toe-hold' (a chave de pé torcida, não a reta); não conferi em resultado oficial nem em vídeo. O capítulo 7 cita o título de Comprido em 1999, sem o golpe nem o adversário.
 - [CONFERIR] b05: a descrição liga a De la Riva invertida ao berimbolo como 'mesma família'. Tecnicamente o berimbolo clássico sai da De la Riva comum; não achei fonte sobre quem criou a De la Riva invertida e a narração não atribui autoria.
 - [CONFERIR] b12: 'costas valem quatro pontos' é a regra da IBJJF (b05). Berimbolo existe sem kimono, mas é bem mais raro: a narração diz 'boa parte do repertório some'.
 - [CONFERIR] c06: a pergunta de Lister a Danaher só existe no relato dos dois, anos depois. A frase mostrada é tradução de 'why would you ignore 50% of the human body?'; a data varia entre 'ano 2000' (blogs, com Danaher faixa-roxa) e 'começo dos anos 2000, duas semanas' (Wikipedia; as duas semanas ficaram fora da narração). A frase 'não me ensinou uma técnica, ensinou um ponto de vista' é atribuída a Danaher por fontes secundárias; não li a entrevista original.
@@ -290,7 +292,8 @@ Duração aproximada: 28 min 51 s.
 - [IBJJF: Rules Update Guide 2024 (6.2.1 F: lapela ou faixa na 50/50, 20 segundos)](https://www.ibjjf.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzBWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--79ec22be2b25311df906fecdf6170f477693a391/RULES%20UPDATE%20GUIDE%20-%202024%20-%20Google%20Docs.pdf)
 - [Elite Sports: 50/50 Guard, untangling the powerful position (Gordo, Atos, semifinal de 2009)](https://www.elitesports.com/blogs/news/50-50-guard-untangling-the-powerful-position)
 - [BJJ Eastern Europe: Rodolfo Vieira: I'd rather lose than win by using that 50/50 guard](https://www.bjjee.com/featured/rodolfo-vieira-id-rather-lose-than-win-by-using-that-shtty-5050-guard/)
-- [BJJ Eastern Europe: críticas ao berimbolo (Kron Gracie à Tatame) e a defesa de Robert Drysdale](https://www.bjjee.com/?p=16009)
+- [BJJ Eastern Europe (10/09/2014): Kron Gracie: 'The Berimbolo is Sh*t. It's Just For Scoring Points' (fala à Tatame)](https://www.bjjee.com/?p=16009)
+- [BJJ Eastern Europe (08/07/2017): Drysdale Slams Rickson: Berimbolo is no different from many of the techniques he practices, and teaches, himself](https://www.bjjee.com/?p=45942)
 - [Graciemag: 'Cobrinha vs Mendes was best of ADCC', says Braulio (final de 2009, 40 minutos)](https://www.graciemag.com/?p=569)
 - [Wikipedia (en): John Danaher (martial artist)](https://en.wikipedia.org/wiki/John_Danaher_(martial_artist))
 - [Wikipedia (en): Danaher Death Squad](https://en.wikipedia.org/wiki/Danaher_Death_Squad)
@@ -329,11 +332,17 @@ Duração aproximada: 28 min 51 s.
 - [Graciemag (25/09/2011): ADCC 2011, resultados das finais por peso](https://www.graciemag.com/?p=37237)
 - [Wikipedia (en): Rousimar Palhares](https://en.wikipedia.org/wiki/Rousimar_Palhares)
 - [FloGrappling (26/08/2026): ADCC World Championships 2011, what happened](https://www.flograppling.com/articles/16142148-adcc-world-championships-2011-what-happened)
+- [Robert Drysdale, The Rise and Evolution of Brazilian Jiu-Jitsu (2023)](https://www.amazon.com/dp/B0BW2GFRLV)
 
 ## Créditos das fotos
 
+- Roberto Correa, o Gordo: , , [Wikimedia Commons]()
 - Marcelo Garcia: WilliamBKH, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marcelo_garcia.jpg)
+- Rafael Mendes: , , [Wikimedia Commons]()
+- Paulo e João Miyao: , , [Wikimedia Commons]()
+- Keenan Cornelius: , , [Wikimedia Commons]()
 - Masakazu Imanari: Werda66, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Masakuze_Imanari.jpg)
 - Rousimar Palhares, o Toquinho: Rhdesantana, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rousimar_Toquinho.jpg)
-- Demian Maia: Peter Gordon, CC BY 2.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Demian_Maia.jpg)
+- John Danaher: , , [Wikimedia Commons]()
+- Demian Maia: , , [Wikimedia Commons]()
 - Charles Oliveira: Renan Silva, CC0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charles_do_Bronxs_(cropped).jpg)

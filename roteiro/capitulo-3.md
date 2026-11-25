@@ -42,9 +42,9 @@ Rufino domina os dois primeiros rounds. No terceiro, os dois vão parar nas cord
 
 Durante um ano, Rufino provoca. Em dezoito de outubro de 1932, o jornal Diário de Notícias publica uma carta dele, com treze perguntas para Carlos. A última: se ele tinha tido medo de continuar a luta. Na mesma noite, Carlos, George e Hélio esperam Rufino na porta do Tijuca Tênis Clube, onde ele dava aula. E o atacam, três contra um. Os relatos falam em socos, pontapés e golpes com uma caixa de metal. Rufino vai para o hospital, com o ombro deslocado. A polícia abre inquérito.
 
-### a09-indulto (linha · 1934 · 45 s)
+### a09-indulto (linha · 1934 · 48 s)
 
-O processo anda devagar. Em maio de 1934, os jornais dão a sentença: Carlos, George e Hélio são condenados a dois anos e meio de prisão. Dias depois, eles se apresentam e são presos. Carlos e Hélio perdem o posto de instrutores de jiu-jitsu da Polícia Especial. Só o historiador José Cairus ainda os chama de instrutores em 1935. Mas a família tem amigos. A poeta Rosalina Coelho Lisboa, que tinha sido aluna, puxa um pedido de perdão. No começo de junho, sai o indulto do presidente Getúlio Vargas. Segundo as fontes, os três ficaram cerca de dez dias presos. É um episódio pouco lembrado.
+O processo anda devagar. Em maio de 1934, os jornais dão a sentença: Carlos, George e Hélio são condenados a dois anos e meio de prisão. O livro de Robert Drysdale fala em dois anos. Dias depois, eles se apresentam e são presos. Carlos e Hélio perdem o posto de instrutores de jiu-jitsu da Polícia Especial. Só o historiador José Cairus ainda os chama de instrutores em 1935. Mas a família tem amigos. A poeta Rosalina Coelho Lisboa, que tinha sido aluna, puxa um pedido de perdão. No começo de junho, sai o indulto do presidente Getúlio Vargas. Segundo as fontes, os três ficaram cerca de dez dias presos.
 
 ### a10-namiki (comparacao · 1932 · 36 s)
 
@@ -57,6 +57,10 @@ Em seis de novembro de 1932, o adversário é um gigante. Fred Ebert é american
 ### a12-empates (cartao · 1932 · 36 s)
 
 Quem mandou parar? Hélio contava que foi a polícia. Rorion, filho dele, dizia que foi o médico, por causa de uma febre alta. O resultado ficou sendo empate. E empate era o que mais se via. O motivo está nas regras. Cada luta tinha as suas: com kimono ou sem, com soco ou sem, em rounds ou em tempo corrido. Mas, em geral, não havia pontos. Só ganhava quem fizesse o outro desistir ou ficar sem condições de continuar. Quem sabia se defender não perdia. E Hélio sabia.
+
+### a12b-george-tico (comparacao · 1933 · 45 s)
+
+Em 1933, as regras dão um passo adiante. George Gracie enfrenta Tico Soledade. Para o lutador e pesquisador Robert Drysdale, é possivelmente a primeira luta de vale-tudo da história moderna, mesmo sem ter ainda esse nome. Até ali, cada lutador puxava o regulamento para o seu estilo. Agora valem joelhadas, cotoveladas, cabeçadas, estrangulamentos e chaves. Ficam de fora só a mordida e o dedo no olho. Combina-se apenas o número e a duração dos rounds. O próprio Drysdale faz a ressalva: lutas de estilo contra estilo já existiam havia anos. A novidade é liberar todos os golpes traumáticos. O livro dele não informa o resultado.
 
 ### a13-japoneses (mapa · 1934 · 38 s)
 
@@ -150,9 +154,9 @@ Os filhos de Gastão agora formam as suas próprias famílias. Carlos, bem antes
 
 Fora da academia, o cenário esfria. De 1939 a 1945, o mundo está em guerra. Nos ringues brasileiros, quem enche a casa é a luta livre, assunto do próximo capítulo. George Gracie, o irmão que nunca parou, ainda luta no começo da década. Em 1943, a revista Seleções publica que um boxeador tinha vencido um lutador de jiu-jitsu. Hélio responde: propõe enfrentar cinco boxeadores na mesma noite. Segundo a Graciemag, ninguém aceita. O jiu-jitsu continua vivo, mas longe das manchetes.
 
-### c07-joe-louis (comparacao · 1950 · 38 s)
+### c07-joe-louis (comparacao · 1950 · 49 s)
 
-Em 1950, a provocação sobe de nível. Joe Louis, o nome mais famoso do boxe, visita o Brasil. Hélio manda um telegrama: quer enfrentar o americano num vale-tudo, a luta em que quase todo golpe é permitido. Daí em diante, as versões mudam. A Graciemag conta que o empresário de Louis respondeu que ele aceitava qualquer desafio, mas a luta nunca foi marcada. Outra versão diz que Louis propôs uma luta de boxe, e que Hélio recusou. Nas duas, o fim é o mesmo: o encontro não acontece.
+Em 1950, a provocação sobe de nível. Joe Louis, o nome mais famoso do boxe, visita o Brasil. Hélio manda um telegrama: quer enfrentar o americano num vale-tudo, a luta em que quase todo golpe é permitido. Daí em diante, as versões mudam. A Graciemag conta que o empresário de Louis respondeu que ele aceitava qualquer desafio, mas a luta nunca foi marcada. Já Robert Drysdale, com base no pesquisador Roberto Pedreira, fala em dois desafios. O primeiro, em 1947, foi ignorado. No segundo, em 1950, Louis propôs uma luta de boxe, e Hélio recusou. Nas duas, o fim é o mesmo: o encontro não acontece.
 
 ### c08-volta (linha · 1950 · 37 s)
 
@@ -178,9 +182,9 @@ Vinte e nove de setembro, São Paulo, ginásio do Pacaembu. Desta vez o ringue t
 
 Depois da luta, alunos dos Gracie desfilam com um caixão, para simbolizar a derrota do japonês. Para a trupe, o estrago é grande, sobretudo entre os imigrantes que tinham ido torcer por ela. Hélio não para. Desafia o próximo da fila, Yamaguchi. Só que quem se apresenta é o chefe. Kimura, bem mais pesado do que Hélio, toma o lugar do colega e aceita. A luta fica marcada para outubro, no Maracanã. Hélio conseguiu o que queria desde o começo. Falta saber o que isso vai custar.
 
-### d01-kimura (perfil · 1951 · 39 s)
+### d01-kimura (perfil · 1951 · 40 s)
 
-Hélio tinha feito Kato desmaiar. Agora queria o chefe do grupo. E o chefe era Masahiko Kimura. Nascido em 1917, em Kumamoto, ele foi campeão de todo o Japão três vezes seguidas, de 1937 a 1939. No Japão, corre um ditado sobre ele: ninguém antes de Kimura, ninguém depois de Kimura. Em 1951, aos trinta e quatro anos, ele vive da luta profissional. Tem perto de um metro e setenta e, nas fichas mais citadas, oitenta e quatro quilos.
+Hélio tinha feito Kato desmaiar. Agora queria o chefe do grupo. E o chefe era Masahiko Kimura. Nascido em 1917, em Kumamoto, ele foi campeão de todo o Japão três vezes seguidas, de 1937 a 1939. No Japão, corre um ditado sobre ele: ninguém antes de Kimura, ninguém depois de Kimura. Em 1951, aos trinta e quatro anos, ele vive da luta profissional. Tem perto de um metro e setenta e, nas fichas mais citadas, oitenta e quatro quilos. Robert Drysdale afirma que eram noventa.
 
 ### d02-regras (cartao · 1951 · 35 s)
 
@@ -234,13 +238,13 @@ Meses depois, o jornal Última Hora resume o que aconteceu com Santana: uma carr
 
 De 1930 a 1955, os desafios fizeram do jiu-jitsu assunto de jornal, de estádio e até de presidente. Hélio perdeu as duas lutas mais famosas da vida e, mesmo assim, saiu delas mais conhecido. Só que os Gracie nunca estiveram sozinhos no Rio. Enquanto eles lutavam de kimono, outra escola crescia na mesma cidade, sem kimono, de calção, com outros alunos e outro mestre. Ela se chamava luta livre. E as duas não iam conviver em paz. É a história do próximo capítulo.
 
-Duração aproximada: 35 min 37 s.
+Duração aproximada: 36 min 37 s.
 
 ## Conferir antes de publicar
 
 - [CONFERIR] SENSÍVEL (cena d09): a afirmação de que Hélio demitiu Waldemar Santana com insultos racistas vem de um artigo acadêmico (Lise, Santos e Capraro, 2014) que cita a biografia escrita por Reila Gracie; o livro não foi lido diretamente e nenhuma outra fonte consultada confirma. Por decisão do dono, a narração mantém a informação com ressalva explícita.
 - [CONFERIR] Agressão a Rufino: a data mais citada é 18 de outubro de 1932 (Simon BJJ; Wikipedia de Hélio); o texto da Wikipedia de Carlos deixa o ano ambíguo. O objeto usado ("caixa de aço") e o ombro deslocado com cirurgia vêm da Wikipedia; Simon BJJ fala só em hospitalização e diz que os irmãos fugiram de carro (a Wikipedia diz que tentaram fugir na prisão).
-- [CONFERIR] Condenação e indulto: sentença de dois anos e meio noticiada em 24 de maio de 1934, apresentação em 28 de maio, indulto em 6 de junho de 1934 após cerca de dez dias (Simon BJJ). As fontes ligam o indulto a Getúlio Vargas e à petição de Rosalina Coelho Lisboa, mas não citam o decreto: conferir no Diário Oficial ou em Pedreira (Choque, vol. 1).
+- [CONFERIR] Condenação e indulto: sentença de dois anos e meio noticiada em 24 de maio de 1934, apresentação em 28 de maio, indulto em 6 de junho de 1934 após cerca de dez dias (Simon BJJ). As fontes ligam o indulto a Getúlio Vargas e à petição de Rosalina Coelho Lisboa, mas não citam o decreto: conferir no Diário Oficial ou em Pedreira (Choque, vol. 1). Drysdale (nota 62, citando Pedreira 2015a, cap. 12) fala em dois anos de prisão; a cena a09 dá os dois números.
 - [CONFERIR] Carlos x Rufino (22 de agosto de 1931): local (estádio do Fluminense), rounds de cinco minutos e proibição de golpes vêm de Simon BJJ; a Wikipedia fala em juiz advertindo golpes ilegais de Rufino. Detalhes do terceiro round (cordas, guilhotina, espera de cerca de uma hora) variam entre os relatos. 'Única luta profissional de Carlos' é afirmação da Wikipedia.
 - [CONFERIR] Hélio x Namiki: mês (setembro de 1932), diferença de 7 kg e o que aconteceu na luta têm fonte fraca (Wikipedia e sites de academias); não achei a notícia de jornal. Não consta local nem número de rounds.
 - [CONFERIR] Hélio x Ebert (6 de novembro de 1932): duração de 1h40 (tabela da Wikipedia), 'quase duas horas' (texto da Wikipedia) ou 2h10 (Rorion); 'sem limite de tempo' é da Wikipedia (outras fontes populares falam em rounds de dez minutos). Diferença de peso: 29 kg (Wikipedia) ou 98 kg contra cerca de 60 (entrevista). O título de vice-campeão mundial de 1928 é como Ebert era anunciado, não confirmado. Parada pela polícia (Hélio) ou pelo médico (Rorion).
@@ -251,7 +255,7 @@ Duração aproximada: 35 min 37 s.
 - [CONFERIR] 'Em geral, não havia pontos' e 'só ganhava quem fizesse o outro desistir': generalização sobre as regras da época; a luta Carlos x Rufino tinha juízes. Conferir em Pedreira.
 - [CONFERIR] Gancho: público do Maracanã em outubro de 1951 e a idade de Hélio (38 anos) devem bater com o bloco D. Maracanã como 'maior estádio do país' em 1951.
 - [CONFERIR] Última cena: 'A partir de 1934, o Rio começa a receber lutadores japoneses' deve bater com o bloco B (Miyake, Ono, Yano). George x Geo Omori (1933) não foi contado aqui: ver se o bloco B conta.
-- [CONFERIR] Não li 'Choque', de Roberto Pedreira, nem os livros de Drysdale ou de Marcial Serrano: tudo o que a narração atribui a Pedreira (vaias na luta com Zbyszko, lutas combinadas de Zbyszko no Brasil, George admitindo lutas combinadas) vem do artigo de Ken Zimmerman Jr., que cita o capítulo 14 de 'Choque'. Por isso a narração diz 'um relato baseado em Pedreira'. O BJJ Heroes bloqueou a leitura. O artigo de Cairus (2020) foi lido depois, no PDF enviado pelo dono do projeto.
+- [CONFERIR] Não li 'Choque', de Roberto Pedreira, nem os livros de Marcial Serrano (o de Drysdale, de 2023, foi lido depois e entrou nas cenas a09, a12b, c07 e d01): tudo o que a narração atribui a Pedreira (vaias na luta com Zbyszko, lutas combinadas de Zbyszko no Brasil, George admitindo lutas combinadas) vem do artigo de Ken Zimmerman Jr., que cita o capítulo 14 de 'Choque'. Por isso a narração diz 'um relato baseado em Pedreira'. O BJJ Heroes bloqueou a leitura. O artigo de Cairus (2020) foi lido depois, no PDF enviado pelo dono do projeto.
 - [CONFERIR] Hélio x Zbyszko (28/7/1934, Estádio Brasil): duração e regras divergem. Zimmerman/Pedreira: dois assaltos de 20 minutos, só finalização. Wikipedia em inglês: limite de 20 minutos no texto e 30:00 na tabela, com kimono. A Wikipédia em português fala em duas lutas com Zbyszko em 1934 (parece duplicação). A narração não dá a duração. Diferença de peso: 40 kg (Wikipedia) ou cerca de 36 kg (220 contra 140 libras, Zimmerman); a narração diz 'quase quarenta'.
 - [CONFERIR] Miyake: data confirmada pelos artigos. Penglase (p. 69, citando Pedreira e Laydner) dá 23/6/1934 e Cairus (p. 32, nota 19) cita o Jornal dos Sports de 24/6/1934 ("Brilhante victoria de Hélio Gracie sobre Myaki"); o '1932' do Sherdog fica isolado. A luta foi, portanto, antes da de Zbyszko (28/7/1934): a ordem das cenas (Zbyszko primeiro) é de roteiro, não cronológica. Grafia varia (Miyake, Miyaki, Myaki, Myako). Segundo Cairus, Carlos recusou o árbitro indicado e quem apitou foi o tenente Euzébio de Queiroz, da Polícia Especial. A identificação com Taro Miyake viria de Mark Hewitt (2005) e a Wikipedia a contesta; Penglase registra que, para alguns, Miyaki não era lutador de ponta do Kodokan. A 'uma luta profissional, uma derrota' seria contra Roberto Ruhmann.
 - [CONFERIR] Hélio x Dudu (2/2/1935): 'sem kimono' é dedução de ser vale-tudo e veio do pedido; nenhuma fonte lida diz isso com essas palavras. Wikipedia: Dudu tinha ensinado luta livre (catch) a Hélio e aos irmãos, 20 kg a mais, cabeçada, dois pisões, desistência verbal (cita Serrano); a tabela fala em nocaute técnico aos 19 minutos. A revanche perdida por desclassificação aparece na Wikipedia como 'por volta de 1936', sem data. Se Dudu tinha vencido George antes (Wikipedia) ou empatado em 1934 (Elite Sports), as fontes divergem; ficou de fora.
@@ -273,7 +277,7 @@ Duração aproximada: 35 min 37 s.
 - [CONFERIR] Casa de Teresópolis comprada em 1952: só a Graciemag. É posterior ao recorte do bloco (1937–1951).
 - [CONFERIR] George Gracie 'ainda luta no começo da década' de 1940: baseado na luta contra Euclydes Hatem, que as fontes datam de 1940 ou 1942. O bloco/capítulo de luta livre deve confirmar.
 - [CONFERIR] Seleções (1943) e a proposta de enfrentar cinco boxeadores: só a Graciemag.
-- [CONFERIR] Joe Louis: ano de 1950 e telegrama segundo a Graciemag e a Wikipedia; as respostas atribuídas a Louis divergem (empresário aceitaria qualquer desafio x Louis propôs boxe). Um valor em dinheiro aparece em fontes fracas e ficou de fora. Conferir se Louis esteve mesmo no Brasil em 1950.
+- [CONFERIR] Joe Louis: ano de 1950 e telegrama segundo a Graciemag e a Wikipedia; as respostas atribuídas a Louis divergem (empresário aceitaria qualquer desafio x Louis propôs boxe). Um valor em dinheiro aparece em fontes fracas e ficou de fora. Conferir se Louis esteve mesmo no Brasil em 1950. Drysdale (nota 167, citando Pedreira 2015b, cap. 1) fala num primeiro desafio em 1947, ignorado, e num segundo em 1950, ridicularizado pela imprensa, com contraproposta de boxe recusada por Hélio; não fala em telegrama nem em visita ao Brasil. A cena c07 dá as duas versões.
 - [CONFERIR] Landulfo Caribé: uma fonte dá 18 de janeiro de 1950, o Sherdog dá julho de 1950 e um blog dá 1951. 'Cerca de quatro minutos' e o desafio por anúncio de jornal vêm de uma fonte só (wiki de fãs). A idade de 36 anos vale para qualquer data até setembro de 1950.
 - [CONFERIR] Azevedo Maia: o Sherdog dá outubro de 1950; nada foi achado sobre quem ele era nem sobre o local da luta.
 - [CONFERIR] Academia da Avenida Rio Branco, 151, 17º andar: 1948 (Pedreira) ou 1952 (Graciemag; um espelho de wiki dá 18 de abril de 1952, 17º e 18º andares). A BJJ Heroes fala em anos 1960, o que parece erro.
@@ -285,7 +289,7 @@ Duração aproximada: 35 min 37 s.
 - [CONFERIR] Pronúncias a ouvir na narração: Joe Louis, Shimbun, Masahiko Kimura, Toshio Yamaguchi, Yukio Kato; e, nas cenas novas ou reescritas, Euzébio de Queiroz, Luis Souto, Cairus, Cinédia, Conde Koma, Ben Penglase (escrito para soar 'Pênglêis'), Sinhozinho, Pastinha, Rosacruz.
 - [CONFERIR] Público de Kimura x Hélio (23/10/1951): 20 mil segundo a autobiografia de Kimura (via Sherdog e Wikipedia); 'cem mil pessoas' segundo o Última Hora de 24/10/1951 (citado por Lise, Santos e Capraro). A narração dá as duas. Presença de Getúlio Vargas: Wikipedia e Judo Info; não conferida em jornal da época.
 - [CONFERIR] Braço quebrado ou não: Kimura (autobiografia 'My Judo', relatada pela Wikipedia e pelo Judo Info) diz que quebrou duas vezes e que jogaram a toalha; a Graciemag diz, com base em jornais da época e numa foto, que não quebrou e que Carlos entrou no tablado e empurrou Kimura. A narração mostra as duas versões. Não consegui ler o texto original de 'My Judo': por isso não há cena de citação com palavras de Kimura.
-- [CONFERIR] Diferença de peso em 1951: sem pesagem oficial. Wikipedia em inglês: 10 a 15 kg; Graciemag: 139 lb x 210 lb (cerca de 32 kg); ficha da Wikipedia de Kimura: 1,70 m e 84 kg. 'Quatro anos mais novo' confere com os nascimentos (1913 e 1917). Penglase (p. 70) estima 85 kg contra 65 kg, cerca de 20 kg, e diz que pessoas próximas da família inflaram a diferença: é o número da cena nova d06b; a cena d02 continua dando a faixa de 10 a mais de 30 kg.
+- [CONFERIR] Diferença de peso em 1951: sem pesagem oficial. Wikipedia em inglês: 10 a 15 kg; Graciemag: 139 lb x 210 lb (cerca de 32 kg); ficha da Wikipedia de Kimura: 1,70 m e 84 kg. 'Quatro anos mais novo' confere com os nascimentos (1913 e 1917). Penglase (p. 70) estima 85 kg contra 65 kg, cerca de 20 kg, e diz que pessoas próximas da família inflaram a diferença: é o número da cena nova d06b; a cena d02 continua dando a faixa de 10 a mais de 30 kg. Drysdale afirma no texto que Kimura pesava 90 kg nessa luta e não 100 kg como se disse depois (a nota 103 só trata do peso de Hélio, 60 kg segundo algumas fontes, contestado por outras); a cena d01 dá 84 e 90.
 - [CONFERIR] Regras de 1951 (kimono, três rounds de 10 minutos, vitória só por desistência ou nocaute técnico): Wikipedia em inglês. A Graciemag repete a história de que Hélio seria vencedor se resistisse três minutos; a Wikipedia a trata como erro do filme 'Gracies in Action'. A narração não usa essa história.
 - [CONFERIR] Hélio desmaiado no 1º round: a Wikipedia diz que ele perdeu os sentidos num estrangulamento (triângulo) e o Judo Info cita uma entrevista em que Hélio admite; não li a entrevista original. 'Uns treze minutos': Sherdog e manchete citada pela Wikipedia ('13 minutos de intensa emoção').
 - [CONFERIR] Ditado 'ninguém antes de Kimura, ninguém depois de Kimura': muito repetido, escrito de memória; não apareceu nas páginas consultadas nesta pesquisa. Conferir ou cortar.
@@ -304,6 +308,7 @@ Duração aproximada: 35 min 37 s.
 - [CONFERIR] Cena b08b: a restrição à imigração japonesa em 1934 vem de Penglase (p. 68, citando Lesser 1999); o Estado Novo em 1937, dos dois artigos. A manchete 'o japonês Ono ou o brasileiro Gracie?' é de 1937 (George x Ono), traduzida do inglês de Cairus (p. 34): o jornal original não foi visto. 'O empate mantinha a fama de invencíveis' e 'a família tinha a proteção do regime' são leituras de Cairus (p. 33 e 29) e a narração as atribui a ele. Cairus não fala do indulto de 1934 neste artigo: a ligação com o indulto e com a Polícia Especial na última frase é do roteiro (pedido do dono), não do autor.
 - [CONFERIR] Cena d06b (Penglase, p. 66-67 e 70): a manchete do Jornal do Brasil de 24/10/1951 está nas referências do artigo como 'Prevaleceu o físico de Kimura sôbre a técnica de Helio Gracie' (grafia atualizada na tela; o jornal não foi visto). É interpretação do autor, e a narração a atribui a ele: jiu-jitsu firmado como 'moderno', 'técnico' e 'eficiente' e ligado à elite branca do Rio; capoeira empurrada para a 'folclorização' com Bimba e Pastinha depois que a tentativa de Sinhozinho de fazer dela luta de combate foi 'em grande parte abandonada'. Penglase diz que os alunos de Bimba perderam para 'outros lutadores' na Bahia em 1935 e 1936, sem dizer que eram de jiu-jitsu; a narração diz só 'derrotada nos ringues'. Tema sensível (raça): decidir se fica.
 - [CONFERIR] Mapa da cena b05 refeito (Belém, rota de Yano até o Rio, enquadramento mais aberto) e não conferido em quadro: olhar o rascunho antes de renderizar. As cenas novas (b05b, b08b, c02b, d06b) não têm 'fundo'.
+- [CONFERIR] Cena a12b (George Gracie x Tico Soledade, 1933): fonte única, o livro de Drysdale, que remete a Pedreira 2015a, p. 242. O livro não dá data exata, local, resultado nem diz quem era Tico Soledade; 'possivelmente a primeira luta de vale-tudo' ('arguably') é avaliação do autor, com a ressalva da nota 40 de que lutas reais de estilo contra estilo já existiam e a novidade era liberar todos os golpes traumáticos. O termo usado pelo livro é 'valendo-tudo'; a cena a04 diz que a expressão 'vale-tudo' só pega no fim dos anos 1950, e a a12b diz 'mesmo sem ter ainda esse nome'. A cena a13 resume o saldo de George em 1933 só com a vitória sobre Aleixo: sem o resultado da luta com Tico, ficou como estava. Pronúncia a ouvir: Drysdale, Soledade.
 
 ## Fontes
 
@@ -340,10 +345,15 @@ Duração aproximada: 35 min 37 s.
 - [Wikipedia (inglês): Oswaldo Fadda](https://en.wikipedia.org/wiki/Oswaldo_Fadda)
 - [José Cairus: Nationalism, Immigration and Identity: The Gracies and the Making of Brazilian Jiu-Jitsu, 1934-1943 (Martial Arts Studies 9, 2020, p. 28-42)](https://doi.org/10.18573/mas.105)
 - [Ben Penglase: The Invisibility of Race in Brazilian Jiu-Jitsu: The Gracies versus Capoeira and Judo (Martial Arts Studies 17, 2025)](https://doi.org/10.18573/mas.281)
+- [Robert Drysdale, The Rise and Evolution of Brazilian Jiu-Jitsu (2023)](https://www.amazon.com/dp/B0BW2GFRLV)
 
 ## Créditos das fotos
 
+- Manoel Rufino dos Santos: , , [Wikimedia Commons]()
+- Fred Ebert: , , [Wikimedia Commons]()
 - Wladek Zbyszko: autor desconhecido, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:W%C5%82adys%C5%82aw_Cyganiewicz_(-1911)a.jpg)
+- Yassuiti Ono: , , [Wikimedia Commons]()
+- Takeo Yano: , , [Wikimedia Commons]()
 - Carlos Gracie: autor desconhecido, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carlos_Gracie_(1951)_(cropped).tif)
 - Masahiko Kimura: autor desconhecido, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Masahiko_Kimura_(1917-1993).jpg)
 - Waldemar Santana: autor desconhecido, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Valdemar_Santana.jpg)

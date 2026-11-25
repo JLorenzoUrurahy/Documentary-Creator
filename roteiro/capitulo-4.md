@@ -70,9 +70,9 @@ Roberto Leitão é catarinense, nascido em 1937. É engenheiro mecânico e profe
 
 Antes disso, a rivalidade já tinha passado pela televisão. Em 1959, a TV Continental, do Rio, estreia o programa Heróis do Ringue. São lutas de estilo contra estilo, com os Gracie entre organizadores e comentaristas. É ali que a expressão vale-tudo cai na boca do povo. Numa das lutas, João Alberto Barreto, da academia Gracie, aplica uma chave de braço num lutador de luta livre. O adversário não desiste. O braço quebra. O programa sai do ar pouco depois; as fontes divergem sobre o ano.
 
-### b04-nordeste (mapa · 1963 · 41 s)
+### b04-nordeste (mapa · 1963 · 50 s)
 
-Sem a televisão do Rio, o vale-tudo segue forte no Nordeste. E é lá que Carlson Gracie encontra dois problemas. O primeiro, em dezembro de 1963, no Recife: o paraibano Ivan Gomes, bem mais pesado. Ivan derruba Carlson várias vezes, mas não consegue finalizar. Empate. O segundo, em setembro de 1968, em Salvador: o potiguar Euclides Pereira. São seis assaltos de cinco minutos. Carlson chega a ameaçar um estrangulamento. Euclides escapa, acerta o nariz dele e vence por decisão dos jurados.
+Sem a televisão do Rio, o vale-tudo segue forte no Nordeste. E é lá que Carlson Gracie encontra dois problemas. O primeiro, em dezembro de 1963, no Recife: o paraibano Ivan Gomes, bem mais pesado. Ivan derruba Carlson várias vezes, mas não consegue finalizar. Empate. O segundo, em setembro de 1968, em Salvador: o potiguar Euclides Pereira. Os relatos da luta falam em seis assaltos de cinco minutos. Carlson Gracie Júnior, em entrevista a Robert Drysdale, conta o que ouviu do pai: seriam três de cinco, impostos na hora. Carlson chega a ameaçar um estrangulamento. Euclides escapa, acerta o nariz dele e vence por decisão dos jurados.
 
 ### b05-de-que-escola (comparacao · 1968 · 37 s)
 
@@ -106,9 +106,9 @@ Hugo quer lutar num evento pago. Rickson não espera. Meses depois, numa manhã 
 
 Seis dias depois, segundo um dos relatos, Hugo aparece na academia Gracie, no Humaitá. São cinquenta homens numa versão, trezentos em outra. Hélio recebe o grupo e manda chamar o filho. A revanche acontece no pátio, no cimento. Rickson monta de novo e vence de novo. Os vizinhos chamam a polícia. Dias mais tarde, Royler Gracie e Eugênio Tadeu lutam por mais de meia hora e empatam. Em 1989, Rickson se muda para os Estados Unidos. A raiva fica no Rio. E, em 1991, vai achar um ringue.
 
-### c01-provocacao (cartao · 1991 · 37 s)
+### c01-provocacao (cartao · 1991 · 48 s)
 
-Em 1991, a rixa volta aos jornais. Wallid Ismail, faixa-marrom de Carlson Gracie, publica no jornal O Dia textos provocando a luta livre. Segundo os relatos, chama a escola rival de cópia barata do jiu-jitsu. Dias depois, um grupo de lutadores de luta livre invade a Copa Nastra, um campeonato de jiu-jitsu na Urca, atrás dele. Há fontes que põem Hugo Duarte à frente do grupo. Para a briga não explodir, Carlson propõe outra saída: resolver no ringue, com regras de vale-tudo.
+Em 1991, a rixa volta aos jornais. Wallid Ismail, faixa-marrom de Carlson Gracie, publica no jornal O Dia textos provocando a luta livre. Segundo os relatos, chama a escola rival de cópia barata do jiu-jitsu. Dias depois, um grupo de lutadores de luta livre invade a Copa Nastra, um campeonato de jiu-jitsu na Urca, atrás dele. Em entrevista a Robert Drysdale, o próprio Wallid põe o desafio em 1990 e chama o torneio de Copa Mameluque. Há fontes que põem Hugo Duarte à frente do grupo. Para a briga não explodir, Carlson propõe outra saída: resolver no ringue, com regras de vale-tudo.
 
 ### c02-desafio (cartao · 1991 · 43 s)
 
@@ -138,9 +138,9 @@ As imagens da pancadaria correm o mundo. A prefeitura do Rio proíbe os eventos 
 
 A briga daquela noite pesa também na imagem do jiu-jitsu. Dias depois, na Folha de S. Paulo, o presidente da federação paulista lamenta: há gente usando a arte para brigar na rua, e a má fama atinge as academias sérias. Em 1999, dois jornalistas de O Globo criam um apelido para os agressores das boates cariocas: pit boys. Em março de 2000, noticia a Folha, o lutador Ryan Gracie passa dezoito dias preso, acusado de esfaquear um estudante numa briga. Em 2004, a segurança pública do Rio anuncia uma lista com fotos de brigões e o indiciamento por formação de quadrilha.
 
-### c07c-levantamento (cartao · 2004 · 41 s)
+### c07c-levantamento (cartao · 2004 · 46 s)
 
-O tamanho dessa crise aparece num levantamento de Tiago Rocha, em monografia de História na Universidade Federal de Uberlândia. Ele contou as matérias da Folha de S. Paulo sobre jiu-jitsu de 1994 a 2004. Achou trezentas e treze. Mais de quarenta tratavam de brigas, agressões, gangues e assassinatos. No mesmo período, o judô apareceu em mil seiscentas e vinte e duas matérias, e nenhuma desse tipo. É a conta de um autor só, num jornal só. Mas mostra o contraste: nas páginas do jornal, o jiu-jitsu aparecia ligado à briga de rua. O judô, não.
+O tamanho dessa crise aparece num levantamento de Tiago Rocha, em monografia de História na Universidade Federal de Uberlândia. Ele contou as matérias da Folha de S. Paulo sobre jiu-jitsu de 1994 a 2004. Achou trezentas e treze. Mais de quarenta tratavam de brigas, agressões, gangues e assassinatos. No mesmo período, o judô apareceu em mil seiscentas e vinte e duas matérias, e nenhuma desse tipo. É a conta de um autor só, num jornal só. Mas mostra o contraste: nas páginas do jornal, o jiu-jitsu aparecia ligado à briga de rua. O judô, não. Para Drysdale, nos anos noventa essa fama de valentão também levou muitos jovens às academias.
 
 ### c08-balanco-jiu-jitsu (comparacao · 1997 · 37 s)
 
@@ -162,7 +162,7 @@ E a luta livre não acabou naquela noite do Grajaú. Marco Ruas, aluno de Robert
 
 A rixa com a luta livre atravessou mais de meio século. Mas, para entender como o jiu-jitsu chegou tão forte a 1991, é preciso voltar. Maio de 1955. Hélio Gracie perde para Waldemar Santana, seu ex-aluno, depois de mais de três horas de luta. Quem vai responder não é Hélio, nem Carlos. É um sobrinho de vinte e poucos anos, filho de Carlos. O nome dele é Carlson Gracie. E, com ele, o jiu-jitsu deixa de ser assunto de uma família só.
 
-Duração aproximada: 22 min 48 s.
+Duração aproximada: 23 min 13 s.
 
 ## Conferir antes de publicar
 
@@ -185,6 +185,7 @@ Duração aproximada: 22 min 48 s.
 - [CONFERIR] Cena a12 cita Kimura e Waldemar Santana como já vistos no capítulo 3; ajustar se o capítulo 3 mudar.
 - [CONFERIR] Euclides Pereira e Ivan Gomes como 'luta livre': a Wikipedia (pt e en) chama Euclides de discípulo do Tatu; o Simon BJJ diz que ele se formou no Recife com Jurandir Moura (linha Takeo Yano/George Gracie) e nem cita Tatu, e que Ivan Gomes era faixa preta de jiu-jitsu. A cena b05 mostra as duas versões. O acordo de Ivan com os Gracie em 1964 vem só do relato do irmão José, via Simon BJJ, que admite não ter confirmado os termos.
 - [CONFERIR] Carlson x Euclides Pereira (6/9/1968, Salvador, 6 x 5 min, decisão dos jurados, nariz quebrado): fonte única detalhada é o Simon BJJ, que não cita jornais; algumas versões falam em guilhotina em vez de estrangulamento pelas costas. Carlson x Ivan Gomes (28/12/1963, Recife): empate; Simon BJJ fala em 6 quedas, Sherdog em 8 (a narração diz 'várias vezes').
+- [CONFERIR] Carlson x Euclides (b04), número de assaltos: o Simon BJJ dá 6 x 5 min; Carlson Gracie Jr., em entrevista a Drysdale, diz que o combinado eram 3 x 10 min ou sem limite e que na hora impuseram 3 x 5. É versão de um lado só, ouvida do pai; a narração dá as duas e diz quem afirma. Ficaram fora as outras alegações dele (gente armada, adversário untado, finalização ignorada pelo árbitro).
 - [CONFERIR] Heróis do Ringue: fim do programa em 1960 (Simon BJJ) ou 1962 (artigo da revista Recorde/UFRJ). O golpe de João Alberto Barreto é 'armbar' na Wikipedia e 'americana' no Simon BJJ; o nome do adversário varia (Simon BJJ: Soares Vinagre; outra fonte começa com 'José') e ficou fora da narração. 'Da academia Gracie' para Barreto: conferir. A troca pelo Telecatch (Wikipedia) ficou fora da narração.
 - [CONFERIR] Praia do Pepê e Humaitá (1988): não há data exata; 'meses depois' da visita ao Boqueirão (junho de 1988, segundo a Fighters Only) e 'seis dias depois' vêm de fontes secundárias. Tamanho do grupo de Hugo: 50, 60, 100, 200 ou 300 conforme a fonte. A narração deixou de fora os relatos de armas e de tiros para o alto (pt.wikipedia, relato de Rickson). A praia do Pepê fica na Barra da Tijuca. 'Manhã de sol' junta duas fontes ('sábado de manhã' e 'dia de sol').
 - [CONFERIR] Vídeo da praia: a pt.wikipedia diz que os Gracie venderam as imagens; uma fonte diz que o vídeo foi editado a favor de Rickson. O título da coluna 'O que o vídeo mostra' pressupõe que tapa, montada e desistência estão nas imagens: assistir e confirmar antes de publicar. A alegação de emboscada e de areia nos olhos é de Hugo Duarte (pessoa viva).
@@ -196,6 +197,7 @@ Duração aproximada: 22 min 48 s.
 - [CONFERIR] Classe social (b07): 'classe média e alta' vem do artigo da Recorde/UFRJ; 'popular entre garotos das favelas' vem de estudo de Cardiff e da pt.wikipedia. 'Porta da boate' apoia-se na Fighters Only ('praias, ruas e discotecas').
 - [CONFERIR] Pronúncias a ouvir: [muay thai|muai tai], [Pitanguy|Pitanguí]; Rickson, Royler e Pinduka ficaram sem marcação.
 - [CONFERIR] Estopim de 1991 (c01): textos de Wallid Ismail no jornal O Dia, a expressão 'cópia barata' e a invasão da Copa Nastra, na Urca, vêm das Wikipedias (inglês e português), sem o jornal original. Hugo Duarte à frente do grupo: só a Wikipédia em português. Carlson como autor da proposta do desafio: Wikipedia em inglês; outra fonte atribui a organização a Robson Gracie. Não achei fonte sólida para uma briga de praia como estopim de 1991; a narração não a cita.
+- [CONFERIR] Estopim de 1991 (c01), ano e nome do torneio: as Wikipedias dão 1991, jornal O Dia e Copa Nastra, na Urca; no livro de Drysdale (2023), a apresentação da entrevista e o próprio Wallid Ismail põem o desafio no jornal em 1990 e chamam o torneio de Copa Mameluque, sem citar o jornal nem o local. A narração dá as duas versões. A de 1990/Mameluque depende de uma só entrevista (memória de Wallid, décadas depois); conferir em jornal da época.
 - [CONFERIR] Data do Desafio (c02): 26/9/1991 na Sherdog e nas Wikipedias; pelo menos uma fonte secundária dá 26/8/1991. Transmissão pela TV Globo ('ao vivo' só na Wikipédia em português; a narração diz só 'transmite').
 - [CONFERIR] Cinco lutas previstas (c02): só a Wikipédia em português (Behring x Hugo Duarte cancelada por lesão no cotovelo; Bitetti x Ruas com W.O., que o próprio artigo diz ser contestado). A Wikipedia em inglês confirma que Ruas cancelou. A narração diz 'pelo que se conta'.
 - [CONFERIR] Wallid x Tadeu (c03): tempo 16:18 (Sherdog, 1 round; a Wikipédia em português fala em 3 rounds). Versões: a Wikipedia em inglês diz que Wallid jogou Tadeu para fora do ringue várias vezes e que ele não conseguiu voltar; a Wikipédia em português fala em corte no supercílio por cabeçada e na alegação de Tadeu de que foi impedido de voltar.
@@ -205,6 +207,7 @@ Duração aproximada: 22 min 48 s.
 - [CONFERIR] Proibição do vale-tudo no Rio (c07): uma matéria da Sherdog diz que foi o prefeito e que durou três anos; outra diz que foi o governador; a Wikipedia e o MMA Fighting falam em quase dez anos. A monografia de Tiago Rocha (UFU, 2006), apoiada na Folha de S. Paulo de 5/10/1997, diz que foi o prefeito Luiz Paulo Conde, 'até que fosse criada uma regulamentação'. A narração passou de 'as autoridades do Rio' para 'a prefeitura do Rio' (duas fontes contra uma), sem citar o nome do prefeito, e mantém a divergência sobre a duração. Conferir o decreto ou a Folha original. Tahnoon como patrono do evento e criador do ADCC em 1998: Sherdog.
 - [CONFERIR] Cenas c07b e c07c (pit boys e crise de imagem, 1997-2004): fonte única, a monografia de GRADUAÇÃO de Tiago Coelho Porto Rocha (História, UFU, 2006). A parte histórica dela é fraca e não foi usada; só o levantamento do próprio autor nos arquivos da Folha de S. Paulo (1994-2004) e as matérias que ele transcreve. Os números (313 matérias de jiu-jitsu, 1.622 de judô, nenhuma de judô ligada a violência) são contagem do autor, por palavra-chave, num jornal só; ninguém refez a conta. Das 313, 187 são 'propagandas e outros'.
 - [CONFERIR] c07c, 'mais de quarenta': o texto da monografia diz 43 matérias sobre brigas, agressões, gangues e assassinatos, mas a Tabela 1 dela soma 44 (brigas 24, agressões 13, gangues 4, assassinatos 3), e 43 é também o total de matérias de 2004 na tabela, o que sugere engano do autor. Há ainda 26 matérias de 'imagem negativa' fora dessa conta. Por isso a narração diz 'mais de quarenta' e não 43.
+- [CONFERIR] c07c, última frase: a fama de valentão como atrativo para as academias nos anos 1990 é leitura de Drysdale (capítulo 18 do livro), que fala da própria geração; é opinião do autor, sem número que a sustente.
 - [CONFERIR] c07b, termo 'pit boy': segundo a monografia (que cita Tom Leão e Carlos Albuquerque na Gracie Magazine, jan. 2005, p. 58), foi criado em 1999 por esses dois jornalistas de O Globo numa reportagem sobre homens que agrediam mulheres em boates do Rio, e depois passou a nomear jovens brigões em geral. A narração não cita os nomes e não diz que o termo nasceu ligado ao jiu-jitsu. Conferir a Gracie Magazine ou O Globo.
 - [CONFERIR] c07b, Ryan Gracie (morto em 2007): a única afirmação é a da Folha de S. Paulo de 11/4/2004 (Cotidiano, p. C8), transcrita na monografia: em março de 2000 ficou 18 dias preso, 'acusado de esfaquear um estudante' numa briga numa casa de festas na Barra da Tijuca. A fonte não diz como o processo terminou; a narração diz só 'acusado'. Conferir o desfecho antes de publicar. Ficou fora o caso de agosto de 2000 em Copacabana (quatro lutadores da família, sem nomes na fonte).
 - [CONFERIR] c07b, 1997: a fala é de Otávio de Almeida, presidente da Federação Paulista de Jiu-Jitsu, na Folha de 5/10/1997 (Fernanda Papa, 'Pancadarias de rua ofuscam as conquistas do clã', Esporte, p. 5), oito dias depois do Pentagon Combat; a narração parafraseia e diz 'dias depois'. c07b, 2004: indiciamento por formação de quadrilha anunciado em 22/3/2004 pelo subsecretário de Segurança Marcelo Itagiba; lista com fotos e nomes anunciada pelo chefe da Polícia Civil, Álvaro Lins. A mesma Folha diz que a lista repetia medida do secretário Josias Quintal (governo de 1999 a 2002) que 'aparentemente não surtiu efeito'; a narração junta os dois anúncios em 'a segurança pública do Rio' e não cita nomes.
@@ -254,9 +257,11 @@ Duração aproximada: 22 min 48 s.
 - [Pedro Rizzo (Wikipedia)](https://en.wikipedia.org/wiki/Pedro_Rizzo)
 - [Márcio Cromado celebra retorno da RFT ao UFC (Lance!)](https://www.lance.com.br/lutas/marcio-cromado-celebra-retorno-rft-ufc-abre-portas-para-novos-mocambiques.html)
 - [Tiago Coelho Porto Rocha, Violência e jiu-jitsu na sociedade contemporânea (monografia de graduação em História, Universidade Federal de Uberlândia, 2006; PDF fornecido pelo dono do projeto): levantamento de matérias da Folha de S. Paulo, 1994-2004]()
+- [Robert Drysdale, The Rise and Evolution of Brazilian Jiu-Jitsu (2023)](https://www.amazon.com/dp/B0BW2GFRLV)
 
 ## Créditos das fotos
 
+- Euclydes Hatem: , , [Wikimedia Commons]()
 - Roberto Leitão: Gisella Mariana, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roberto_Leit%C3%A3o.jpg)
 - Marco Ruas: Kevin Treman, cropped by J Milburn, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marco_Ruas_publicity_shot_crop.jpg)
 - Renzo Gracie: Chris Hutt, CC BY 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RenzoCropped.jpg)
