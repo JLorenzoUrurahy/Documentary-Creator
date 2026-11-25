@@ -529,10 +529,6 @@
           "quando": "se associa a"
         },
         {
-          "texto": "Ivan com o dinheiro, Carlson com o nome",
-          "quando": "entra com o dinheiro"
-        },
-        {
           "texto": "Primeira academia fecha em um ano, diz um relato",
           "quando": "fecha em cerca"
         },
@@ -547,10 +543,6 @@
         {
           "texto": "1972: Rua Figueiredo Magalhães",
           "quando": "Rua Figueiredo Magalhães"
-        },
-        {
-          "texto": "A sala enche, com público novo",
-          "quando": "a sala enche"
         }
       ]
     },
