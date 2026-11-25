@@ -20,8 +20,8 @@ if (!/^\d+$/.test(numero ?? "")) {
 const logos = JSON.parse(readFileSync(join(raiz, "src/logos.json"), "utf8"));
 const arquivo = join(raiz, "src/capitulos", `capitulo-${numero}.json`);
 const capitulo = JSON.parse(readFileSync(arquivo, "utf8"));
-// Logos por cena: no mapa a fileira fica embaixo, à esquerda, e cabem cinco.
-const maximo = (cena) => (cena.tipo === "mapa" ? 5 : 2);
+// Logos por cena: no mapa a fileira fica embaixo, à esquerda, e cabem seis.
+const maximo = (cena) => (cena.tipo === "mapa" ? 6 : 2);
 
 for (const cena of capitulo.cenas) delete cena.logos;
 if (!opcoes.has("--tirar")) {
