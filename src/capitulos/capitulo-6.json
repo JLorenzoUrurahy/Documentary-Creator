@@ -226,6 +226,10 @@
     {
       "titulo": "Tapology: Ryan Gracie",
       "url": "https://www.tapology.com/fightcenter/fighters/ryan-gracie"
+    },
+    {
+      "titulo": "Robert Drysdale, The Rise and Evolution of Brazilian Jiu-Jitsu (2023)",
+      "url": "https://www.amazon.com/dp/B0BW2GFRLV"
     }
   ],
   "conferir": [
@@ -275,7 +279,8 @@
     "c10: a lista de alunos vem da Wikipedia de Carlson, que não diz quem lutou vale-tudo nos anos 1990. 'Wallid venceu no kimono mais de um Gracie' (Ralph, Renzo e Royce) e 'Bustamante e Sperry campeões de jiu-jitsu' foram escritos de memória. Belfort: UFC 12, 7/2/1997, aos 19 anos (Wikipedia). O bloco D pode contar Belfort x Couture: alinhar.",
     "c11: Chute Boxe fundada em 1978 por Rudimar Fedrigo; grappling a partir de 1991; três dos quatro cinturões do IVC (Wikipedia). Belfort x Wanderlei: UFC Brasil, 16/10/1998, São Paulo, nocaute técnico aos 0:44. Chamar essa luta de começo da rivalidade Carlson x Chute Boxe é leitura minha; a Wikipedia situa a rivalidade forte já na fase BTT x Chute Boxe, no Pride (anos 2000).",
     "c12: Ralph: Extreme Fighting 1, 2 e 3 (nov. 1995 a out. 1996; a segunda edição foi em Montreal, Canadá). Renzo: WCC 1 (17/10/1995, Charlotte), Taktarov (22/11/1996, nocaute com chute dado do chão), Pride 1 (empate com Akira Shoji), Pride 2 (guilhotina em Sanae Kikuta). As datas em que cada um se mudou e abriu academia nos EUA não estão nas fontes lidas.",
-    "c13: BTT fundada em abril de 2000 por Bustamante, Libório, Sperry e Luís Roberto Duarte (apelido 'Bebeo' de memória: conferir). Motivo do racha: a Wikipedia fala só em 'disputas'; sites de fãs falam em contrato e percentual das bolsas com Carlson morando nos EUA; Libório (Jiu-Jitsu Style) conta outra versão, ligada ao pouco envolvimento de Carlson nos treinos. Não há fonte primária lida. 'Creonte' vem de um personagem de novela; Carlson e os fundadores da BTT: tratar com cuidado (pessoas vivas e família).",
+    "c13: BTT fundada em abril de 2000 por Bustamante, Libório, Sperry e Luís Roberto Duarte (apelido 'Bebeo' de memória: conferir). O contrato de 20% das bolsas e patrocínios, a proposta de reescrever, a recusa de todos em assinar e a expulsão 'pela internet' vêm só da entrevista de Murilo Bustamante a Robert Drysdale (versão de parte, pessoa viva). Libório (Jiu-Jitsu Style) liga o racha ao pouco envolvimento de Carlson nos treinos. 'Creonte' vem de um personagem de novela.",
+    "c13b: patrocínio da AABB em 1999 para reformar a academia da Figueiredo de Magalhães, que teria ido para uma academia na AABB Lagoa: só a entrevista de Carlson Gracie Jr. a Drysdale (a narração não cita a AABB nem diz quem desviou). Bustamante dá outra razão para a mudança de local: treinavam na academia dele, no Leblon, por ser mais fácil de chegar e estacionar. 'Paguei até a última luta': só a entrevista de Wallid Ismail. O padrão de 5% a 10% é dito por Drysdale numa pergunta de entrevista, por experiência própria, sem dado de mercado. Ficaram de fora, de propósito, as afirmações de bolsas declaradas a menor e de documentos sumidos.",
     "Pronúncias a ouvir: Shooto, Sayama, Nishi, Yamamoto, Koichiro Kimura, Nakai, Budokan, Choke, Takada, Anjo, Pride, Tokyo Dome, Colosseum, Funaki, Pancrase, WVC, muay thai, Brazilian Top Team, Taktarov.",
     "d11: Regras Unificadas. Nova Jersey passou a sancionar eventos em setembro de 2000 (IFC) e o UFC 28 (novembro de 2000) já seguiu o regulamento do estado, mas a reunião que fechou o texto das 'Regras Unificadas' foi em 3 de abril de 2001, e o nome oficial só foi adotado pela associação das comissões em 2009. A narração diz 'em 2000 [...] um regulamento que fica conhecido como Regras Unificadas'.",
     "d08: 'um Gracie perdeu no vale-tudo'. A página do Pride 8 na Wikipedia diz que foi a primeira derrota de um Gracie no MMA; isso ignora derrotas antigas (Hélio x Waldemar Santana, 1955) e a retirada de Royce no UFC 3. A narração não afirma 'primeira'. Conferir também a diferença de peso Sakuraba x Royler (fonte: cerca de 30 libras, uns 13,6 kg).",
@@ -289,7 +294,9 @@
     "d13: CBJJ em 1994 e primeiro Mundial em 1996 na Tijuca seguem o roteiro/PLANO.md; alinhar com o capítulo 7.",
     "Pronúncias a ouvir na narração: Coleman, Shamrock, Kazushi Sakuraba, ground and pound, wrestler, kickboxing, Kerr, Frye, Severn, Royce, Ryan.",
     "Fotos: conferir se há imagem livre na Commons para Mark_Coleman, Maurice_Smith_(fighter) e Kazushi_Sakuraba.",
-    "d10b: perfil novo de Ryan Gracie. A causa da morte não entrou na narração (só uma fonte a detalha). O dia do nascimento diverge (13 ou 14 de agosto), por isso só o ano."
+    "d10b: perfil novo de Ryan Gracie. A causa da morte não entrou na narração (só uma fonte a detalha). O dia do nascimento diverge (13 ou 14 de agosto), por isso só o ano.",
+    "a03: Reylson Gracie com academia em Miami em 1982 vem de uma nota de rodapé de Drysdale, que cita Pedreira (2015) e a chama de 'oficialmente a primeira academia de BJJ nos EUA'; isso convive mal com a garagem de Rorion em 1978 (informal). A narração só registra a data. Reylson é filho de Carlos, portanto primo de Rorion: conferir.",
+    "Pronúncias a ouvir: Reylson, Figueiredo de Magalhães."
   ],
   "cenas": [
     {
@@ -372,7 +379,7 @@
       "tipo": "mapa",
       "ano": 1978,
       "titulo": "1978: a mudança definitiva",
-      "narracao": "Em [1978|mil novecentos e setenta e oito], Rorion se muda de vez. Tem vinte e seis anos e escolhe o sul da Califórnia, na região de Los Angeles. Ali, ninguém conhece o jiu-jitsu da família. Para pagar as contas, ele trabalha como figurante no cinema e em séries de televisão, como Casal Vinte. E monta a primeira academia onde dá: na garagem de casa, em [Hermosa Beach|Hermôsa Bitch], uma cidade de praia. Estende tatames no chão e convida quem aparece para experimentar.",
+      "narracao": "Em [1978|mil novecentos e setenta e oito], Rorion se muda de vez. Tem vinte e seis anos e escolhe o sul da Califórnia, na região de Los Angeles. Ali, ninguém conhece o jiu-jitsu da família. Para pagar as contas, ele trabalha como figurante no cinema e em séries de televisão, como Casal Vinte. E monta a primeira academia onde dá: na garagem de casa, em [Hermosa Beach|Hermôsa Bitch], uma cidade de praia. Estende tatames no chão e convida quem aparece para experimentar. Do outro lado do país, segundo nota do livro de Robert Drysdale, o primo Reylson Gracie abre academia em Miami em [1982|mil novecentos e oitenta e dois].",
       "vista": {
         "lon": -80,
         "lat": 5,
@@ -1791,33 +1798,33 @@
       "tipo": "cartao",
       "ano": 2000,
       "rotulo": "Rio de Janeiro, 2000",
-      "titulo": "O racha e a Brazilian Top Team",
-      "destaque": "Creontes",
-      "narracao": "Em [2000|dois mil], a equipe de [Carlson|Cárson] racha. Ele passava boa parte do tempo nos Estados Unidos, e a briga, segundo as fontes, envolve dinheiro: a parte do mestre nas bolsas dos lutadores. Os relatos divergem nos detalhes. Bustamante, Sperry, Libório e Luís Roberto Duarte, o Bebeo, saem e fundam, no Rio, a [Brazilian Top Team|Brazílian Tóp Tim]. [Carlson|Cárson] nunca perdoa: chama os que saíram de creontes, traidores. Mas um problema maior espera todos eles. Lá fora, os adversários já tinham estudado o jiu-jitsu. E aprendido a não ser finalizados.",
+      "titulo": "O racha: o contrato dos vinte por cento",
+      "destaque": "20%",
+      "narracao": "Em [2000|dois mil], a equipe de [Carlson|Cárson] racha. Ele morava nos Estados Unidos, e os lutadores treinavam no Rio. No centro da briga está um contrato: vinte por cento das bolsas e dos patrocínios para o mestre. Murilo Bustamante conta, em entrevista a Robert Drysdale, que todos já pagavam essa parte. O problema, diz ele, era o texto não obrigar [Carlson|Cárson] a treinar ninguém. Bustamante afirma que propôs reescrever, que ninguém assinou e que foi expulso da equipe pela internet. Os outros, segundo ele, o seguiram. Com Sperry, Libório e Luís Roberto Duarte, o Bebeo, ele funda a [Brazilian Top Team|Brazílian Tóp Tim].",
       "itens": [
         {
           "texto": "2000: a equipe de Carlson racha",
           "quando": "a equipe de Carlson"
         },
         {
-          "texto": "Disputa pela parte do mestre nas bolsas",
-          "quando": "envolve dinheiro"
+          "texto": "Contrato: 20% das bolsas e dos patrocínios",
+          "quando": "vinte por cento"
         },
         {
-          "texto": "Bustamante, Sperry, Libório e Bebeo saem",
-          "quando": "Bustamante, Sperry"
+          "texto": "Bustamante: o texto não obrigava Carlson a treinar",
+          "quando": "O problema, diz ele"
+        },
+        {
+          "texto": "Bustamante: propôs reescrever; ninguém assinou",
+          "quando": "propôs reescrever"
+        },
+        {
+          "texto": "Bustamante: foi expulso, e os outros o seguiram",
+          "quando": "foi expulso"
         },
         {
           "texto": "Nasce a Brazilian Top Team, no Rio",
           "quando": "Brazilian Top Team"
-        },
-        {
-          "texto": "Carlson os chama de creontes",
-          "quando": "de creontes"
-        },
-        {
-          "texto": "Adversários aprenderam a não ser finalizados",
-          "quando": "a não ser finalizados"
         }
       ],
       "logos": [
@@ -1826,6 +1833,53 @@
           "quando": "Brazilian Top Team"
         }
       ]
+    },
+    {
+      "id": "c13b-dois-lados",
+      "tipo": "comparacao",
+      "ano": 2000,
+      "titulo": "O racha contado pelos dois lados",
+      "narracao": "O outro lado conta diferente. Carlson Gracie Júnior, filho do mestre, diz a Drysdale que um patrocínio destinado a reformar a academia da Figueiredo de Magalhães foi para outra academia, na Lagoa, e que os lutadores foram treinar lá sem avisar. Só depois, segundo ele, o pai exigiu o contrato. Wallid Ismail ficou: diz que pagou [Carlson|Cárson] até a última luta. Para Drysdale, vinte por cento está acima do padrão das lutas, de cinco a dez, mas ninguém estava errado: pesaram a distância e a falta de conversa. [Carlson|Cárson] nunca perdoa e chama os que saíram de creontes, traidores. Lá fora, os adversários já tinham aprendido a não ser finalizados.",
+      "esquerda": {
+        "titulo": "Quem saiu",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Bustamante: contrato sem obrigação para o mestre",
+            "quando": "O outro lado"
+          },
+          {
+            "texto": "Bustamante: expulso, não saiu por vontade própria",
+            "quando": "conta diferente"
+          },
+          {
+            "texto": "Drysdale: 20% está acima do padrão (5% a 10%)",
+            "quando": "acima do padrão"
+          }
+        ]
+      },
+      "direita": {
+        "titulo": "Quem ficou com Carlson",
+        "tom": "neutro",
+        "itens": [
+          {
+            "texto": "Carlson Jr.: patrocínio da reforma foi para a Lagoa",
+            "quando": "um patrocínio"
+          },
+          {
+            "texto": "Carlson Jr.: treinavam lá sem avisar",
+            "quando": "sem avisar"
+          },
+          {
+            "texto": "Wallid Ismail: pagou até a última luta",
+            "quando": "pagou Carlson"
+          },
+          {
+            "texto": "Carlson chama os que saíram de creontes",
+            "quando": "de creontes"
+          }
+        ]
+      }
     },
     {
       "id": "d01-wrestling",
