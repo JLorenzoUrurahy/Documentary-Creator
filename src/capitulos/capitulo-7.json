@@ -583,7 +583,7 @@
       "papel": "O aluno de Carlson que venceu Royler",
       "nome": "Ricardo de la Riva",
       "wiki": "Ricardo_de_la_Riva",
-      "narracao": "A luta mais lembrada da década é de um aluno de [Carlson|Cárson]. Ricardo de la Riva treina com ele desde [1980|mil novecentos e oitenta]. Cria um jeito de lutar por baixo: enrosca uma perna por fora da perna do adversário e tira o equilíbrio dele. Na Copa Cantão, enfrenta Royler Gracie. E vence. Uma biografia fala em decisão dos árbitros. Sobre o ano, as fontes falam em [1985|mil novecentos e oitenta e cinco], [1986|mil novecentos e oitenta e seis] ou [1987|mil novecentos e oitenta e sete]. Robert Drysdale publica uma foto da luta e a data de [1987|mil novecentos e oitenta e sete]. Sobre o efeito, concordam. A posição passa a ser chamada pelo nome dele: guarda De la Riva.",
+      "narracao": "A luta mais lembrada da década é de um aluno de [Carlson|Cárson]. Ricardo de la Riva treina com ele desde [1980|mil novecentos e oitenta]. Desenvolve um jeito próprio de lutar por baixo: enrosca uma perna por fora da perna do adversário e tira o equilíbrio dele. Na Copa Cantão, enfrenta Royler Gracie. E vence. Uma biografia fala em decisão dos árbitros. Sobre o ano, as fontes falam em [1985|mil novecentos e oitenta e cinco], [1986|mil novecentos e oitenta e seis] ou [1987|mil novecentos e oitenta e sete]. Robert Drysdale publica uma foto da luta e a data de [1987|mil novecentos e oitenta e sete]. Sobre o efeito, concordam. A posição passa a ser chamada pelo nome dele: guarda De la Riva. Dela, falaremos em outro capítulo.",
       "fatos": [
         {
           "texto": "Aluno de Carlson desde 1980",
@@ -612,7 +612,7 @@
       "tipo": "mapa",
       "ano": 1993,
       "titulo": "Para fora do Rio",
-      "narracao": "Enquanto isso, o jiu-jitsu de competição começa a sair do Rio. O caminho mais curto leva a São Paulo. Lá, segundo o mestre Orlando Saraiva, ouvido por Robert Drysdale, há Campeonato Paulista desde [1976|mil novecentos e setenta e seis], o primeiro com trinta e quatro atletas. Em [1988|mil novecentos e oitenta e oito], segundo o registro da própria equipe, Waldomiro Perez funda ali a [Cia|Companhia] Paulista. Em [1993|mil novecentos e noventa e três], Fábio Gurgel se muda para a cidade. E há tatames bem mais longe, como em Manaus. Mesmo assim, a fama continua: é esporte de carioca. Carlinhos contou que os críticos diziam que ninguém ia viajar de outro estado para lutar um campeonato.",
+      "narracao": "Enquanto isso, o jiu-jitsu de competição começa a sair do Rio. O caminho mais curto leva a São Paulo. Lá, segundo o mestre Orlando Saraiva, ouvido por Robert Drysdale, há Campeonato Paulista desde [1976|mil novecentos e setenta e seis], o primeiro com trinta e quatro atletas. Em [1988|mil novecentos e oitenta e oito], segundo o registro da própria equipe, Waldomiro Perez funda ali a [Cia|Companhia] Paulista. Em [1993|mil novecentos e noventa e três], Fábio Gurgel se muda para a cidade, contratado por uma academia, e depois abre a sua. E há tatames bem mais longe, como em Manaus. Mesmo assim, a fama continua: é esporte de carioca. Carlinhos contou que os críticos diziam isso. Que ninguém ia viajar de outro estado para lutar um campeonato.",
       "vista": {
         "lon": -44.5,
         "lat": -23,
@@ -676,7 +676,7 @@
       "tipo": "linha",
       "ano": 1993,
       "titulo": "O torneio da Hebraica",
-      "narracao": "O empurrão vem de um professor novo. Um documento de [1991|mil novecentos e noventa e um], reproduzido no livro de Drysdale, junta as federações do Rio, de Minas e de São Paulo para tentar uma confederação nacional. É também para [1991|mil novecentos e noventa e um] que André Pederneiras planeja um torneio nacional. Leva dois anos. Ele conta que um sócio comprou tatames novos e pôs neles a marca de roupa que tinha, a [Mameluc|Mameluque]. Em [1993|mil novecentos e noventa e três], a Copa Brasileira [Mameluc|Mameluque] de Jiu-Jitsu acontece, no Clube Hebraica, no Rio. Segundo Pederneiras, Robson Gracie pediu uma parte do lucro para dar o aval da federação. E o torneio foi um sucesso.",
+      "narracao": "A ideia de uma entidade nacional já rondava. Um documento de [1991|mil novecentos e noventa e um], reproduzido no livro de Drysdale, junta as federações do Rio, de Minas e de São Paulo para tentar uma confederação nacional. Mas o empurrão vem de um professor novo, André Pederneiras. Ele queria um torneio nacional já naquele ano. Levou dois. Conta que um sócio comprou tatames novos e pôs neles a marca de roupa que tinha, a [Mameluc|Mameluque]. Em [1993|mil novecentos e noventa e três], a Copa Brasileira [Mameluc|Mameluque] de Jiu-Jitsu acontece, no Clube Hebraica, no Rio. Segundo Pederneiras, Robson Gracie pediu uma parte do lucro para dar o aval da federação. E o torneio foi um sucesso.",
       "eventos": [
         {
           "ano": "1991",
@@ -685,8 +685,8 @@
         },
         {
           "ano": "1991",
-          "texto": "Pederneiras planeja um torneio nacional",
-          "quando": "André Pederneiras planeja"
+          "texto": "Pederneiras quer um torneio nacional",
+          "quando": "um professor novo"
         },
         {
           "ano": "2 anos",
@@ -956,7 +956,7 @@
       "tipo": "comparacao",
       "ano": 1994,
       "titulo": "Fora do placar",
-      "narracao": "Há mais duas peças. A primeira é a vantagem. É o quase: a queda que quase sai, a passagem que quase se completa, o golpe que quase finaliza. Não soma no placar, mas desempata. E não é novidade: o regulamento de [1975|mil novecentos e setenta e cinco], reproduzido por Robert Drysdale, já dá vantagens, e em [1981|mil novecentos e oitenta e um] uma final do campeonato carioca foi decidida por uma. A segunda peça é a punição, para quem foge da luta ou amarra o jogo. No regulamento atual, ela sobe em degraus: aviso, vantagem para o adversário, dois pontos e a desclassificação. Guarde a palavra vantagem. Ela volta neste capítulo, como problema.",
+      "narracao": "Há mais duas peças. A primeira é a vantagem. É o quase: a queda que quase sai, a passagem que quase se completa, o golpe que quase finaliza. Não soma no placar, mas desempata. E não é novidade: o regulamento de [1975|mil novecentos e setenta e cinco], reproduzido por Robert Drysdale, já dá vantagens, e em [1981|mil novecentos e oitenta e um] uma final do campeonato carioca foi decidida por uma. A segunda peça é a punição, para quem foge da luta ou amarra o jogo. No regulamento atual, ela sobe em degraus: aviso, depois vantagem para o adversário, depois dois pontos, e por fim a desclassificação. Guarde a palavra vantagem. Ela volta neste capítulo, como problema.",
       "esquerda": {
         "titulo": "Vantagem",
         "tom": "neutro",
@@ -1035,7 +1035,7 @@
       "tipo": "mapa",
       "ano": 1995,
       "titulo": "O primeiro Pan-Americano",
-      "narracao": "Falta contar isso a quem não estava no ginásio. Luca Atalla, faixa azul de vinte e um anos, escreve para o Jornal Gracie, embrião da revista Graciemag. Em junho de [1995|mil novecentos e noventa e cinco], a confederação leva o campeonato para fora: o primeiro Pan-Americano, em Irvine, na Califórnia, onde Joe Moreira tem academia. Segundo Carlinhos, viajam cerca de cento e vinte brasileiros; a Graciemag fala em mais de quarenta vistos. A data é da Graciemag. A Wikipedia conta as edições a partir de [1996|mil novecentos e noventa e seis], e é desse ano a foto de um Pan no livro de Drysdale. E o passo seguinte já tem endereço: um ginásio na Tijuca.",
+      "narracao": "Falta contar tudo isso a quem não estava no ginásio. Luca Atalla, faixa azul de vinte e um anos, escreve para o Jornal Gracie, embrião da revista Graciemag. Em junho de [1995|mil novecentos e noventa e cinco], a confederação leva o campeonato para fora: o primeiro Pan-Americano, em Irvine, na Califórnia, onde Joe Moreira tem academia. Segundo Carlinhos, viajam cerca de cento e vinte brasileiros; a Graciemag fala em mais de quarenta vistos. Dá certo. A data é da Graciemag. A Wikipedia conta as edições a partir de [1996|mil novecentos e noventa e seis], e é desse ano a foto de um Pan no livro de Drysdale. E o passo seguinte já tem endereço: um ginásio na Tijuca.",
       "vista": {
         "lon": -44,
         "lat": -21,
@@ -1819,7 +1819,7 @@
       "tipo": "comparacao",
       "ano": 2007,
       "titulo": "A mudança: o que deu e o que custou",
-      "narracao": "Por que sair do Rio? Não encontramos uma explicação oficial da federação. O site BJJ Heroes resume o motivo: buscar reconhecimento mundial. André Pederneiras, da Nova União, disse a Robert Drysdale que foi reação a uma confederação rival, que tirava atletas e dinheiro. É a versão de um adversário. E o torneio ganhou mesmo outra cara, mais internacional. A conta ficou com os brasileiros. Agora era preciso visto americano, passagem e hospedagem em dólar. Segundo o mesmo site, muitos lutadores do Brasil perderam a sua melhor vitrine por não ter como viajar. E a federação deixaria claro: conseguir o visto é responsabilidade do atleta.",
+      "narracao": "Por que sair do Rio? Não encontramos uma explicação oficial da federação. O site BJJ Heroes resume o motivo: buscar reconhecimento mundial. André Pederneiras, da Nova União, disse a Robert Drysdale que foi reação a uma confederação rival, que tirava atletas e dinheiro. É a versão de um adversário. E o torneio ganhou mesmo outra cara, mais internacional. A conta ficou com os brasileiros. Agora era preciso visto americano, passagem e hospedagem em dólar. Segundo o mesmo site, muitos lutadores do Brasil perderam a sua melhor vitrine por não ter como viajar. E a federação, anos depois, deixaria claro: conseguir o visto é responsabilidade do atleta.",
       "esquerda": {
         "titulo": "O que deu",
         "tom": "bom",
@@ -1918,7 +1918,7 @@
       "tipo": "comparacao",
       "ano": 2002,
       "titulo": "A rival, contada pelos dois lados",
-      "narracao": "Pederneiras conta que não queria nada com aquilo. Aceitou presidir a entidade por um ano, porque tinha credibilidade, e saiu. Perguntou a Luisinho qual era o objetivo. A resposta, segundo ele: derrubar Carlinhos. Daí a decisão de marcar todos os eventos nas datas da confederação. Carlinhos conta o outro lado: a Nova União boicotou os torneios dele e, quando eles foram para os Estados Unidos, não tinha como viajar. O fim, de novo por Pederneiras: a rival quebrou porque Luisinho devia a muita gente. Para a equipe voltar, ele diz ter pagado do bolso cerca de seis mil reais de inscrições atrasadas.",
+      "narracao": "Pederneiras conta que não queria nada com aquilo. Aceitou presidir a entidade por um ano, porque tinha credibilidade, e saiu. Perguntou a Luisinho qual era o objetivo. A resposta, segundo ele: derrubar Carlinhos. Daí a decisão de marcar todos os eventos nas datas da confederação. Carlinhos conta o outro lado: a Nova União boicotou os torneios dele e, quando eles foram para os Estados Unidos, não tinha como viajar. O fim, de novo por Pederneiras: a rival quebrou porque Luisinho devia a muita gente. Para a equipe voltar, ele diz ter pago do bolso cerca de seis mil reais de inscrições que Luisinho devia à confederação.",
       "esquerda": {
         "titulo": "Segundo Pederneiras",
         "tom": "neutro",
