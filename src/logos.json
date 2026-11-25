@@ -143,5 +143,99 @@
     "arquivo": "cedidas/logos/black-belt.png",
     "placa": "#000000",
     "padrao": "revista Black Belt|Black Belt Magazine"
+  },
+  "bjj-heroes": {
+    "arquivo": "cedidas/logos/bjj-heroes.png",
+    "placa": "#ffffff",
+    "padrao": "BJJ Heroes"
+  },
+  "carlson-gracie-team": {
+    "arquivo": "cedidas/logos/carlson-gracie-team.png",
+    "placa": "#ffffff",
+    "padrao": "equipe de Carlson|Carlson Gracie Team"
+  },
+  "cji": {
+    "arquivo": "cedidas/logos/cji.jpg",
+    "placa": "#000000",
+    "padrao": "\\bCJI\\b|Craig Jones Invitational"
+  },
+  "ebi": {
+    "arquivo": "cedidas/logos/ebi.jpg",
+    "placa": "#0c0d10",
+    "padrao": "\\bEBI\\b|Eddie Bravo Invitational",
+    "cartaz": true
+  },
+  "gfteam": {
+    "arquivo": "cedidas/logos/gfteam.png",
+    "placa": "#ece7dc",
+    "padrao": "GFTeam"
+  },
+  "gracie-academy": {
+    "arquivo": "cedidas/logos/gracie-academy.jpg",
+    "placa": "#ffffff",
+    "padrao": "Gracie Academy|Torrance"
+  },
+  "gracie-humaita": {
+    "arquivo": "cedidas/logos/gracie-humaita.png",
+    "placa": "#ece7dc",
+    "padrao": "Humaitá"
+  },
+  "gracie-pro": {
+    "arquivo": "cedidas/logos/gracie-pro.webp",
+    "placa": "#ffffff",
+    "padrao": "Gracie Pro"
+  },
+  "kodokan": {
+    "arquivo": "cedidas/logos/kodokan.jpg",
+    "placa": "#ffffff",
+    "padrao": "Kodokan"
+  },
+  "metamoris": {
+    "arquivo": "cedidas/logos/metamoris.jpg",
+    "placa": "#0c0d10",
+    "padrao": "Metamoris",
+    "cartaz": true
+  },
+  "new-wave": {
+    "arquivo": "cedidas/logos/new-wave.webp",
+    "placa": "#ffffff",
+    "padrao": "New Wave"
+  },
+  "pentagon-combat": {
+    "arquivo": "cedidas/logos/pentagon-combat.jpg",
+    "placa": "#000000",
+    "padrao": "Pentagon"
+  },
+  "rft": {
+    "arquivo": "cedidas/logos/rft.jpg",
+    "placa": "#ffffff",
+    "padrao": "Renovação"
+  },
+  "uaejjf": {
+    "arquivo": "cedidas/logos/uaejjf.svg",
+    "placa": "#ffffff",
+    "padrao": "UAEJJF"
+  },
+  "vale-tudo-japan": {
+    "arquivo": "cedidas/logos/vale-tudo-japan.jpg",
+    "placa": "#0c0d10",
+    "padrao": "Vale Tudo Japan",
+    "cartaz": true
+  },
+  "wno": {
+    "arquivo": "cedidas/logos/wno.webp",
+    "placa": "#ffffff",
+    "padrao": "Who's Number One|\\bWNO\\b"
+  },
+  "wvc": {
+    "arquivo": "cedidas/logos/wvc.jpg",
+    "placa": "#0c0d10",
+    "padrao": "\\bWVC\\b|World Vale Tudo",
+    "cartaz": true
+  },
+  "dream-art": {
+    "arquivo": "cedidas/logos/dream-art.svg",
+    "placa": "#ffffff",
+    "padrao": "Dream Art"
   }
 }

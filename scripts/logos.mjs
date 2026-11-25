@@ -20,18 +20,19 @@ if (!/^\d+$/.test(numero ?? "")) {
 const logos = JSON.parse(readFileSync(join(raiz, "src/logos.json"), "utf8"));
 const arquivo = join(raiz, "src/capitulos", `capitulo-${numero}.json`);
 const capitulo = JSON.parse(readFileSync(arquivo, "utf8"));
-const MAXIMO = 2; // logos por cena
+// Logos por cena: no mapa a fileira fica embaixo, à esquerda, e cabem cinco.
+const maximo = (cena) => (cena.tipo === "mapa" ? 5 : 2);
 
 for (const cena of capitulo.cenas) delete cena.logos;
 if (!opcoes.has("--tirar")) {
   for (const [id, dados] of Object.entries(logos)) {
     const padrao = new RegExp(dados.padrao);
     for (const cena of capitulo.cenas) {
-      if (!cena.narracao || cena.tipo === "titulo") continue;
+      if (!cena.narracao || cena.tipo === "titulo" || cena.semLogos) continue;
       const mostrado = cena.narracao.replace(/\[([^|\]]+)\|[^\]]+\]/g, "$1");
       const achado = mostrado.match(padrao);
       if (!achado) continue;
-      if ((cena.logos ?? []).length >= MAXIMO) continue;
+      if ((cena.logos ?? []).length >= maximo(cena)) continue;
       (cena.logos ??= []).push({ id, quando: achado[0] });
       console.log(`${numero} ${cena.id}: ${id} ("${achado[0]}")`);
       break;

@@ -465,13 +465,13 @@
           "quando": "chamado de inventor"
         }
       ],
+      "wiki": "Roberto_Correa",
       "logos": [
         {
           "id": "gracie-barra",
           "quando": "Gracie Barra"
         }
-      ],
-      "wiki": "Roberto_Correa"
+      ]
     },
     {
       "id": "a05-meia-guarda",
@@ -773,7 +773,13 @@
           }
         ]
       },
-      "fundo": "Megaton Dias Seminar 07.jpg"
+      "fundo": "Megaton Dias Seminar 07.jpg",
+      "logos": [
+        {
+          "id": "bjj-heroes",
+          "quando": "BJJ Heroes"
+        }
+      ]
     },
     {
       "id": "a12-familia",
@@ -1735,7 +1741,13 @@
           "quando": "Em 2017"
         }
       ],
-      "fundo": "Submission Grappling - rear naked choke.jpg"
+      "fundo": "Submission Grappling - rear naked choke.jpg",
+      "logos": [
+        {
+          "id": "ebi",
+          "quando": "EBI"
+        }
+      ]
     },
     {
       "id": "c11-federacao",

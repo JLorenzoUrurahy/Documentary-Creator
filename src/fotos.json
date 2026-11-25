@@ -174,10 +174,11 @@
   "pagina": "https://commons.wikimedia.org/wiki/File:Masakuze_Imanari.jpg"
  },
  "Demian_Maia": {
-  "arquivo": "fotos/demian-maia.jpg",
-  "autor": "Peter Gordon",
-  "licenca": "CC BY 2.0",
-  "pagina": "https://commons.wikimedia.org/wiki/File:Demian_Maia.jpg"
+  "arquivo": "cedidas/retratos/demian-maia.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
  },
  "Charles_Oliveira": {
   "arquivo": "fotos/charles-oliveira.jpg",
@@ -263,5 +264,145 @@
   "licenca": "",
   "pagina": "",
   "credito": "Ilustração original"
+ },
+ "Amaury_Bitetti": {
+  "arquivo": "cedidas/retratos/amaury-bitetti.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Art_Jimmerson": {
+  "arquivo": "cedidas/retratos/art-jimmerson.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Carlos_Gracie_Jr.": {
+  "arquivo": "cedidas/retratos/carlos-gracie-jr.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Craig_Jones_(grappler)": {
+  "arquivo": "cedidas/retratos/craig-jones.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Donato_Pires_dos_Reis": {
+  "arquivo": "cedidas/retratos/donato-pires-dos-reis.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Fred_Ebert": {
+  "arquivo": "cedidas/retratos/fred-ebert.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Gastão_Gracie": {
+  "arquivo": "cedidas/retratos/gastao-gracie.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Geo_Omori": {
+  "arquivo": "cedidas/retratos/geo-omori.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "George_Gracie": {
+  "arquivo": "cedidas/retratos/george-gracie.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Jacyntho_Ferro": {
+  "arquivo": "cedidas/retratos/jacyntho-ferro.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "John_Danaher_(martial_artist)": {
+  "arquivo": "cedidas/retratos/john-danaher.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Kimo_Leopoldo": {
+  "arquivo": "cedidas/retratos/kimo-leopoldo.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Mário_Sperry": {
+  "arquivo": "cedidas/retratos/mario-sperry.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Manoel_Rufino_dos_Santos": {
+  "arquivo": "cedidas/retratos/manoel-rufino.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Marcus_Almeida": {
+  "arquivo": "cedidas/retratos/buchecha.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Rolls_Gracie": {
+  "arquivo": "cedidas/retratos/rolls-gracie.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Soshihiro_Satake": {
+  "arquivo": "cedidas/retratos/soshihiro-satake.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Takeo_Yano": {
+  "arquivo": "cedidas/retratos/takeo-yano.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Yassuiti_Ono": {
+  "arquivo": "cedidas/retratos/yassuiti-ono.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
+ },
+ "Ryan_Gracie": {
+  "arquivo": "cedidas/retratos/ryan-gracie.jpg",
+  "autor": "",
+  "licenca": "",
+  "pagina": "",
+  "credito": "Acervo pessoal aberto"
  }
 }

@@ -591,6 +591,12 @@
           "texto": "Transmissão gratuita",
           "quando": "transmissão é gratuita"
         }
+      ],
+      "logos": [
+        {
+          "id": "cji",
+          "quando": "Craig Jones Invitational"
+        }
       ]
     },
     {
@@ -1067,6 +1073,18 @@
         {
           "id": "alliance",
           "quando": "Alliance"
+        },
+        {
+          "id": "atos",
+          "quando": "Atos"
+        },
+        {
+          "id": "checkmat",
+          "quando": "Checkmat"
+        },
+        {
+          "id": "aoj",
+          "quando": "Art of Jiu Jitsu"
         }
       ]
     },

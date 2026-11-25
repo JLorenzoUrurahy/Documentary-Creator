@@ -413,7 +413,8 @@
           "texto": "Única luta profissional de Carlos, dizem",
           "quando": "a única luta profissional"
         }
-      ]
+      ],
+      "wiki": "Manoel_Rufino_dos_Santos"
     },
     {
       "id": "a07-carlos-rufino",
@@ -600,7 +601,8 @@
           "texto": "De 1h40 a mais de duas horas",
           "quando": "uma hora e quarenta"
         }
-      ]
+      ],
+      "wiki": "Fred_Ebert"
     },
     {
       "id": "a12-empates",
@@ -984,7 +986,8 @@
           "texto": "Resultado oficial: empate",
           "quando": "o resultado oficial"
         }
-      ]
+      ],
+      "wiki": "Yassuiti_Ono"
     },
     {
       "id": "b07-1936",
@@ -2143,7 +2146,13 @@
             "quando": "Até o ano muda"
           }
         ]
-      }
+      },
+      "logos": [
+        {
+          "id": "bjj-heroes",
+          "quando": "BJJ Heroes"
+        }
+      ]
     },
     {
       "id": "d08-santana",

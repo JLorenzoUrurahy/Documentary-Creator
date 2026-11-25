@@ -539,6 +539,10 @@
         {
           "id": "ajp",
           "quando": "AJP"
+        },
+        {
+          "id": "uaejjf",
+          "quando": "UAEJJF"
         }
       ]
     },
@@ -570,6 +574,12 @@
         {
           "texto": "Sem finalização, empate",
           "quando": "é empate"
+        }
+      ],
+      "logos": [
+        {
+          "id": "metamoris",
+          "quando": "Metamoris"
         }
       ]
     },
@@ -718,7 +728,13 @@
           "quando": "escapou mais rápido"
         }
       ],
-      "fundo": "Los Angeles View.jpg"
+      "fundo": "Los Angeles View.jpg",
+      "logos": [
+        {
+          "id": "ebi",
+          "quando": "Eddie Bravo Invitational"
+        }
+      ]
     },
     {
       "id": "a10-eventos",
@@ -774,6 +790,10 @@
         {
           "id": "fight-to-win",
           "quando": "Fight to Win"
+        },
+        {
+          "id": "copa-podio",
+          "quando": "Copa Pódio"
         }
       ]
     },
@@ -839,6 +859,12 @@
           "ano": "Outubro",
           "texto": "Um nome só no cartaz",
           "quando": "Em outubro"
+        }
+      ],
+      "logos": [
+        {
+          "id": "wno",
+          "quando": "Who's Number One"
         }
       ]
     },
@@ -1074,6 +1100,10 @@
         {
           "id": "b-team",
           "quando": "B-Team"
+        },
+        {
+          "id": "new-wave",
+          "quando": "New Wave"
         }
       ]
     },
@@ -1182,6 +1212,12 @@
           "ano": "2017",
           "texto": "Roger se aposenta das competições",
           "quando": "não compete mais"
+        }
+      ],
+      "logos": [
+        {
+          "id": "gracie-pro",
+          "quando": "Gracie Pro"
         }
       ]
     },

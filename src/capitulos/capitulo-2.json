@@ -640,7 +640,8 @@
           "texto": "Morre em 1929 e quase some da história",
           "quando": "Ele morre"
         }
-      ]
+      ],
+      "wiki": "Jacyntho_Ferro"
     },
     {
       "id": "a09-graduados",
@@ -824,6 +825,12 @@
           "texto": "Morre em Belém, em 28 de novembro de 1941",
           "quando": "Ele morre em Belém"
         }
+      ],
+      "logos": [
+        {
+          "id": "kodokan",
+          "quando": "Kodokan"
+        }
       ]
     },
     {
@@ -984,7 +991,8 @@
           "texto": "Muda para Belém atrás da borracha",
           "quando": "vai morar em Belém"
         }
-      ]
+      ],
+      "wiki": "Gastão_Gracie"
     },
     {
       "id": "b04-negocios",
@@ -1177,7 +1185,8 @@
           "texto": "Provável professor do dia a dia de Carlos",
           "quando": "professor do dia"
         }
-      ]
+      ],
+      "wiki": "Jacyntho_Ferro"
     },
     {
       "id": "b10-duas-versoes",
@@ -1600,7 +1609,8 @@
           "texto": "Mais antigo que Carlos Gracie",
           "quando": "mais antigo"
         }
-      ]
+      ],
+      "wiki": "Donato_Pires_dos_Reis"
     },
     {
       "id": "c05-minas",
@@ -2094,7 +2104,8 @@
           "texto": "Independente: sai e volta da academia dos irmãos",
           "quando": "George era independente"
         }
-      ]
+      ],
+      "wiki": "George_Gracie"
     },
     {
       "id": "d04-helio",
@@ -2502,6 +2513,10 @@
         {
           "id": "nova-uniao",
           "quando": "Nova União"
+        },
+        {
+          "id": "gfteam",
+          "quando": "GFTeam"
         }
       ]
     },

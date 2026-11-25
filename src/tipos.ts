@@ -34,6 +34,8 @@ type Base = {
   // public/cedidas/logos). Cada um entra quando o trecho é falado.
   // scripts/logos.mjs marca a primeira citação de cada organização no capítulo.
   logos?: { id: string; quando?: string }[];
+  // Cena em que a logo cobriria o desenho: scripts/logos.mjs pula.
+  semLogos?: boolean;
 };
 
 export type CenaTitulo = Base & {

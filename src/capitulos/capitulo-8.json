@@ -316,6 +316,12 @@
           "texto": "Hoje, conselheiro de segurança nacional",
           "quando": "conselheiro de segurança"
         }
+      ],
+      "logos": [
+        {
+          "id": "pentagon-combat",
+          "quando": "Pentagon"
+        }
       ]
     },
     {

@@ -214,6 +214,18 @@
     {
       "titulo": "Pride 12 (Wikipedia, inglês)",
       "url": "https://en.wikipedia.org/wiki/Pride_12"
+    },
+    {
+      "titulo": "Wikipedia (en): Ryan Gracie",
+      "url": "https://en.wikipedia.org/wiki/Ryan_Gracie"
+    },
+    {
+      "titulo": "Sherdog: Ryan Gracie Found Dead at 33",
+      "url": "https://www.sherdog.com/news/news/Ryan-Gracie-Found-Dead-at-33-10400"
+    },
+    {
+      "titulo": "Tapology: Ryan Gracie",
+      "url": "https://www.tapology.com/fightcenter/fighters/ryan-gracie"
     }
   ],
   "conferir": [
@@ -276,7 +288,8 @@
     "d11: 'briga de galo humana' é a expressão do senador John McCain (1996); a Wikipedia fala em 36 estados com proibição. Luvas obrigatórias no UFC 14 e categorias de peso no UFC 12 (ambos 1997); cabeçadas proibidas no UFC 15 (1997); rounds de cinco minutos no UFC 21 (1999).",
     "d13: CBJJ em 1994 e primeiro Mundial em 1996 na Tijuca seguem o roteiro/PLANO.md; alinhar com o capítulo 7.",
     "Pronúncias a ouvir na narração: Coleman, Shamrock, Kazushi Sakuraba, ground and pound, wrestler, kickboxing, Kerr, Frye, Severn, Royce, Ryan.",
-    "Fotos: conferir se há imagem livre na Commons para Mark_Coleman, Maurice_Smith_(fighter) e Kazushi_Sakuraba."
+    "Fotos: conferir se há imagem livre na Commons para Mark_Coleman, Maurice_Smith_(fighter) e Kazushi_Sakuraba.",
+    "d10b: perfil novo de Ryan Gracie. A causa da morte não entrou na narração (só uma fonte a detalha). O dia do nascimento diverge (13 ou 14 de agosto), por isso só o ano."
   ],
   "cenas": [
     {
@@ -465,7 +478,13 @@
           "quando": "Academia Gracie"
         }
       ],
-      "fundo": "Hollywood Sign (Zuschnitt).jpg"
+      "fundo": "Hollywood Sign (Zuschnitt).jpg",
+      "logos": [
+        {
+          "id": "gracie-academy",
+          "quando": "Torrance"
+        }
+      ]
     },
     {
       "id": "a06-irmaos",
@@ -1355,6 +1374,10 @@
         {
           "id": "shooto",
           "quando": "Shooto"
+        },
+        {
+          "id": "vale-tudo-japan",
+          "quando": "Vale Tudo Japan"
         }
       ]
     },
@@ -1632,6 +1655,10 @@
         {
           "id": "chute-boxe",
           "quando": "Chute Boxe"
+        },
+        {
+          "id": "wvc",
+          "quando": "WVC"
         }
       ]
     },
@@ -1715,6 +1742,12 @@
         {
           "texto": "UFC Brasil, 1998: Belfort vence Wanderlei",
           "quando": "Belfort vence Wanderlei"
+        }
+      ],
+      "logos": [
+        {
+          "id": "carlson-gracie-team",
+          "quando": "equipe de Carlson"
         }
       ]
     },
@@ -2144,6 +2177,42 @@
           "ano": "dez. 2000",
           "texto": "Ryan: decisão em round único de dez minutos",
           "quando": "Ryan Gracie"
+        }
+      ]
+    },
+    {
+      "id": "d10b-ryan",
+      "tipo": "perfil",
+      "ano": 2000,
+      "nome": "Ryan Gracie",
+      "anos": "1974 – 2007",
+      "papel": "O caçula de Robson Gracie",
+      "wiki": "Ryan_Gracie",
+      "narracao": "Ryan Gracie merece uma parada. Nascido no Rio em [1974|mil novecentos e setenta e quatro], é o filho mais novo de Robson Gracie e irmão de Renzo e de Ralph. No Pride, faz sete lutas entre [2000|dois mil] e [2004|dois mil e quatro]: vence cinco e perde duas. Fora do ringue, brigas e passagens pela polícia acompanham a carreira. Em dezembro de [2007|dois mil e sete], é preso em São Paulo. No dia seguinte, quinze de dezembro, é encontrado morto na cela de uma delegacia. Tinha trinta e três anos.",
+      "fatos": [
+        {
+          "texto": "Nascido no Rio, em 1974",
+          "quando": "Nascido no Rio"
+        },
+        {
+          "texto": "Filho mais novo de Robson Gracie",
+          "quando": "filho mais novo"
+        },
+        {
+          "texto": "Irmão de Renzo e de Ralph",
+          "quando": "irmão de Renzo"
+        },
+        {
+          "texto": "Pride, 2000 a 2004: cinco vitórias, duas derrotas",
+          "quando": "vence cinco"
+        },
+        {
+          "texto": "Dezembro de 2007: preso em São Paulo",
+          "quando": "é preso em São Paulo"
+        },
+        {
+          "texto": "15 de dezembro: morto na cela, aos 33 anos",
+          "quando": "encontrado morto"
         }
       ]
     },

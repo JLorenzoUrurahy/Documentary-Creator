@@ -179,7 +179,11 @@ const FundoDaCena: React.FC<{ cena: Cena; duracao: number; indice: number }> = (
   );
 };
 
-const indiceLogos = logos as Record<string, { arquivo: string; placa: string }>;
+// "cartaz": a imagem é um cartaz ou capa (retrato), e a placa fica mais alta.
+const indiceLogos = logos as Record<
+  string,
+  { arquivo: string; placa: string; cartaz?: boolean }
+>;
 
 // Logos das organizações citadas na cena, em plaquinhas no canto direito,
 // abaixo do ano. Cada um entra quando o nome é falado.
@@ -197,10 +201,13 @@ const LogosDaCena: React.FC<{ cena: Cena; ritmo: Ritmo }> = ({ cena, ritmo }) =>
         // Perfil sem retrato: o texto ocupa a esquerda, a logo volta para o canto.
         ...(cena.tipo === "mapa" ||
         (cena.tipo === "perfil" && cena.wiki && cena.wiki in fotos)
-          ? { left: MARGEM, top: cena.tipo === "perfil" ? 748 : 730 }
+          ? { left: MARGEM, bottom: cena.tipo === "perfil" ? 182 : 200 }
           : { right: MARGEM, top: 150 }),
         display: "flex",
         flexDirection: "row",
+        // Embaixo, a fileira se apoia na base: um cartaz mais alto cresce para cima.
+        alignItems:
+          cena.tipo === "mapa" || cena.tipo === "perfil" ? "flex-end" : "flex-start",
         gap: 16,
       }}
     >
@@ -211,9 +218,17 @@ const LogosDaCena: React.FC<{ cena: Cena; ritmo: Ritmo }> = ({ cena, ritmo }) =>
           <div
             key={logo.id}
             style={{
-              width: 230,
-              height: 150,
-              padding: 16,
+              // Cartaz: alto no mapa (há espaço), médio no canto de cima e, sob o
+              // retrato do perfil, da altura de uma logo comum.
+              width: dados.cartaz && cena.tipo !== "mapa" ? 160 : 230,
+              height: !dados.cartaz
+                ? 150
+                : cena.tipo === "mapa"
+                  ? 330
+                  : cena.tipo === "perfil"
+                    ? 150
+                    : 215,
+              padding: dados.cartaz ? 6 : 16,
               boxSizing: "border-box",
               backgroundColor: dados.placa,
               border: `1px solid ${COR.borda}`,

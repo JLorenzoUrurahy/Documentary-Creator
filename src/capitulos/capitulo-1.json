@@ -194,7 +194,13 @@
           "quando": "Ele chama a escola"
         }
       ],
-      "wiki": "Jigoro_Kano"
+      "wiki": "Jigoro_Kano",
+      "logos": [
+        {
+          "id": "kodokan",
+          "quando": "Kodokan"
+        }
+      ]
     },
     {
       "id": "c05-randori",

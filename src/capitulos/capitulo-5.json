@@ -692,6 +692,12 @@
           "pai": "g2",
           "quando": "Wallid Ismail"
         }
+      ],
+      "logos": [
+        {
+          "id": "carlson-gracie-team",
+          "quando": "equipe de Carlson"
+        }
       ]
     },
     {
@@ -1159,6 +1165,12 @@
         {
           "texto": "Vantagem: ainda fora das primeiras regras",
           "quando": "ela não aparece"
+        }
+      ],
+      "logos": [
+        {
+          "id": "bjj-heroes",
+          "quando": "BJJ Heroes"
         }
       ]
     },

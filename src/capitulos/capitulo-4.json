@@ -1109,7 +1109,13 @@
           "quando": "achar um ringue"
         }
       ],
-      "fundo": "Humaitá Rio de Janeiro Brazil.jpg"
+      "fundo": "Humaitá Rio de Janeiro Brazil.jpg",
+      "logos": [
+        {
+          "id": "gracie-humaita",
+          "quando": "Humaitá"
+        }
+      ]
     },
     {
       "id": "c01-provocacao",
@@ -1304,6 +1310,12 @@
         {
           "texto": "Luta sem vencedor",
           "quando": "termina sem vencedor"
+        }
+      ],
+      "logos": [
+        {
+          "id": "pentagon-combat",
+          "quando": "Pentagon"
         }
       ]
     },
@@ -1589,6 +1601,12 @@
           "sub": "Márcio Cromado",
           "pai": "ll",
           "quando": "Renovação Fight Team"
+        }
+      ],
+      "logos": [
+        {
+          "id": "rft",
+          "quando": "Renovação"
         }
       ]
     },

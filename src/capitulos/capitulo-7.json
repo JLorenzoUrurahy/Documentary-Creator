@@ -1225,7 +1225,8 @@
           "pai": "alliance",
           "quando": "à Brasa"
         }
-      ]
+      ],
+      "semLogos": true
     },
     {
       "id": "b09-racha",
@@ -1615,7 +1616,13 @@
           }
         ]
       },
-      "fundo": "Walter Pyramid.jpg"
+      "fundo": "Walter Pyramid.jpg",
+      "logos": [
+        {
+          "id": "bjj-heroes",
+          "quando": "BJJ Heroes"
+        }
+      ]
     },
     {
       "id": "c05-cbjjo",

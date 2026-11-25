@@ -206,6 +206,10 @@ A revanche da família fica com Royce. Primeiro de maio de 2000, Tóquio, tornei
 
 E o caçador não para. Em agosto de 2000, no Pride dez, é a vez de Renzo Gracie. Perto do fim do segundo round, Sakuraba pega o braço de Renzo por trás, numa kimura, e gira. O cotovelo sai do lugar. Renzo não bate, e o juiz encerra a luta. Em dezembro, Ryan Gracie, com o ombro machucado e num round único de dez minutos, perde por decisão. Em treze meses, Sakuraba tinha vencido quatro Gracie: Royler, Royce, Renzo e Ryan.
 
+### d10b-ryan (perfil · 2000 · 33 s)
+
+Ryan Gracie merece uma parada. Nascido no Rio em 1974, é o filho mais novo de Robson Gracie e irmão de Renzo e de Ralph. No Pride, faz sete lutas entre 2000 e 2004: vence cinco e perde duas. Fora do ringue, brigas e passagens pela polícia acompanham a carreira. Em dezembro de 2007, é preso em São Paulo. No dia seguinte, quinze de dezembro, é encontrado morto na cela de uma delegacia. Tinha trinta e três anos.
+
 ### d11-regras-novas (linha · 2000 · 42 s)
 
 Enquanto isso, o vale-tudo mudava. Nos Estados Unidos, políticos chamavam aquilo de briga de galo humana, e muitos estados proibiram os eventos. Para sobreviver, o UFC cria regras. Em 1997, categorias de peso, luvas obrigatórias e o fim das cabeçadas. Em 1999, rounds de cinco minutos. Em 2000, a comissão atlética de Nova Jersey passa a aceitar os eventos, com um regulamento que fica conhecido como Regras Unificadas. A luta sem regras e sem relógio deixava de existir. Nascia um esporte: o MMA, as artes marciais mistas.
@@ -218,7 +222,7 @@ O que o jiu-jitsu ganhou com o vale-tudo? Quase tudo. Em menos de dez anos, saiu
 
 Só que essa é metade da história. Enquanto o mundo olhava para a jaula, nos Estados Unidos e no Japão, no Rio de Janeiro acontecia outra coisa, com menos barulho. O jiu-jitsu de kimono, aquele sem socos, estava virando um esporte de verdade. Com uma confederação, criada em 1994. Com regras, pontos e categorias. E com um campeonato mundial, disputado pela primeira vez em 1996, num ginásio da Tijuca. Para muita gente, o futuro da arte estava ali. No próximo capítulo: nasce o esporte organizado.
 
-Duração aproximada: 31 min 44 s.
+Duração aproximada: 32 min 17 s.
 
 ## Conferir antes de publicar
 
@@ -282,6 +286,7 @@ Duração aproximada: 31 min 44 s.
 - [CONFERIR] d13: CBJJ em 1994 e primeiro Mundial em 1996 na Tijuca seguem o roteiro/PLANO.md; alinhar com o capítulo 7.
 - [CONFERIR] Pronúncias a ouvir na narração: Coleman, Shamrock, Kazushi Sakuraba, ground and pound, wrestler, kickboxing, Kerr, Frye, Severn, Royce, Ryan.
 - [CONFERIR] Fotos: conferir se há imagem livre na Commons para Mark_Coleman, Maurice_Smith_(fighter) e Kazushi_Sakuraba.
+- [CONFERIR] d10b: perfil novo de Ryan Gracie. A causa da morte não entrou na narração (só uma fonte a detalha). O dia do nascimento diverge (13 ou 14 de agosto), por isso só o ano.
 
 ## Fontes
 
@@ -338,15 +343,21 @@ Duração aproximada: 31 min 44 s.
 - [Pride 8 (Wikipedia, inglês)](https://en.wikipedia.org/wiki/Pride_8)
 - [Pride 10 (Wikipedia, inglês)](https://en.wikipedia.org/wiki/Pride_10)
 - [Pride 12 (Wikipedia, inglês)](https://en.wikipedia.org/wiki/Pride_12)
+- [Wikipedia (en): Ryan Gracie](https://en.wikipedia.org/wiki/Ryan_Gracie)
+- [Sherdog: Ryan Gracie Found Dead at 33](https://www.sherdog.com/news/news/Ryan-Gracie-Found-Dead-at-33-10400)
+- [Tapology: Ryan Gracie](https://www.tapology.com/fightcenter/fighters/ryan-gracie)
 
 ## Créditos das fotos
 
 - Rorion Gracie: Brianschwartz, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rorion_Gracie_2024.jpg)
 - Art Davie: Ufccreator1, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Art_Davie_-_photo_credit_Art_Davie.jpg)
+- Art Jimmerson: , , [Wikimedia Commons]()
 - Ken Shamrock: Mike Kalasnik, CC BY-SA 2.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ken_Shamrock_2016_(cropped).jpg)
+- Kimo Leopoldo: , , [Wikimedia Commons]()
 - John McCain: United States Congress, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_McCain_official_portrait_2009.jpg)
 - Rickson Gracie: Original uploader was Zekerags at en.wikipedia, domínio público, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rickson_gracie_20080608.jpg)
 - Nobuhiko Takada: Andrew Quentin, CC BY-SA 2.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nobuhiko_Takada.jpg)
 - Mark Coleman: Gabriel Hutchinson, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mark_Coleman_At_TIFF_2025_02.jpg)
 - Maurice Smith: Cys127, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maurice_Smith_1999.jpg)
 - Kazushi Sakuraba: Yuzunet, CC BY-SA 4.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:20230122saku1.jpg)
+- Ryan Gracie: , , [Wikimedia Commons]()
