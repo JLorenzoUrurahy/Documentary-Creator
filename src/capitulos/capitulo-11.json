@@ -1030,7 +1030,8 @@
             -23.5
           ],
           "quando": "de São Paulo",
-          "destaque": true
+          "destaque": true,
+          "sobe": -150
         },
         {
           "nome": "Atos",
@@ -1054,7 +1055,8 @@
             -43.2,
             -22.9
           ],
-          "quando": "nascida no Rio"
+          "quando": "nascida no Rio",
+          "sobe": -242
         },
         {
           "nome": "Kingsway e Simple Man",
