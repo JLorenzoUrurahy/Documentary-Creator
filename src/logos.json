@@ -5,28 +5,28 @@
     "padrao": "\\bIBJJF\\b"
   },
   "cbjj": {
-    "arquivo": "cedidas/logos/cbjj.jpg",
-    "placa": "#ffffff",
+    "arquivo": "cedidas/logos/cbjj.png",
+    "placa": "transparent",
     "padrao": "\\bCBJJ\\b"
   },
   "cbjjo": {
     "arquivo": "cedidas/logos/cbjjo.png",
-    "placa": "#ffffff",
+    "placa": "transparent",
     "padrao": "\\bCBJJO\\b"
   },
   "cbjje": {
-    "arquivo": "cedidas/logos/cbjje.jpg",
-    "placa": "#222222",
+    "arquivo": "cedidas/logos/cbjje.png",
+    "placa": "transparent",
     "padrao": "\\bCBJJE\\b"
   },
   "sjjif": {
     "arquivo": "cedidas/logos/sjjif.png",
-    "placa": "#ece7dc",
+    "placa": "transparent",
     "padrao": "\\bSJJIF\\b"
   },
   "adcc": {
     "arquivo": "cedidas/logos/adcc.png",
-    "placa": "#ece7dc",
+    "placa": "transparent",
     "padrao": "\\bADCC\\b"
   },
   "polaris": {
@@ -36,27 +36,27 @@
   },
   "fight-to-win": {
     "arquivo": "cedidas/logos/fight-to-win.png",
-    "placa": "#14161b",
+    "placa": "transparent",
     "padrao": "Fight to Win"
   },
   "one": {
     "arquivo": "cedidas/logos/one.png",
-    "placa": "#000000",
+    "placa": "transparent",
     "padrao": "ONE Championship"
   },
   "ajp": {
     "arquivo": "cedidas/logos/ajp.png",
-    "placa": "#14161b",
+    "placa": "transparent",
     "padrao": "\\bAJP\\b"
   },
   "flosports": {
     "arquivo": "cedidas/logos/flosports.png",
-    "placa": "#ece7dc",
+    "placa": "transparent",
     "padrao": "FloGrappling"
   },
   "copa-podio": {
     "arquivo": "cedidas/logos/copa-podio.png",
-    "placa": "#14161b",
+    "placa": "transparent",
     "padrao": "Copa Pódio"
   },
   "pride": {
@@ -75,13 +75,13 @@
     "padrao": "\\bShooto\\b"
   },
   "ivc": {
-    "arquivo": "cedidas/logos/ivc.jpg",
-    "placa": "#ffffff",
+    "arquivo": "cedidas/logos/ivc.png",
+    "placa": "transparent",
     "padrao": "\\bIVC\\b"
   },
   "gracie-barra": {
     "arquivo": "cedidas/logos/gracie-barra.png",
-    "placa": "#14161b",
+    "placa": "transparent",
     "padrao": "Gracie Barra"
   },
   "alliance": {
@@ -105,8 +105,8 @@
     "padrao": "Check[Mm]at"
   },
   "btt": {
-    "arquivo": "cedidas/logos/btt.jpg",
-    "placa": "#ffffff",
+    "arquivo": "cedidas/logos/btt.png",
+    "placa": "transparent",
     "padrao": "Brazilian Top Team"
   },
   "chute-boxe": {
@@ -131,7 +131,7 @@
   },
   "graciemag": {
     "arquivo": "cedidas/logos/graciemag.png",
-    "placa": "#14161b",
+    "placa": "transparent",
     "padrao": "Graciemag"
   },
   "tatame": {
@@ -141,7 +141,7 @@
   },
   "black-belt": {
     "arquivo": "cedidas/logos/black-belt.png",
-    "placa": "#000000",
+    "placa": "transparent",
     "padrao": "revista Black Belt|Black Belt Magazine"
   },
   "bjj-heroes": {
@@ -151,12 +151,12 @@
   },
   "carlson-gracie-team": {
     "arquivo": "cedidas/logos/carlson-gracie-team.png",
-    "placa": "#ffffff",
+    "placa": "transparent",
     "padrao": "equipe de Carlson|Carlson Gracie Team"
   },
   "cji": {
-    "arquivo": "cedidas/logos/cji.jpg",
-    "placa": "#000000",
+    "arquivo": "cedidas/logos/cji.png",
+    "placa": "transparent",
     "padrao": "\\bCJI\\b|Craig Jones Invitational"
   },
   "ebi": {
@@ -167,17 +167,17 @@
   },
   "gfteam": {
     "arquivo": "cedidas/logos/gfteam.png",
-    "placa": "#ece7dc",
+    "placa": "transparent",
     "padrao": "GFTeam"
   },
   "gracie-academy": {
-    "arquivo": "cedidas/logos/gracie-academy.jpg",
-    "placa": "#ffffff",
+    "arquivo": "cedidas/logos/gracie-academy.png",
+    "placa": "transparent",
     "padrao": "Gracie Academy|Torrance"
   },
   "gracie-humaita": {
     "arquivo": "cedidas/logos/gracie-humaita.png",
-    "placa": "#ece7dc",
+    "placa": "transparent",
     "padrao": "Humaitá"
   },
   "gracie-pro": {
@@ -186,8 +186,8 @@
     "padrao": "Gracie Pro"
   },
   "kodokan": {
-    "arquivo": "cedidas/logos/kodokan.jpg",
-    "placa": "#ffffff",
+    "arquivo": "cedidas/logos/kodokan.png",
+    "placa": "transparent",
     "padrao": "Kodokan"
   },
   "metamoris": {
@@ -197,8 +197,8 @@
     "cartaz": true
   },
   "new-wave": {
-    "arquivo": "cedidas/logos/new-wave.webp",
-    "placa": "#ffffff",
+    "arquivo": "cedidas/logos/new-wave.png",
+    "placa": "transparent",
     "padrao": "New Wave"
   },
   "pentagon-combat": {
@@ -223,8 +223,8 @@
     "cartaz": true
   },
   "wno": {
-    "arquivo": "cedidas/logos/wno.webp",
-    "placa": "#ffffff",
+    "arquivo": "cedidas/logos/wno.png",
+    "placa": "transparent",
     "padrao": "Who's Number One|\\bWNO\\b"
   },
   "wvc": {

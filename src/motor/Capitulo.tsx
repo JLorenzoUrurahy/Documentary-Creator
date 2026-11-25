@@ -213,6 +213,7 @@ const LogosDaCena: React.FC<{ cena: Cena; ritmo: Ritmo }> = ({ cena, ritmo }) =>
     >
       {lista.map((logo, n) => {
         const dados = indiceLogos[logo.id];
+        const solta = dados.placa === "transparent";
         const p = surgir(ritmo, ritmo.entra(logo.quando, n, lista.length));
         return (
           <div
@@ -228,10 +229,11 @@ const LogosDaCena: React.FC<{ cena: Cena; ritmo: Ritmo }> = ({ cena, ritmo }) =>
                   : cena.tipo === "perfil"
                     ? 150
                     : 215,
-              padding: dados.cartaz ? 6 : 16,
+              // Placa "transparent": logo recortada, direto sobre a cena.
+              padding: dados.cartaz ? 6 : solta ? 0 : 16,
               boxSizing: "border-box",
               backgroundColor: dados.placa,
-              border: `1px solid ${COR.borda}`,
+              border: solta ? "none" : `1px solid ${COR.borda}`,
               borderRadius: 6,
               opacity: p,
               transform: `translateY(${(1 - p) * 12}px)`,
