@@ -100,8 +100,12 @@
       "url": "https://www.bjjee.com/featured/rodolfo-vieira-id-rather-lose-than-win-by-using-that-shtty-5050-guard/"
     },
     {
-      "titulo": "BJJ Eastern Europe: críticas ao berimbolo (Kron Gracie à Tatame) e a defesa de Robert Drysdale",
+      "titulo": "BJJ Eastern Europe (10/09/2014): Kron Gracie: 'The Berimbolo is Sh*t. It's Just For Scoring Points' (fala à Tatame)",
       "url": "https://www.bjjee.com/?p=16009"
+    },
+    {
+      "titulo": "BJJ Eastern Europe (08/07/2017): Drysdale Slams Rickson: Berimbolo is no different from many of the techniques he practices, and teaches, himself",
+      "url": "https://www.bjjee.com/?p=45942"
     },
     {
       "titulo": "Graciemag: 'Cobrinha vs Mendes was best of ADCC', says Braulio (final de 2009, 40 minutos)",
@@ -254,6 +258,10 @@
     {
       "titulo": "FloGrappling (26/08/2026): ADCC World Championships 2011, what happened",
       "url": "https://www.flograppling.com/articles/16142148-adcc-world-championships-2011-what-happened"
+    },
+    {
+      "titulo": "Robert Drysdale, The Rise and Evolution of Brazilian Jiu-Jitsu (2023)",
+      "url": "https://www.amazon.com/dp/B0BW2GFRLV"
     }
   ],
   "conferir": [
@@ -276,7 +284,9 @@
     "b04: a frase de Rodolfo Vieira ('preferia perder a ganhar com a 50/50') vem do título de uma matéria do BJJ Eastern Europe que não abriu; conferir o contexto e a data.",
     "b09: estreia da worm guard: a maioria das fontes dá o Pan de 2014 (contra Murilo Santana); o Grapplearts fala no Mundial de 2014. 'Então na equipe Atos' é de memória do pesquisador: conferir. A Copa Pódio anunciou a punição em julho de 2014, sem dizer qual seria; não confirmei se foi aplicada. A IBJJF nunca proibiu a guarda de lapela; a única restrição que achei é a de 2024 (b12).",
     "b10: detalhes do modelo da Art of Jiu Jitsu (tatame e paredes brancas, programa infantil, vídeos pela internet, campeões formados desde crianças) são de conhecimento geral, não de uma fonte aberta nesta pesquisa: conferir no site da academia. Abertura em julho de 2012 em Costa Mesa com Pat Tenore: Wikipedia.",
-    "b11: a fala de Kron Gracie à Tatame e a defesa de Robert Drysdale vêm do resumo de busca de uma matéria do BJJ Eastern Europe (a página não abriu). Estão parafraseadas, não citadas; conferir o original antes de publicar. 'Campeão e pesquisador' para Drysdale: campeão do ADCC 2007 e autor de pesquisa sobre a história do jiu-jitsu.",
+    "b11: a fala de Kron Gracie à Tatame vem da matéria do BJJ Eastern Europe de 10/09/2014 (página aberta e lida; a data da entrevista à Tatame não aparece, por isso a narração não dá o ano). A matéria NÃO traz resposta de Drysdale: a defesa que narrávamos vinha de um resumo de busca. O que existe é um texto de Drysdale ao Global Training Report, reproduzido pelo BJJ Eastern Europe em 08/07/2017, respondendo a Rickson (não a Kron): na situação real, o berimbolo não difere de muitas técnicas que Rickson ensina, como as golas. As frases 'dentro da regra resolve um problema real' e 'vencer é o trabalho do atleta' não tinham fonte e saíram. A posição crítica é do livro de 2023 (berimbolo e guardas de lapela citados como sofisticação longe da luta real; pede regras voltadas à realidade do combate, barrando o que se afasta dela). O livro não pede o banimento do berimbolo pelo nome: a narração diz 'regras que barrem esse desvio'.",
+    "b06: a frase sobre o judô kosen é tese de Drysdale no livro de 2023 (guarda X, borboleta, De la Riva e 'até berimbolos' já conhecidos no kosen na primeira metade do século vinte, só usados no jiu-jitsu muito depois); ele não mostra ali a fonte japonesa e o glossário do livro diz que não há ligação direta entre o kosen e o jiu-jitsu brasileiro. 'Kosen' está sem marcação de pronúncia: conferir como a voz lê.",
+    "c03: Comprido vencer o absoluto do Mundial de 1999 sobre Roleta com chave de pé vem do livro de Drysdale, que diz 'toe-hold' (a chave de pé torcida, não a reta); não conferi em resultado oficial nem em vídeo. O capítulo 7 cita o título de Comprido em 1999, sem o golpe nem o adversário.",
     "b05: a descrição liga a De la Riva invertida ao berimbolo como 'mesma família'. Tecnicamente o berimbolo clássico sai da De la Riva comum; não achei fonte sobre quem criou a De la Riva invertida e a narração não atribui autoria.",
     "b12: 'costas valem quatro pontos' é a regra da IBJJF (b05). Berimbolo existe sem kimono, mas é bem mais raro: a narração diz 'boa parte do repertório some'.",
     "c06: a pergunta de Lister a Danaher só existe no relato dos dois, anos depois. A frase mostrada é tradução de 'why would you ignore 50% of the human body?'; a data varia entre 'ano 2000' (blogs, com Danaher faixa-roxa) e 'começo dos anos 2000, duas semanas' (Wikipedia; as duas semanas ficaram fora da narração). A frase 'não me ensinou uma técnica, ensinou um ponto de vista' é atribuída a Danaher por fontes secundárias; não li a entrevista original.",
@@ -1014,7 +1024,7 @@
       "tipo": "linhagem",
       "ano": 2010,
       "titulo": "Berimbolo: de quem é a ideia?",
-      "narracao": "Quem inventou? Samuel Braga, campeão mundial de [2005|dois mil e cinco], reivindica a autoria: disse à Graciemag que criou o movimento em [2003|dois mil e três], ainda faixa-roxa. Ele mesmo conta ao site BJJ Heroes que brasileiro não batizava posição, e que o nome berimbolo pegou nos Estados Unidos, por volta de [2010|dois mil e dez], quando os irmãos Mendes passaram a vencer com ele. A origem da palavra, as fontes não esclarecem. Depois vêm os gêmeos Paulo e João Miyao, que, segundo Braga, modernizam o golpe.",
+      "narracao": "Quem inventou? Samuel Braga, campeão mundial de [2005|dois mil e cinco], reivindica a autoria: disse à Graciemag que criou o movimento em [2003|dois mil e três], ainda faixa-roxa. Ele mesmo conta ao site BJJ Heroes que brasileiro não batizava posição, e que o nome berimbolo pegou nos Estados Unidos, por volta de [2010|dois mil e dez], quando os irmãos Mendes passaram a vencer com ele. A origem da palavra, as fontes não esclarecem. Depois vêm os gêmeos Paulo e João Miyao, que, segundo Braga, modernizam o golpe. Para Robert [Drysdale|Dráisdeil], novidade é modo de dizer: guarda X, borboleta e até berimbolo já eram praticados no judô kosen, no Japão, na primeira metade do século vinte.",
       "nos": [
         {
           "id": "braga",
@@ -1223,7 +1233,7 @@
       "tipo": "comparacao",
       "ano": 2014,
       "titulo": "Jiu-jitsu moderno x jiu-jitsu raiz",
-      "narracao": "Tudo isso ganha um apelido: jiu-jitsu moderno. Do outro lado, o jiu-jitsu raiz. [Kron|Crôn] Gracie, filho de Rickson, disse à revista Tatame que o berimbolo é um jeito de trapacear para fazer ponto. O argumento: role de costas no chão numa briga, ou no [MMA|eme eme á], e você leva um soco no rosto. Robert Drysdale, campeão e pesquisador, responde que isso vale para muitas técnicas aceitas. Dentro daquela regra, a posição resolve um problema real. E vencer o campeonato é o trabalho do atleta.",
+      "narracao": "Tudo isso ganha um apelido: jiu-jitsu moderno. Do outro lado, o jiu-jitsu raiz. [Kron|Crôn] Gracie, filho de Rickson, disse à revista Tatame que o berimbolo é um jeito de trapacear para fazer ponto: no [MMA|eme eme á], quem rola assim leva um soco no rosto. Em [2017|dois mil e dezessete], respondendo a críticas de Rickson, Robert [Drysdale|Dráisdeil] escreveu que, numa briga, o berimbolo não difere de muitas técnicas que o próprio Rickson ensina, como o estrangulamento de gola. No livro de [2023|dois mil e vinte e três], porém, ele põe berimbolo e guarda de lapela entre as novidades que se afastam da luta real, e pede regras que barrem esse desvio.",
       "esquerda": {
         "titulo": "A crítica do \"raiz\"",
         "tom": "neutro",
@@ -1233,30 +1243,30 @@
             "quando": "jeito de trapacear"
           },
           {
-            "texto": "Numa briga, rolar no chão é arriscado",
-            "quando": "numa briga"
-          },
-          {
             "texto": "No MMA, leva soco no rosto",
             "quando": "soco no rosto"
           }
         ]
       },
       "direita": {
-        "titulo": "A defesa do \"moderno\"",
+        "titulo": "Drysdale, em duas datas",
         "tom": "neutro",
         "itens": [
           {
-            "texto": "Drysdale: vale para muitas técnicas",
-            "quando": "Robert Drysdale"
+            "texto": "2017: numa briga, igual a muitas técnicas aceitas",
+            "quando": "2017"
           },
           {
-            "texto": "Dentro da regra, resolve um problema",
-            "quando": "Dentro daquela regra"
+            "texto": "Exemplo: o estrangulamento de gola",
+            "quando": "estrangulamento de gola"
           },
           {
-            "texto": "Vencer é o trabalho do atleta",
-            "quando": "vencer o campeonato"
+            "texto": "2023: berimbolo e lapela se afastam da luta real",
+            "quando": "No livro de 2023"
+          },
+          {
+            "texto": "Pede regras que barrem o desvio",
+            "quando": "pede regras"
           }
         ]
       },
@@ -1389,7 +1399,7 @@
       "tipo": "linha",
       "ano": 1955,
       "titulo": "Quem nunca desprezou a perna",
-      "narracao": "Mas a perna nunca foi esquecida por todos. A luta livre brasileira, sem kimono, sempre atacou pés e joelhos. O sambo soviético fez da chave de perna uma especialidade, ainda que suas regras só aceitem as chaves retas. No Brasil, pesquisadores atribuem a Takeo Yano a difusão desses golpes. E os alunos de Oswaldo Fadda, no subúrbio do Rio, ficaram com a fama de vencer com chaves de pé. Segundo o livro de Reila Gracie, Hélio respondeu chamando aquilo de técnica de suburbano.",
+      "narracao": "Mas a perna nunca foi esquecida por todos. A luta livre brasileira, sem kimono, sempre atacou pés e joelhos. O sambo soviético fez da chave de perna uma especialidade, ainda que suas regras só aceitem as chaves retas. No Brasil, pesquisadores atribuem a Takeo Yano a difusão desses golpes. E os alunos de Oswaldo Fadda, no subúrbio do Rio, ficaram com a fama de vencer com chaves de pé. Segundo o livro de Reila Gracie, Hélio respondeu chamando aquilo de técnica de suburbano. E, já na regra de kimono, lembra Robert [Drysdale|Dráisdeil], Rodrigo Comprido venceu o absoluto do Mundial de [1999|mil novecentos e noventa e nove] com uma chave de pé sobre Roleta.",
       "eventos": [
         {
           "ano": "Luta livre",
@@ -1415,6 +1425,11 @@
           "ano": "Hélio",
           "texto": "\"Técnica de suburbano\"",
           "quando": "técnica de suburbano"
+        },
+        {
+          "ano": "1999",
+          "texto": "Comprido vence o absoluto com chave de pé",
+          "quando": "Rodrigo Comprido"
         }
       ],
       "fundo": "Brazilian Luta Livre.jpg"
